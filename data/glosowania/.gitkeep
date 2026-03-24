@@ -1,0 +1,3 @@
+# Ten folder zawiera głosowania z poszczególnych posiedzeń Sejmu.
+# Pliki są generowane automatycznie przez scripts/update_glosowania.py
+# Format nazwy: posiedzenie_{nr}.json

@@ -1,0 +1,95 @@
+"""
+update_glosowania.py
+--------------------
+Pobiera głosowania z Sejm API — tylko nowe posiedzenia
+których jeszcze nie ma w data/glosowania/.
+Każde posiedzenie zapisuje jako osobny plik JSON.
+"""
+
+import os
+import requests
+from utils import (
+    load_json, save_json, load_meta, save_meta, now_iso
+)
+
+API_BASE  = "https://api.sejm.gov.pl/sejm"
+KADENCJA  = "term10"
+FOLDER    = "glosowania"
+
+
+def pobierz_posiedzenia():
+    """Pobiera listę wszystkich posiedzeń kadencji."""
+    url = f"{API_BASE}/{KADENCJA}/proceedings"
+    resp = requests.get(url, timeout=30)
+    resp.raise_for_status()
+    return resp.json()
+
+
+def pobierz_glosowania_posiedzenia(nr):
+    """Pobiera wszystkie głosowania z danego posiedzenia."""
+    url = f"{API_BASE}/{KADENCJA}/votings/{nr}"
+    resp = requests.get(url, timeout=30)
+    resp.raise_for_status()
+    return resp.json()
+
+
+def main():
+    print("\n=== Aktualizacja głosowań ===")
+
+    meta = load_meta()
+    ostatnie_posiedzenie = meta.get("glosowania", {}).get("ostatnie_posiedzenie", 0)
+    print(f"  Ostatnie zapisane posiedzenie: {ostatnie_posiedzenie}")
+
+    # Upewnij się że folder data/glosowania/ istnieje
+    glosowania_dir = os.path.join(
+        os.path.dirname(__file__), "..", "data", FOLDER
+    )
+    os.makedirs(glosowania_dir, exist_ok=True)
+
+    # Pobierz listę posiedzeń
+    posiedzenia = pobierz_posiedzenia()
+    nowe = [p for p in posiedzenia if p.get("number", 0) > ostatnie_posiedzenie]
+
+    if not nowe:
+        print("  Brak nowych posiedzeń.")
+        print("=== Gotowe ===\n")
+        return
+
+    print(f"  Znaleziono {len(nowe)} nowych posiedzeń do pobrania.")
+    najnowsze_nr = ostatnie_posiedzenie
+
+    for posiedzenie in sorted(nowe, key=lambda p: p["number"]):
+        nr = posiedzenie["number"]
+        print(f"  Pobieram głosowania — posiedzenie nr {nr}...")
+
+        try:
+            glosowania = pobierz_glosowania_posiedzenia(nr)
+            nazwa_pliku = f"{FOLDER}/posiedzenie_{nr}.json"
+            save_json(nazwa_pliku, {
+                "posiedzenie": nr,
+                "data":        posiedzenie.get("date", ""),
+                "tytul":       posiedzenie.get("title", ""),
+                "glosowania":  glosowania,
+                "_pobrano":    now_iso(),
+            })
+            print(f"  Zapisano {len(glosowania)} głosowań z posiedzenia {nr}.")
+            if nr > najnowsze_nr:
+                najnowsze_nr = nr
+
+        except Exception as e:
+            print(f"  BŁĄD przy posiedzeniu {nr}: {e}")
+            continue
+
+    # Zaktualizuj meta.json
+    meta["glosowania"] = {
+        "ostatnia_aktualizacja": now_iso(),
+        "ostatnie_posiedzenie":  najnowsze_nr,
+    }
+    save_meta(meta)
+
+    print(f"\n  Pobrano posiedzenia do nr {najnowsze_nr}.")
+    print("=== Gotowe ===\n")
+
+
+if __name__ == "__main__":
+    main()

@@ -1,0 +1,11 @@
+[
+  {
+    "id": "przyklad",
+    "posiedzenie": 1,
+    "numer_glosowania": 1,
+    "tytul": "Przykładowe ważne głosowanie",
+    "opis": "Tu wpisz swój komentarz dlaczego to głosowanie jest ważne",
+    "kategoria": "przykład",
+    "aktywne": false
+  }
+]
