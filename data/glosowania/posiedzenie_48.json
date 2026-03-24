@@ -1,0 +1,1680 @@
+{
+  "posiedzenie": 48,
+  "data": "",
+  "tytul": "48. Posiedzenie Sejmu RP w dniach 17, 18 i 19 grudnia 2025 r.",
+  "glosowania": [
+    {
+      "abstain": 3,
+      "date": "2025-12-17T10:12:26",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/1/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 209,
+      "no": 208,
+      "notParticipating": 78,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "48. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 17, 18 i 19 grudnia 2025 r.",
+      "topic": "Wniosek o przerwę",
+      "totalVoted": 382,
+      "votingNumber": 1,
+      "yes": 171
+    },
+    {
+      "abstain": 6,
+      "date": "2025-12-17T10:18:02",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/2/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 355,
+      "no": 354,
+      "notParticipating": 75,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "48. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 17, 18 i 19 grudnia 2025 r.",
+      "topic": "wniosek o odroczenie posiedzenia",
+      "totalVoted": 385,
+      "votingNumber": 2,
+      "yes": 25
+    },
+    {
+      "abstain": 1,
+      "date": "2025-12-17T18:31:03",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/3/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 191,
+      "no": 190,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Głosowanie proceduralne dotyczące projektu ustawy z druków nr 2063 i 2073",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie sprawozdania z druku nr 2073",
+      "totalVoted": 434,
+      "votingNumber": 3,
+      "yes": 243
+    },
+    {
+      "abstain": 1,
+      "date": "2025-12-17T18:31:48",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/4/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 15,
+      "no": 14,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Głosowanie proceduralne dotyczące projektu ustawy z druków nr 2072 i 2088",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie sprawozdania z druku nr 2088",
+      "totalVoted": 437,
+      "votingNumber": 4,
+      "yes": 422
+    },
+    {
+      "abstain": 15,
+      "date": "2025-12-17T18:32:37",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/5/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 22,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Głosowanie proceduralne dotyczące projektu uchwały z druków nr 2066 i 2094",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie sprawozdania z druku nr 2094",
+      "totalVoted": 438,
+      "votingNumber": 5,
+      "yes": 423
+    },
+    {
+      "abstain": 184,
+      "date": "2025-12-17T18:33:29",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/6/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 2,
+      "no": 1,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o dostępie do zasobów genetycznych i podziale korzyści z ich wykorzystania (druki nr 2028 i 2052)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 430,
+      "votingNumber": 6,
+      "yes": 245
+    },
+    {
+      "abstain": 17,
+      "date": "2025-12-17T18:34:26",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/7/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 3,
+      "no": 2,
+      "notParticipating": 22,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy o finansowaniu zadań oświatowych (druki nr 2005 i 2057)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 438,
+      "votingNumber": 7,
+      "yes": 419
+    },
+    {
+      "abstain": 0,
+      "date": "2025-12-17T18:45:06",
+      "description": "wniosek o ponowne uchwalenie ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/8/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "MAJORITY_THREE_FIFTHS",
+      "majorityVotes": 263,
+      "no": 192,
+      "notParticipating": 22,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 6 Sprawozdanie Komisji Nadzwyczajnej o wniosku Prezydenta Rzeczypospolitej Polskiej o ponowne rozpatrzenie ustawy z dnia 7 listopada 2025 r. o zmianie ustawy o ochronie zwierząt (druki nr 2049 i 2065)",
+      "topic": "głosowanie nad wnioskiem o ponowne uchwalenie ustawy w brzmieniu dotychczasowym",
+      "totalVoted": 438,
+      "votingNumber": 8,
+      "yes": 246
+    },
+    {
+      "abstain": 1,
+      "date": "2025-12-17T18:46:28",
+      "description": "wniosek o odrzucenie projektu ustawy w pierwszym czytaniu",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/9/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 246,
+      "no": 245,
+      "notParticipating": 22,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 5 Pierwsze czytanie rządowego projektu ustawy o rynku kryptoaktywów (druk nr 2064)",
+      "topic": "wniosek o odrzucenie projektu w pierwszym czytaniu.",
+      "totalVoted": 438,
+      "votingNumber": 9,
+      "yes": 192
+    },
+    {
+      "abstain": 2,
+      "date": "2025-12-17T18:47:47",
+      "description": "wniosek o skierowanie projektu ustawy jedynie do Komisji Finansów Publicznych",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/10/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 435,
+      "no": 434,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 5 Pierwsze czytanie rządowego projektu ustawy o rynku kryptoaktywów (druk nr 2064)",
+      "topic": "wniosek o wyłączne skierowanie projektu ustawy do Komisji Finansów Publicznych",
+      "totalVoted": 436,
+      "votingNumber": 10,
+      "yes": 0
+    },
+    {
+      "abstain": 0,
+      "date": "2025-12-18T19:45:00",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/11/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 2,
+      "no": 1,
+      "notParticipating": 41,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Głosowanie proceduralne w sprawie uchwały Senatu druki nr 2068 i 2095",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 54 ust. 5 regulaminu Sejmu w sprawie sprawozdania z druku nr 2095",
+      "totalVoted": 419,
+      "votingNumber": 11,
+      "yes": 418
+    },
+    {
+      "abstain": 0,
+      "date": "2025-12-18T19:45:40",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/12/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 162,
+      "no": 161,
+      "notParticipating": 38,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Głosowanie proceduralne w sprawie uchwały Senatu druki nr 2070 i 2085",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 54 ust. 5 regulaminu Sejmu w sprawie sprawozdania z druku nr 2085",
+      "totalVoted": 422,
+      "votingNumber": 12,
+      "yes": 261
+    },
+    {
+      "abstain": 0,
+      "date": "2025-12-18T19:46:22",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/13/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 180,
+      "no": 179,
+      "notParticipating": 40,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Głosowanie proceduralne w sprawie uchwały Senatu druki nr 2071 i 2090",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 54 ust. 5 regulaminu Sejmu w sprawie sprawozdania z druku nr 2090",
+      "totalVoted": 420,
+      "votingNumber": 13,
+      "yes": 241
+    },
+    {
+      "abstain": 0,
+      "date": "2025-12-18T19:47:02",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/14/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 39,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Głosowanie proceduralne w sprawie uchwały Senatu druki nr 2067 i 2089",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 54 ust. 5 regulaminu Sejmu w sprawie sprawozdania z druku nr 2089",
+      "totalVoted": 421,
+      "votingNumber": 14,
+      "yes": 421
+    },
+    {
+      "abstain": 1,
+      "date": "2025-12-18T19:56:46",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/15/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 241,
+      "no": 240,
+      "notParticipating": 37,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "48. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 17, 18 i 19 grudnia 2025 r.",
+      "topic": "Wniosek o przerwę",
+      "totalVoted": 423,
+      "votingNumber": 15,
+      "yes": 182
+    },
+    {
+      "abstain": 0,
+      "date": "2025-12-18T20:00:17",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/16/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 230,
+      "no": 0,
+      "notParticipating": 38,
+      "present": 422,
+      "sitting": 48,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "48. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 17, 18 i 19 grudnia 2025 r.",
+      "topic": "Głosowanie kworum",
+      "totalVoted": 422,
+      "votingNumber": 16,
+      "yes": 0
+    },
+    {
+      "abstain": 0,
+      "date": "2025-12-18T20:02:46",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/17/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 36,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 3 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o rzeczach znalezionych oraz ustawy - Kodeks cywilny (druki nr 1629 i 1877)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 424,
+      "votingNumber": 17,
+      "yes": 424
+    },
+    {
+      "abstain": 1,
+      "date": "2025-12-18T20:05:22",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/18/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 380,
+      "no": 379,
+      "notParticipating": 39,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 7 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy - Kodeks wyborczy (druki nr 556, 1990 i 1990-A)",
+      "topic": "poprawka 1",
+      "totalVoted": 421,
+      "votingNumber": 18,
+      "yes": 41
+    },
+    {
+      "abstain": 30,
+      "date": "2025-12-18T20:05:52",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/19/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 153,
+      "no": 152,
+      "notParticipating": 38,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 7 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy - Kodeks wyborczy (druki nr 556, 1990 i 1990-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 422,
+      "votingNumber": 19,
+      "yes": 240
+    },
+    {
+      "abstain": 0,
+      "date": "2025-12-18T20:07:01",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/20/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 184,
+      "no": 183,
+      "notParticipating": 36,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 8 Sprawozdanie Komisji o senackim projekcie ustawy o zmianie ustawy o transporcie kolejowym (druki nr 2063 i 2073)",
+      "topic": "wniosek o przystąpienie do trzeciego czytania bez kierowania projektu do komisji",
+      "totalVoted": 424,
+      "votingNumber": 20,
+      "yes": 241
+    },
+    {
+      "abstain": 0,
+      "date": "2025-12-18T20:08:17",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/21/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 8 Sprawozdanie Komisji o senackim projekcie ustawy o zmianie ustawy o transporcie kolejowym (druki nr 2063 i 2073)",
+      "topic": "poprawka 1",
+      "totalVoted": 425,
+      "votingNumber": 21,
+      "yes": 425
+    },
+    {
+      "abstain": 20,
+      "date": "2025-12-18T20:08:46",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/22/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 227,
+      "no": 226,
+      "notParticipating": 47,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 8 Sprawozdanie Komisji o senackim projekcie ustawy o zmianie ustawy o transporcie kolejowym (druki nr 2063 i 2073)",
+      "topic": "wniosek mniejszości 1",
+      "totalVoted": 413,
+      "votingNumber": 22,
+      "yes": 167
+    },
+    {
+      "abstain": 0,
+      "date": "2025-12-18T20:09:16",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/23/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 238,
+      "no": 237,
+      "notParticipating": 40,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 8 Sprawozdanie Komisji o senackim projekcie ustawy o zmianie ustawy o transporcie kolejowym (druki nr 2063 i 2073)",
+      "topic": "wniosek mniejszości 2",
+      "totalVoted": 420,
+      "votingNumber": 23,
+      "yes": 183
+    },
+    {
+      "abstain": 0,
+      "date": "2025-12-18T20:09:44",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/24/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 232,
+      "no": 231,
+      "notParticipating": 45,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 8 Sprawozdanie Komisji o senackim projekcie ustawy o zmianie ustawy o transporcie kolejowym (druki nr 2063 i 2073)",
+      "topic": "wniosek mniejszości 3",
+      "totalVoted": 415,
+      "votingNumber": 24,
+      "yes": 184
+    },
+    {
+      "abstain": 0,
+      "date": "2025-12-18T20:10:16",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/25/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 236,
+      "no": 235,
+      "notParticipating": 36,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 8 Sprawozdanie Komisji o senackim projekcie ustawy o zmianie ustawy o transporcie kolejowym (druki nr 2063 i 2073)",
+      "topic": "wniosek mniejszości 4",
+      "totalVoted": 424,
+      "votingNumber": 25,
+      "yes": 189
+    },
+    {
+      "abstain": 0,
+      "date": "2025-12-18T20:10:45",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/26/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 226,
+      "no": 225,
+      "notParticipating": 39,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 8 Sprawozdanie Komisji o senackim projekcie ustawy o zmianie ustawy o transporcie kolejowym (druki nr 2063 i 2073)",
+      "topic": "wniosek mniejszości 5",
+      "totalVoted": 421,
+      "votingNumber": 26,
+      "yes": 196
+    },
+    {
+      "abstain": 18,
+      "date": "2025-12-18T20:11:17",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/27/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 3,
+      "no": 2,
+      "notParticipating": 40,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 8 Sprawozdanie Komisji o senackim projekcie ustawy o zmianie ustawy o transporcie kolejowym (druki nr 2063 i 2073)",
+      "topic": "poprawki nr 2-3",
+      "totalVoted": 420,
+      "votingNumber": 27,
+      "yes": 400
+    },
+    {
+      "abstain": 171,
+      "date": "2025-12-18T20:11:47",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/28/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 3,
+      "no": 2,
+      "notParticipating": 41,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 8 Sprawozdanie Komisji o senackim projekcie ustawy o zmianie ustawy o transporcie kolejowym (druki nr 2063 i 2073)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 419,
+      "votingNumber": 28,
+      "yes": 246
+    },
+    {
+      "abstain": 20,
+      "date": "2025-12-18T20:13:13",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/29/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 36,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 13 Sprawozdanie Komisji o rządowym projekcie ustawy zmieniającej ustawę o zmianie ustawy o dotacji przeznaczonej dla niektórych podmiotów (druki nr 2072 i 2088)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 424,
+      "votingNumber": 29,
+      "yes": 404
+    },
+    {
+      "abstain": 4,
+      "date": "2025-12-18T20:14:00",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/30/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 38,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o poselskim projekcie ustawy o ustanowieniu Dnia Inwalidy Wojennego (druki nr 1730 i 1927)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 422,
+      "votingNumber": 30,
+      "yes": 418
+    },
+    {
+      "abstain": 0,
+      "date": "2025-12-18T20:15:17",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/31/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 187,
+      "no": 186,
+      "notParticipating": 37,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 15 Sprawozdanie Komisji o rządowym projekcie ustawy o rynku kryptoaktywów (druki nr 2064 i 2093)",
+      "topic": "wniosek o przystąpienie do trzeciego czytania bez kierowania projektu do komisji",
+      "totalVoted": 423,
+      "votingNumber": 31,
+      "yes": 237
+    },
+    {
+      "abstain": 0,
+      "date": "2025-12-18T20:16:02",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/32/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 243,
+      "no": 242,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 15 Sprawozdanie Komisji o rządowym projekcie ustawy o rynku kryptoaktywów (druki nr 2064 i 2093)",
+      "topic": "wniosek o odrzucenie w całości projektu.",
+      "totalVoted": 425,
+      "votingNumber": 32,
+      "yes": 183
+    },
+    {
+      "abstain": 5,
+      "date": "2025-12-18T20:16:44",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/33/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 210,
+      "no": 209,
+      "notParticipating": 38,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 15 Sprawozdanie Komisji o rządowym projekcie ustawy o rynku kryptoaktywów (druki nr 2064 i 2093)",
+      "topic": "poprawki nr 1-2",
+      "totalVoted": 422,
+      "votingNumber": 33,
+      "yes": 208
+    },
+    {
+      "abstain": 5,
+      "date": "2025-12-18T20:17:13",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/34/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 203,
+      "no": 202,
+      "notParticipating": 44,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 15 Sprawozdanie Komisji o rządowym projekcie ustawy o rynku kryptoaktywów (druki nr 2064 i 2093)",
+      "topic": "wniosek mniejszości 1",
+      "totalVoted": 416,
+      "votingNumber": 34,
+      "yes": 209
+    },
+    {
+      "abstain": 0,
+      "date": "2025-12-18T20:17:50",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/35/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 212,
+      "no": 211,
+      "notParticipating": 38,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 15 Sprawozdanie Komisji o rządowym projekcie ustawy o rynku kryptoaktywów (druki nr 2064 i 2093)",
+      "topic": "wnioski mniejszości nr 2-5",
+      "totalVoted": 422,
+      "votingNumber": 35,
+      "yes": 211
+    },
+    {
+      "abstain": 1,
+      "date": "2025-12-18T20:18:22",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/36/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 184,
+      "no": 183,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 15 Sprawozdanie Komisji o rządowym projekcie ustawy o rynku kryptoaktywów (druki nr 2064 i 2093)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 425,
+      "votingNumber": 36,
+      "yes": 241
+    },
+    {
+      "abstain": 0,
+      "date": "2025-12-18T20:19:09",
+      "description": "całość projektu uchwały",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/37/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 38,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 16 Sprawozdanie Komisji o poselskim projekcie uchwały w sprawie upamiętnienia Adama Chętnika w 140. rocznicę urodzin (druki nr 1614 i 1919)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 422,
+      "votingNumber": 37,
+      "yes": 422
+    },
+    {
+      "abstain": 0,
+      "date": "2025-12-18T20:19:56",
+      "description": "całość projektu uchwały",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/38/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 39,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 17 Sprawozdanie Komisji o poselskim projekcie uchwały w 50. rocznicę powstania pierwszego Uniwersytetu Trzeciego Wieku w Polsce (druki nr 1895 i 1913)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 421,
+      "votingNumber": 38,
+      "yes": 421
+    },
+    {
+      "abstain": 0,
+      "date": "2025-12-18T20:20:48",
+      "description": "całość projektu uchwały",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/39/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 2,
+      "no": 1,
+      "notParticipating": 38,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 18 Sprawozdanie Komisji o poselskim projekcie uchwały w sprawie upamiętnienia 120. rocznicy urodzin Romana Brandstaettera (druki nr 2066 i 2094)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 422,
+      "votingNumber": 39,
+      "yes": 421
+    },
+    {
+      "abstain": 0,
+      "date": "2025-12-18T20:21:42",
+      "description": "wniosek o odrzucenie projektu ustawy w pierwszym czytaniu",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/40/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 259,
+      "no": 258,
+      "notParticipating": 39,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 19 Pierwsze czytanie poselskiego projektu ustawy o zmianie ustawy - Kodeks wyborczy (druk nr 2006) - kontynuacja",
+      "topic": "wniosek o odrzucenie projektu w pierwszym czytaniu.",
+      "totalVoted": 421,
+      "votingNumber": 40,
+      "yes": 163
+    },
+    {
+      "abstain": 0,
+      "date": "2025-12-18T20:23:50",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/41/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 212,
+      "no": 406,
+      "notParticipating": 37,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o świadczeniu usług drogą elektroniczną oraz niektórych innych ustaw (druki nr 2069 i 2091)",
+      "topic": "poprawka 1",
+      "totalVoted": 423,
+      "votingNumber": 41,
+      "yes": 17
+    },
+    {
+      "abstain": 176,
+      "date": "2025-12-18T20:24:53",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/42/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 208,
+      "no": 238,
+      "notParticipating": 46,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o świadczeniu usług drogą elektroniczną oraz niektórych innych ustaw (druki nr 2069 i 2091)",
+      "topic": "poprawki nr 2, 6-8, 10, 13-14, 19-20, 22-24, 29-30 oraz 32-37",
+      "totalVoted": 414,
+      "votingNumber": 42,
+      "yes": 0
+    },
+    {
+      "abstain": 136,
+      "date": "2025-12-18T20:25:33",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/43/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 206,
+      "no": 275,
+      "notParticipating": 49,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o świadczeniu usług drogą elektroniczną oraz niektórych innych ustaw (druki nr 2069 i 2091)",
+      "topic": "poprawka 3",
+      "totalVoted": 411,
+      "votingNumber": 43,
+      "yes": 0
+    },
+    {
+      "abstain": 24,
+      "date": "2025-12-18T20:26:11",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/44/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 210,
+      "no": 395,
+      "notParticipating": 41,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o świadczeniu usług drogą elektroniczną oraz niektórych innych ustaw (druki nr 2069 i 2091)",
+      "topic": "poprawka 4",
+      "totalVoted": 419,
+      "votingNumber": 44,
+      "yes": 0
+    },
+    {
+      "abstain": 0,
+      "date": "2025-12-18T20:26:46",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/45/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 205,
+      "no": 409,
+      "notParticipating": 51,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o świadczeniu usług drogą elektroniczną oraz niektórych innych ustaw (druki nr 2069 i 2091)",
+      "topic": "poprawka 5",
+      "totalVoted": 409,
+      "votingNumber": 45,
+      "yes": 0
+    },
+    {
+      "abstain": 20,
+      "date": "2025-12-18T20:27:20",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/46/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 212,
+      "no": 403,
+      "notParticipating": 37,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o świadczeniu usług drogą elektroniczną oraz niektórych innych ustaw (druki nr 2069 i 2091)",
+      "topic": "poprawka 9",
+      "totalVoted": 423,
+      "votingNumber": 46,
+      "yes": 0
+    },
+    {
+      "abstain": 6,
+      "date": "2025-12-18T20:27:52",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/47/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 212,
+      "no": 409,
+      "notParticipating": 38,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o świadczeniu usług drogą elektroniczną oraz niektórych innych ustaw (druki nr 2069 i 2091)",
+      "topic": "poprawka 11",
+      "totalVoted": 422,
+      "votingNumber": 47,
+      "yes": 7
+    },
+    {
+      "abstain": 1,
+      "date": "2025-12-18T20:28:24",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/48/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 210,
+      "no": 418,
+      "notParticipating": 41,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o świadczeniu usług drogą elektroniczną oraz niektórych innych ustaw (druki nr 2069 i 2091)",
+      "topic": "poprawka 12",
+      "totalVoted": 419,
+      "votingNumber": 48,
+      "yes": 0
+    },
+    {
+      "abstain": 162,
+      "date": "2025-12-18T20:29:06",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/49/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 213,
+      "no": 25,
+      "notParticipating": 36,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o świadczeniu usług drogą elektroniczną oraz niektórych innych ustaw (druki nr 2069 i 2091)",
+      "topic": "poprawki nr 15, 17-18 i 26",
+      "totalVoted": 424,
+      "votingNumber": 49,
+      "yes": 237
+    },
+    {
+      "abstain": 0,
+      "date": "2025-12-18T20:29:40",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/50/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 210,
+      "no": 419,
+      "notParticipating": 41,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o świadczeniu usług drogą elektroniczną oraz niektórych innych ustaw (druki nr 2069 i 2091)",
+      "topic": "poprawka 16",
+      "totalVoted": 419,
+      "votingNumber": 50,
+      "yes": 0
+    },
+    {
+      "abstain": 0,
+      "date": "2025-12-18T20:30:11",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/51/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 212,
+      "no": 422,
+      "notParticipating": 38,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o świadczeniu usług drogą elektroniczną oraz niektórych innych ustaw (druki nr 2069 i 2091)",
+      "topic": "poprawka 21",
+      "totalVoted": 422,
+      "votingNumber": 51,
+      "yes": 0
+    },
+    {
+      "abstain": 0,
+      "date": "2025-12-18T20:30:45",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/52/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 212,
+      "no": 421,
+      "notParticipating": 38,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o świadczeniu usług drogą elektroniczną oraz niektórych innych ustaw (druki nr 2069 i 2091)",
+      "topic": "poprawka 25",
+      "totalVoted": 422,
+      "votingNumber": 52,
+      "yes": 1
+    },
+    {
+      "abstain": 0,
+      "date": "2025-12-18T20:31:20",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/53/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 211,
+      "no": 421,
+      "notParticipating": 39,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o świadczeniu usług drogą elektroniczną oraz niektórych innych ustaw (druki nr 2069 i 2091)",
+      "topic": "poprawka 27",
+      "totalVoted": 421,
+      "votingNumber": 53,
+      "yes": 0
+    },
+    {
+      "abstain": 21,
+      "date": "2025-12-18T20:31:53",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/54/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 211,
+      "no": 399,
+      "notParticipating": 40,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o świadczeniu usług drogą elektroniczną oraz niektórych innych ustaw (druki nr 2069 i 2091)",
+      "topic": "poprawka 28",
+      "totalVoted": 420,
+      "votingNumber": 54,
+      "yes": 0
+    },
+    {
+      "abstain": 145,
+      "date": "2025-12-18T20:32:26",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/55/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 210,
+      "no": 253,
+      "notParticipating": 41,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o świadczeniu usług drogą elektroniczną oraz niektórych innych ustaw (druki nr 2069 i 2091)",
+      "topic": "poprawka 31",
+      "totalVoted": 419,
+      "votingNumber": 55,
+      "yes": 21
+    },
+    {
+      "abstain": 0,
+      "date": "2025-12-18T20:33:02",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/56/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 211,
+      "no": 420,
+      "notParticipating": 40,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o świadczeniu usług drogą elektroniczną oraz niektórych innych ustaw (druki nr 2069 i 2091)",
+      "topic": "poprawki nr 38-39",
+      "totalVoted": 420,
+      "votingNumber": 56,
+      "yes": 0
+    },
+    {
+      "abstain": 16,
+      "date": "2025-12-18T20:34:56",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/57/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 210,
+      "no": 403,
+      "notParticipating": 41,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 21 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie niektórych ustaw w celu usprawnienia działań Sił Zbrojnych Rzeczypospolitej Polskiej na wypadek zagrożenia bezpieczeństwa państwa na polskich obszarach morskich oraz zapewnienia bezpieczeństwa na Morzu Bałtyckim (druki nr 2068 i 2095)",
+      "topic": "poprawki nr 1-2",
+      "totalVoted": 419,
+      "votingNumber": 57,
+      "yes": 0
+    },
+    {
+      "abstain": 174,
+      "date": "2025-12-18T20:37:06",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/58/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 212,
+      "no": 247,
+      "notParticipating": 37,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 22 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw (druki nr 2070 i 2085)",
+      "topic": "poprawki nr 1 i 3",
+      "totalVoted": 423,
+      "votingNumber": 58,
+      "yes": 2
+    },
+    {
+      "abstain": 155,
+      "date": "2025-12-18T20:37:44",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/59/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 205,
+      "no": 253,
+      "notParticipating": 51,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 22 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw (druki nr 2070 i 2085)",
+      "topic": "poprawka 2",
+      "totalVoted": 409,
+      "votingNumber": 59,
+      "yes": 1
+    },
+    {
+      "abstain": 157,
+      "date": "2025-12-18T20:38:21",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/60/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 210,
+      "no": 261,
+      "notParticipating": 41,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 22 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw (druki nr 2070 i 2085)",
+      "topic": "poprawka 4",
+      "totalVoted": 419,
+      "votingNumber": 60,
+      "yes": 1
+    },
+    {
+      "abstain": 147,
+      "date": "2025-12-18T20:38:56",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/61/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 202,
+      "no": 256,
+      "notParticipating": 57,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 22 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw (druki nr 2070 i 2085)",
+      "topic": "poprawka 5",
+      "totalVoted": 403,
+      "votingNumber": 61,
+      "yes": 0
+    },
+    {
+      "abstain": 0,
+      "date": "2025-12-18T20:40:40",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/62/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 213,
+      "no": 263,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 23 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o Narodowym Centrum Badań i Rozwoju oraz niektórych innych ustaw (druki nr 2071 i 2090)",
+      "topic": "poprawki nr 1, 3-4, 7 i 10",
+      "totalVoted": 425,
+      "votingNumber": 62,
+      "yes": 162
+    },
+    {
+      "abstain": 1,
+      "date": "2025-12-18T20:41:19",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/63/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 210,
+      "no": 417,
+      "notParticipating": 42,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 23 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o Narodowym Centrum Badań i Rozwoju oraz niektórych innych ustaw (druki nr 2071 i 2090)",
+      "topic": "poprawki nr 2 oraz 5-6",
+      "totalVoted": 418,
+      "votingNumber": 63,
+      "yes": 0
+    },
+    {
+      "abstain": 0,
+      "date": "2025-12-18T20:41:53",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/64/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 209,
+      "no": 417,
+      "notParticipating": 43,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 23 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o Narodowym Centrum Badań i Rozwoju oraz niektórych innych ustaw (druki nr 2071 i 2090)",
+      "topic": "poprawka 8",
+      "totalVoted": 417,
+      "votingNumber": 64,
+      "yes": 0
+    },
+    {
+      "abstain": 1,
+      "date": "2025-12-18T20:42:27",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/65/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 205,
+      "no": 406,
+      "notParticipating": 51,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 23 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o Narodowym Centrum Badań i Rozwoju oraz niektórych innych ustaw (druki nr 2071 i 2090)",
+      "topic": "poprawka 9",
+      "totalVoted": 409,
+      "votingNumber": 65,
+      "yes": 2
+    },
+    {
+      "abstain": 0,
+      "date": "2025-12-18T20:43:56",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/66/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 207,
+      "no": 408,
+      "notParticipating": 47,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 24 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustaw w celu usprawnienia mechanizmów wsparcia odbiorców energii elektrycznej i ciepła (druki nr 2067 i 2089)",
+      "topic": "poprawka 1",
+      "totalVoted": 413,
+      "votingNumber": 66,
+      "yes": 5
+    },
+    {
+      "abstain": 0,
+      "date": "2025-12-18T20:44:28",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/67/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 206,
+      "no": 410,
+      "notParticipating": 50,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 24 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustaw w celu usprawnienia mechanizmów wsparcia odbiorców energii elektrycznej i ciepła (druki nr 2067 i 2089)",
+      "topic": "poprawki nr 2-3",
+      "totalVoted": 410,
+      "votingNumber": 67,
+      "yes": 0
+    },
+    {
+      "abstain": 1,
+      "date": "2025-12-18T20:45:02",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/68/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 211,
+      "no": 412,
+      "notParticipating": 40,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 24 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustaw w celu usprawnienia mechanizmów wsparcia odbiorców energii elektrycznej i ciepła (druki nr 2067 i 2089)",
+      "topic": "poprawki nr 4-5",
+      "totalVoted": 420,
+      "votingNumber": 68,
+      "yes": 7
+    },
+    {
+      "abstain": 4,
+      "date": "2025-12-18T20:46:42",
+      "description": "wniosek z druku nr 2096",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/69/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 4,
+      "no": 3,
+      "notParticipating": 39,
+      "present": 0,
+      "sitting": 48,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 31 Zmiany w składach osobowych komisji sejmowych (druk nr 2096)",
+      "topic": "głosowanie nad przyjęciem wniosku z druku.",
+      "totalVoted": 421,
+      "votingNumber": 69,
+      "yes": 414
+    }
+  ],
+  "_pobrano": "2026-03-24T10:36:31Z"
+}

@@ -1,0 +1,3187 @@
+{
+  "posiedzenie": 53,
+  "data": "",
+  "tytul": "53. Posiedzenie Sejmu RP w dniach 11, 12 i 13 marca 2026 r.",
+  "glosowania": [
+    {
+      "abstain": 9,
+      "date": "2026-03-11T10:45:34",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/1/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 279,
+      "no": 278,
+      "notParticipating": 63,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "53. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 11, 12 i 13 marca 2026 r.",
+      "topic": "Wniosek o przerwę",
+      "totalVoted": 397,
+      "votingNumber": 1,
+      "yes": 110
+    },
+    {
+      "abstain": 1,
+      "date": "2026-03-11T10:54:37",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/2/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 232,
+      "no": 231,
+      "notParticipating": 37,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "53. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 11, 12 i 13 marca 2026 r.",
+      "topic": "wniosek o odroczenie posiedzenia",
+      "totalVoted": 423,
+      "votingNumber": 2,
+      "yes": 191
+    },
+    {
+      "abstain": 168,
+      "date": "2026-03-11T21:38:36",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/3/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 235,
+      "no": 234,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+      "topic": "wniosek o odrzucenie w całości projektu.",
+      "totalVoted": 425,
+      "votingNumber": 3,
+      "yes": 23
+    },
+    {
+      "abstain": 2,
+      "date": "2026-03-11T21:39:29",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/4/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 424,
+      "no": 423,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+      "topic": "poprawka 1",
+      "totalVoted": 430,
+      "votingNumber": 4,
+      "yes": 5
+    },
+    {
+      "abstain": 1,
+      "date": "2026-03-11T21:40:08",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/5/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 24,
+      "no": 23,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+      "topic": "poprawki nr 2 i 15",
+      "totalVoted": 427,
+      "votingNumber": 5,
+      "yes": 403
+    },
+    {
+      "abstain": 0,
+      "date": "2026-03-11T21:40:41",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/6/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 247,
+      "no": 246,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+      "topic": "poprawka 3",
+      "totalVoted": 428,
+      "votingNumber": 6,
+      "yes": 182
+    },
+    {
+      "abstain": 0,
+      "date": "2026-03-11T21:41:30",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/7/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 411,
+      "no": 410,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+      "topic": "wnioski mniejszości nr 1 i 3",
+      "totalVoted": 428,
+      "votingNumber": 7,
+      "yes": 18
+    },
+    {
+      "abstain": 0,
+      "date": "2026-03-11T21:42:10",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/8/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 407,
+      "no": 406,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+      "topic": "wniosek mniejszości 2",
+      "totalVoted": 426,
+      "votingNumber": 8,
+      "yes": 20
+    },
+    {
+      "abstain": 1,
+      "date": "2026-03-11T21:42:48",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/9/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 245,
+      "no": 244,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+      "topic": "poprawka 4",
+      "totalVoted": 427,
+      "votingNumber": 9,
+      "yes": 182
+    },
+    {
+      "abstain": 163,
+      "date": "2026-03-11T21:43:24",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/10/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 7,
+      "no": 6,
+      "notParticipating": 39,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+      "topic": "poprawka 5",
+      "totalVoted": 421,
+      "votingNumber": 10,
+      "yes": 252
+    },
+    {
+      "abstain": 3,
+      "date": "2026-03-11T21:44:09",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/11/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 420,
+      "no": 419,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+      "topic": "poprawka 7",
+      "totalVoted": 428,
+      "votingNumber": 11,
+      "yes": 6
+    },
+    {
+      "abstain": 174,
+      "date": "2026-03-11T21:44:40",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/12/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 8,
+      "no": 7,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+      "topic": "poprawka 6",
+      "totalVoted": 425,
+      "votingNumber": 12,
+      "yes": 244
+    },
+    {
+      "abstain": 0,
+      "date": "2026-03-11T21:45:17",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/13/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 232,
+      "no": 231,
+      "notParticipating": 39,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+      "topic": "poprawka 8",
+      "totalVoted": 421,
+      "votingNumber": 13,
+      "yes": 190
+    },
+    {
+      "abstain": 168,
+      "date": "2026-03-11T21:45:48",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/14/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 19,
+      "no": 18,
+      "notParticipating": 43,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+      "topic": "poprawka 9",
+      "totalVoted": 417,
+      "votingNumber": 14,
+      "yes": 231
+    },
+    {
+      "abstain": 194,
+      "date": "2026-03-11T21:46:19",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/15/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 2,
+      "no": 1,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+      "topic": "poprawka 10",
+      "totalVoted": 431,
+      "votingNumber": 15,
+      "yes": 236
+    },
+    {
+      "abstain": 173,
+      "date": "2026-03-11T21:46:52",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/16/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 17,
+      "no": 16,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+      "topic": "poprawka 11",
+      "totalVoted": 431,
+      "votingNumber": 16,
+      "yes": 242
+    },
+    {
+      "abstain": 1,
+      "date": "2026-03-11T21:47:26",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/17/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 249,
+      "no": 248,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+      "topic": "poprawka 12",
+      "totalVoted": 430,
+      "votingNumber": 17,
+      "yes": 181
+    },
+    {
+      "abstain": 0,
+      "date": "2026-03-11T21:48:01",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/18/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 191,
+      "no": 190,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+      "topic": "poprawka 13",
+      "totalVoted": 427,
+      "votingNumber": 18,
+      "yes": 237
+    },
+    {
+      "abstain": 5,
+      "date": "2026-03-11T21:48:34",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/19/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 248,
+      "no": 247,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+      "topic": "poprawka 14",
+      "totalVoted": 427,
+      "votingNumber": 19,
+      "yes": 175
+    },
+    {
+      "abstain": 0,
+      "date": "2026-03-11T21:49:07",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/20/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 423,
+      "no": 422,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+      "topic": "poprawka 16",
+      "totalVoted": 427,
+      "votingNumber": 20,
+      "yes": 5
+    },
+    {
+      "abstain": 1,
+      "date": "2026-03-11T21:49:39",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/21/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 250,
+      "no": 249,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+      "topic": "poprawka 17",
+      "totalVoted": 431,
+      "votingNumber": 21,
+      "yes": 181
+    },
+    {
+      "abstain": 1,
+      "date": "2026-03-11T21:50:14",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/22/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 424,
+      "no": 423,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+      "topic": "poprawka 18",
+      "totalVoted": 430,
+      "votingNumber": 22,
+      "yes": 6
+    },
+    {
+      "abstain": 16,
+      "date": "2026-03-11T21:50:46",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/23/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 235,
+      "no": 234,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+      "topic": "poprawka 19",
+      "totalVoted": 431,
+      "votingNumber": 23,
+      "yes": 181
+    },
+    {
+      "abstain": 0,
+      "date": "2026-03-11T21:51:17",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/24/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 420,
+      "no": 419,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+      "topic": "poprawka 20",
+      "totalVoted": 425,
+      "votingNumber": 24,
+      "yes": 6
+    },
+    {
+      "abstain": 1,
+      "date": "2026-03-11T21:51:48",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/25/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 248,
+      "no": 247,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+      "topic": "poprawka 21",
+      "totalVoted": 426,
+      "votingNumber": 25,
+      "yes": 178
+    },
+    {
+      "abstain": 1,
+      "date": "2026-03-11T21:52:21",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/26/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 249,
+      "no": 248,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+      "topic": "poprawka 22",
+      "totalVoted": 428,
+      "votingNumber": 26,
+      "yes": 179
+    },
+    {
+      "abstain": 171,
+      "date": "2026-03-11T21:52:52",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/27/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 245,
+      "no": 244,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+      "topic": "poprawka 23",
+      "totalVoted": 425,
+      "votingNumber": 27,
+      "yes": 10
+    },
+    {
+      "abstain": 193,
+      "date": "2026-03-11T21:53:27",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/28/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 2,
+      "no": 1,
+      "notParticipating": 28,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+      "topic": "poprawka 24",
+      "totalVoted": 432,
+      "votingNumber": 28,
+      "yes": 238
+    },
+    {
+      "abstain": 0,
+      "date": "2026-03-11T21:53:58",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/29/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 250,
+      "no": 249,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+      "topic": "poprawka 25",
+      "totalVoted": 428,
+      "votingNumber": 29,
+      "yes": 179
+    },
+    {
+      "abstain": 17,
+      "date": "2026-03-11T21:54:35",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/30/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 232,
+      "no": 231,
+      "notParticipating": 31,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+      "topic": "poprawka 26",
+      "totalVoted": 429,
+      "votingNumber": 30,
+      "yes": 181
+    },
+    {
+      "abstain": 167,
+      "date": "2026-03-11T21:55:06",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/31/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 8,
+      "no": 7,
+      "notParticipating": 41,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+      "topic": "poprawka 27",
+      "totalVoted": 419,
+      "votingNumber": 31,
+      "yes": 245
+    },
+    {
+      "abstain": 3,
+      "date": "2026-03-11T21:55:36",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/32/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+      "topic": "poprawka 28",
+      "totalVoted": 428,
+      "votingNumber": 32,
+      "yes": 425
+    },
+    {
+      "abstain": 162,
+      "date": "2026-03-11T21:56:07",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/33/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 243,
+      "no": 242,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+      "topic": "wniosek mniejszości 4",
+      "totalVoted": 430,
+      "votingNumber": 33,
+      "yes": 26
+    },
+    {
+      "abstain": 0,
+      "date": "2026-03-11T21:56:45",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/34/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 238,
+      "no": 237,
+      "notParticipating": 28,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+      "topic": "poprawka 29",
+      "totalVoted": 432,
+      "votingNumber": 34,
+      "yes": 195
+    },
+    {
+      "abstain": 0,
+      "date": "2026-03-11T21:57:21",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/35/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 236,
+      "no": 235,
+      "notParticipating": 31,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+      "topic": "wniosek mniejszości 5",
+      "totalVoted": 429,
+      "votingNumber": 35,
+      "yes": 194
+    },
+    {
+      "abstain": 179,
+      "date": "2026-03-11T21:58:08",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/36/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 7,
+      "no": 6,
+      "notParticipating": 28,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+      "topic": "poprawki nr 30, 44 i 50",
+      "totalVoted": 432,
+      "votingNumber": 36,
+      "yes": 247
+    },
+    {
+      "abstain": 176,
+      "date": "2026-03-11T21:59:00",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/37/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 254,
+      "no": 253,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+      "topic": "poprawka 32",
+      "totalVoted": 430,
+      "votingNumber": 37,
+      "yes": 1
+    },
+    {
+      "abstain": 175,
+      "date": "2026-03-11T21:59:31",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/38/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 248,
+      "no": 247,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+      "topic": "poprawka 33",
+      "totalVoted": 427,
+      "votingNumber": 38,
+      "yes": 5
+    },
+    {
+      "abstain": 2,
+      "date": "2026-03-11T22:00:19",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/39/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 193,
+      "no": 192,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+      "topic": "poprawka 34",
+      "totalVoted": 430,
+      "votingNumber": 39,
+      "yes": 236
+    },
+    {
+      "abstain": 0,
+      "date": "2026-03-11T22:00:55",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/40/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 427,
+      "no": 426,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+      "topic": "poprawka 35",
+      "totalVoted": 431,
+      "votingNumber": 40,
+      "yes": 5
+    },
+    {
+      "abstain": 0,
+      "date": "2026-03-11T22:01:29",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/41/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 177,
+      "no": 176,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+      "topic": "poprawka 36",
+      "totalVoted": 426,
+      "votingNumber": 41,
+      "yes": 250
+    },
+    {
+      "abstain": 0,
+      "date": "2026-03-11T22:02:01",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/42/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 180,
+      "no": 179,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+      "topic": "poprawka 37",
+      "totalVoted": 425,
+      "votingNumber": 42,
+      "yes": 246
+    },
+    {
+      "abstain": 0,
+      "date": "2026-03-11T22:02:36",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/43/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 181,
+      "no": 180,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+      "topic": "poprawka 38",
+      "totalVoted": 427,
+      "votingNumber": 43,
+      "yes": 247
+    },
+    {
+      "abstain": 0,
+      "date": "2026-03-11T22:03:26",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/44/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 427,
+      "no": 426,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+      "topic": "poprawka 39",
+      "totalVoted": 431,
+      "votingNumber": 44,
+      "yes": 5
+    },
+    {
+      "abstain": 5,
+      "date": "2026-03-11T22:03:59",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/45/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 235,
+      "no": 234,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+      "topic": "poprawka 40",
+      "totalVoted": 431,
+      "votingNumber": 45,
+      "yes": 192
+    },
+    {
+      "abstain": 0,
+      "date": "2026-03-11T22:04:32",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/46/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 248,
+      "no": 247,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+      "topic": "poprawka 41",
+      "totalVoted": 430,
+      "votingNumber": 46,
+      "yes": 183
+    },
+    {
+      "abstain": 3,
+      "date": "2026-03-11T22:05:07",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/47/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 17,
+      "no": 16,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+      "topic": "poprawka 42",
+      "totalVoted": 427,
+      "votingNumber": 47,
+      "yes": 408
+    },
+    {
+      "abstain": 0,
+      "date": "2026-03-11T22:05:51",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/48/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 191,
+      "no": 190,
+      "notParticipating": 31,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+      "topic": "poprawka 46",
+      "totalVoted": 429,
+      "votingNumber": 48,
+      "yes": 239
+    },
+    {
+      "abstain": 170,
+      "date": "2026-03-11T22:06:23",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/49/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 13,
+      "no": 12,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+      "topic": "poprawka 47",
+      "totalVoted": 430,
+      "votingNumber": 49,
+      "yes": 248
+    },
+    {
+      "abstain": 0,
+      "date": "2026-03-11T22:06:57",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/50/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 69,
+      "no": 68,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+      "topic": "poprawka 48",
+      "totalVoted": 431,
+      "votingNumber": 50,
+      "yes": 363
+    },
+    {
+      "abstain": 0,
+      "date": "2026-03-11T22:07:30",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/51/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 239,
+      "no": 238,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+      "topic": "poprawka 49",
+      "totalVoted": 427,
+      "votingNumber": 51,
+      "yes": 189
+    },
+    {
+      "abstain": 178,
+      "date": "2026-03-11T22:08:05",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/52/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 21,
+      "no": 20,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 428,
+      "votingNumber": 52,
+      "yes": 230
+    },
+    {
+      "abstain": 9,
+      "date": "2026-03-12T12:54:54",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/53/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 39,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Głosowanie proceduralne dotyczące druku nr 2324",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie sprawozdania z druku nr 2324",
+      "totalVoted": 421,
+      "votingNumber": 53,
+      "yes": 412
+    },
+    {
+      "abstain": 10,
+      "date": "2026-03-12T12:55:32",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/54/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 41,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Głosowanie proceduralne dotyczące druku nr 2329",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie sprawozdania z druku nr 2329",
+      "totalVoted": 419,
+      "votingNumber": 54,
+      "yes": 409
+    },
+    {
+      "abstain": 4,
+      "date": "2026-03-12T12:56:13",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/55/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 189,
+      "no": 188,
+      "notParticipating": 38,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Głosowanie proceduralne dotyczące druku nr 2330",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie sprawozdania z druku nr 2330",
+      "totalVoted": 422,
+      "votingNumber": 55,
+      "yes": 230
+    },
+    {
+      "abstain": 0,
+      "date": "2026-03-13T10:41:02",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/56/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 188,
+      "no": 187,
+      "notParticipating": 36,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Głosowanie proceduralne dotyczące druku nr 2309",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 54 ust. 5 regulaminu Sejmu w sprawie sprawozdania z druku nr 2309",
+      "totalVoted": 424,
+      "votingNumber": 56,
+      "yes": 237
+    },
+    {
+      "abstain": 4,
+      "date": "2026-03-13T10:41:47",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/57/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 20,
+      "no": 19,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Głosowanie proceduralne dotyczące druku nr 2341",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 54 ust. 5 regulaminu Sejmu w sprawie sprawozdania z druku nr 2341",
+      "totalVoted": 431,
+      "votingNumber": 57,
+      "yes": 408
+    },
+    {
+      "abstain": 18,
+      "date": "2026-03-13T10:42:42",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/58/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 27,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Głosowanie proceduralne dotyczące druku nr 2315",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 54 ust. 5 regulaminu Sejmu w sprawie sprawozdania z druku nr 2315",
+      "totalVoted": 433,
+      "votingNumber": 58,
+      "yes": 415
+    },
+    {
+      "abstain": 20,
+      "date": "2026-03-13T10:43:23",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/59/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Głosowanie proceduralne dotyczące druku nr 2306",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 54 ust. 5 regulaminu Sejmu w sprawie sprawozdania z druku nr 2306",
+      "totalVoted": 434,
+      "votingNumber": 59,
+      "yes": 414
+    },
+    {
+      "abstain": 8,
+      "date": "2026-03-13T10:48:40",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/60/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 251,
+      "no": 250,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "53. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 11, 12 i 13 marca 2026 r.",
+      "topic": "Wniosek o przerwę",
+      "totalVoted": 431,
+      "votingNumber": 60,
+      "yes": 173
+    },
+    {
+      "abstain": 7,
+      "date": "2026-03-13T10:52:55",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/61/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 399,
+      "no": 398,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "53. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 11, 12 i 13 marca 2026 r.",
+      "topic": "wniosek o odroczenie posiedzenia",
+      "totalVoted": 436,
+      "votingNumber": 61,
+      "yes": 31
+    },
+    {
+      "abstain": 4,
+      "date": "2026-03-13T11:02:39",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/62/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 239,
+      "no": 238,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Kodeks rodzinny i opiekuńczy oraz niektórych innych ustaw (druki nr 2121, 2233 i 2233-A)",
+      "topic": "wniosek o odrzucenie w całości projektu.",
+      "totalVoted": 430,
+      "votingNumber": 62,
+      "yes": 188
+    },
+    {
+      "abstain": 2,
+      "date": "2026-03-13T11:03:20",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/63/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 195,
+      "no": 194,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Kodeks rodzinny i opiekuńczy oraz niektórych innych ustaw (druki nr 2121, 2233 i 2233-A)",
+      "topic": "poprawka 1",
+      "totalVoted": 434,
+      "votingNumber": 63,
+      "yes": 238
+    },
+    {
+      "abstain": 20,
+      "date": "2026-03-13T11:03:53",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/64/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 177,
+      "no": 176,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Kodeks rodzinny i opiekuńczy oraz niektórych innych ustaw (druki nr 2121, 2233 i 2233-A)",
+      "topic": "poprawka 2",
+      "totalVoted": 437,
+      "votingNumber": 64,
+      "yes": 241
+    },
+    {
+      "abstain": 3,
+      "date": "2026-03-13T11:04:26",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/65/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 191,
+      "no": 190,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Kodeks rodzinny i opiekuńczy oraz niektórych innych ustaw (druki nr 2121, 2233 i 2233-A)",
+      "topic": "poprawka 3",
+      "totalVoted": 434,
+      "votingNumber": 65,
+      "yes": 241
+    },
+    {
+      "abstain": 2,
+      "date": "2026-03-13T11:04:56",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/66/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 188,
+      "no": 187,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Kodeks rodzinny i opiekuńczy oraz niektórych innych ustaw (druki nr 2121, 2233 i 2233-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 431,
+      "votingNumber": 66,
+      "yes": 242
+    },
+    {
+      "abstain": 17,
+      "date": "2026-03-13T11:53:16",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/67/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 230,
+      "no": 229,
+      "notParticipating": 45,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 3 Sprawozdanie Komisji o rządowym projekcie ustawy o koordynacji działań antykorupcyjnych oraz o likwidacji Centralnego Biura Antykorupcyjnego (druki nr 1884, 2257 i 2257-A)",
+      "topic": "wniosek o odrzucenie w całości projektu.",
+      "totalVoted": 415,
+      "votingNumber": 67,
+      "yes": 169
+    },
+    {
+      "abstain": 18,
+      "date": "2026-03-13T11:53:47",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/68/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 181,
+      "no": 180,
+      "notParticipating": 31,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 3 Sprawozdanie Komisji o rządowym projekcie ustawy o koordynacji działań antykorupcyjnych oraz o likwidacji Centralnego Biura Antykorupcyjnego (druki nr 1884, 2257 i 2257-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 429,
+      "votingNumber": 68,
+      "yes": 231
+    },
+    {
+      "abstain": 193,
+      "date": "2026-03-13T11:54:49",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/69/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 28,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie niektórych ustaw w związku z przekazywaniem informacji do europejskiego pojedynczego punktu dostępu (druki nr 2159 i 2260)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 432,
+      "votingNumber": 69,
+      "yes": 239
+    },
+    {
+      "abstain": 19,
+      "date": "2026-03-13T11:57:25",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/70/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 175,
+      "no": 174,
+      "notParticipating": 27,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 5 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków oraz niektórych innych ustaw (druki nr 2165, 2235 i 2235-A)",
+      "topic": "poprawki nr 1-3, 7 oraz 9-10",
+      "totalVoted": 433,
+      "votingNumber": 70,
+      "yes": 240
+    },
+    {
+      "abstain": 4,
+      "date": "2026-03-13T11:58:04",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/71/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 393,
+      "no": 392,
+      "notParticipating": 28,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 5 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków oraz niektórych innych ustaw (druki nr 2165, 2235 i 2235-A)",
+      "topic": "poprawki nr 4-5, 11 i 13",
+      "totalVoted": 432,
+      "votingNumber": 71,
+      "yes": 36
+    },
+    {
+      "abstain": 19,
+      "date": "2026-03-13T11:58:36",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/72/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 177,
+      "no": 176,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 5 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków oraz niektórych innych ustaw (druki nr 2165, 2235 i 2235-A)",
+      "topic": "poprawka 6",
+      "totalVoted": 434,
+      "votingNumber": 72,
+      "yes": 239
+    },
+    {
+      "abstain": 0,
+      "date": "2026-03-13T11:59:08",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/73/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 404,
+      "no": 403,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 5 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków oraz niektórych innych ustaw (druki nr 2165, 2235 i 2235-A)",
+      "topic": "poprawka 8",
+      "totalVoted": 434,
+      "votingNumber": 73,
+      "yes": 31
+    },
+    {
+      "abstain": 20,
+      "date": "2026-03-13T11:59:41",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/74/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 180,
+      "no": 179,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 5 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków oraz niektórych innych ustaw (druki nr 2165, 2235 i 2235-A)",
+      "topic": "poprawka 12",
+      "totalVoted": 434,
+      "votingNumber": 74,
+      "yes": 235
+    },
+    {
+      "abstain": 18,
+      "date": "2026-03-13T12:00:12",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/75/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 180,
+      "no": 179,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 5 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków oraz niektórych innych ustaw (druki nr 2165, 2235 i 2235-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 434,
+      "votingNumber": 75,
+      "yes": 237
+    },
+    {
+      "abstain": 0,
+      "date": "2026-03-13T12:01:08",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/76/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 2,
+      "no": 1,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 6 Sprawozdanie Komisji o senackim projekcie ustawy o zmianie ustawy o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych (druki nr 1651 i 2280)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 437,
+      "votingNumber": 76,
+      "yes": 436
+    },
+    {
+      "abstain": 0,
+      "date": "2026-03-13T12:07:40",
+      "description": "całość projektu uchwały",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/77/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 36,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 8 Sprawozdanie Komisji o poselskich projektach uchwał w sprawie:- zobowiązania Rady Ministrów do podjęcia działań prawnych przed Trybunałem Sprawiedliwości Unii Europejskiej w związku z umową handlową UE-Mercosur,- wezwania do zaskarżenia do Trybunału Sprawiedliwości Unii Europejskiej umowy Unii Europejskiej z państwami MERCOSUR,- zobowiązania Rady Ministrów do zaskarżenia decyzji Rady Unii Europejskiej z dnia 9 stycznia 2026 r. w sprawie tymczasowego stosowania umowy Mercosur do Trybunału Sprawiedliwości Unii Europejskiej (druki nr 2166, 2167, 2199 i 2232)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 424,
+      "votingNumber": 77,
+      "yes": 424
+    },
+    {
+      "abstain": 0,
+      "date": "2026-03-13T12:08:35",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/78/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 196,
+      "no": 195,
+      "notParticipating": 28,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 9 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo lotnicze oraz niektórych innych ustaw (druki nr 2236 i 2281)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 432,
+      "votingNumber": 78,
+      "yes": 237
+    },
+    {
+      "abstain": 0,
+      "date": "2026-03-13T12:10:25",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/79/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 233,
+      "no": 232,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 12 Sprawozdanie Komisji o poselskim projekcie uchwały w sprawie działań niezbędnych do zapewnienia spełniania przez Trybunał Konstytucyjny wymogów sądu ustanowionego na mocy prawa, niezawisłego i bezstronnego (druki nr 2316, 2330 i 2330-A)",
+      "topic": "wniosek o odrzucenie w całości projektu.",
+      "totalVoted": 430,
+      "votingNumber": 79,
+      "yes": 198
+    },
+    {
+      "abstain": 17,
+      "date": "2026-03-13T12:10:57",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/80/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 412,
+      "no": 411,
+      "notParticipating": 28,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 12 Sprawozdanie Komisji o poselskim projekcie uchwały w sprawie działań niezbędnych do zapewnienia spełniania przez Trybunał Konstytucyjny wymogów sądu ustanowionego na mocy prawa, niezawisłego i bezstronnego (druki nr 2316, 2330 i 2330-A)",
+      "topic": "wniosek mniejszości 1",
+      "totalVoted": 432,
+      "votingNumber": 80,
+      "yes": 4
+    },
+    {
+      "abstain": 0,
+      "date": "2026-03-13T12:11:27",
+      "description": "całość projektu uchwały",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/81/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 198,
+      "no": 197,
+      "notParticipating": 28,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 12 Sprawozdanie Komisji o poselskim projekcie uchwały w sprawie działań niezbędnych do zapewnienia spełniania przez Trybunał Konstytucyjny wymogów sądu ustanowionego na mocy prawa, niezawisłego i bezstronnego (druki nr 2316, 2330 i 2330-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 432,
+      "votingNumber": 81,
+      "yes": 235
+    },
+    {
+      "abstain": 0,
+      "date": "2026-03-13T12:12:32",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/82/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 28,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 13 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o sporcie oraz ustawy o przygotowaniu finałowego turnieju Mistrzostw Europy w Piłce Nożnej UEFA EURO 2012 (druki nr 2162 i 2203)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 432,
+      "votingNumber": 82,
+      "yes": 432
+    },
+    {
+      "abstain": 0,
+      "date": "2026-03-13T12:13:15",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/83/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy o Funduszu Ochrony Rolnictwa (druki nr 2295 i 2329)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 436,
+      "votingNumber": 83,
+      "yes": 436
+    },
+    {
+      "abstain": 0,
+      "date": "2026-03-13T12:14:06",
+      "description": "wniosek o odrzucenie projektu ustawy w pierwszym czytaniu",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/84/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 239,
+      "no": 238,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 16 Pierwsze czytanie rządowego projektu ustawy o zmianie ustawy - Ordynacja podatkowa oraz ustawy - Kodeks karny skarbowy (druk nr 2288)",
+      "topic": "wniosek o odrzucenie projektu w pierwszym czytaniu.",
+      "totalVoted": 431,
+      "votingNumber": 84,
+      "yes": 193
+    },
+    {
+      "abstain": 0,
+      "date": "2026-03-13T12:15:01",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/85/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 18 Sprawozdanie Komisji o poselskim projekcie uchwały w sprawie upamiętnienia 45. rocznicy wydarzeń Kryzysu Bydgoskiego 1981 roku (druki nr 2305 i 2324)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 427,
+      "votingNumber": 85,
+      "yes": 427
+    },
+    {
+      "abstain": 0,
+      "date": "2026-03-13T12:15:58",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/86/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 19 Sprawozdanie Komisji o rządowym projekcie ustawy o ratyfikacji Umowy między Rzecząpospolitą Polską a Republiką Indonezji o wzajemnej pomocy prawnej w sprawach karnych, podpisanej w Warszawie dnia 19 września 2025 r. (druki nr 2161 i 2204)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 431,
+      "votingNumber": 86,
+      "yes": 431
+    },
+    {
+      "abstain": 0,
+      "date": "2026-03-13T12:17:15",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/87/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 39,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o rządowym projekcie ustawy o ratyfikacji poprawek do Rzymskiego Statutu Międzynarodowego Trybunału Karnego, sporządzonego w Rzymie dnia 17 lipca 1998 r., przyjętych przez Zgromadzenie Państw-Stron Statutu w dniu 26 listopada 2015 r. (rezolucja nr ICC-ASP/14/Res.2), w dniu 14 grudnia 2017 r. (rezolucja nr ICC-ASP/16/Res.4) oraz w dniu 6 grudnia 2019 r. (rezolucja nr ICC-ASP/18/Res.5) (druki nr 2164 i 2205)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 421,
+      "votingNumber": 87,
+      "yes": 421
+    },
+    {
+      "abstain": 4,
+      "date": "2026-03-13T12:19:19",
+      "description": "wniosek z druku",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/88/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 14,
+      "no": 13,
+      "notParticipating": 27,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 21 Rozpatrzenie wniosku Rady Ministrów o wyrażenie przez Sejm Rzeczypospolitej Polskiej zgody na przedłużenie czasowego ograniczenia prawa do złożenia wniosku o udzielenie ochrony międzynarodowej na granicy państwowej z Republiką Białorusi (druk nr 2308)",
+      "topic": "głosowanie nad przyjęciem wniosku",
+      "totalVoted": 433,
+      "votingNumber": 88,
+      "yes": 416
+    },
+    {
+      "abstain": 0,
+      "date": "2026-03-13T12:21:01",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/89/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 219,
+      "no": 435,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 22 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy - Prawo oświatowe oraz niektórych innych ustaw (druki nr 2301 i 2309)",
+      "topic": "poprawka 1",
+      "totalVoted": 437,
+      "votingNumber": 89,
+      "yes": 2
+    },
+    {
+      "abstain": 178,
+      "date": "2026-03-13T12:22:39",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/90/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 218,
+      "no": 256,
+      "notParticipating": 25,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 23 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o ochronie zabytków i opiece nad zabytkami oraz ustawy o Krajowej Administracji Skarbowej (druki nr 2300 i 2323)",
+      "topic": "poprawka 1",
+      "totalVoted": 435,
+      "votingNumber": 90,
+      "yes": 1
+    },
+    {
+      "abstain": 166,
+      "date": "2026-03-13T12:25:03",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/91/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 213,
+      "no": 259,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 24 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa oraz ustawy o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (druki nr 2298 i 2314)",
+      "topic": "poprawka 1",
+      "totalVoted": 425,
+      "votingNumber": 91,
+      "yes": 0
+    },
+    {
+      "abstain": 175,
+      "date": "2026-03-13T12:25:39",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/92/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 215,
+      "no": 254,
+      "notParticipating": 31,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 24 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa oraz ustawy o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (druki nr 2298 i 2314)",
+      "topic": "poprawka 2",
+      "totalVoted": 429,
+      "votingNumber": 92,
+      "yes": 0
+    },
+    {
+      "abstain": 172,
+      "date": "2026-03-13T12:26:16",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/93/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 215,
+      "no": 256,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 24 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa oraz ustawy o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (druki nr 2298 i 2314)",
+      "topic": "poprawka 3",
+      "totalVoted": 428,
+      "votingNumber": 93,
+      "yes": 0
+    },
+    {
+      "abstain": 177,
+      "date": "2026-03-13T12:26:51",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/94/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 217,
+      "no": 237,
+      "notParticipating": 27,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 24 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa oraz ustawy o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (druki nr 2298 i 2314)",
+      "topic": "poprawka 4",
+      "totalVoted": 433,
+      "votingNumber": 94,
+      "yes": 19
+    },
+    {
+      "abstain": 21,
+      "date": "2026-03-13T12:29:01",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/95/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 218,
+      "no": 413,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 25 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o niekaraniu obywateli Rzeczypospolitej Polskiej biorących udział po stronie Ukrainy w konflikcie zbrojnym wywołanym agresją Federacji Rosyjskiej na Ukrainę (druki nr 2297 i 2341)",
+      "topic": "poprawki nr 1 i 4",
+      "totalVoted": 434,
+      "votingNumber": 95,
+      "yes": 0
+    },
+    {
+      "abstain": 6,
+      "date": "2026-03-13T12:29:35",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/96/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 208,
+      "no": 393,
+      "notParticipating": 46,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 25 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o niekaraniu obywateli Rzeczypospolitej Polskiej biorących udział po stronie Ukrainy w konflikcie zbrojnym wywołanym agresją Federacji Rosyjskiej na Ukrainę (druki nr 2297 i 2341)",
+      "topic": "poprawka 2",
+      "totalVoted": 414,
+      "votingNumber": 96,
+      "yes": 15
+    },
+    {
+      "abstain": 19,
+      "date": "2026-03-13T12:30:09",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/97/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 217,
+      "no": 411,
+      "notParticipating": 28,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 25 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o niekaraniu obywateli Rzeczypospolitej Polskiej biorących udział po stronie Ukrainy w konflikcie zbrojnym wywołanym agresją Federacji Rosyjskiej na Ukrainę (druki nr 2297 i 2341)",
+      "topic": "poprawka 3",
+      "totalVoted": 432,
+      "votingNumber": 97,
+      "yes": 2
+    },
+    {
+      "abstain": 0,
+      "date": "2026-03-13T12:31:59",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/98/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 216,
+      "no": 430,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 26 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy oraz niektórych innych ustaw (druki nr 2299 i 2315)",
+      "topic": "poprawka 1",
+      "totalVoted": 430,
+      "votingNumber": 98,
+      "yes": 0
+    },
+    {
+      "abstain": 0,
+      "date": "2026-03-13T12:32:45",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/99/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 218,
+      "no": 434,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 26 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy oraz niektórych innych ustaw (druki nr 2299 i 2315)",
+      "topic": "poprawki nr 2, 4-11, 13 i 16",
+      "totalVoted": 434,
+      "votingNumber": 99,
+      "yes": 0
+    },
+    {
+      "abstain": 1,
+      "date": "2026-03-13T12:33:30",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/100/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 219,
+      "no": 203,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 26 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy oraz niektórych innych ustaw (druki nr 2299 i 2315)",
+      "topic": "poprawki nr 3 i 14",
+      "totalVoted": 436,
+      "votingNumber": 100,
+      "yes": 232
+    },
+    {
+      "abstain": 0,
+      "date": "2026-03-13T12:34:08",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/101/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 217,
+      "no": 431,
+      "notParticipating": 28,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 26 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy oraz niektórych innych ustaw (druki nr 2299 i 2315)",
+      "topic": "poprawka 12",
+      "totalVoted": 432,
+      "votingNumber": 101,
+      "yes": 1
+    },
+    {
+      "abstain": 5,
+      "date": "2026-03-13T12:34:46",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/102/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 217,
+      "no": 427,
+      "notParticipating": 27,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 26 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy oraz niektórych innych ustaw (druki nr 2299 i 2315)",
+      "topic": "poprawka 15",
+      "totalVoted": 433,
+      "votingNumber": 102,
+      "yes": 1
+    },
+    {
+      "abstain": 0,
+      "date": "2026-03-13T12:36:23",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/103/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 217,
+      "no": 432,
+      "notParticipating": 28,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 27 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o szczególnych zasadach przygotowania do realizacji inwestycji w zakresie budowli przeciwpowodziowych (druki nr 2302 i 2306)",
+      "topic": "poprawka 1",
+      "totalVoted": 432,
+      "votingNumber": 103,
+      "yes": 0
+    },
+    {
+      "abstain": 0,
+      "date": "2026-03-13T12:36:56",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/104/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 214,
+      "no": 425,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 27 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o szczególnych zasadach przygotowania do realizacji inwestycji w zakresie budowli przeciwpowodziowych (druki nr 2302 i 2306)",
+      "topic": "poprawka 2",
+      "totalVoted": 426,
+      "votingNumber": 104,
+      "yes": 1
+    },
+    {
+      "abstain": 1,
+      "date": "2026-03-13T12:37:31",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/105/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 219,
+      "no": 435,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 27 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o szczególnych zasadach przygotowania do realizacji inwestycji w zakresie budowli przeciwpowodziowych (druki nr 2302 i 2306)",
+      "topic": "poprawka 3",
+      "totalVoted": 436,
+      "votingNumber": 105,
+      "yes": 0
+    },
+    {
+      "abstain": 20,
+      "date": "2026-03-13T12:39:31",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/106/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 219,
+      "no": 237,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 28 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy - Prawo energetyczne oraz niektórych innych ustaw (druki nr 2303 i 2328)",
+      "topic": "poprawka 1",
+      "totalVoted": 436,
+      "votingNumber": 106,
+      "yes": 179
+    },
+    {
+      "abstain": 173,
+      "date": "2026-03-13T12:40:11",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/107/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 218,
+      "no": 259,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 28 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy - Prawo energetyczne oraz niektórych innych ustaw (druki nr 2303 i 2328)",
+      "topic": "poprawki nr 2-3",
+      "totalVoted": 434,
+      "votingNumber": 107,
+      "yes": 2
+    },
+    {
+      "abstain": 187,
+      "date": "2026-03-13T12:40:47",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/108/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 214,
+      "no": 238,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 28 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy - Prawo energetyczne oraz niektórych innych ustaw (druki nr 2303 i 2328)",
+      "topic": "poprawka 4",
+      "totalVoted": 426,
+      "votingNumber": 108,
+      "yes": 1
+    },
+    {
+      "abstain": 23,
+      "date": "2026-03-13T12:41:21",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/109/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 215,
+      "no": 234,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 28 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy - Prawo energetyczne oraz niektórych innych ustaw (druki nr 2303 i 2328)",
+      "topic": "poprawka 5",
+      "totalVoted": 428,
+      "votingNumber": 109,
+      "yes": 171
+    },
+    {
+      "abstain": 26,
+      "date": "2026-03-13T12:41:58",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/110/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 218,
+      "no": 239,
+      "notParticipating": 25,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 28 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy - Prawo energetyczne oraz niektórych innych ustaw (druki nr 2303 i 2328)",
+      "topic": "poprawka 6",
+      "totalVoted": 435,
+      "votingNumber": 110,
+      "yes": 170
+    },
+    {
+      "abstain": 22,
+      "date": "2026-03-13T12:42:33",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/111/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 219,
+      "no": 241,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 28 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy - Prawo energetyczne oraz niektórych innych ustaw (druki nr 2303 i 2328)",
+      "topic": "poprawka 7",
+      "totalVoted": 436,
+      "votingNumber": 111,
+      "yes": 173
+    },
+    {
+      "abstain": 175,
+      "date": "2026-03-13T12:43:08",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/112/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 215,
+      "no": 237,
+      "notParticipating": 31,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 28 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy - Prawo energetyczne oraz niektórych innych ustaw (druki nr 2303 i 2328)",
+      "topic": "poprawka 8",
+      "totalVoted": 429,
+      "votingNumber": 112,
+      "yes": 17
+    },
+    {
+      "abstain": 21,
+      "date": "2026-03-13T12:43:57",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/113/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 218,
+      "no": 241,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 28 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy - Prawo energetyczne oraz niektórych innych ustaw (druki nr 2303 i 2328)",
+      "topic": "poprawki nr 9, 12-14 i 21",
+      "totalVoted": 434,
+      "votingNumber": 113,
+      "yes": 172
+    },
+    {
+      "abstain": 167,
+      "date": "2026-03-13T12:44:34",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/114/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 212,
+      "no": 254,
+      "notParticipating": 38,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 28 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy - Prawo energetyczne oraz niektórych innych ustaw (druki nr 2303 i 2328)",
+      "topic": "poprawka 10",
+      "totalVoted": 422,
+      "votingNumber": 114,
+      "yes": 1
+    },
+    {
+      "abstain": 21,
+      "date": "2026-03-13T12:45:11",
+      "kind": "ELECTRONIC",
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 216,
+      "no": 409,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 28 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy - Prawo energetyczne oraz niektórych innych ustaw (druki nr 2303 i 2328)",
+      "topic": "poprawka 11",
+      "totalVoted": 430,
+      "votingNumber": 115,
+      "yes": 0
+    },
+    {
+      "abstain": 172,
+      "date": "2026-03-13T12:45:53",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/116/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 218,
+      "no": 262,
+      "notParticipating": 25,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 28 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy - Prawo energetyczne oraz niektórych innych ustaw (druki nr 2303 i 2328)",
+      "topic": "poprawki nr 15 i 23",
+      "totalVoted": 435,
+      "votingNumber": 116,
+      "yes": 1
+    },
+    {
+      "abstain": 21,
+      "date": "2026-03-13T12:46:33",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/117/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 218,
+      "no": 240,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 28 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy - Prawo energetyczne oraz niektórych innych ustaw (druki nr 2303 i 2328)",
+      "topic": "poprawka 16",
+      "totalVoted": 434,
+      "votingNumber": 117,
+      "yes": 173
+    },
+    {
+      "abstain": 20,
+      "date": "2026-03-13T12:47:11",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/118/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 219,
+      "no": 411,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 28 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy - Prawo energetyczne oraz niektórych innych ustaw (druki nr 2303 i 2328)",
+      "topic": "poprawka 17",
+      "totalVoted": 436,
+      "votingNumber": 118,
+      "yes": 5
+    },
+    {
+      "abstain": 195,
+      "date": "2026-03-13T12:47:45",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/119/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 220,
+      "no": 243,
+      "notParticipating": 21,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 28 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy - Prawo energetyczne oraz niektórych innych ustaw (druki nr 2303 i 2328)",
+      "topic": "poprawka 18",
+      "totalVoted": 439,
+      "votingNumber": 119,
+      "yes": 1
+    },
+    {
+      "abstain": 20,
+      "date": "2026-03-13T12:48:23",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/120/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 217,
+      "no": 412,
+      "notParticipating": 27,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 28 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy - Prawo energetyczne oraz niektórych innych ustaw (druki nr 2303 i 2328)",
+      "topic": "poprawka 19",
+      "totalVoted": 433,
+      "votingNumber": 120,
+      "yes": 1
+    },
+    {
+      "abstain": 19,
+      "date": "2026-03-13T12:49:06",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/121/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 217,
+      "no": 413,
+      "notParticipating": 27,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 28 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy - Prawo energetyczne oraz niektórych innych ustaw (druki nr 2303 i 2328)",
+      "topic": "poprawki nr 20 i 22",
+      "totalVoted": 433,
+      "votingNumber": 121,
+      "yes": 1
+    },
+    {
+      "abstain": 19,
+      "date": "2026-03-13T12:49:39",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/122/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 216,
+      "no": 239,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 28 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy - Prawo energetyczne oraz niektórych innych ustaw (druki nr 2303 i 2328)",
+      "topic": "poprawka 24",
+      "totalVoted": 431,
+      "votingNumber": 122,
+      "yes": 173
+    },
+    {
+      "abstain": 20,
+      "date": "2026-03-13T12:50:14",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/123/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 214,
+      "no": 407,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 28 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy - Prawo energetyczne oraz niektórych innych ustaw (druki nr 2303 i 2328)",
+      "topic": "poprawka 25",
+      "totalVoted": 427,
+      "votingNumber": 123,
+      "yes": 0
+    },
+    {
+      "abstain": 8,
+      "date": "2026-03-13T13:14:18",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/124/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 166,
+      "no": 165,
+      "notParticipating": 45,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "53. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 11, 12 i 13 marca 2026 r.",
+      "topic": "ustalenie czasów debat",
+      "totalVoted": 415,
+      "votingNumber": 124,
+      "yes": 242
+    },
+    {
+      "abstain": 4,
+      "date": "2026-03-13T13:33:55",
+      "description": "głosowanie nad kandydaturą Pani Magdaleny Bentkowskiej",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/125/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 214,
+      "no": 186,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 29 Wybór sędziów Trybunału Konstytucyjnego (druki nr 2331, 2332, 2333, 2334, 2335, 2336, 2337, 2338, 2344, 2345, 2346, 2347, 2348, 2349, 2350 i 2351)",
+      "topic": "głosowanie nad kandydaturą Pani Magdaleny Bentkowskiej na stanowisko sędziego Trybunału Konstytucyjnego",
+      "totalVoted": 426,
+      "votingNumber": 125,
+      "yes": 236
+    },
+    {
+      "abstain": 6,
+      "date": "2026-03-13T13:34:41",
+      "description": "głosowanie nad kandydaturą Pana Marcina Dziurdy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/126/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 213,
+      "no": 182,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 29 Wybór sędziów Trybunału Konstytucyjnego (druki nr 2331, 2332, 2333, 2334, 2335, 2336, 2337, 2338, 2344, 2345, 2346, 2347, 2348, 2349, 2350 i 2351)",
+      "topic": "głosowanie nad kandydaturą Pana Marcina Dziurdy na stanowisko sędziego Trybunału Konstytucyjnego",
+      "totalVoted": 425,
+      "votingNumber": 126,
+      "yes": 237
+    },
+    {
+      "abstain": 4,
+      "date": "2026-03-13T13:35:25",
+      "description": "głosowanie nad kandydaturą Pani Anny Korwin-Piotrowskiej",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/127/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 213,
+      "no": 185,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 29 Wybór sędziów Trybunału Konstytucyjnego (druki nr 2331, 2332, 2333, 2334, 2335, 2336, 2337, 2338, 2344, 2345, 2346, 2347, 2348, 2349, 2350 i 2351)",
+      "topic": "głosowanie nad kandydaturą Pani Anny Korwin-Piotrowskiej na stanowisko sędziego Trybunału Konstytucyjnego",
+      "totalVoted": 425,
+      "votingNumber": 127,
+      "yes": 236
+    },
+    {
+      "abstain": 4,
+      "date": "2026-03-13T13:36:09",
+      "description": "głosowanie nad kandydaturą Pana Artura Kotowskiego",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/128/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 213,
+      "no": 249,
+      "notParticipating": 36,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 29 Wybór sędziów Trybunału Konstytucyjnego (druki nr 2331, 2332, 2333, 2334, 2335, 2336, 2337, 2338, 2344, 2345, 2346, 2347, 2348, 2349, 2350 i 2351)",
+      "topic": "głosowanie nad kandydaturą Pana Artura Kotowskiego na stanowisko sędziego Trybunału Konstytucyjnego",
+      "totalVoted": 424,
+      "votingNumber": 128,
+      "yes": 171
+    },
+    {
+      "abstain": 4,
+      "date": "2026-03-13T13:36:56",
+      "description": "głosowanie nad kandydaturą Pana Krystiana Markiewicza",
+      "kind": "ELECTRONIC",
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 214,
+      "no": 187,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 29 Wybór sędziów Trybunału Konstytucyjnego (druki nr 2331, 2332, 2333, 2334, 2335, 2336, 2337, 2338, 2344, 2345, 2346, 2347, 2348, 2349, 2350 i 2351)",
+      "topic": "głosowanie nad kandydaturą Pana Krystiana Markiewicza na stanowisko sędziego Trybunału Konstytucyjnego",
+      "totalVoted": 427,
+      "votingNumber": 129,
+      "yes": 236
+    },
+    {
+      "abstain": 4,
+      "date": "2026-03-13T13:37:40",
+      "description": "głosowanie nad kandydaturą Pana Michała Skwarzyńskiego",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/130/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 215,
+      "no": 253,
+      "notParticipating": 31,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 29 Wybór sędziów Trybunału Konstytucyjnego (druki nr 2331, 2332, 2333, 2334, 2335, 2336, 2337, 2338, 2344, 2345, 2346, 2347, 2348, 2349, 2350 i 2351)",
+      "topic": "głosowanie nad kandydaturą Pana Michała Skwarzyńskiego na stanowisko sędziego Trybunału Konstytucyjnego",
+      "totalVoted": 429,
+      "votingNumber": 130,
+      "yes": 172
+    },
+    {
+      "abstain": 4,
+      "date": "2026-03-13T13:38:29",
+      "description": "głosowanie nad kandydaturą Pana Dariusza Szostka",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/131/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 214,
+      "no": 185,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 29 Wybór sędziów Trybunału Konstytucyjnego (druki nr 2331, 2332, 2333, 2334, 2335, 2336, 2337, 2338, 2344, 2345, 2346, 2347, 2348, 2349, 2350 i 2351)",
+      "topic": "głosowanie nad kandydaturą Pana Dariusza Szostka na stanowisko sędziego Trybunału Konstytucyjnego",
+      "totalVoted": 426,
+      "votingNumber": 131,
+      "yes": 237
+    },
+    {
+      "abstain": 4,
+      "date": "2026-03-13T13:39:13",
+      "description": "głosowanie nad kandydaturą Pana Macieja Taborowskiego",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/53/132/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 214,
+      "no": 185,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 53,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 29 Wybór sędziów Trybunału Konstytucyjnego (druki nr 2331, 2332, 2333, 2334, 2335, 2336, 2337, 2338, 2344, 2345, 2346, 2347, 2348, 2349, 2350 i 2351)",
+      "topic": "głosowanie nad kandydaturą Pana Macieja Taborowskiego na stanowisko sędziego Trybunału Konstytucyjnego",
+      "totalVoted": 426,
+      "votingNumber": 132,
+      "yes": 237
+    }
+  ],
+  "_pobrano": "2026-03-24T10:36:33Z"
+}

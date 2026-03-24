@@ -1,0 +1,1341 @@
+{
+  "posiedzenie": 49,
+  "data": "",
+  "tytul": "49. Posiedzenie Sejmu RP w dniach 8 i 9 stycznia 2026 r.",
+  "glosowania": [
+    {
+      "abstain": 3,
+      "date": "2026-01-08T10:08:44",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/49/1/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 173,
+      "no": 172,
+      "notParticipating": 39,
+      "present": 0,
+      "sitting": 49,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Głosowanie proceduralne dotyczące projektu ustawy z druków nr 1939 i 2114",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie sprawozdania z druku nr 2114",
+      "totalVoted": 421,
+      "votingNumber": 1,
+      "yes": 246
+    },
+    {
+      "abstain": 186,
+      "date": "2026-01-08T10:10:41",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/49/2/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 8,
+      "no": 7,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 49,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Głosowanie proceduralne dotyczące sprawozdania o projekcie nowelizacji ustawy o gospodarce opakowaniami i odpadami opakowaniowymi",
+      "topic": "wniosek o skrócenie twniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie sprawozdania o projekcie nowelizacji ustawy o gospodarce opakowaniami i odpadami opakowaniowymi",
+      "totalVoted": 425,
+      "votingNumber": 2,
+      "yes": 232
+    },
+    {
+      "abstain": 1,
+      "date": "2026-01-08T10:20:47",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/49/3/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 236,
+      "no": 235,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 49,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "49. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 8 i 9 stycznia 2026 r.",
+      "topic": "Wniosek o przerwę",
+      "totalVoted": 427,
+      "votingNumber": 3,
+      "yes": 191
+    },
+    {
+      "abstain": 0,
+      "date": "2026-01-08T10:23:53",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/49/4/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 403,
+      "no": 402,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 49,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "49. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 8 i 9 stycznia 2026 r.",
+      "topic": "wniosek o odroczenie posiedzenia",
+      "totalVoted": 427,
+      "votingNumber": 4,
+      "yes": 25
+    },
+    {
+      "abstain": 0,
+      "date": "2026-01-08T10:31:10",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/49/5/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 233,
+      "no": 232,
+      "notParticipating": 36,
+      "present": 0,
+      "sitting": 49,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "49. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 8 i 9 stycznia 2026 r.",
+      "topic": "wniosek o zamknięcie posiedzenia",
+      "totalVoted": 424,
+      "votingNumber": 5,
+      "yes": 192
+    },
+    {
+      "abstain": 0,
+      "date": "2026-01-08T10:34:07",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/49/6/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 230,
+      "no": 0,
+      "notParticipating": 36,
+      "present": 424,
+      "sitting": 49,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "49. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 8 i 9 stycznia 2026 r.",
+      "topic": "Głosowanie kworum",
+      "totalVoted": 424,
+      "votingNumber": 6,
+      "yes": 0
+    },
+    {
+      "abstain": 0,
+      "date": "2026-01-09T16:37:16",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/49/7/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 195,
+      "no": 194,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 49,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Głosowanie proceduralne w sprawie uchwały Senatu druki nr 2103 i 2135",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 54 ust. 5 regulaminu Sejmu w sprawie sprawozdania z druku nr  2135",
+      "totalVoted": 434,
+      "votingNumber": 7,
+      "yes": 240
+    },
+    {
+      "abstain": 5,
+      "date": "2026-01-09T16:38:16",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/49/8/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 197,
+      "no": 196,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 49,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Głosowanie proceduralne w sprawie uchwały Senatu druki nr 2104 i 2115",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 54 ust. 5 regulaminu Sejmu w sprawie sprawozdania z druku nr 2115",
+      "totalVoted": 434,
+      "votingNumber": 8,
+      "yes": 233
+    },
+    {
+      "abstain": 5,
+      "date": "2026-01-09T16:42:07",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/49/9/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 394,
+      "no": 393,
+      "notParticipating": 28,
+      "present": 0,
+      "sitting": 49,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "49. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 8 i 9 stycznia 2026 r.",
+      "topic": "Wniosek o przerwę",
+      "totalVoted": 432,
+      "votingNumber": 9,
+      "yes": 34
+    },
+    {
+      "abstain": 4,
+      "date": "2026-01-09T16:56:03",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/49/10/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 245,
+      "no": 244,
+      "notParticipating": 18,
+      "present": 0,
+      "sitting": 49,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy o zawodzie psychologa oraz samorządzie zawodowym psychologów (druki nr 1344, 2100 i 2100-A)",
+      "topic": "wnioski mniejszości nr 1-5, 12-13 i 23",
+      "totalVoted": 442,
+      "votingNumber": 10,
+      "yes": 194
+    },
+    {
+      "abstain": 180,
+      "date": "2026-01-09T16:56:49",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/49/11/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 255,
+      "no": 254,
+      "notParticipating": 20,
+      "present": 0,
+      "sitting": 49,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy o zawodzie psychologa oraz samorządzie zawodowym psychologów (druki nr 1344, 2100 i 2100-A)",
+      "topic": "poprawki nr 1 i 8",
+      "totalVoted": 440,
+      "votingNumber": 11,
+      "yes": 6
+    },
+    {
+      "abstain": 0,
+      "date": "2026-01-09T16:57:28",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/49/12/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 242,
+      "no": 241,
+      "notParticipating": 22,
+      "present": 0,
+      "sitting": 49,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy o zawodzie psychologa oraz samorządzie zawodowym psychologów (druki nr 1344, 2100 i 2100-A)",
+      "topic": "poprawki nr 2 i 6",
+      "totalVoted": 438,
+      "votingNumber": 12,
+      "yes": 197
+    },
+    {
+      "abstain": 0,
+      "date": "2026-01-09T16:57:58",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/49/13/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 234,
+      "no": 233,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 49,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy o zawodzie psychologa oraz samorządzie zawodowym psychologów (druki nr 1344, 2100 i 2100-A)",
+      "topic": "poprawka 3",
+      "totalVoted": 436,
+      "votingNumber": 13,
+      "yes": 203
+    },
+    {
+      "abstain": 0,
+      "date": "2026-01-09T16:58:30",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/49/14/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 2,
+      "no": 1,
+      "notParticipating": 18,
+      "present": 0,
+      "sitting": 49,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy o zawodzie psychologa oraz samorządzie zawodowym psychologów (druki nr 1344, 2100 i 2100-A)",
+      "topic": "poprawka 4",
+      "totalVoted": 442,
+      "votingNumber": 14,
+      "yes": 441
+    },
+    {
+      "abstain": 5,
+      "date": "2026-01-09T16:59:23",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/49/15/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 238,
+      "no": 237,
+      "notParticipating": 18,
+      "present": 0,
+      "sitting": 49,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy o zawodzie psychologa oraz samorządzie zawodowym psychologów (druki nr 1344, 2100 i 2100-A)",
+      "topic": "wnioski mniejszości nr 6-11, 16, 21-22 oraz 24-26",
+      "totalVoted": 442,
+      "votingNumber": 15,
+      "yes": 200
+    },
+    {
+      "abstain": 196,
+      "date": "2026-01-09T16:59:54",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/49/16/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 237,
+      "no": 236,
+      "notParticipating": 20,
+      "present": 0,
+      "sitting": 49,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy o zawodzie psychologa oraz samorządzie zawodowym psychologów (druki nr 1344, 2100 i 2100-A)",
+      "topic": "poprawka 5",
+      "totalVoted": 440,
+      "votingNumber": 16,
+      "yes": 8
+    },
+    {
+      "abstain": 0,
+      "date": "2026-01-09T17:00:33",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/49/17/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 238,
+      "no": 237,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 49,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy o zawodzie psychologa oraz samorządzie zawodowym psychologów (druki nr 1344, 2100 i 2100-A)",
+      "topic": "wnioski mniejszości nr 14 oraz 17-19",
+      "totalVoted": 437,
+      "votingNumber": 17,
+      "yes": 200
+    },
+    {
+      "abstain": 9,
+      "date": "2026-01-09T17:01:02",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/49/18/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 237,
+      "no": 236,
+      "notParticipating": 21,
+      "present": 0,
+      "sitting": 49,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy o zawodzie psychologa oraz samorządzie zawodowym psychologów (druki nr 1344, 2100 i 2100-A)",
+      "topic": "wniosek mniejszości 15",
+      "totalVoted": 439,
+      "votingNumber": 18,
+      "yes": 194
+    },
+    {
+      "abstain": 0,
+      "date": "2026-01-09T17:01:31",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/49/19/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 240,
+      "no": 239,
+      "notParticipating": 20,
+      "present": 0,
+      "sitting": 49,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy o zawodzie psychologa oraz samorządzie zawodowym psychologów (druki nr 1344, 2100 i 2100-A)",
+      "topic": "wniosek mniejszości 20",
+      "totalVoted": 440,
+      "votingNumber": 19,
+      "yes": 201
+    },
+    {
+      "abstain": 184,
+      "date": "2026-01-09T17:02:03",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/49/20/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 16,
+      "no": 15,
+      "notParticipating": 21,
+      "present": 0,
+      "sitting": 49,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy o zawodzie psychologa oraz samorządzie zawodowym psychologów (druki nr 1344, 2100 i 2100-A)",
+      "topic": "poprawka 7",
+      "totalVoted": 439,
+      "votingNumber": 20,
+      "yes": 240
+    },
+    {
+      "abstain": 191,
+      "date": "2026-01-09T17:02:36",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/49/21/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 2,
+      "no": 1,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 49,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy o zawodzie psychologa oraz samorządzie zawodowym psychologów (druki nr 1344, 2100 i 2100-A)",
+      "topic": "poprawka 9",
+      "totalVoted": 434,
+      "votingNumber": 21,
+      "yes": 242
+    },
+    {
+      "abstain": 181,
+      "date": "2026-01-09T17:03:10",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/49/22/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 2,
+      "no": 1,
+      "notParticipating": 21,
+      "present": 0,
+      "sitting": 49,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy o zawodzie psychologa oraz samorządzie zawodowym psychologów (druki nr 1344, 2100 i 2100-A)",
+      "topic": "poprawka 10",
+      "totalVoted": 439,
+      "votingNumber": 22,
+      "yes": 257
+    },
+    {
+      "abstain": 180,
+      "date": "2026-01-09T17:03:43",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/49/23/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 21,
+      "no": 20,
+      "notParticipating": 20,
+      "present": 0,
+      "sitting": 49,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy o zawodzie psychologa oraz samorządzie zawodowym psychologów (druki nr 1344, 2100 i 2100-A)",
+      "topic": "poprawka 11",
+      "totalVoted": 440,
+      "votingNumber": 23,
+      "yes": 240
+    },
+    {
+      "abstain": 191,
+      "date": "2026-01-09T17:04:14",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/49/24/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 10,
+      "no": 9,
+      "notParticipating": 19,
+      "present": 0,
+      "sitting": 49,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy o zawodzie psychologa oraz samorządzie zawodowym psychologów (druki nr 1344, 2100 i 2100-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 441,
+      "votingNumber": 24,
+      "yes": 241
+    },
+    {
+      "abstain": 2,
+      "date": "2026-01-09T17:06:09",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/49/25/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 243,
+      "no": 242,
+      "notParticipating": 19,
+      "present": 0,
+      "sitting": 49,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 3 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy o mniejszościach narodowych i etnicznych oraz o języku regionalnym oraz niektórych innych ustaw (druki nr 1346, 1988 i 1988-A)",
+      "topic": "wniosek o odrzucenie w całości projektu.",
+      "totalVoted": 441,
+      "votingNumber": 25,
+      "yes": 197
+    },
+    {
+      "abstain": 2,
+      "date": "2026-01-09T17:06:43",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/49/26/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 197,
+      "no": 196,
+      "notParticipating": 18,
+      "present": 0,
+      "sitting": 49,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 3 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy o mniejszościach narodowych i etnicznych oraz o języku regionalnym oraz niektórych innych ustaw (druki nr 1346, 1988 i 1988-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 442,
+      "votingNumber": 26,
+      "yes": 244
+    },
+    {
+      "abstain": 17,
+      "date": "2026-01-09T17:08:37",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/49/27/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 179,
+      "no": 178,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 49,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Kodeks spółek handlowych oraz niektórych innych ustaw (druki nr 2027, 2087 i 2087-A)",
+      "topic": "poprawka",
+      "totalVoted": 436,
+      "votingNumber": 27,
+      "yes": 241
+    },
+    {
+      "abstain": 17,
+      "date": "2026-01-09T17:09:06",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/49/28/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 181,
+      "no": 180,
+      "notParticipating": 25,
+      "present": 0,
+      "sitting": 49,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Kodeks spółek handlowych oraz niektórych innych ustaw (druki nr 2027, 2087 i 2087-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 435,
+      "votingNumber": 28,
+      "yes": 238
+    },
+    {
+      "abstain": 0,
+      "date": "2026-01-09T17:09:55",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/49/29/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 2,
+      "no": 1,
+      "notParticipating": 20,
+      "present": 0,
+      "sitting": 49,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 5 Sprawozdanie Komisji o komisyjnym projekcie ustawy o zmianie ustawy o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne (druki nr 1763 i 2046)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 440,
+      "votingNumber": 29,
+      "yes": 439
+    },
+    {
+      "abstain": 0,
+      "date": "2026-01-09T17:10:46",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/49/30/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 49,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 6 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy - Prawo o ruchu drogowym oraz ustawy o kierujących pojazdami (druki nr 1939 i 2114)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 434,
+      "votingNumber": 30,
+      "yes": 434
+    },
+    {
+      "abstain": 0,
+      "date": "2026-01-09T17:11:36",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/49/31/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 7,
+      "no": 6,
+      "notParticipating": 18,
+      "present": 0,
+      "sitting": 49,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 7 Sprawozdanie Komisji o pilnym rządowym projekcie ustawy o zmianie ustawy o księgach wieczystych i hipotece oraz ustawy o Krajowym Rejestrze Sądowym (druki nr 2105 i 2113)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 442,
+      "votingNumber": 31,
+      "yes": 436
+    },
+    {
+      "abstain": 191,
+      "date": "2026-01-09T17:12:50",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/49/32/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 10,
+      "no": 9,
+      "notParticipating": 19,
+      "present": 0,
+      "sitting": 49,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 9 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy o gospodarce opakowaniami i odpadami opakowaniowymi oraz ustawy o zmianie ustawy o gospodarce opakowaniami i odpadami opakowaniowymi oraz niektórych innych ustaw (druki nr 2112 i 2138)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 441,
+      "votingNumber": 32,
+      "yes": 241
+    },
+    {
+      "abstain": 0,
+      "date": "2026-01-09T17:14:55",
+      "description": "wniosek z druku",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/49/33/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 16,
+      "no": 15,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 49,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 14 Rozpatrzenie wniosku Rady Ministrów o wyrażenie przez Sejm Rzeczypospolitej Polskiej zgody na przedłużenie czasowego ograniczenia prawa do złożenia wniosku o udzielenie ochrony międzynarodowej na granicy państwowej z Republiką Białorusi (druk nr 2118)",
+      "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na przedłużenie czasowego ograniczenia prawa do złożenia wniosku o udzielenie ochrony międzynarodowej",
+      "totalVoted": 436,
+      "votingNumber": 33,
+      "yes": 421
+    },
+    {
+      "abstain": 0,
+      "date": "2026-01-09T17:15:52",
+      "description": "wniosek o odrzucenie projektu ustawy w pierwszym czytaniu",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/49/34/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 201,
+      "no": 200,
+      "notParticipating": 20,
+      "present": 0,
+      "sitting": 49,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 17 Pierwsze czytanie poselskiego projektu ustawy o zmianie ustawy o obywatelstwie polskim (druk nr 1888) - kontynuacja",
+      "topic": "wniosek o odrzucenie projektu w pierwszym czytaniu.",
+      "totalVoted": 440,
+      "votingNumber": 34,
+      "yes": 240
+    },
+    {
+      "abstain": 22,
+      "date": "2026-01-09T17:17:04",
+      "description": "wniosek o przystąpienie do drugiego czytania bez kierowania projektu do komisji",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/49/35/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 235,
+      "no": 234,
+      "notParticipating": 17,
+      "present": 0,
+      "sitting": 49,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 18 Pierwsze czytanie poselskiego projektu ustawy o zmianie ustawy o podatku dochodowym od osób fizycznych (druk nr 1731) - kontynuacja",
+      "topic": "wniosek o przystąpienie do drugiego czytania  bez kierowania projektu do komisji",
+      "totalVoted": 443,
+      "votingNumber": 35,
+      "yes": 187
+    },
+    {
+      "abstain": 5,
+      "date": "2026-01-09T17:18:16",
+      "description": "wniosek o przystąpienie do drugiego czytania bez kierowania projektu do komisji",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/49/36/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 416,
+      "no": 415,
+      "notParticipating": 20,
+      "present": 0,
+      "sitting": 49,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 19 Pierwsze czytanie poselskiego projektu ustawy o likwidacji Funduszu Przeciwdziałania COVID-19 (druk nr 1652) - kontynuacja",
+      "topic": "wniosek o przystąpienie do drugiego czytania  bez kierowania projektu do komisji",
+      "totalVoted": 440,
+      "votingNumber": 36,
+      "yes": 20
+    },
+    {
+      "abstain": 1,
+      "date": "2026-01-09T17:19:24",
+      "description": "wniosek o odrzucenie Sprawozdania Rady Ministrów",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/49/37/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 426,
+      "no": 425,
+      "notParticipating": 18,
+      "present": 0,
+      "sitting": 49,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Rady Ministrów z wykonania ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa wraz ze stanowiskiem Komisji (druki nr 1966 i 2053) - głosowanie",
+      "topic": "głosowanie nad przyjęciem wniosku o odrzucenie sprawozdania zawartego w druku nr 1966",
+      "totalVoted": 442,
+      "votingNumber": 37,
+      "yes": 16
+    },
+    {
+      "abstain": 0,
+      "date": "2026-01-09T17:20:53",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/49/38/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 244,
+      "no": 243,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 49,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Rozstrzygnięcie przez Sejm wniosku o uzupełnienie porządku dziennego o punkt: Sprawozdanie Komisji Nadzwyczajnej o poselskim projekcie ustawy o zmianie ustawy - Kodeks postępowania cywilnego (druki nr 1143 i 1557)",
+      "topic": "wniosek o uzupełnienie porządku dziennego.",
+      "totalVoted": 434,
+      "votingNumber": 38,
+      "yes": 191
+    },
+    {
+      "abstain": 0,
+      "date": "2026-01-09T17:21:32",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/49/39/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 236,
+      "no": 235,
+      "notParticipating": 22,
+      "present": 0,
+      "sitting": 49,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Rozstrzygnięcie przez Sejm wniosku o uzupełnienie porządku dziennego o punkt: Sprawozdanie Komisji Finansów Publicznych o poselskim projekcie ustawy o zmianie ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa (druki nr 774 i 1537)",
+      "topic": "wniosek o uzupełnienie porządku dziennego.",
+      "totalVoted": 438,
+      "votingNumber": 39,
+      "yes": 203
+    },
+    {
+      "abstain": 5,
+      "date": "2026-01-09T17:23:17",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/49/40/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 222,
+      "no": 237,
+      "notParticipating": 18,
+      "present": 0,
+      "sitting": 49,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 15 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy budżetowej na rok 2026 (druki nr 2103 i 2135)",
+      "topic": "poprawka 1",
+      "totalVoted": 442,
+      "votingNumber": 40,
+      "yes": 200
+    },
+    {
+      "abstain": 5,
+      "date": "2026-01-09T17:23:56",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/49/41/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 218,
+      "no": 235,
+      "notParticipating": 25,
+      "present": 0,
+      "sitting": 49,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 15 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy budżetowej na rok 2026 (druki nr 2103 i 2135)",
+      "topic": "poprawka 2",
+      "totalVoted": 435,
+      "votingNumber": 41,
+      "yes": 195
+    },
+    {
+      "abstain": 0,
+      "date": "2026-01-09T17:24:33",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/49/42/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 219,
+      "no": 223,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 49,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 15 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy budżetowej na rok 2026 (druki nr 2103 i 2135)",
+      "topic": "poprawka 3",
+      "totalVoted": 437,
+      "votingNumber": 42,
+      "yes": 214
+    },
+    {
+      "abstain": 0,
+      "date": "2026-01-09T17:25:11",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/49/43/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 220,
+      "no": 248,
+      "notParticipating": 21,
+      "present": 0,
+      "sitting": 49,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 15 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy budżetowej na rok 2026 (druki nr 2103 i 2135)",
+      "topic": "poprawka 4",
+      "totalVoted": 439,
+      "votingNumber": 43,
+      "yes": 191
+    },
+    {
+      "abstain": 0,
+      "date": "2026-01-09T17:25:51",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/49/44/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 219,
+      "no": 243,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 49,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 15 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy budżetowej na rok 2026 (druki nr 2103 i 2135)",
+      "topic": "poprawka 5",
+      "totalVoted": 436,
+      "votingNumber": 44,
+      "yes": 193
+    },
+    {
+      "abstain": 5,
+      "date": "2026-01-09T17:26:27",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/49/45/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 218,
+      "no": 425,
+      "notParticipating": 25,
+      "present": 0,
+      "sitting": 49,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 15 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy budżetowej na rok 2026 (druki nr 2103 i 2135)",
+      "topic": "poprawka 6",
+      "totalVoted": 435,
+      "votingNumber": 45,
+      "yes": 5
+    },
+    {
+      "abstain": 16,
+      "date": "2026-01-09T17:27:06",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/49/46/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 220,
+      "no": 422,
+      "notParticipating": 22,
+      "present": 0,
+      "sitting": 49,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 15 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy budżetowej na rok 2026 (druki nr 2103 i 2135)",
+      "topic": "poprawka 7",
+      "totalVoted": 438,
+      "votingNumber": 46,
+      "yes": 0
+    },
+    {
+      "abstain": 5,
+      "date": "2026-01-09T17:27:44",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/49/47/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 220,
+      "no": 434,
+      "notParticipating": 21,
+      "present": 0,
+      "sitting": 49,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 15 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy budżetowej na rok 2026 (druki nr 2103 i 2135)",
+      "topic": "poprawka 8",
+      "totalVoted": 439,
+      "votingNumber": 47,
+      "yes": 0
+    },
+    {
+      "abstain": 0,
+      "date": "2026-01-09T17:28:20",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/49/48/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 221,
+      "no": 441,
+      "notParticipating": 19,
+      "present": 0,
+      "sitting": 49,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 15 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy budżetowej na rok 2026 (druki nr 2103 i 2135)",
+      "topic": "poprawka 9",
+      "totalVoted": 441,
+      "votingNumber": 48,
+      "yes": 0
+    },
+    {
+      "abstain": 23,
+      "date": "2026-01-09T17:28:55",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/49/49/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 221,
+      "no": 235,
+      "notParticipating": 20,
+      "present": 0,
+      "sitting": 49,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 15 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy budżetowej na rok 2026 (druki nr 2103 i 2135)",
+      "topic": "poprawka 10",
+      "totalVoted": 440,
+      "votingNumber": 49,
+      "yes": 182
+    },
+    {
+      "abstain": 0,
+      "date": "2026-01-09T17:30:49",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/49/50/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 219,
+      "no": 436,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 49,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 16 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (druki nr 2104 i 2115)",
+      "topic": "poprawki nr 1, 5 oraz 7-8",
+      "totalVoted": 436,
+      "votingNumber": 50,
+      "yes": 0
+    },
+    {
+      "abstain": 0,
+      "date": "2026-01-09T17:31:33",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/49/51/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 220,
+      "no": 438,
+      "notParticipating": 22,
+      "present": 0,
+      "sitting": 49,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 16 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (druki nr 2104 i 2115)",
+      "topic": "poprawki nr 2 i 6",
+      "totalVoted": 438,
+      "votingNumber": 51,
+      "yes": 0
+    },
+    {
+      "abstain": 0,
+      "date": "2026-01-09T17:32:10",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/49/52/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 216,
+      "no": 430,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 49,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 16 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (druki nr 2104 i 2115)",
+      "topic": "poprawka 3",
+      "totalVoted": 431,
+      "votingNumber": 52,
+      "yes": 1
+    },
+    {
+      "abstain": 0,
+      "date": "2026-01-09T17:32:48",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/49/53/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 219,
+      "no": 418,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 49,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 16 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (druki nr 2104 i 2115)",
+      "topic": "poprawka 4",
+      "totalVoted": 436,
+      "votingNumber": 53,
+      "yes": 18
+    },
+    {
+      "abstain": 16,
+      "date": "2026-01-09T17:33:22",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/49/54/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 219,
+      "no": 420,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 49,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 16 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (druki nr 2104 i 2115)",
+      "topic": "poprawka 9",
+      "totalVoted": 436,
+      "votingNumber": 54,
+      "yes": 0
+    },
+    {
+      "abstain": 5,
+      "date": "2026-01-09T17:34:39",
+      "description": "wniosek z druku",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/49/55/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 49,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 21 Zmiany w składach osobowych komisji sejmowych (druk nr 2136)",
+      "topic": "głosowanie nad przyjęciem wniosku z druku.",
+      "totalVoted": 431,
+      "votingNumber": 55,
+      "yes": 426
+    }
+  ],
+  "_pobrano": "2026-03-24T10:36:31Z"
+}

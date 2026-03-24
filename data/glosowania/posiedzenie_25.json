@@ -1,0 +1,567 @@
+{
+  "posiedzenie": 25,
+  "data": "",
+  "tytul": "25. Posiedzenie Sejmu RP w dniach 18, 19 i 20 grudnia 2024 r.",
+  "glosowania": [
+    {
+      "abstain": 18,
+      "date": "2024-12-18T10:24:40",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/25/1/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 381,
+      "no": 380,
+      "notParticipating": 49,
+      "present": 0,
+      "sitting": 25,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "25. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 18, 19 i 20 grudnia 2024 r.",
+      "topic": "Wniosek o przerwę",
+      "totalVoted": 411,
+      "votingNumber": 1,
+      "yes": 13
+    },
+    {
+      "abstain": 16,
+      "date": "2024-12-18T16:35:34",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/25/2/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 2,
+      "no": 1,
+      "notParticipating": 65,
+      "present": 0,
+      "sitting": 25,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie niektórych ustaw w celu dostosowania do nomenklatury scalonej (druki nr 897, 901 i 901-A)",
+      "topic": "poprawka 1",
+      "totalVoted": 395,
+      "votingNumber": 2,
+      "yes": 378
+    },
+    {
+      "abstain": 14,
+      "date": "2024-12-18T16:36:04",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/25/3/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 2,
+      "no": 1,
+      "notParticipating": 65,
+      "present": 0,
+      "sitting": 25,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie niektórych ustaw w celu dostosowania do nomenklatury scalonej (druki nr 897, 901 i 901-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 395,
+      "votingNumber": 3,
+      "yes": 380
+    },
+    {
+      "abstain": 0,
+      "date": "2024-12-20T09:26:29",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/25/4/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 17,
+      "no": 16,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 25,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Głosowanie proceduralne dotyczące pkt 18",
+      "topic": "Druk nr 914 - wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu",
+      "totalVoted": 428,
+      "votingNumber": 4,
+      "yes": 412
+    },
+    {
+      "abstain": 12,
+      "date": "2024-12-20T09:40:56",
+      "description": "całość projektu uchwały",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/25/5/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 7,
+      "no": 6,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 25,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 18 Sprawozdanie Komisji o poselskim projekcie uchwały w sprawie wsparcia protestów obywatelskich w Gruzji oraz potępienia stosowania przemocy wobec ich uczestników (druki nr 913 i 914)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 428,
+      "votingNumber": 5,
+      "yes": 410
+    },
+    {
+      "abstain": 13,
+      "date": "2024-12-20T09:45:00",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/25/6/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 399,
+      "no": 398,
+      "notParticipating": 31,
+      "present": 0,
+      "sitting": 25,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "25. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 18, 19 i 20 grudnia 2024 r.",
+      "topic": "Wniosek o przerwę",
+      "totalVoted": 429,
+      "votingNumber": 6,
+      "yes": 18
+    },
+    {
+      "abstain": 168,
+      "date": "2024-12-20T10:00:14",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/25/7/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 20,
+      "no": 19,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 25,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo lotnicze oraz niektórych innych ustaw (druki nr 810 i 877)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 426,
+      "votingNumber": 7,
+      "yes": 239
+    },
+    {
+      "abstain": 5,
+      "date": "2024-12-20T10:01:53",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/25/8/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 236,
+      "no": 235,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 25,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 3 Sprawozdanie Komisji o rządowym projekcie ustawy o podmiotach obsługujących kredyty i nabywcach kredytów (druki nr 765 i 902)",
+      "topic": "wniosek mniejszości 1",
+      "totalVoted": 431,
+      "votingNumber": 8,
+      "yes": 191
+    },
+    {
+      "abstain": 5,
+      "date": "2024-12-20T10:02:21",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/25/9/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 235,
+      "no": 234,
+      "notParticipating": 31,
+      "present": 0,
+      "sitting": 25,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 3 Sprawozdanie Komisji o rządowym projekcie ustawy o podmiotach obsługujących kredyty i nabywcach kredytów (druki nr 765 i 902)",
+      "topic": "wniosek mniejszości 2",
+      "totalVoted": 429,
+      "votingNumber": 9,
+      "yes": 190
+    },
+    {
+      "abstain": 1,
+      "date": "2024-12-20T10:02:49",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/25/10/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 191,
+      "no": 190,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 25,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 3 Sprawozdanie Komisji o rządowym projekcie ustawy o podmiotach obsługujących kredyty i nabywcach kredytów (druki nr 765 i 902)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 430,
+      "votingNumber": 10,
+      "yes": 239
+    },
+    {
+      "abstain": 1,
+      "date": "2024-12-20T10:03:51",
+      "description": "wniosek o odrzucenie projektu ustawy w pierwszym czytaniu",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/25/11/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 197,
+      "no": 196,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 25,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 6 Pierwsze czytanie poselskiego projektu ustawy o zmianie ustawy o podatkach i opłatach lokalnych oraz ustawy - Ordynacja podatkowa (druk nr 866)",
+      "topic": "wniosek o odrzucenie projektu w pierwszym czytaniu.",
+      "totalVoted": 430,
+      "votingNumber": 11,
+      "yes": 233
+    },
+    {
+      "abstain": 0,
+      "date": "2024-12-20T10:06:47",
+      "description": "wniosek o odrzucenie projektu ustawy w pierwszym czytaniu",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/25/12/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 239,
+      "no": 238,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 25,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 9 Pierwsze czytanie rządowego projektu ustawy o zmianie ustawy - Kodeks karny (druk nr 876)",
+      "topic": "wniosek o odrzucenie projektu w pierwszym czytaniu.",
+      "totalVoted": 430,
+      "votingNumber": 12,
+      "yes": 192
+    },
+    {
+      "abstain": 2,
+      "date": "2024-12-20T10:11:47",
+      "description": "wniosek o odrzucenie projektu ustawy w pierwszym czytaniu",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/25/13/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 194,
+      "no": 193,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 25,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 11 Pierwsze czytanie poselskiego projektu ustawy o zmianie ustawy o podatku dochodowym od osób fizycznych (druk nr 690)",
+      "topic": "wniosek o odrzucenie projektu w pierwszym czytaniu.",
+      "totalVoted": 430,
+      "votingNumber": 13,
+      "yes": 235
+    },
+    {
+      "abstain": 0,
+      "date": "2024-12-20T10:13:40",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/25/14/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 214,
+      "no": 255,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 25,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 13 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o Radzie Fiskalnej (druki nr 915 i 917)",
+      "topic": "poprawki nr 1-2",
+      "totalVoted": 427,
+      "votingNumber": 14,
+      "yes": 172
+    },
+    {
+      "abstain": 0,
+      "date": "2024-12-20T10:14:18",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/25/15/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 215,
+      "no": 235,
+      "notParticipating": 31,
+      "present": 0,
+      "sitting": 25,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 13 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o Radzie Fiskalnej (druki nr 915 i 917)",
+      "topic": "poprawka 3",
+      "totalVoted": 429,
+      "votingNumber": 15,
+      "yes": 194
+    },
+    {
+      "abstain": 0,
+      "date": "2024-12-20T10:14:53",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/25/16/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 214,
+      "no": 243,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 25,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 13 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o Radzie Fiskalnej (druki nr 915 i 917)",
+      "topic": "poprawka 4",
+      "totalVoted": 427,
+      "votingNumber": 16,
+      "yes": 184
+    },
+    {
+      "abstain": 5,
+      "date": "2024-12-20T10:15:34",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/25/17/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 215,
+      "no": 250,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 25,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 13 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o Radzie Fiskalnej (druki nr 915 i 917)",
+      "topic": "poprawki nr 5-6, 8 oraz 14-16",
+      "totalVoted": 428,
+      "votingNumber": 17,
+      "yes": 173
+    },
+    {
+      "abstain": 0,
+      "date": "2024-12-20T10:16:04",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/25/18/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 213,
+      "no": 254,
+      "notParticipating": 36,
+      "present": 0,
+      "sitting": 25,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 13 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o Radzie Fiskalnej (druki nr 915 i 917)",
+      "topic": "poprawka 7",
+      "totalVoted": 424,
+      "votingNumber": 18,
+      "yes": 170
+    },
+    {
+      "abstain": 16,
+      "date": "2024-12-20T10:16:38",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/25/19/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 214,
+      "no": 239,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 25,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 13 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o Radzie Fiskalnej (druki nr 915 i 917)",
+      "topic": "poprawka 9",
+      "totalVoted": 427,
+      "votingNumber": 19,
+      "yes": 172
+    },
+    {
+      "abstain": 16,
+      "date": "2024-12-20T10:17:20",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/25/20/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 215,
+      "no": 240,
+      "notParticipating": 31,
+      "present": 0,
+      "sitting": 25,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 13 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o Radzie Fiskalnej (druki nr 915 i 917)",
+      "topic": "poprawka 10",
+      "totalVoted": 429,
+      "votingNumber": 20,
+      "yes": 173
+    },
+    {
+      "abstain": 0,
+      "date": "2024-12-20T10:17:55",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/25/21/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 216,
+      "no": 257,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 25,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 13 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o Radzie Fiskalnej (druki nr 915 i 917)",
+      "topic": "poprawka 11",
+      "totalVoted": 430,
+      "votingNumber": 21,
+      "yes": 173
+    },
+    {
+      "abstain": 0,
+      "date": "2024-12-20T10:18:34",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/25/22/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 213,
+      "no": 255,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 25,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 13 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o Radzie Fiskalnej (druki nr 915 i 917)",
+      "topic": "poprawka 12",
+      "totalVoted": 425,
+      "votingNumber": 22,
+      "yes": 170
+    },
+    {
+      "abstain": 17,
+      "date": "2024-12-20T10:19:17",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/25/23/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 212,
+      "no": 237,
+      "notParticipating": 37,
+      "present": 0,
+      "sitting": 25,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 13 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o Radzie Fiskalnej (druki nr 915 i 917)",
+      "topic": "poprawka 13",
+      "totalVoted": 423,
+      "votingNumber": 23,
+      "yes": 169
+    }
+  ],
+  "_pobrano": "2026-03-24T10:36:20Z"
+}

@@ -1,0 +1,472 @@
+{
+  "posiedzenie": 6,
+  "data": "",
+  "tytul": "6. Posiedzenie Sejmu RP w dniach 21 i 22 lutego 2024 r.",
+  "glosowania": [
+    {
+      "abstain": 0,
+      "date": "2024-02-21T10:07:57",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/6/1/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 16,
+      "no": 15,
+      "notParticipating": 50,
+      "present": 0,
+      "sitting": 6,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "6. posiedzenie Sejmu RP w dniach 21 i 22 lutego 2024 r.",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu",
+      "totalVoted": 408,
+      "votingNumber": 1,
+      "yes": 393
+    },
+    {
+      "abstain": 0,
+      "date": "2024-02-21T10:14:12",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/6/2/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 230,
+      "no": 229,
+      "notParticipating": 46,
+      "present": 0,
+      "sitting": 6,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "6. posiedzenie Sejmu RP w dniach 21 i 22 lutego 2024 r.",
+      "topic": "Wniosek o przerwę",
+      "totalVoted": 412,
+      "votingNumber": 2,
+      "yes": 183
+    },
+    {
+      "abstain": 0,
+      "date": "2024-02-21T10:28:48",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/6/3/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 234,
+      "no": 233,
+      "notParticipating": 39,
+      "present": 0,
+      "sitting": 6,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "6. posiedzenie Sejmu RP w dniach 21 i 22 lutego 2024 r.",
+      "topic": "wniosek o odroczenie posiedzenia",
+      "totalVoted": 419,
+      "votingNumber": 3,
+      "yes": 186
+    },
+    {
+      "abstain": 0,
+      "date": "2024-02-22T15:18:43",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/6/4/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 4,
+      "no": 3,
+      "notParticipating": 37,
+      "present": 0,
+      "sitting": 6,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "6. posiedzenie Sejmu RP w dniach 21 i 22 lutego 2024 r.",
+      "topic": "wniosek o zastosowanie art. 51 pkt 1 regulaminu Sejmu",
+      "totalVoted": 421,
+      "votingNumber": 4,
+      "yes": 418
+    },
+    {
+      "abstain": 12,
+      "date": "2024-02-22T15:23:04",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/6/5/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 231,
+      "no": 230,
+      "notParticipating": 37,
+      "present": 0,
+      "sitting": 6,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "6. posiedzenie Sejmu RP w dniach 21 i 22 lutego 2024 r.",
+      "topic": "Wniosek o przerwę",
+      "totalVoted": 421,
+      "votingNumber": 5,
+      "yes": 179
+    },
+    {
+      "abstain": 1,
+      "date": "2024-02-22T15:27:33",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/6/6/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 234,
+      "no": 233,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 6,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "6. posiedzenie Sejmu RP w dniach 21 i 22 lutego 2024 r.",
+      "topic": "wniosek o odroczenie posiedzenia",
+      "totalVoted": 424,
+      "votingNumber": 6,
+      "yes": 190
+    },
+    {
+      "abstain": 16,
+      "date": "2024-02-22T15:32:52",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/6/7/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 235,
+      "no": 234,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 6,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Krajowej Sieci Onkologicznej (druki nr 199 i 200)",
+      "topic": "poprawka 1",
+      "totalVoted": 424,
+      "votingNumber": 7,
+      "yes": 174
+    },
+    {
+      "abstain": 18,
+      "date": "2024-02-22T15:33:25",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/6/8/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 4,
+      "no": 3,
+      "notParticipating": 37,
+      "present": 0,
+      "sitting": 6,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Krajowej Sieci Onkologicznej (druki nr 199 i 200)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 421,
+      "votingNumber": 8,
+      "yes": 400
+    },
+    {
+      "abstain": 0,
+      "date": "2024-02-22T15:34:24",
+      "description": "wniosek o wyrażenie wotum nieufnośći wobec Ministra Sprawiedliwości Adama Bodnara",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/6/9/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "STATUTORY_MAJORITY",
+      "majorityVotes": 231,
+      "no": 234,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 6,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 6 Wniosek o wyrażenie wotum nieufności wobec Ministra Sprawiedliwości Adama Bodnara (druki nr 175 i 202)",
+      "topic": "głosowanie nad wnioskiem o wyrażenie wotum nieufności.",
+      "totalVoted": 425,
+      "votingNumber": 9,
+      "yes": 191
+    },
+    {
+      "abstain": 7,
+      "date": "2024-02-22T15:38:49",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/6/10/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 316,
+      "no": 315,
+      "notParticipating": 41,
+      "present": 0,
+      "sitting": 6,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 9 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo farmaceutyczne (druki nr 185, 197 i 197-A) - trzecie czytanie",
+      "topic": "wniosek o odrzucenie w całości projektu.",
+      "totalVoted": 417,
+      "votingNumber": 10,
+      "yes": 95
+    },
+    {
+      "abstain": 20,
+      "date": "2024-02-22T15:41:35",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/6/11/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 233,
+      "no": 232,
+      "notParticipating": 37,
+      "present": 0,
+      "sitting": 6,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 9 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo farmaceutyczne (druki nr 185, 197 i 197-A) - trzecie czytanie",
+      "topic": "wnioski mniejszości nr 1-2",
+      "totalVoted": 421,
+      "votingNumber": 11,
+      "yes": 169
+    },
+    {
+      "abstain": 2,
+      "date": "2024-02-22T15:42:09",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/6/12/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 233,
+      "no": 232,
+      "notParticipating": 36,
+      "present": 0,
+      "sitting": 6,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 9 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo farmaceutyczne (druki nr 185, 197 i 197-A) - trzecie czytanie",
+      "topic": "wniosek mniejszości 3",
+      "totalVoted": 422,
+      "votingNumber": 12,
+      "yes": 188
+    },
+    {
+      "abstain": 3,
+      "date": "2024-02-22T15:42:50",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/6/13/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 224,
+      "no": 223,
+      "notParticipating": 40,
+      "present": 0,
+      "sitting": 6,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 9 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo farmaceutyczne (druki nr 185, 197 i 197-A) - trzecie czytanie",
+      "topic": "wniosek mniejszości 4",
+      "totalVoted": 418,
+      "votingNumber": 13,
+      "yes": 192
+    },
+    {
+      "abstain": 1,
+      "date": "2024-02-22T15:43:25",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/6/14/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 197,
+      "no": 196,
+      "notParticipating": 37,
+      "present": 0,
+      "sitting": 6,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 9 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo farmaceutyczne (druki nr 185, 197 i 197-A) - trzecie czytanie",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 421,
+      "votingNumber": 14,
+      "yes": 224
+    },
+    {
+      "abstain": 0,
+      "date": "2024-02-22T15:45:02",
+      "description": "wniosek o odrzucenie projektu ustawy w pierwszym czytaniu",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/6/15/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 190,
+      "no": 189,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 6,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 7 Pierwsze czytanie obywatelskiego projektu ustawy Tak dla rodziny, nie dla gender (druk nr 25) - kontynuacja",
+      "topic": "wniosek o odrzucenie projektu w pierwszym czytaniu.",
+      "totalVoted": 423,
+      "votingNumber": 15,
+      "yes": 234
+    },
+    {
+      "abstain": 0,
+      "date": "2024-02-22T15:46:07",
+      "description": "wniosek o odrzucenie projektu ustawy w pierwszym czytaniu",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/6/16/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 190,
+      "no": 189,
+      "notParticipating": 36,
+      "present": 0,
+      "sitting": 6,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 8 Pierwsze czytanie obywatelskiego projektu ustawy o zmianie ustawy z dnia 24 lipca 2015 r. - Prawo o zgromadzeniach oraz niektórych innych ustaw (druk nr 26) - kontynuacja",
+      "topic": "wniosek o odrzucenie projektu w pierwszym czytaniu.",
+      "totalVoted": 422,
+      "votingNumber": 16,
+      "yes": 233
+    },
+    {
+      "abstain": 0,
+      "date": "2024-02-22T15:47:24",
+      "description": "wniosek o odrzucenie sprawozdania z druku nr 168",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/6/17/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 407,
+      "no": 406,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 6,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 3 Sprawozdanie Ministra Sportu i Turystyki z realizacji ustawy z dnia 15 lipca 2020 r. o Polskim Bonie Turystycznym za okres od sierpnia 2020 r. do sierpnia 2023 r. wraz ze stanowiskiem Komisji (druki nr 168 i 189)",
+      "topic": "wniosek o odrzucenie sprawozdania.",
+      "totalVoted": 423,
+      "votingNumber": 17,
+      "yes": 17
+    },
+    {
+      "abstain": 5,
+      "date": "2024-02-22T15:48:43",
+      "description": "wniosek z druku nr 220",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/6/18/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 213,
+      "no": 0,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 6,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 10 Wybór uzupełniający do składu osobowego Komisji Śledczej do zbadania legalności, prawidłowości oraz celowości działań podjętych w celu przygotowania i przeprowadzenia wyborów Prezydenta Rzeczypospolitej Polskiej w 2020 roku w formie głosowania korespondencyjnego (druk nr 220)",
+      "topic": "głosowanie nad przyjęciem wniosku z druku.",
+      "totalVoted": 424,
+      "votingNumber": 18,
+      "yes": 419
+    },
+    {
+      "abstain": 2,
+      "date": "2024-02-22T15:49:51",
+      "description": "wniosek z druku nr 221",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/6/19/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 36,
+      "present": 0,
+      "sitting": 6,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 13 Zmiany w składach osobowych komisji sejmowych (druk nr 221)",
+      "topic": "głosowanie nad przyjęciem wniosku z druku",
+      "totalVoted": 422,
+      "votingNumber": 19,
+      "yes": 420
+    }
+  ],
+  "_pobrano": "2026-03-24T10:36:11Z"
+}

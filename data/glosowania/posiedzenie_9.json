@@ -1,0 +1,986 @@
+{
+  "posiedzenie": 9,
+  "data": "",
+  "tytul": "9. Posiedzenie Sejmu RP w dniach 10, 11 i 12 kwietnia 2024 r.",
+  "glosowania": [
+    {
+      "abstain": 1,
+      "date": "2024-04-10T11:25:33",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/9/1/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 339,
+      "no": 338,
+      "notParticipating": 85,
+      "present": 0,
+      "sitting": 9,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "9. posiedzenie Sejmu RP w dniach 10, 11 i 12 kwietnia 2024 r.",
+      "topic": "Wniosek o przerwę",
+      "totalVoted": 373,
+      "votingNumber": 1,
+      "yes": 34
+    },
+    {
+      "abstain": 0,
+      "date": "2024-04-10T17:03:39",
+      "description": "wniosek o wyrażenie wotum nieufności wobec Ministra Spraw Wewnętrznych i Administracji Marcina Kierwińskiego",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/9/2/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "STATUTORY_MAJORITY",
+      "majorityVotes": 231,
+      "no": 240,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 9,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 3 Wniosek o wyrażenie wotum nieufności wobec Ministra Spraw Wewnętrznych i Administracji Marcina Kierwińskiego (druki nr 255 i 279)",
+      "topic": "głosowanie nad wnioskiem o wyrażenie wotum nieufności.",
+      "totalVoted": 428,
+      "votingNumber": 2,
+      "yes": 188
+    },
+    {
+      "abstain": 2,
+      "date": "2024-04-10T17:06:03",
+      "description": "wniosek z druku nr 304",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/9/3/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 176,
+      "no": 175,
+      "notParticipating": 27,
+      "present": 0,
+      "sitting": 9,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 4 Zmiany w składach osobowych komisji sejmowych (druk nr 304)",
+      "topic": "głosowanie nad przyjęciem wniosku z druku.",
+      "totalVoted": 431,
+      "votingNumber": 3,
+      "yes": 254
+    },
+    {
+      "abstain": 1,
+      "date": "2024-04-12T14:07:00",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/9/4/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 244,
+      "no": 243,
+      "notParticipating": 17,
+      "present": 0,
+      "sitting": 9,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "9. posiedzenie Sejmu RP w dniach 10, 11 i 12 kwietnia 2024 r.",
+      "topic": "Wniosek o przerwę",
+      "totalVoted": 440,
+      "votingNumber": 4,
+      "yes": 196
+    },
+    {
+      "abstain": 0,
+      "date": "2024-04-12T14:13:00",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/9/5/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 222,
+      "no": 443,
+      "notParticipating": 14,
+      "present": 0,
+      "sitting": 9,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 19 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o rachunkowości oraz niektórych innych ustaw (druki nr 278 i 291)",
+      "topic": "poprawka 1",
+      "totalVoted": 443,
+      "votingNumber": 5,
+      "yes": 0
+    },
+    {
+      "abstain": 0,
+      "date": "2024-04-12T14:14:15",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/9/6/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 17,
+      "present": 0,
+      "sitting": 9,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 7 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy o samorządzie gminnym oraz ustawy - Kodeks wyborczy (druki nr 75 i 287)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 440,
+      "votingNumber": 6,
+      "yes": 440
+    },
+    {
+      "abstain": 0,
+      "date": "2024-04-12T14:17:52",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/9/7/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 245,
+      "no": 244,
+      "notParticipating": 13,
+      "present": 0,
+      "sitting": 9,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Krajowej Radzie Sądownictwa (druki nr 219, 280 i 280-A)",
+      "topic": "wniosek o odrzucenie w całości projektu.",
+      "totalVoted": 444,
+      "votingNumber": 7,
+      "yes": 200
+    },
+    {
+      "abstain": 0,
+      "date": "2024-04-12T14:18:31",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/9/8/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 13,
+      "present": 0,
+      "sitting": 9,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Krajowej Radzie Sądownictwa (druki nr 219, 280 i 280-A)",
+      "topic": "wniosek mniejszości 1",
+      "totalVoted": 444,
+      "votingNumber": 8,
+      "yes": 444
+    },
+    {
+      "abstain": 0,
+      "date": "2024-04-12T14:19:08",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/9/9/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 242,
+      "no": 241,
+      "notParticipating": 17,
+      "present": 0,
+      "sitting": 9,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Krajowej Radzie Sądownictwa (druki nr 219, 280 i 280-A)",
+      "topic": "poprawka 1",
+      "totalVoted": 440,
+      "votingNumber": 9,
+      "yes": 199
+    },
+    {
+      "abstain": 0,
+      "date": "2024-04-12T14:19:41",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/9/10/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 244,
+      "no": 243,
+      "notParticipating": 14,
+      "present": 0,
+      "sitting": 9,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Krajowej Radzie Sądownictwa (druki nr 219, 280 i 280-A)",
+      "topic": "poprawka 2",
+      "totalVoted": 443,
+      "votingNumber": 10,
+      "yes": 200
+    },
+    {
+      "abstain": 0,
+      "date": "2024-04-12T14:20:13",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/9/11/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 245,
+      "no": 244,
+      "notParticipating": 16,
+      "present": 0,
+      "sitting": 9,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Krajowej Radzie Sądownictwa (druki nr 219, 280 i 280-A)",
+      "topic": "poprawka 3",
+      "totalVoted": 441,
+      "votingNumber": 11,
+      "yes": 197
+    },
+    {
+      "abstain": 0,
+      "date": "2024-04-12T14:20:45",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/9/12/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 243,
+      "no": 242,
+      "notParticipating": 15,
+      "present": 0,
+      "sitting": 9,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Krajowej Radzie Sądownictwa (druki nr 219, 280 i 280-A)",
+      "topic": "poprawka 4",
+      "totalVoted": 442,
+      "votingNumber": 12,
+      "yes": 200
+    },
+    {
+      "abstain": 0,
+      "date": "2024-04-12T14:21:18",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/9/13/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 244,
+      "no": 243,
+      "notParticipating": 14,
+      "present": 0,
+      "sitting": 9,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Krajowej Radzie Sądownictwa (druki nr 219, 280 i 280-A)",
+      "topic": "poprawka 5",
+      "totalVoted": 443,
+      "votingNumber": 13,
+      "yes": 200
+    },
+    {
+      "abstain": 0,
+      "date": "2024-04-12T14:21:50",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/9/14/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 245,
+      "no": 244,
+      "notParticipating": 14,
+      "present": 0,
+      "sitting": 9,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Krajowej Radzie Sądownictwa (druki nr 219, 280 i 280-A)",
+      "topic": "poprawka 6",
+      "totalVoted": 443,
+      "votingNumber": 14,
+      "yes": 199
+    },
+    {
+      "abstain": 0,
+      "date": "2024-04-12T14:22:26",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/9/15/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 200,
+      "no": 199,
+      "notParticipating": 14,
+      "present": 0,
+      "sitting": 9,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Krajowej Radzie Sądownictwa (druki nr 219, 280 i 280-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 443,
+      "votingNumber": 15,
+      "yes": 244
+    },
+    {
+      "abstain": 0,
+      "date": "2024-04-12T14:23:59",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/9/16/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 16,
+      "no": 15,
+      "notParticipating": 15,
+      "present": 0,
+      "sitting": 9,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o wsparciu kredytobiorców, którzy zaciągnęli kredyt mieszkaniowy i znajdują się w trudnej sytuacji finansowej oraz ustawy o finansowaniu społecznościowym dla przedsięwzięć gospodarczych i pomocy kredytobiorcom (druki nr 248 i 286)",
+      "topic": "wniosek o niezwłoczne przystąpienie do 3. czyt.",
+      "totalVoted": 442,
+      "votingNumber": 16,
+      "yes": 427
+    },
+    {
+      "abstain": 0,
+      "date": "2024-04-12T14:24:47",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/9/17/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 429,
+      "no": 428,
+      "notParticipating": 15,
+      "present": 0,
+      "sitting": 9,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o wsparciu kredytobiorców, którzy zaciągnęli kredyt mieszkaniowy i znajdują się w trudnej sytuacji finansowej oraz ustawy o finansowaniu społecznościowym dla przedsięwzięć gospodarczych i pomocy kredytobiorcom (druki nr 248 i 286)",
+      "topic": "wniosek o odrzucenie w całości projektu.",
+      "totalVoted": 442,
+      "votingNumber": 17,
+      "yes": 14
+    },
+    {
+      "abstain": 4,
+      "date": "2024-04-12T14:25:23",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/9/18/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 15,
+      "no": 14,
+      "notParticipating": 15,
+      "present": 0,
+      "sitting": 9,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o wsparciu kredytobiorców, którzy zaciągnęli kredyt mieszkaniowy i znajdują się w trudnej sytuacji finansowej oraz ustawy o finansowaniu społecznościowym dla przedsięwzięć gospodarczych i pomocy kredytobiorcom (druki nr 248 i 286)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 442,
+      "votingNumber": 18,
+      "yes": 424
+    },
+    {
+      "abstain": 1,
+      "date": "2024-04-12T14:28:06",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/9/19/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 245,
+      "no": 244,
+      "notParticipating": 13,
+      "present": 0,
+      "sitting": 9,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 5 Sprawozdanie Komisji o poselskim projekcie ustawy o uchyleniu ustawy z dnia 13 lipca 2023 r. o zmianie ustawy o ochronie zabytków i opiece nad zabytkami (druki nr 257, 285 i 285-A)",
+      "topic": "wniosek o odrzucenie w całości projektu.",
+      "totalVoted": 444,
+      "votingNumber": 19,
+      "yes": 199
+    },
+    {
+      "abstain": 0,
+      "date": "2024-04-12T14:28:55",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/9/20/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 182,
+      "no": 181,
+      "notParticipating": 14,
+      "present": 0,
+      "sitting": 9,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 5 Sprawozdanie Komisji o poselskim projekcie ustawy o uchyleniu ustawy z dnia 13 lipca 2023 r. o zmianie ustawy o ochronie zabytków i opiece nad zabytkami (druki nr 257, 285 i 285-A)",
+      "topic": "poprawki nr 1-2",
+      "totalVoted": 443,
+      "votingNumber": 20,
+      "yes": 262
+    },
+    {
+      "abstain": 2,
+      "date": "2024-04-12T14:29:30",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/9/21/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 196,
+      "no": 195,
+      "notParticipating": 15,
+      "present": 0,
+      "sitting": 9,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 5 Sprawozdanie Komisji o poselskim projekcie ustawy o uchyleniu ustawy z dnia 13 lipca 2023 r. o zmianie ustawy o ochronie zabytków i opiece nad zabytkami (druki nr 257, 285 i 285-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 442,
+      "votingNumber": 21,
+      "yes": 245
+    },
+    {
+      "abstain": 0,
+      "date": "2024-04-12T14:32:50",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/9/22/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 428,
+      "no": 427,
+      "notParticipating": 14,
+      "present": 0,
+      "sitting": 9,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 6 Sprawozdanie Komisji o rządowym projekcie ustawy o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług przez podmioty gospodarcze (druki nr 241, 288 i 288-A)",
+      "topic": "wniosek o odrzucenie w całości projektu.",
+      "totalVoted": 443,
+      "votingNumber": 22,
+      "yes": 16
+    },
+    {
+      "abstain": 14,
+      "date": "2024-04-12T14:33:23",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/9/23/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 3,
+      "no": 2,
+      "notParticipating": 14,
+      "present": 0,
+      "sitting": 9,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 6 Sprawozdanie Komisji o rządowym projekcie ustawy o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług przez podmioty gospodarcze (druki nr 241, 288 i 288-A)",
+      "topic": "poprawka 1",
+      "totalVoted": 443,
+      "votingNumber": 23,
+      "yes": 427
+    },
+    {
+      "abstain": 0,
+      "date": "2024-04-12T14:34:01",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/9/24/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 11,
+      "no": 10,
+      "notParticipating": 14,
+      "present": 0,
+      "sitting": 9,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 6 Sprawozdanie Komisji o rządowym projekcie ustawy o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług przez podmioty gospodarcze (druki nr 241, 288 i 288-A)",
+      "topic": "poprawki nr 3-4",
+      "totalVoted": 443,
+      "votingNumber": 24,
+      "yes": 433
+    },
+    {
+      "abstain": 0,
+      "date": "2024-04-12T14:34:34",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/9/25/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 15,
+      "no": 14,
+      "notParticipating": 15,
+      "present": 0,
+      "sitting": 9,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 6 Sprawozdanie Komisji o rządowym projekcie ustawy o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług przez podmioty gospodarcze (druki nr 241, 288 i 288-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 442,
+      "votingNumber": 25,
+      "yes": 428
+    },
+    {
+      "abstain": 2,
+      "date": "2024-04-12T14:35:27",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/9/26/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 15,
+      "no": 14,
+      "notParticipating": 15,
+      "present": 0,
+      "sitting": 9,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych (druki nr 277 i 290)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 442,
+      "votingNumber": 26,
+      "yes": 426
+    },
+    {
+      "abstain": 0,
+      "date": "2024-04-12T14:36:42",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/9/27/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 14,
+      "present": 0,
+      "sitting": 9,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 15 Sprawozdanie Komisji o rządowym projekcie ustawy o ratyfikacji Protokołu między Rzecząpospolitą Polską a Ukrainą o zmianie Umowy między Rzecząpospolitą Polską a Ukrainą o pomocy prawnej i stosunkach prawnych w sprawach cywilnych i karnych z dnia 24 maja 1993 r., podpisanego w Warszawie dnia 19 września 2023 r. (druki nr 231 i 251)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 443,
+      "votingNumber": 27,
+      "yes": 443
+    },
+    {
+      "abstain": 15,
+      "date": "2024-04-12T14:38:20",
+      "description": "wniosek o odrzucenie projektu ustawy w pierwszym czytaniu",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/9/28/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 224,
+      "no": 223,
+      "notParticipating": 15,
+      "present": 0,
+      "sitting": 9,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 10., 11., 12. i 13 Pierwsze czytanie poselskiego projektu ustawy o zmianie ustawy - Kodeks karny (druk nr 176)Pierwsze czytanie poselskiego projektu ustawy o bezpiecznym przerywaniu ciąży (druk nr 177)Pierwsze czytanie poselskiego projektu ustawy o zmianie ustawy o planowaniu rodziny, ochronie płodu ludzkiego i warunkach dopuszczalności przerywania ciąży (druk nr 223)Pierwsze czytanie poselskiego projektu ustawy o świadomym rodzicielstwie (druk nr 224)",
+      "topic": "wniosek o odrzucenie projektu z druku nr 176 w pierwszym czytaniu.",
+      "totalVoted": 442,
+      "votingNumber": 28,
+      "yes": 204
+    },
+    {
+      "abstain": 16,
+      "date": "2024-04-12T14:39:04",
+      "description": "wniosek o odrzucenie projektu ustawy w pierwszym czytaniu",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/9/29/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 223,
+      "no": 222,
+      "notParticipating": 13,
+      "present": 0,
+      "sitting": 9,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 10., 11., 12. i 13 Pierwsze czytanie poselskiego projektu ustawy o zmianie ustawy - Kodeks karny (druk nr 176)Pierwsze czytanie poselskiego projektu ustawy o bezpiecznym przerywaniu ciąży (druk nr 177)Pierwsze czytanie poselskiego projektu ustawy o zmianie ustawy o planowaniu rodziny, ochronie płodu ludzkiego i warunkach dopuszczalności przerywania ciąży (druk nr 223)Pierwsze czytanie poselskiego projektu ustawy o świadomym rodzicielstwie (druk nr 224)",
+      "topic": "wniosek o odrzucenie projektu z druku nr 177 w pierwszym czytaniu.",
+      "totalVoted": 444,
+      "votingNumber": 29,
+      "yes": 206
+    },
+    {
+      "abstain": 23,
+      "date": "2024-04-12T14:39:52",
+      "description": "wniosek o odrzucenie projektu ustawy w pierwszym czytaniu",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/9/30/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 245,
+      "no": 244,
+      "notParticipating": 19,
+      "present": 0,
+      "sitting": 9,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 10., 11., 12. i 13 Pierwsze czytanie poselskiego projektu ustawy o zmianie ustawy - Kodeks karny (druk nr 176)Pierwsze czytanie poselskiego projektu ustawy o bezpiecznym przerywaniu ciąży (druk nr 177)Pierwsze czytanie poselskiego projektu ustawy o zmianie ustawy o planowaniu rodziny, ochronie płodu ludzkiego i warunkach dopuszczalności przerywania ciąży (druk nr 223)Pierwsze czytanie poselskiego projektu ustawy o świadomym rodzicielstwie (druk nr 224)",
+      "topic": "wniosek o odrzucenie projektu z druku nr 223 w pierwszym czytaniu.",
+      "totalVoted": 438,
+      "votingNumber": 30,
+      "yes": 171
+    },
+    {
+      "abstain": 16,
+      "date": "2024-04-12T14:40:38",
+      "description": "wniosek o odrzucenie projektu ustawy w pierwszym czytaniu",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/9/31/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 223,
+      "no": 222,
+      "notParticipating": 13,
+      "present": 0,
+      "sitting": 9,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 10., 11., 12. i 13 Pierwsze czytanie poselskiego projektu ustawy o zmianie ustawy - Kodeks karny (druk nr 176)Pierwsze czytanie poselskiego projektu ustawy o bezpiecznym przerywaniu ciąży (druk nr 177)Pierwsze czytanie poselskiego projektu ustawy o zmianie ustawy o planowaniu rodziny, ochronie płodu ludzkiego i warunkach dopuszczalności przerywania ciąży (druk nr 223)Pierwsze czytanie poselskiego projektu ustawy o świadomym rodzicielstwie (druk nr 224)",
+      "topic": "wniosek o odrzucenie projektu z druku nr 224 w pierwszym czytaniu.",
+      "totalVoted": 444,
+      "votingNumber": 31,
+      "yes": 206
+    },
+    {
+      "abstain": 2,
+      "date": "2024-04-12T14:42:30",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/9/32/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 246,
+      "no": 245,
+      "notParticipating": 13,
+      "present": 0,
+      "sitting": 9,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 18 Informacja Ministra Spraw Zagranicznych na temat śmierci Damiana Sobola podczas niesienia przez niego pomocy humanitarnej ofiarom konfliktu w Strefie Gazy",
+      "topic": "wniosek o odrzucenie informacji",
+      "totalVoted": 444,
+      "votingNumber": 32,
+      "yes": 197
+    },
+    {
+      "abstain": 0,
+      "date": "2024-04-12T14:43:57",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/9/33/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 245,
+      "no": 244,
+      "notParticipating": 14,
+      "present": 0,
+      "sitting": 9,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Rozstrzygnięcie przez Sejm wniosku o uzupełnienie porządku dziennego o punkt: Informacja Prezesa Rady Ministrów w sprawie przyjęcia bez sprzeciwu i dyskusji propozycji zmian traktatowych Parlamentu Europejskiego na posiedzeniu Rady Unii Europejskiej w dniu 18 grudnia 2023 r.",
+      "topic": "głosowanie nad przyjęciem wniosku o uzupełnienie porządku dziennego",
+      "totalVoted": 443,
+      "votingNumber": 33,
+      "yes": 199
+    },
+    {
+      "abstain": 13,
+      "date": "2024-04-12T15:00:37",
+      "description": "odwołanie Łukasza Kondratko ze stanowiska członka Komisji do spraw reprywatyzacji nieruchomości warszawskich",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/9/34/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 222,
+      "no": 186,
+      "notParticipating": 15,
+      "present": 0,
+      "sitting": 9,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 20 Odwołanie członków Komisji do spraw reprywatyzacji nieruchomości warszawskich (druki nr 270, 271, 272, 273, 281, 282, 283 i 284)",
+      "topic": "Głosowanie nad odwołaniem Pana Wiktora Klimiuka",
+      "totalVoted": 442,
+      "votingNumber": 34,
+      "yes": 243
+    },
+    {
+      "abstain": 14,
+      "date": "2024-04-12T15:01:19",
+      "description": "odwołanie Wiktora Klimiuka ze stanowiska członka Komisji do spraw reprywatyzacji nieruchomości warszawskich",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/9/35/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 221,
+      "no": 185,
+      "notParticipating": 17,
+      "present": 0,
+      "sitting": 9,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 20 Odwołanie członków Komisji do spraw reprywatyzacji nieruchomości warszawskich (druki nr 270, 271, 272, 273, 281, 282, 283 i 284)",
+      "topic": "Głosowanie nad odwołaniem Pana Łukasza Kondratko",
+      "totalVoted": 440,
+      "votingNumber": 35,
+      "yes": 241
+    },
+    {
+      "abstain": 14,
+      "date": "2024-04-12T15:02:03",
+      "description": "odwołanie Jana Mosińskiego ze stanowiska członka Komisji do spraw reprywatyzacji nieruchomości warszawskich",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/9/36/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 221,
+      "no": 185,
+      "notParticipating": 17,
+      "present": 0,
+      "sitting": 9,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 20 Odwołanie członków Komisji do spraw reprywatyzacji nieruchomości warszawskich (druki nr 270, 271, 272, 273, 281, 282, 283 i 284)",
+      "topic": "Głosowanie nad odwołaniem Pana Jana Mosińskiego",
+      "totalVoted": 440,
+      "votingNumber": 36,
+      "yes": 241
+    },
+    {
+      "abstain": 0,
+      "date": "2024-04-12T15:12:49",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/9/37/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 199,
+      "no": 198,
+      "notParticipating": 20,
+      "present": 0,
+      "sitting": 9,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "9. posiedzenie Sejmu RP w dniach 10, 11 i 12 kwietnia 2024 r.",
+      "topic": "wniosek o zastosowanie art. 51 pkt 1 regulaminu Sejmu",
+      "totalVoted": 437,
+      "votingNumber": 37,
+      "yes": 239
+    },
+    {
+      "abstain": 1,
+      "date": "2024-04-12T15:27:58",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/9/38/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 198,
+      "no": 197,
+      "notParticipating": 18,
+      "present": 0,
+      "sitting": 9,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 21 Pierwsze czytanie przedstawionego przez Prezydium Sejmu projektu uchwały w sprawie powołania i wyboru składu osobowego Komisji Nadzwyczajnej do rozpatrzenia projektów ustaw dotyczących prawa do przerywania ciąży (druk nr 306)",
+      "topic": "wniosek o niezwłoczne przystąpienie do drugiego czytania projektu ustawy",
+      "totalVoted": 439,
+      "votingNumber": 38,
+      "yes": 241
+    },
+    {
+      "abstain": 14,
+      "date": "2024-04-12T15:33:28",
+      "description": "całość projektu uchwały",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/9/39/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 183,
+      "no": 182,
+      "notParticipating": 20,
+      "present": 0,
+      "sitting": 9,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 21 Pierwsze czytanie przedstawionego przez Prezydium Sejmu projektu uchwały w sprawie powołania i wyboru składu osobowego Komisji Nadzwyczajnej do rozpatrzenia projektów ustaw dotyczących prawa do przerywania ciąży (druk nr 306)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 437,
+      "votingNumber": 39,
+      "yes": 241
+    },
+    {
+      "abstain": 3,
+      "date": "2024-04-12T15:35:50",
+      "description": "wniosek z druku nr 307",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/9/40/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 3,
+      "no": 2,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 9,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 22 Zmiany w składach osobowych komisji sejmowych (druk nr 307)",
+      "topic": "głosowanie nad przyjęciem wniosku z druku.",
+      "totalVoted": 427,
+      "votingNumber": 40,
+      "yes": 422
+    }
+  ],
+  "_pobrano": "2026-03-24T10:36:13Z"
+}

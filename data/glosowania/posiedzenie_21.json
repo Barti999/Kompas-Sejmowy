@@ -1,0 +1,2120 @@
+{
+  "posiedzenie": 21,
+  "data": "",
+  "tytul": "21. Posiedzenie Sejmu RP w dniach 6, 7 i 8 listopada 2024 r.",
+  "glosowania": [
+    {
+      "abstain": 35,
+      "date": "2024-11-06T10:09:54",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/1/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 151,
+      "no": 150,
+      "notParticipating": 42,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "21. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 6, 7 i 8 listopada 2024 r.",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu",
+      "totalVoted": 418,
+      "votingNumber": 1,
+      "yes": 233
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-06T10:11:51",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/2/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 178,
+      "no": 177,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "21. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 6, 7 i 8 listopada 2024 r.",
+      "topic": "ustalenie czasów debat",
+      "totalVoted": 425,
+      "votingNumber": 2,
+      "yes": 248
+    },
+    {
+      "abstain": 2,
+      "date": "2024-11-06T10:19:55",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/3/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 239,
+      "no": 238,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "21. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 6, 7 i 8 listopada 2024 r.",
+      "topic": "Wniosek o przerwę",
+      "totalVoted": 430,
+      "votingNumber": 3,
+      "yes": 190
+    },
+    {
+      "abstain": 5,
+      "date": "2024-11-06T10:22:09",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/4/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 239,
+      "no": 238,
+      "notParticipating": 28,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "21. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 6, 7 i 8 listopada 2024 r.",
+      "topic": "wniosek o odroczenie posiedzenia",
+      "totalVoted": 432,
+      "votingNumber": 4,
+      "yes": 189
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-06T10:31:50",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/5/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 230,
+      "no": 0,
+      "notParticipating": 28,
+      "present": 432,
+      "sitting": 21,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "21. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 6, 7 i 8 listopada 2024 r.",
+      "topic": "Głosowanie kworum",
+      "totalVoted": 432,
+      "votingNumber": 5,
+      "yes": 0
+    },
+    {
+      "abstain": 16,
+      "date": "2024-11-06T16:09:06",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/6/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 182,
+      "no": 181,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o opodatkowaniu wyrównawczym jednostek składowych grup międzynarodowych i krajowych (druki nr 674, 734 i 734-A)",
+      "topic": "poprawka 1",
+      "totalVoted": 431,
+      "votingNumber": 6,
+      "yes": 234
+    },
+    {
+      "abstain": 15,
+      "date": "2024-11-06T16:09:36",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/7/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 183,
+      "no": 182,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o opodatkowaniu wyrównawczym jednostek składowych grup międzynarodowych i krajowych (druki nr 674, 734 i 734-A)",
+      "topic": "poprawka 2",
+      "totalVoted": 431,
+      "votingNumber": 7,
+      "yes": 234
+    },
+    {
+      "abstain": 16,
+      "date": "2024-11-06T16:10:24",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/8/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 183,
+      "no": 182,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o opodatkowaniu wyrównawczym jednostek składowych grup międzynarodowych i krajowych (druki nr 674, 734 i 734-A)",
+      "topic": "poprawki nr 3 i 8",
+      "totalVoted": 436,
+      "votingNumber": 8,
+      "yes": 238
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-06T16:10:59",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/9/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 183,
+      "no": 182,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o opodatkowaniu wyrównawczym jednostek składowych grup międzynarodowych i krajowych (druki nr 674, 734 i 734-A)",
+      "topic": "poprawki nr 4-6",
+      "totalVoted": 436,
+      "votingNumber": 9,
+      "yes": 254
+    },
+    {
+      "abstain": 16,
+      "date": "2024-11-06T16:11:31",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/10/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 183,
+      "no": 182,
+      "notParticipating": 25,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o opodatkowaniu wyrównawczym jednostek składowych grup międzynarodowych i krajowych (druki nr 674, 734 i 734-A)",
+      "topic": "poprawka 7",
+      "totalVoted": 435,
+      "votingNumber": 10,
+      "yes": 237
+    },
+    {
+      "abstain": 16,
+      "date": "2024-11-06T16:12:05",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/11/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 183,
+      "no": 182,
+      "notParticipating": 25,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o opodatkowaniu wyrównawczym jednostek składowych grup międzynarodowych i krajowych (druki nr 674, 734 i 734-A)",
+      "topic": "poprawka 9",
+      "totalVoted": 435,
+      "votingNumber": 11,
+      "yes": 237
+    },
+    {
+      "abstain": 9,
+      "date": "2024-11-06T16:12:36",
+      "description": "Całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/12/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 189,
+      "no": 188,
+      "notParticipating": 27,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o opodatkowaniu wyrównawczym jednostek składowych grup międzynarodowych i krajowych (druki nr 674, 734 i 734-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 433,
+      "votingNumber": 12,
+      "yes": 236
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-06T16:15:24",
+      "description": "Wniosek o odrzucenie projektu ustawy w pierwszym czytaniu",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/13/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 240,
+      "no": 239,
+      "notParticipating": 22,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 2 Pierwsze czytanie rządowego projektu ustawy o zmianie ustawy budżetowej na rok 2024 (druk nr 754)",
+      "topic": "wniosek o odrzucenie projektu w pierwszym czytaniu.",
+      "totalVoted": 438,
+      "votingNumber": 13,
+      "yes": 199
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-06T16:16:36",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/14/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 199,
+      "no": 198,
+      "notParticipating": 22,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "21. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 6, 7 i 8 listopada 2024 r.",
+      "topic": "wniosek o zastosowanie art. 39 ust. 3 regulaminu Sejmu",
+      "totalVoted": 438,
+      "votingNumber": 14,
+      "yes": 240
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-06T16:17:29",
+      "description": "Wniosek o odrzucenie projektu ustawy w pierwszym czytaniu",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/15/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 238,
+      "no": 237,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 3 Pierwsze czytanie rządowego projektu ustawy o zmianie ustawy o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2024 (druk nr 755)",
+      "topic": "wniosek o odrzucenie projektu w pierwszym czytaniu.",
+      "totalVoted": 437,
+      "votingNumber": 15,
+      "yes": 200
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-06T16:18:20",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/16/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 202,
+      "no": 201,
+      "notParticipating": 21,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "21. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 6, 7 i 8 listopada 2024 r.",
+      "topic": "wniosek o zastosowanie art. 39 ust. 3 regulaminu Sejmu",
+      "totalVoted": 439,
+      "votingNumber": 16,
+      "yes": 238
+    },
+    {
+      "abstain": 6,
+      "date": "2024-11-06T16:19:12",
+      "description": "wniosek z druku nr 784",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/17/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 13,
+      "no": 12,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 5 Wybór nowego składu osobowego Komisji do Spraw Unii Europejskiej (druk nr 784)",
+      "topic": "głosowanie nad przyjęciem wniosku z druku.",
+      "totalVoted": 436,
+      "votingNumber": 17,
+      "yes": 418
+    },
+    {
+      "abstain": 2,
+      "date": "2024-11-06T16:20:06",
+      "description": "wniosek z druku 783",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/18/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 191,
+      "no": 190,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 6 Zmiany w składach osobowych komisji sejmowych (druk nr 783)",
+      "topic": "głosowanie nad przyjęciem wniosku z druku.",
+      "totalVoted": 434,
+      "votingNumber": 18,
+      "yes": 242
+    },
+    {
+      "abstain": 1,
+      "date": "2024-11-08T09:12:05",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/19/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 230,
+      "no": 229,
+      "notParticipating": 43,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "21. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 6, 7 i 8 listopada 2024 r.",
+      "topic": "Wniosek o przerwę",
+      "totalVoted": 417,
+      "votingNumber": 19,
+      "yes": 187
+    },
+    {
+      "abstain": 1,
+      "date": "2024-11-08T09:16:05",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/20/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 229,
+      "no": 228,
+      "notParticipating": 43,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "21. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 6, 7 i 8 listopada 2024 r.",
+      "topic": "wniosek o odroczenie posiedzenia",
+      "totalVoted": 417,
+      "votingNumber": 20,
+      "yes": 188
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-08T09:21:49",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/21/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 230,
+      "no": 0,
+      "notParticipating": 48,
+      "present": 412,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "21. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 6, 7 i 8 listopada 2024 r.",
+      "topic": "Głosowanie kworum",
+      "totalVoted": 412,
+      "votingNumber": 21,
+      "yes": 0
+    },
+    {
+      "abstain": 7,
+      "date": "2024-11-08T09:23:59",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/22/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 389,
+      "no": 388,
+      "notParticipating": 45,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "21. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 6, 7 i 8 listopada 2024 r.",
+      "topic": "wniosek o zamknięcie posiedzenia",
+      "totalVoted": 415,
+      "votingNumber": 22,
+      "yes": 20
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-08T09:25:43",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/23/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 188,
+      "no": 187,
+      "notParticipating": 44,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie sprawozdania z druku nr 787",
+      "topic": "głosowanie nad przyjęciem wniosku",
+      "totalVoted": 416,
+      "votingNumber": 23,
+      "yes": 229
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-08T09:26:23",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/24/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 188,
+      "no": 187,
+      "notParticipating": 44,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie sprawozdania z druku nr 786",
+      "topic": "głosowanie nad przyjęciem wniosku",
+      "totalVoted": 416,
+      "votingNumber": 24,
+      "yes": 229
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-08T09:26:57",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/25/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 12,
+      "no": 11,
+      "notParticipating": 46,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie sprawozdania z druku nr 785",
+      "topic": "głosowanie nad przyjęciem wniosku",
+      "totalVoted": 414,
+      "votingNumber": 25,
+      "yes": 403
+    },
+    {
+      "abstain": 1,
+      "date": "2024-11-08T09:27:34",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/26/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 188,
+      "no": 187,
+      "notParticipating": 44,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie sprawozdania z druku nr 793",
+      "topic": "głosowanie nad przyjęciem wniosku",
+      "totalVoted": 416,
+      "votingNumber": 26,
+      "yes": 228
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-08T09:28:11",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/27/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 14,
+      "no": 13,
+      "notParticipating": 44,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie sprawozdania z druku nr 805",
+      "topic": "głosowanie nad przyjęciem wniosku",
+      "totalVoted": 416,
+      "votingNumber": 27,
+      "yes": 403
+    },
+    {
+      "abstain": 1,
+      "date": "2024-11-08T09:29:18",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/28/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 15,
+      "no": 14,
+      "notParticipating": 45,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Wniosek o skrócenie terminu, o którym mowa w art. 37 ust. 4 regulaminu Sejmu w sprawie przedłożenia z druku nr 777",
+      "topic": "głosowanie nad przyjęciem wniosku",
+      "totalVoted": 415,
+      "votingNumber": 28,
+      "yes": 400
+    },
+    {
+      "abstain": 5,
+      "date": "2024-11-08T09:32:11",
+      "description": "wniosek z druku nr 806",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/29/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 24,
+      "no": 23,
+      "notParticipating": 45,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 30 Zmiany w składach osobowych komisji sejmowych (druk nr 806)",
+      "topic": "głosowanie nad przyjęciem wniosku z druku.",
+      "totalVoted": 415,
+      "votingNumber": 29,
+      "yes": 387
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-08T18:08:26",
+      "description": "Całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/30/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 2,
+      "no": 1,
+      "notParticipating": 12,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 8 Sprawozdanie Komisji o komisyjnym projekcie ustawy o zmianie ustawy o działalności pożytku publicznego i o wolontariacie (druki nr 445 i 733)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 448,
+      "votingNumber": 30,
+      "yes": 447
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-08T18:09:44",
+      "description": "Całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/31/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 9,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 12 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie nazwy Akademii Wychowania Fizycznego im. Bronisława Czecha w Krakowie (druki nr 727 i 739)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 451,
+      "votingNumber": 31,
+      "yes": 451
+    },
+    {
+      "abstain": 17,
+      "date": "2024-11-08T18:10:36",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/32/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 2,
+      "no": 1,
+      "notParticipating": 8,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw (druki nr 756 i 785)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 452,
+      "votingNumber": 32,
+      "yes": 434
+    },
+    {
+      "abstain": 17,
+      "date": "2024-11-08T18:15:57",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/33/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 240,
+      "no": 239,
+      "notParticipating": 11,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 18 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy budżetowej na rok 2024 (druki nr 754, 787 i 787-A)",
+      "topic": "poprawka 1",
+      "totalVoted": 449,
+      "votingNumber": 33,
+      "yes": 193
+    },
+    {
+      "abstain": 5,
+      "date": "2024-11-08T18:16:28",
+      "description": "Całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/34/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 206,
+      "no": 205,
+      "notParticipating": 9,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 18 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy budżetowej na rok 2024 (druki nr 754, 787 i 787-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 451,
+      "votingNumber": 34,
+      "yes": 241
+    },
+    {
+      "abstain": 5,
+      "date": "2024-11-08T18:17:17",
+      "description": "Całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/35/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 207,
+      "no": 206,
+      "notParticipating": 8,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 19 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2024 (druki nr 755 i 786)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 452,
+      "votingNumber": 35,
+      "yes": 241
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-08T18:19:31",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/36/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 207,
+      "no": 206,
+      "notParticipating": 8,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 9 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o zmianie niektórych ustaw wspierających rozwój mieszkalnictwa (druki nr 702, 736 i 736-A)",
+      "topic": "poprawka 1",
+      "totalVoted": 452,
+      "votingNumber": 36,
+      "yes": 246
+    },
+    {
+      "abstain": 16,
+      "date": "2024-11-08T18:20:03",
+      "description": "Całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/37/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 190,
+      "no": 189,
+      "notParticipating": 10,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 9 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o zmianie niektórych ustaw wspierających rozwój mieszkalnictwa (druki nr 702, 736 i 736-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 450,
+      "votingNumber": 37,
+      "yes": 245
+    },
+    {
+      "abstain": 4,
+      "date": "2024-11-08T18:21:06",
+      "description": "Wniosek o odrzucenie projektu ustawy w pierwszym czytaniu",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/38/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 233,
+      "no": 232,
+      "notParticipating": 8,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 7 Pierwsze czytanie poselskiego projektu ustawy o zmianie ustawy - Kodeks karny (druk nr 611)",
+      "topic": "wniosek o odrzucenie projektu w pierwszym czytaniu.",
+      "totalVoted": 452,
+      "votingNumber": 38,
+      "yes": 216
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-08T18:27:50",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/39/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 246,
+      "no": 245,
+      "notParticipating": 9,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o ochronie ludności i obronie cywilnej (druki nr 664, 749 i 749-A)",
+      "topic": "poprawki nr 1, 3 i 19",
+      "totalVoted": 451,
+      "votingNumber": 39,
+      "yes": 206
+    },
+    {
+      "abstain": 13,
+      "date": "2024-11-08T18:28:42",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/40/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 198,
+      "no": 197,
+      "notParticipating": 9,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o ochronie ludności i obronie cywilnej (druki nr 664, 749 i 749-A)",
+      "topic": "poprawka 2",
+      "totalVoted": 451,
+      "votingNumber": 40,
+      "yes": 241
+    },
+    {
+      "abstain": 1,
+      "date": "2024-11-08T18:29:34",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/41/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 4,
+      "no": 3,
+      "notParticipating": 12,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o ochronie ludności i obronie cywilnej (druki nr 664, 749 i 749-A)",
+      "topic": "głosowanie nad przyjęciem wniosku o odrębne głosowanie poprawki 32.",
+      "totalVoted": 448,
+      "votingNumber": 41,
+      "yes": 444
+    },
+    {
+      "abstain": 16,
+      "date": "2024-11-08T18:30:05",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/42/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 6,
+      "no": 5,
+      "notParticipating": 12,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o ochronie ludności i obronie cywilnej (druki nr 664, 749 i 749-A)",
+      "topic": "poprawki nr 4, 8 i 15",
+      "totalVoted": 448,
+      "votingNumber": 42,
+      "yes": 427
+    },
+    {
+      "abstain": 209,
+      "date": "2024-11-08T18:30:55",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/43/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 236,
+      "no": 235,
+      "notParticipating": 11,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o ochronie ludności i obronie cywilnej (druki nr 664, 749 i 749-A)",
+      "topic": "poprawki nr 5-7, 10-12, 17-18, 33-40 oraz 42-47",
+      "totalVoted": 449,
+      "votingNumber": 43,
+      "yes": 5
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-08T18:31:28",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/44/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 11,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o ochronie ludności i obronie cywilnej (druki nr 664, 749 i 749-A)",
+      "topic": "poprawka 9",
+      "totalVoted": 449,
+      "votingNumber": 44,
+      "yes": 449
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-08T18:31:55",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/45/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 9,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o ochronie ludności i obronie cywilnej (druki nr 664, 749 i 749-A)",
+      "topic": "poprawka 13",
+      "totalVoted": 451,
+      "votingNumber": 45,
+      "yes": 451
+    },
+    {
+      "abstain": 1,
+      "date": "2024-11-08T18:32:20",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/46/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 12,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o ochronie ludności i obronie cywilnej (druki nr 664, 749 i 749-A)",
+      "topic": "poprawka 14",
+      "totalVoted": 448,
+      "votingNumber": 46,
+      "yes": 447
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-08T18:32:50",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/47/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 18,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o ochronie ludności i obronie cywilnej (druki nr 664, 749 i 749-A)",
+      "topic": "poprawka 16",
+      "totalVoted": 442,
+      "votingNumber": 47,
+      "yes": 442
+    },
+    {
+      "abstain": 17,
+      "date": "2024-11-08T18:33:33",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/48/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 11,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o ochronie ludności i obronie cywilnej (druki nr 664, 749 i 749-A)",
+      "topic": "poprawka 20",
+      "totalVoted": 449,
+      "votingNumber": 48,
+      "yes": 432
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-08T18:34:08",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/49/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 187,
+      "no": 186,
+      "notParticipating": 11,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o ochronie ludności i obronie cywilnej (druki nr 664, 749 i 749-A)",
+      "topic": "poprawka 21",
+      "totalVoted": 449,
+      "votingNumber": 49,
+      "yes": 263
+    },
+    {
+      "abstain": 180,
+      "date": "2024-11-08T18:34:54",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/50/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 258,
+      "no": 257,
+      "notParticipating": 14,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o ochronie ludności i obronie cywilnej (druki nr 664, 749 i 749-A)",
+      "topic": "poprawka 23",
+      "totalVoted": 446,
+      "votingNumber": 50,
+      "yes": 9
+    },
+    {
+      "abstain": 203,
+      "date": "2024-11-08T18:35:33",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/51/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 242,
+      "no": 241,
+      "notParticipating": 11,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o ochronie ludności i obronie cywilnej (druki nr 664, 749 i 749-A)",
+      "topic": "poprawki nr 24-27",
+      "totalVoted": 449,
+      "votingNumber": 51,
+      "yes": 5
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-08T18:36:04",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/52/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 2,
+      "no": 1,
+      "notParticipating": 12,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o ochronie ludności i obronie cywilnej (druki nr 664, 749 i 749-A)",
+      "topic": "poprawka 28",
+      "totalVoted": 448,
+      "votingNumber": 52,
+      "yes": 447
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-08T18:36:40",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/53/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 10,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o ochronie ludności i obronie cywilnej (druki nr 664, 749 i 749-A)",
+      "topic": "poprawki nr 29 i 58",
+      "totalVoted": 450,
+      "votingNumber": 53,
+      "yes": 450
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-08T18:37:14",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/54/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 12,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o ochronie ludności i obronie cywilnej (druki nr 664, 749 i 749-A)",
+      "topic": "poprawki nr 30, 53 i 57",
+      "totalVoted": 448,
+      "votingNumber": 54,
+      "yes": 448
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-08T18:37:41",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/55/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 10,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o ochronie ludności i obronie cywilnej (druki nr 664, 749 i 749-A)",
+      "topic": "poprawka 31",
+      "totalVoted": 450,
+      "votingNumber": 55,
+      "yes": 450
+    },
+    {
+      "abstain": 17,
+      "date": "2024-11-08T18:38:09",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/56/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 241,
+      "no": 240,
+      "notParticipating": 14,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o ochronie ludności i obronie cywilnej (druki nr 664, 749 i 749-A)",
+      "topic": "poprawka 32",
+      "totalVoted": 446,
+      "votingNumber": 56,
+      "yes": 189
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-08T18:38:42",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/57/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 15,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o ochronie ludności i obronie cywilnej (druki nr 664, 749 i 749-A)",
+      "topic": "poprawka 41",
+      "totalVoted": 445,
+      "votingNumber": 57,
+      "yes": 445
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-08T18:39:13",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/58/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 243,
+      "no": 242,
+      "notParticipating": 13,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o ochronie ludności i obronie cywilnej (druki nr 664, 749 i 749-A)",
+      "topic": "poprawka 48",
+      "totalVoted": 447,
+      "votingNumber": 58,
+      "yes": 205
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-08T18:40:40",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/59/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 10,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o ochronie ludności i obronie cywilnej (druki nr 664, 749 i 749-A)",
+      "topic": "poprawka 49",
+      "totalVoted": 450,
+      "votingNumber": 59,
+      "yes": 450
+    },
+    {
+      "abstain": 205,
+      "date": "2024-11-08T18:41:14",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/60/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 2,
+      "no": 1,
+      "notParticipating": 11,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o ochronie ludności i obronie cywilnej (druki nr 664, 749 i 749-A)",
+      "topic": "poprawki nr 50 i 55",
+      "totalVoted": 449,
+      "votingNumber": 60,
+      "yes": 243
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-08T18:41:44",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/61/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 13,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o ochronie ludności i obronie cywilnej (druki nr 664, 749 i 749-A)",
+      "topic": "poprawka 51",
+      "totalVoted": 447,
+      "votingNumber": 61,
+      "yes": 447
+    },
+    {
+      "abstain": 17,
+      "date": "2024-11-08T18:43:11",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/62/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 244,
+      "no": 243,
+      "notParticipating": 11,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o ochronie ludności i obronie cywilnej (druki nr 664, 749 i 749-A)",
+      "topic": "poprawka 52",
+      "totalVoted": 449,
+      "votingNumber": 62,
+      "yes": 189
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-08T18:43:44",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/63/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 2,
+      "no": 1,
+      "notParticipating": 11,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o ochronie ludności i obronie cywilnej (druki nr 664, 749 i 749-A)",
+      "topic": "poprawka 54",
+      "totalVoted": 449,
+      "votingNumber": 63,
+      "yes": 448
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-08T18:44:15",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/64/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 11,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o ochronie ludności i obronie cywilnej (druki nr 664, 749 i 749-A)",
+      "topic": "poprawka 56",
+      "totalVoted": 449,
+      "votingNumber": 64,
+      "yes": 449
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-08T18:45:55",
+      "description": "Całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/65/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 12,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o ochronie ludności i obronie cywilnej (druki nr 664, 749 i 749-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 448,
+      "votingNumber": 65,
+      "yes": 448
+    },
+    {
+      "abstain": 13,
+      "date": "2024-11-08T18:46:46",
+      "description": "Wniosek o odrzucenie projektu ustawy w pierwszym czytaniu",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/66/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 424,
+      "no": 423,
+      "notParticipating": 12,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 15 Pierwsze czytanie rządowego projektu ustawy o Radzie Fiskalnej (druk nr 750)",
+      "topic": "wniosek o odrzucenie projektu w pierwszym czytaniu.",
+      "totalVoted": 448,
+      "votingNumber": 66,
+      "yes": 12
+    },
+    {
+      "abstain": 1,
+      "date": "2024-11-08T18:52:07",
+      "description": "Wniosek o przystąpienie do drugiego czytania bez kierowania projektu do komisji",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/67/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 236,
+      "no": 235,
+      "notParticipating": 11,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 24 Pierwsze czytanie poselskiego projektu ustawy o zmianie ustawy o dniach wolnych od pracy oraz niektórych innych ustaw (druk nr 777)",
+      "topic": "wniosek o przystąpienie do drugiego czytania  bez kierowania projektu do komisji",
+      "totalVoted": 449,
+      "votingNumber": 67,
+      "yes": 213
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-08T18:53:33",
+      "description": "Wniosek o skierowanie projektu ustawy do Komisji Polityki Społecznej i Rodziny oraz Komisji Gospodarki i Rozwoju",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/68/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 216,
+      "no": 215,
+      "notParticipating": 10,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 24 Pierwsze czytanie poselskiego projektu ustawy o zmianie ustawy o dniach wolnych od pracy oraz niektórych innych ustaw (druk nr 777)",
+      "topic": "skierowanie do Komisji Polityki Społecznej i Rodziny oraz Komisji Gospodarki i Rozwoju",
+      "totalVoted": 450,
+      "votingNumber": 68,
+      "yes": 235
+    },
+    {
+      "abstain": 5,
+      "date": "2024-11-08T19:00:17",
+      "description": "Całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/69/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 16,
+      "no": 15,
+      "notParticipating": 14,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 21 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o odnawialnych źródłach energii oraz niektórych innych ustaw (druki nr 744 i 805)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 446,
+      "votingNumber": 69,
+      "yes": 426
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-08T19:01:05",
+      "description": "Całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/70/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 206,
+      "no": 205,
+      "notParticipating": 13,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 22 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o służbie zagranicznej oraz ustawy o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne (druki nr 753 i 770)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 447,
+      "votingNumber": 70,
+      "yes": 242
+    },
+    {
+      "abstain": 19,
+      "date": "2024-11-08T19:03:33",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/71/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 239,
+      "no": 238,
+      "notParticipating": 13,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 31 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Centrum Medycznym Kształcenia Podyplomowego oraz niektórych innych ustaw (druki nr 757 i 793)",
+      "topic": "poprawki nr 1, 5-6 i 8",
+      "totalVoted": 447,
+      "votingNumber": 71,
+      "yes": 190
+    },
+    {
+      "abstain": 11,
+      "date": "2024-11-08T19:04:15",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/72/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 220,
+      "no": 219,
+      "notParticipating": 13,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 31 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Centrum Medycznym Kształcenia Podyplomowego oraz niektórych innych ustaw (druki nr 757 i 793)",
+      "topic": "poprawka 2",
+      "totalVoted": 447,
+      "votingNumber": 72,
+      "yes": 217
+    },
+    {
+      "abstain": 14,
+      "date": "2024-11-08T19:06:27",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/73/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 17,
+      "no": 16,
+      "notParticipating": 14,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 31 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Centrum Medycznym Kształcenia Podyplomowego oraz niektórych innych ustaw (druki nr 757 i 793)",
+      "topic": "poprawka 3",
+      "totalVoted": 446,
+      "votingNumber": 73,
+      "yes": 416
+    },
+    {
+      "abstain": 20,
+      "date": "2024-11-08T19:07:05",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/74/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 231,
+      "no": 230,
+      "notParticipating": 17,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 31 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Centrum Medycznym Kształcenia Podyplomowego oraz niektórych innych ustaw (druki nr 757 i 793)",
+      "topic": "poprawka 7",
+      "totalVoted": 443,
+      "votingNumber": 74,
+      "yes": 193
+    },
+    {
+      "abstain": 187,
+      "date": "2024-11-08T19:07:37",
+      "description": "Całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/75/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 23,
+      "no": 22,
+      "notParticipating": 12,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 31 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Centrum Medycznym Kształcenia Podyplomowego oraz niektórych innych ustaw (druki nr 757 i 793)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 448,
+      "votingNumber": 75,
+      "yes": 239
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-08T19:09:50",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/76/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 427,
+      "no": 426,
+      "notParticipating": 14,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 26 Sprawozdanie Komisji o rządowym projekcie ustawy o ratyfikacji Protokołu między Rządem Rzeczypospolitej Polskiej a Organizacją Bezpieczeństwa i Współpracy w Europie zmieniającego Porozumienie między Rządem Rzeczypospolitej Polskiej a Organizacją Bezpieczeństwa i Współpracy w Europie w sprawie statusu Organizacji Bezpieczeństwa i Współpracy w Europie w Rzeczypospolitej Polskiej, podpisane w Warszawie dnia 28 czerwca 2017 r., podpisanego w Warszawie dnia 5 lipca 2024 r. (druki nr 670, 707 i 707-A) - trzecie czytanie",
+      "topic": "wniosek o odrzucenie w całości projektu.",
+      "totalVoted": 446,
+      "votingNumber": 76,
+      "yes": 20
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-08T19:10:19",
+      "description": "Całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/77/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 24,
+      "no": 23,
+      "notParticipating": 17,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 26 Sprawozdanie Komisji o rządowym projekcie ustawy o ratyfikacji Protokołu między Rządem Rzeczypospolitej Polskiej a Organizacją Bezpieczeństwa i Współpracy w Europie zmieniającego Porozumienie między Rządem Rzeczypospolitej Polskiej a Organizacją Bezpieczeństwa i Współpracy w Europie w sprawie statusu Organizacji Bezpieczeństwa i Współpracy w Europie w Rzeczypospolitej Polskiej, podpisane w Warszawie dnia 28 czerwca 2017 r., podpisanego w Warszawie dnia 5 lipca 2024 r. (druki nr 670, 707 i 707-A) - trzecie czytanie",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 443,
+      "votingNumber": 77,
+      "yes": 420
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-08T19:13:00",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/78/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 241,
+      "no": 240,
+      "notParticipating": 19,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 25 Drugie czytanie komisyjnego projektu uchwały w sprawie udziału Rzeczypospolitej Polskiej w pracach Unii Europejskiej w okresie styczeń-czerwiec 2024 r. (przewodnictwo Belgii w Radzie Unii Europejskiej) (druki nr 651 i 686) - głosowanie",
+      "topic": "poprawka 1",
+      "totalVoted": 441,
+      "votingNumber": 78,
+      "yes": 201
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-08T19:13:27",
+      "description": "Całość projektu uchwały",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/79/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 201,
+      "no": 200,
+      "notParticipating": 19,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 25 Drugie czytanie komisyjnego projektu uchwały w sprawie udziału Rzeczypospolitej Polskiej w pracach Unii Europejskiej w okresie styczeń-czerwiec 2024 r. (przewodnictwo Belgii w Radzie Unii Europejskiej) (druki nr 651 i 686) - głosowanie",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 441,
+      "votingNumber": 79,
+      "yes": 241
+    },
+    {
+      "abstain": 1,
+      "date": "2024-11-08T19:14:38",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/80/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 239,
+      "no": 238,
+      "notParticipating": 14,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Rozstrzygnięcie przez Sejm wniosku o uzupełnienie porządku dziennego o punkt: Informacja Prezesa Rady Ministrów w sprawie Porozumienia o współpracy w dziedzinie bezpieczeństwa pomiędzy Rzecząpospolitą Polską a Ukrainą.",
+      "topic": "wniosek o uzupełnienie porządku dziennego.",
+      "totalVoted": 446,
+      "votingNumber": 80,
+      "yes": 207
+    },
+    {
+      "abstain": 1,
+      "date": "2024-11-08T19:15:55",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/81/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 210,
+      "no": 209,
+      "notParticipating": 17,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Wniosek o skrócenie terminu, o którym mowa w art. 37 ust. 4 regulaminu Sejmu w sprawie przedłożenia z druku nr 789",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 37 ust. 4 regulaminu Sejmu w sprawie przedłożenia z druku nr 789",
+      "totalVoted": 443,
+      "votingNumber": 81,
+      "yes": 233
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-08T19:17:46",
+      "description": "Wniosek o przystąpienie do drugiego czytania bez kierowania projektu uchwały do komisji",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/82/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 213,
+      "no": 212,
+      "notParticipating": 16,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 28 Pierwsze czytanie przedstawionego przez Prezydium Sejmu projektu uchwały o zmianie uchwały w sprawie powołania i wyboru składu osobowego Komisji Nadzwyczajnej do rozpatrzenia projektów ustaw dotyczących prawa do przerywania ciąży (druk nr 789)",
+      "topic": "wniosek o przejście do drugiego czytania bez kierowania do komisji",
+      "totalVoted": 444,
+      "votingNumber": 82,
+      "yes": 232
+    },
+    {
+      "abstain": 2,
+      "date": "2024-11-08T19:18:42",
+      "description": "Całość projektu uchwały",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/83/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 210,
+      "no": 209,
+      "notParticipating": 16,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 28 Pierwsze czytanie przedstawionego przez Prezydium Sejmu projektu uchwały o zmianie uchwały w sprawie powołania i wyboru składu osobowego Komisji Nadzwyczajnej do rozpatrzenia projektów ustaw dotyczących prawa do przerywania ciąży (druk nr 789)",
+      "topic": "głosowanie nad całością projektu",
+      "totalVoted": 444,
+      "votingNumber": 83,
+      "yes": 233
+    },
+    {
+      "abstain": 5,
+      "date": "2024-11-08T19:20:47",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/84/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 221,
+      "no": 17,
+      "notParticipating": 20,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 27 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw (druki nr 758 i 768)",
+      "topic": "poprawki nr 1-2",
+      "totalVoted": 440,
+      "votingNumber": 84,
+      "yes": 418
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-08T19:21:27",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/85/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 222,
+      "no": 254,
+      "notParticipating": 17,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 27 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw (druki nr 758 i 768)",
+      "topic": "poprawka 3",
+      "totalVoted": 443,
+      "votingNumber": 85,
+      "yes": 189
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-08T19:22:04",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/86/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 221,
+      "no": 23,
+      "notParticipating": 19,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 27 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw (druki nr 758 i 768)",
+      "topic": "poprawka 4",
+      "totalVoted": 441,
+      "votingNumber": 86,
+      "yes": 418
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-08T19:22:42",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/87/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 221,
+      "no": 17,
+      "notParticipating": 19,
+      "present": 0,
+      "sitting": 21,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 27 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw (druki nr 758 i 768)",
+      "topic": "poprawka 5",
+      "totalVoted": 441,
+      "votingNumber": 87,
+      "yes": 424
+    }
+  ],
+  "_pobrano": "2026-03-24T10:36:19Z"
+}

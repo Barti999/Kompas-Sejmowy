@@ -1,0 +1,1291 @@
+{
+  "posiedzenie": 35,
+  "data": "",
+  "tytul": "35. Posiedzenie Sejmu RP w dniach 20 i 21 maja 2025 r.",
+  "glosowania": [
+    {
+      "abstain": 1,
+      "date": "2025-05-20T10:09:03",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/35/1/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 18,
+      "no": 17,
+      "notParticipating": 49,
+      "present": 0,
+      "sitting": 35,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Głosowanie proceduralne dotyczące druku nr 1261",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 37 ust. 4 regulaminu Sejmu w sprawie przedłożenia z druku nr 1261",
+      "totalVoted": 411,
+      "votingNumber": 1,
+      "yes": 393
+    },
+    {
+      "abstain": 0,
+      "date": "2025-05-20T10:16:51",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/35/2/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 224,
+      "no": 223,
+      "notParticipating": 50,
+      "present": 0,
+      "sitting": 35,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "35. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 20 i 21 maja 2025 r.",
+      "topic": "Wniosek o przerwę",
+      "totalVoted": 410,
+      "votingNumber": 2,
+      "yes": 187
+    },
+    {
+      "abstain": 0,
+      "date": "2025-05-20T10:23:04",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/35/3/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 227,
+      "no": 226,
+      "notParticipating": 44,
+      "present": 0,
+      "sitting": 35,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "35. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 20 i 21 maja 2025 r.",
+      "topic": "wniosek o odroczenie posiedzenia",
+      "totalVoted": 416,
+      "votingNumber": 3,
+      "yes": 190
+    },
+    {
+      "abstain": 0,
+      "date": "2025-05-21T09:10:06",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/35/4/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 224,
+      "no": 223,
+      "notParticipating": 61,
+      "present": 0,
+      "sitting": 35,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "35. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 20 i 21 maja 2025 r.",
+      "topic": "Wniosek o przerwę",
+      "totalVoted": 399,
+      "votingNumber": 4,
+      "yes": 176
+    },
+    {
+      "abstain": 0,
+      "date": "2025-05-21T09:12:44",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/35/5/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 224,
+      "no": 223,
+      "notParticipating": 61,
+      "present": 0,
+      "sitting": 35,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "35. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 20 i 21 maja 2025 r.",
+      "topic": "wniosek o odroczenie posiedzenia",
+      "totalVoted": 399,
+      "votingNumber": 5,
+      "yes": 176
+    },
+    {
+      "abstain": 12,
+      "date": "2025-05-21T09:17:52",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/35/6/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 59,
+      "present": 0,
+      "sitting": 35,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Głosowanie proceduralne dotyczące druku 1278",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie sprawozdania z druku nr 1278",
+      "totalVoted": 401,
+      "votingNumber": 6,
+      "yes": 389
+    },
+    {
+      "abstain": 0,
+      "date": "2025-05-21T09:19:27",
+      "description": "wniosek Rady Ministrów w wyrażenie zgody na przedłużenie czasowego ograniczenia prawa do złożenia wniosku o udzielenie ochrony międzynarodowej na granicy państwowej z Republiką Białorusi",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/35/7/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 18,
+      "no": 17,
+      "notParticipating": 77,
+      "present": 0,
+      "sitting": 35,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 3 Rozpatrzenie wniosku Rady Ministrów o wyrażenie przez Sejm Rzeczypospolitej Polskiej zgody na przedłużenie czasowego ograniczenia prawa do złożenia wniosku o udzielenie ochrony międzynarodowej na granicy państwowej z Republiką Białorusi (druk nr 1225)",
+      "topic": "wniosek o wyrażenie zgody na przedłużenie czasowego ograniczenia prawa do złożenia wniosku o udzielenie ochrony międzynarodowej na granicy państwowej z Republiką Białorusi",
+      "totalVoted": 383,
+      "votingNumber": 7,
+      "yes": 366
+    },
+    {
+      "abstain": 0,
+      "date": "2025-05-21T09:20:15",
+      "description": "całość projektu uchwały",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/35/8/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 59,
+      "present": 0,
+      "sitting": 35,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 7 Sprawozdanie Komisji o poselskim projekcie uchwały w sprawie uczczenia 100-lecia istnienia Uniwersytetu Ekonomicznego w Krakowie (druki nr 1207 i 1224)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 401,
+      "votingNumber": 8,
+      "yes": 401
+    },
+    {
+      "abstain": 0,
+      "date": "2025-05-21T18:04:27",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/35/9/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 2,
+      "no": 1,
+      "notParticipating": 40,
+      "present": 0,
+      "sitting": 35,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Głosowanie proceduralne dotyczące druku 1260",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 54 ust. 5 regulaminu Sejmu w sprawie sprawozdania z druku nr 1260",
+      "totalVoted": 420,
+      "votingNumber": 9,
+      "yes": 419
+    },
+    {
+      "abstain": 6,
+      "date": "2025-05-21T18:05:11",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/35/10/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 36,
+      "present": 0,
+      "sitting": 35,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Głosowanie proceduralne dotyczące druku 1253",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 54 ust. 5 regulaminu Sejmu w sprawie sprawozdania z druku nr 1253",
+      "totalVoted": 424,
+      "votingNumber": 10,
+      "yes": 418
+    },
+    {
+      "abstain": 0,
+      "date": "2025-05-21T18:06:12",
+      "description": "całość projektu uchwały",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/35/11/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 17,
+      "no": 16,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 35,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 8 Sprawozdanie Komisji o poselskim projekcie uchwały w sprawie upamiętnienia Marii Dąbrowskiej w 60. rocznicę jej śmierci (druki nr 1082 i 1155)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 428,
+      "votingNumber": 11,
+      "yes": 412
+    },
+    {
+      "abstain": 10,
+      "date": "2025-05-21T18:08:21",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/35/12/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 2,
+      "no": 1,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 35,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych (druki nr 983 i 1226)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 428,
+      "votingNumber": 12,
+      "yes": 417
+    },
+    {
+      "abstain": 0,
+      "date": "2025-05-21T18:10:37",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/35/13/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 231,
+      "no": 230,
+      "notParticipating": 27,
+      "present": 0,
+      "sitting": 35,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o ochronie przyrody (druki nr 1171 i 1228)",
+      "topic": "wniosek mniejszości 1",
+      "totalVoted": 433,
+      "votingNumber": 13,
+      "yes": 203
+    },
+    {
+      "abstain": 6,
+      "date": "2025-05-21T18:12:04",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/35/14/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 221,
+      "no": 220,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 35,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o ochronie przyrody (druki nr 1171 i 1228)",
+      "topic": "wniosek mniejszości 2",
+      "totalVoted": 431,
+      "votingNumber": 14,
+      "yes": 205
+    },
+    {
+      "abstain": 1,
+      "date": "2025-05-21T18:12:35",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/35/15/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 201,
+      "no": 200,
+      "notParticipating": 28,
+      "present": 0,
+      "sitting": 35,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o ochronie przyrody (druki nr 1171 i 1228)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 432,
+      "votingNumber": 15,
+      "yes": 231
+    },
+    {
+      "abstain": 0,
+      "date": "2025-05-21T18:16:00",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/35/16/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 228,
+      "no": 227,
+      "notParticipating": 28,
+      "present": 0,
+      "sitting": 35,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o repatriacji oraz niektórych innych ustaw (druki nr 1201, 1215 i 1215-A)",
+      "topic": "poprawki nr 1-3",
+      "totalVoted": 432,
+      "votingNumber": 16,
+      "yes": 205
+    },
+    {
+      "abstain": 16,
+      "date": "2025-05-21T18:16:28",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/35/17/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 35,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o repatriacji oraz niektórych innych ustaw (druki nr 1201, 1215 i 1215-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 431,
+      "votingNumber": 17,
+      "yes": 415
+    },
+    {
+      "abstain": 16,
+      "date": "2025-05-21T18:20:08",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/35/18/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 232,
+      "no": 231,
+      "notParticipating": 28,
+      "present": 0,
+      "sitting": 35,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 5 Sprawozdanie Komisji o przedstawionym przez Prezydium Sejmu projekcie uchwały w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej (druki nr 1057, 1170 i 1170-A)",
+      "topic": "wniosek o odrzucenie w całości projektu.",
+      "totalVoted": 432,
+      "votingNumber": 18,
+      "yes": 185
+    },
+    {
+      "abstain": 14,
+      "date": "2025-05-21T18:20:33",
+      "description": "całość projektu uchwały",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/35/19/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 180,
+      "no": 179,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 35,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 5 Sprawozdanie Komisji o przedstawionym przez Prezydium Sejmu projekcie uchwały w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej (druki nr 1057, 1170 i 1170-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 426,
+      "votingNumber": 19,
+      "yes": 233
+    },
+    {
+      "abstain": 19,
+      "date": "2025-05-21T18:21:55",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/35/20/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 6,
+      "no": 5,
+      "notParticipating": 27,
+      "present": 0,
+      "sitting": 35,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 9 Sprawozdanie Komisji o:- komisyjnym projekcie uchwały w sprawie uczczenia 35. rocznicy odrodzenia samorządu terytorialnego w Polsce,- poselskim projekcie uchwały na 35-lecie odrodzenia samorządu terytorialnego w Polsce (druki nr 1138, 1165 i 1169)",
+      "topic": "wniosek o przystąpienie do głosowania bez kierowania projektu do komisji",
+      "totalVoted": 433,
+      "votingNumber": 20,
+      "yes": 409
+    },
+    {
+      "abstain": 17,
+      "date": "2025-05-21T18:24:07",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/35/21/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 228,
+      "no": 227,
+      "notParticipating": 28,
+      "present": 0,
+      "sitting": 35,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 9 Sprawozdanie Komisji o:- komisyjnym projekcie uchwały w sprawie uczczenia 35. rocznicy odrodzenia samorządu terytorialnego w Polsce,- poselskim projekcie uchwały na 35-lecie odrodzenia samorządu terytorialnego w Polsce (druki nr 1138, 1165 i 1169)",
+      "topic": "poprawka 1",
+      "totalVoted": 432,
+      "votingNumber": 21,
+      "yes": 188
+    },
+    {
+      "abstain": 17,
+      "date": "2025-05-21T18:28:32",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/35/22/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 222,
+      "no": 221,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 35,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 9 Sprawozdanie Komisji o:- komisyjnym projekcie uchwały w sprawie uczczenia 35. rocznicy odrodzenia samorządu terytorialnego w Polsce,- poselskim projekcie uchwały na 35-lecie odrodzenia samorządu terytorialnego w Polsce (druki nr 1138, 1165 i 1169)",
+      "topic": "poprawka 2",
+      "totalVoted": 426,
+      "votingNumber": 22,
+      "yes": 188
+    },
+    {
+      "abstain": 17,
+      "date": "2025-05-21T18:29:00",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/35/23/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 225,
+      "no": 224,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 35,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 9 Sprawozdanie Komisji o:- komisyjnym projekcie uchwały w sprawie uczczenia 35. rocznicy odrodzenia samorządu terytorialnego w Polsce,- poselskim projekcie uchwały na 35-lecie odrodzenia samorządu terytorialnego w Polsce (druki nr 1138, 1165 i 1169)",
+      "topic": "poprawka 3",
+      "totalVoted": 430,
+      "votingNumber": 23,
+      "yes": 189
+    },
+    {
+      "abstain": 17,
+      "date": "2025-05-21T18:30:16",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/35/24/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 228,
+      "no": 227,
+      "notParticipating": 28,
+      "present": 0,
+      "sitting": 35,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 9 Sprawozdanie Komisji o:- komisyjnym projekcie uchwały w sprawie uczczenia 35. rocznicy odrodzenia samorządu terytorialnego w Polsce,- poselskim projekcie uchwały na 35-lecie odrodzenia samorządu terytorialnego w Polsce (druki nr 1138, 1165 i 1169)",
+      "topic": "poprawka 4",
+      "totalVoted": 432,
+      "votingNumber": 24,
+      "yes": 188
+    },
+    {
+      "abstain": 17,
+      "date": "2025-05-21T18:30:44",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/35/25/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 227,
+      "no": 226,
+      "notParticipating": 28,
+      "present": 0,
+      "sitting": 35,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 9 Sprawozdanie Komisji o:- komisyjnym projekcie uchwały w sprawie uczczenia 35. rocznicy odrodzenia samorządu terytorialnego w Polsce,- poselskim projekcie uchwały na 35-lecie odrodzenia samorządu terytorialnego w Polsce (druki nr 1138, 1165 i 1169)",
+      "topic": "poprawka 5",
+      "totalVoted": 432,
+      "votingNumber": 25,
+      "yes": 189
+    },
+    {
+      "abstain": 17,
+      "date": "2025-05-21T18:35:51",
+      "description": "całość projektu uchwały",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/35/26/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 28,
+      "present": 0,
+      "sitting": 35,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 9 Sprawozdanie Komisji o:- komisyjnym projekcie uchwały w sprawie uczczenia 35. rocznicy odrodzenia samorządu terytorialnego w Polsce,- poselskim projekcie uchwały na 35-lecie odrodzenia samorządu terytorialnego w Polsce (druki nr 1138, 1165 i 1169)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 432,
+      "votingNumber": 26,
+      "yes": 415
+    },
+    {
+      "abstain": 21,
+      "date": "2025-05-21T18:36:39",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/35/27/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 35,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 12 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie niektórych ustaw w związku z wprowadzaniem centralnego systemu informacji rynku energii (druki nr 1209 i 1278)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 428,
+      "votingNumber": 27,
+      "yes": 407
+    },
+    {
+      "abstain": 0,
+      "date": "2025-05-21T18:38:39",
+      "description": "wniosek o odrzucenie projektu ustawy w pierwszym czytaniu",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/35/28/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 224,
+      "no": 223,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 35,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 13 Pierwsze czytanie rządowego projektu ustawy o zmianie ustawy o podatku dochodowym od osób prawnych (druk nr 1233)",
+      "topic": "wniosek o odrzucenie projektu w pierwszym czytaniu.",
+      "totalVoted": 428,
+      "votingNumber": 28,
+      "yes": 205
+    },
+    {
+      "abstain": 0,
+      "date": "2025-05-21T18:40:56",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/35/29/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 216,
+      "no": 246,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 35,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 19 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym (druki nr 1248 i 1260)",
+      "topic": "poprawka 1",
+      "totalVoted": 431,
+      "votingNumber": 29,
+      "yes": 185
+    },
+    {
+      "abstain": 1,
+      "date": "2025-05-21T18:41:30",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/35/30/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 214,
+      "no": 244,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 35,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 19 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym (druki nr 1248 i 1260)",
+      "topic": "poprawka 2",
+      "totalVoted": 427,
+      "votingNumber": 30,
+      "yes": 182
+    },
+    {
+      "abstain": 0,
+      "date": "2025-05-21T18:42:05",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/35/31/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 211,
+      "no": 244,
+      "notParticipating": 39,
+      "present": 0,
+      "sitting": 35,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 19 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym (druki nr 1248 i 1260)",
+      "topic": "poprawki nr 3 i 5",
+      "totalVoted": 421,
+      "votingNumber": 31,
+      "yes": 177
+    },
+    {
+      "abstain": 0,
+      "date": "2025-05-21T18:42:35",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/35/32/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 212,
+      "no": 240,
+      "notParticipating": 38,
+      "present": 0,
+      "sitting": 35,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 19 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym (druki nr 1248 i 1260)",
+      "topic": "poprawka 4",
+      "totalVoted": 422,
+      "votingNumber": 32,
+      "yes": 182
+    },
+    {
+      "abstain": 15,
+      "date": "2025-05-21T18:43:06",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/35/33/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 214,
+      "no": 231,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 35,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 19 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym (druki nr 1248 i 1260)",
+      "topic": "poprawka 6",
+      "totalVoted": 427,
+      "votingNumber": 33,
+      "yes": 181
+    },
+    {
+      "abstain": 1,
+      "date": "2025-05-21T18:43:36",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/35/34/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 215,
+      "no": 245,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 35,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 19 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym (druki nr 1248 i 1260)",
+      "topic": "poprawka 7",
+      "totalVoted": 428,
+      "votingNumber": 34,
+      "yes": 182
+    },
+    {
+      "abstain": 15,
+      "date": "2025-05-21T18:44:07",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/35/35/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 213,
+      "no": 230,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 35,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 19 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym (druki nr 1248 i 1260)",
+      "topic": "poprawka 8",
+      "totalVoted": 425,
+      "votingNumber": 35,
+      "yes": 180
+    },
+    {
+      "abstain": 0,
+      "date": "2025-05-21T18:46:42",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/35/36/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 215,
+      "no": 427,
+      "notParticipating": 31,
+      "present": 0,
+      "sitting": 35,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie niektórych ustaw w celu deregulacji prawa gospodarczego i administracyjnego oraz doskonalenia zasad opracowywania prawa gospodarczego (druki nr 1247 i 1253)",
+      "topic": "poprawki nr 1-3, 5, 7, 11, 14-19 oraz 23-24",
+      "totalVoted": 429,
+      "votingNumber": 36,
+      "yes": 2
+    },
+    {
+      "abstain": 0,
+      "date": "2025-05-21T18:47:25",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/35/37/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 215,
+      "no": 32,
+      "notParticipating": 31,
+      "present": 0,
+      "sitting": 35,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie niektórych ustaw w celu deregulacji prawa gospodarczego i administracyjnego oraz doskonalenia zasad opracowywania prawa gospodarczego (druki nr 1247 i 1253)",
+      "topic": "poprawki nr 4, 6, 12 i 25",
+      "totalVoted": 429,
+      "votingNumber": 37,
+      "yes": 397
+    },
+    {
+      "abstain": 0,
+      "date": "2025-05-21T18:47:57",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/35/38/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 213,
+      "no": 424,
+      "notParticipating": 36,
+      "present": 0,
+      "sitting": 35,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie niektórych ustaw w celu deregulacji prawa gospodarczego i administracyjnego oraz doskonalenia zasad opracowywania prawa gospodarczego (druki nr 1247 i 1253)",
+      "topic": "poprawka 8",
+      "totalVoted": 424,
+      "votingNumber": 38,
+      "yes": 0
+    },
+    {
+      "abstain": 0,
+      "date": "2025-05-21T18:48:27",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/35/39/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 212,
+      "no": 423,
+      "notParticipating": 37,
+      "present": 0,
+      "sitting": 35,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie niektórych ustaw w celu deregulacji prawa gospodarczego i administracyjnego oraz doskonalenia zasad opracowywania prawa gospodarczego (druki nr 1247 i 1253)",
+      "topic": "poprawka 9",
+      "totalVoted": 423,
+      "votingNumber": 39,
+      "yes": 0
+    },
+    {
+      "abstain": 0,
+      "date": "2025-05-21T18:48:58",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/35/40/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 216,
+      "no": 431,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 35,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie niektórych ustaw w celu deregulacji prawa gospodarczego i administracyjnego oraz doskonalenia zasad opracowywania prawa gospodarczego (druki nr 1247 i 1253)",
+      "topic": "poprawka 10",
+      "totalVoted": 431,
+      "votingNumber": 40,
+      "yes": 0
+    },
+    {
+      "abstain": 0,
+      "date": "2025-05-21T18:49:29",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/35/41/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 216,
+      "no": 430,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 35,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie niektórych ustaw w celu deregulacji prawa gospodarczego i administracyjnego oraz doskonalenia zasad opracowywania prawa gospodarczego (druki nr 1247 i 1253)",
+      "topic": "poprawka 13",
+      "totalVoted": 430,
+      "votingNumber": 41,
+      "yes": 0
+    },
+    {
+      "abstain": 0,
+      "date": "2025-05-21T18:50:04",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/35/42/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 216,
+      "no": 431,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 35,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie niektórych ustaw w celu deregulacji prawa gospodarczego i administracyjnego oraz doskonalenia zasad opracowywania prawa gospodarczego (druki nr 1247 i 1253)",
+      "topic": "poprawka 20",
+      "totalVoted": 431,
+      "votingNumber": 42,
+      "yes": 0
+    },
+    {
+      "abstain": 0,
+      "date": "2025-05-21T18:50:32",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/35/43/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 212,
+      "no": 422,
+      "notParticipating": 38,
+      "present": 0,
+      "sitting": 35,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie niektórych ustaw w celu deregulacji prawa gospodarczego i administracyjnego oraz doskonalenia zasad opracowywania prawa gospodarczego (druki nr 1247 i 1253)",
+      "topic": "poprawka 21",
+      "totalVoted": 422,
+      "votingNumber": 43,
+      "yes": 0
+    },
+    {
+      "abstain": 0,
+      "date": "2025-05-21T18:51:13",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/35/44/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 216,
+      "no": 431,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 35,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie niektórych ustaw w celu deregulacji prawa gospodarczego i administracyjnego oraz doskonalenia zasad opracowywania prawa gospodarczego (druki nr 1247 i 1253)",
+      "topic": "poprawki nr 22 i 34",
+      "totalVoted": 431,
+      "votingNumber": 44,
+      "yes": 0
+    },
+    {
+      "abstain": 0,
+      "date": "2025-05-21T18:51:43",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/35/45/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 215,
+      "no": 429,
+      "notParticipating": 31,
+      "present": 0,
+      "sitting": 35,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie niektórych ustaw w celu deregulacji prawa gospodarczego i administracyjnego oraz doskonalenia zasad opracowywania prawa gospodarczego (druki nr 1247 i 1253)",
+      "topic": "poprawka 26",
+      "totalVoted": 429,
+      "votingNumber": 45,
+      "yes": 0
+    },
+    {
+      "abstain": 0,
+      "date": "2025-05-21T18:52:18",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/35/46/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 213,
+      "no": 424,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 35,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie niektórych ustaw w celu deregulacji prawa gospodarczego i administracyjnego oraz doskonalenia zasad opracowywania prawa gospodarczego (druki nr 1247 i 1253)",
+      "topic": "poprawki nr 27 i 30",
+      "totalVoted": 425,
+      "votingNumber": 46,
+      "yes": 1
+    },
+    {
+      "abstain": 1,
+      "date": "2025-05-21T18:52:51",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/35/47/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 216,
+      "no": 429,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 35,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie niektórych ustaw w celu deregulacji prawa gospodarczego i administracyjnego oraz doskonalenia zasad opracowywania prawa gospodarczego (druki nr 1247 i 1253)",
+      "topic": "poprawka 28",
+      "totalVoted": 430,
+      "votingNumber": 47,
+      "yes": 0
+    },
+    {
+      "abstain": 15,
+      "date": "2025-05-21T18:53:30",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/35/48/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 216,
+      "no": 415,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 35,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie niektórych ustaw w celu deregulacji prawa gospodarczego i administracyjnego oraz doskonalenia zasad opracowywania prawa gospodarczego (druki nr 1247 i 1253)",
+      "topic": "poprawki nr 29, 31 i 35",
+      "totalVoted": 430,
+      "votingNumber": 48,
+      "yes": 0
+    },
+    {
+      "abstain": 0,
+      "date": "2025-05-21T18:54:00",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/35/49/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 214,
+      "no": 426,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 35,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie niektórych ustaw w celu deregulacji prawa gospodarczego i administracyjnego oraz doskonalenia zasad opracowywania prawa gospodarczego (druki nr 1247 i 1253)",
+      "topic": "poprawka 32",
+      "totalVoted": 426,
+      "votingNumber": 49,
+      "yes": 0
+    },
+    {
+      "abstain": 17,
+      "date": "2025-05-21T18:54:33",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/35/50/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 215,
+      "no": 411,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 35,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie niektórych ustaw w celu deregulacji prawa gospodarczego i administracyjnego oraz doskonalenia zasad opracowywania prawa gospodarczego (druki nr 1247 i 1253)",
+      "topic": "poprawka 33",
+      "totalVoted": 428,
+      "votingNumber": 50,
+      "yes": 0
+    },
+    {
+      "abstain": 0,
+      "date": "2025-05-21T18:56:19",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/35/51/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 226,
+      "no": 225,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 35,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Rozstrzygnięcie przez Sejm wniosku o uzupełnienie porządku dziennego o punkt: Sprawozdanie Komisji do Spraw Energii, Klimatu i Aktywów Państwowych o poselskim projekcie ustawy o zmianie ustawy o systemie handlu uprawnieniami do emisji gazów cieplarnianych (druki nr 523 i 582)",
+      "topic": "wniosek o uzupełnienie porządku dziennego.",
+      "totalVoted": 426,
+      "votingNumber": 51,
+      "yes": 201
+    },
+    {
+      "abstain": 0,
+      "date": "2025-05-21T18:56:51",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/35/52/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 225,
+      "no": 224,
+      "notParticipating": 44,
+      "present": 0,
+      "sitting": 35,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Rozstrzygnięcie przez Sejm wniosku o uzupełnienie porządku dziennego o punkt: Informacja Prezesa Rady Ministrów na temat udziału Polski w mechanizmie solidarności określonego przez pakt migracyjny",
+      "topic": "wniosek o uzupełnienie porządku dziennego.",
+      "totalVoted": 416,
+      "votingNumber": 52,
+      "yes": 192
+    },
+    {
+      "abstain": 4,
+      "date": "2025-05-21T18:58:59",
+      "description": "wniosek z druku nr 1279",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/35/53/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 39,
+      "present": 0,
+      "sitting": 35,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 21 Zmiana w składzie osobowym komisji sejmowej (druk nr 1279)",
+      "topic": "głosowanie nad przyjęciem wniosku z druku.",
+      "totalVoted": 421,
+      "votingNumber": 53,
+      "yes": 417
+    }
+  ],
+  "_pobrano": "2026-03-24T10:36:25Z"
+}

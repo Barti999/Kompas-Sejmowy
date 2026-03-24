@@ -1,0 +1,1416 @@
+{
+  "posiedzenie": 11,
+  "data": "",
+  "tytul": "11. Posiedzenie Sejmu RP w dniach 8, 9 i 15 maja 2024 r.",
+  "glosowania": [
+    {
+      "abstain": 65,
+      "date": "2024-05-08T10:11:57",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/1/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 19,
+      "no": 18,
+      "notParticipating": 52,
+      "present": 0,
+      "sitting": 11,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "11. posiedzenie Sejmu RP w dniach 8, 9 i 15 maja 2024 r.",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 37 ust. 4 regulaminu Sejmu",
+      "totalVoted": 407,
+      "votingNumber": 1,
+      "yes": 324
+    },
+    {
+      "abstain": 0,
+      "date": "2024-05-08T10:15:08",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/2/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 18,
+      "no": 17,
+      "notParticipating": 44,
+      "present": 0,
+      "sitting": 11,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "11. posiedzenie Sejmu RP w dniach 8, 9 i 15 maja 2024 r.",
+      "topic": "ustalenie czasów debat",
+      "totalVoted": 415,
+      "votingNumber": 2,
+      "yes": 398
+    },
+    {
+      "abstain": 0,
+      "date": "2024-05-08T10:23:05",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/3/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 229,
+      "no": 228,
+      "notParticipating": 37,
+      "present": 0,
+      "sitting": 11,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "11. posiedzenie Sejmu RP w dniach 8, 9 i 15 maja 2024 r.",
+      "topic": "Wniosek o przerwę",
+      "totalVoted": 422,
+      "votingNumber": 3,
+      "yes": 194
+    },
+    {
+      "abstain": 6,
+      "date": "2024-05-08T10:36:11",
+      "description": "Wniosek z druku nr 345",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/4/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 4,
+      "no": 3,
+      "notParticipating": 37,
+      "present": 0,
+      "sitting": 11,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Zmiany w składach osobowych komisji sejmowych (druk nr 345)",
+      "topic": "głosowanie nad przyjęciem wniosku z druku.",
+      "totalVoted": 422,
+      "votingNumber": 4,
+      "yes": 413
+    },
+    {
+      "abstain": 0,
+      "date": "2024-05-08T13:44:53",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/5/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 232,
+      "no": 231,
+      "notParticipating": 38,
+      "present": 0,
+      "sitting": 11,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "11. posiedzenie Sejmu RP w dniach 8, 9 i 15 maja 2024 r.",
+      "topic": "Wniosek o przerwę",
+      "totalVoted": 421,
+      "votingNumber": 5,
+      "yes": 190
+    },
+    {
+      "abstain": 0,
+      "date": "2024-05-08T13:46:08",
+      "description": "wniosek o dodatkowe skierowanie projektu ustawy do Komisji Gospodarki i Rozwoju",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/6/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 170,
+      "no": 169,
+      "notParticipating": 39,
+      "present": 0,
+      "sitting": 11,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 4 Pierwsze czytanie poselskiego projektu ustawy o zmianie niektórych ustaw w celu naprawy ładu korporacyjnego w spółkach z udziałem Skarbu Państwa (druk nr 261) - kontynuacja",
+      "topic": "wniosek o dodatkowe skierowanie projektu ustawy do Komisji",
+      "totalVoted": 420,
+      "votingNumber": 6,
+      "yes": 251
+    },
+    {
+      "abstain": 0,
+      "date": "2024-05-08T13:47:16",
+      "description": "Wniosek o odrzucenie projektu ustawy w pierwszym czytaniu",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/7/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 193,
+      "no": 192,
+      "notParticipating": 39,
+      "present": 0,
+      "sitting": 11,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 5 Pierwsze czytanie obywatelskiego projektu ustawy o ochronie własności w Rzeczypospolitej Polskiej przed roszczeniami dotyczącymi mienia bezdziedzicznego (druk nr 24) - kontynuacja",
+      "topic": "wniosek o odrzucenie projektu w pierwszym czytaniu.",
+      "totalVoted": 420,
+      "votingNumber": 7,
+      "yes": 228
+    },
+    {
+      "abstain": 0,
+      "date": "2024-05-08T13:48:25",
+      "description": "Wniosek o odrzucenie projektu ustawy w pierwszym czytaniu",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/8/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 402,
+      "no": 401,
+      "notParticipating": 36,
+      "present": 0,
+      "sitting": 11,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 3 Pierwsze czytanie rządowego projektu ustawy  o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz niektórych innych ustaw (druk nr 342)",
+      "topic": "wniosek o odrzucenie projektu w pierwszym czytaniu.",
+      "totalVoted": 423,
+      "votingNumber": 8,
+      "yes": 22
+    },
+    {
+      "abstain": 0,
+      "date": "2024-05-08T13:49:26",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/9/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 22,
+      "no": 21,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 11,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "11. posiedzenie Sejmu RP w dniach 8, 9 i 15 maja 2024 r.",
+      "topic": "wniosek o zastosowanie art. 39 ust. 3 regulaminu Sejmu",
+      "totalVoted": 424,
+      "votingNumber": 9,
+      "yes": 403
+    },
+    {
+      "abstain": 0,
+      "date": "2024-05-09T17:33:12",
+      "description": "wniosek o wyrażenie wotum nieufności wobec Minister Klimatu i Środowiska Pauliny Hennig-Kloski",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/10/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "STATUTORY_MAJORITY",
+      "majorityVotes": 231,
+      "no": 240,
+      "notParticipating": 28,
+      "present": 0,
+      "sitting": 11,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 14 Wniosek o wyrażenie wotum nieufności wobec Minister Klimatu i Środowiska Pauliny Hennig-Kloski (druki nr 344 i 372)",
+      "topic": "głosowanie nad wnioskiem o wyrażenie wotum nieufności.",
+      "totalVoted": 431,
+      "votingNumber": 10,
+      "yes": 191
+    },
+    {
+      "abstain": 2,
+      "date": "2024-05-09T17:34:50",
+      "description": "Wniosek o odrzucenie projektu ustawy w pierwszym czytaniu",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/11/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 421,
+      "no": 420,
+      "notParticipating": 22,
+      "present": 0,
+      "sitting": 11,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 8 Pierwsze czytanie rządowego projektu ustawy o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka - \"Aktywny rodzic\" (druk nr 319)",
+      "topic": "wniosek o odrzucenie projektu w pierwszym czytaniu.",
+      "totalVoted": 437,
+      "votingNumber": 11,
+      "yes": 15
+    },
+    {
+      "abstain": 14,
+      "date": "2024-05-09T20:43:56",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/12/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 332,
+      "no": 331,
+      "notParticipating": 38,
+      "present": 0,
+      "sitting": 11,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "11. posiedzenie Sejmu RP w dniach 8, 9 i 15 maja 2024 r.",
+      "topic": "wniosek o odroczenie posiedzenia",
+      "totalVoted": 421,
+      "votingNumber": 12,
+      "yes": 76
+    },
+    {
+      "abstain": 19,
+      "date": "2024-05-09T20:44:55",
+      "description": "Całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/13/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 3,
+      "no": 2,
+      "notParticipating": 19,
+      "present": 0,
+      "sitting": 11,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 6 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Krajowej Administracji Skarbowej oraz niektórych innych ustaw (druki nr 268 i 335)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 440,
+      "votingNumber": 13,
+      "yes": 419
+    },
+    {
+      "abstain": 0,
+      "date": "2024-05-09T20:49:40",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/14/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 238,
+      "no": 237,
+      "notParticipating": 19,
+      "present": 0,
+      "sitting": 11,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 7 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw (druki nr 275 i 333)",
+      "topic": "wnioski mniejszości nr 1, 6-7, 12 i 16",
+      "totalVoted": 440,
+      "votingNumber": 14,
+      "yes": 203
+    },
+    {
+      "abstain": 0,
+      "date": "2024-05-09T20:50:30",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/15/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 238,
+      "no": 237,
+      "notParticipating": 19,
+      "present": 0,
+      "sitting": 11,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 7 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw (druki nr 275 i 333)",
+      "topic": "wnioski mniejszości nr 2-5, 8-11 oraz 13-15",
+      "totalVoted": 440,
+      "votingNumber": 15,
+      "yes": 203
+    },
+    {
+      "abstain": 0,
+      "date": "2024-05-09T20:51:02",
+      "description": "Całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/16/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 8,
+      "no": 7,
+      "notParticipating": 20,
+      "present": 0,
+      "sitting": 11,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 7 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw (druki nr 275 i 333)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 439,
+      "votingNumber": 16,
+      "yes": 432
+    },
+    {
+      "abstain": 0,
+      "date": "2024-05-09T20:51:49",
+      "description": "Wniosek o odrzucenie projektu ustawy w pierwszym czytaniu",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/17/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 238,
+      "no": 237,
+      "notParticipating": 19,
+      "present": 0,
+      "sitting": 11,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 9 Pierwsze czytanie poselskiego projektu ustawy o zmianie ustawy - Kodeks wyborczy (druk nr 296)",
+      "topic": "wniosek o odrzucenie projektu w pierwszym czytaniu.",
+      "totalVoted": 440,
+      "votingNumber": 17,
+      "yes": 203
+    },
+    {
+      "abstain": 20,
+      "date": "2024-05-09T20:52:54",
+      "description": "Całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/18/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 184,
+      "no": 183,
+      "notParticipating": 19,
+      "present": 0,
+      "sitting": 11,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 12 Sprawozdanie Komisji o rządowym projekcie ustawy zmieniającej ustawę o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw (druki nr 341 i 373)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 440,
+      "votingNumber": 18,
+      "yes": 237
+    },
+    {
+      "abstain": 2,
+      "date": "2024-05-15T10:09:37",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/19/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 15,
+      "no": 14,
+      "notParticipating": 84,
+      "present": 0,
+      "sitting": 11,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "11. posiedzenie Sejmu RP w dniach 8, 9 i 15 maja 2024 r.",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu",
+      "totalVoted": 374,
+      "votingNumber": 19,
+      "yes": 358
+    },
+    {
+      "abstain": 0,
+      "date": "2024-05-15T10:16:25",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/20/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 213,
+      "no": 212,
+      "notParticipating": 80,
+      "present": 0,
+      "sitting": 11,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "11. posiedzenie Sejmu RP w dniach 8, 9 i 15 maja 2024 r.",
+      "topic": "Wniosek o przerwę",
+      "totalVoted": 378,
+      "votingNumber": 20,
+      "yes": 166
+    },
+    {
+      "abstain": 0,
+      "date": "2024-05-15T18:53:29",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/21/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 233,
+      "no": 232,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 11,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "11. posiedzenie Sejmu RP w dniach 8, 9 i 15 maja 2024 r.",
+      "topic": "wniosek o odroczenie posiedzenia",
+      "totalVoted": 423,
+      "votingNumber": 21,
+      "yes": 191
+    },
+    {
+      "abstain": 1,
+      "date": "2024-05-15T18:53:59",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/22/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 233,
+      "no": 232,
+      "notParticipating": 37,
+      "present": 0,
+      "sitting": 11,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "11. posiedzenie Sejmu RP w dniach 8, 9 i 15 maja 2024 r.",
+      "topic": "Wniosek o przerwę",
+      "totalVoted": 421,
+      "votingNumber": 22,
+      "yes": 188
+    },
+    {
+      "abstain": 0,
+      "date": "2024-05-15T18:55:02",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/23/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 16,
+      "no": 15,
+      "notParticipating": 36,
+      "present": 0,
+      "sitting": 11,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 19 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie zakresu obowiązywania Umowy o utworzeniu Europejskiego Banku Odbudowy i Rozwoju, sporządzonej w Paryżu dnia 29 maja 1990 r. (druki nr 303 i 314)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 422,
+      "votingNumber": 23,
+      "yes": 407
+    },
+    {
+      "abstain": 0,
+      "date": "2024-05-15T18:56:05",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/24/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 191,
+      "no": 190,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 11,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 22 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o zasadach prowadzenia polityki rozwoju oraz niektórych innych ustaw (druki nr 320 i 375)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 423,
+      "votingNumber": 24,
+      "yes": 233
+    },
+    {
+      "abstain": 0,
+      "date": "2024-05-15T18:58:27",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/25/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 212,
+      "no": 409,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 11,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 25 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (druki nr 377 i 383)",
+      "topic": "poprawki nr 1, 3-7 oraz 9-11",
+      "totalVoted": 423,
+      "votingNumber": 25,
+      "yes": 14
+    },
+    {
+      "abstain": 13,
+      "date": "2024-05-15T18:59:14",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/26/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 212,
+      "no": 232,
+      "notParticipating": 36,
+      "present": 0,
+      "sitting": 11,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 25 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (druki nr 377 i 383)",
+      "topic": "poprawka 2",
+      "totalVoted": 422,
+      "votingNumber": 26,
+      "yes": 177
+    },
+    {
+      "abstain": 14,
+      "date": "2024-05-15T19:00:02",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/27/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 212,
+      "no": 408,
+      "notParticipating": 36,
+      "present": 0,
+      "sitting": 11,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 25 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (druki nr 377 i 383)",
+      "topic": "poprawka 8",
+      "totalVoted": 422,
+      "votingNumber": 27,
+      "yes": 0
+    },
+    {
+      "abstain": 2,
+      "date": "2024-05-15T19:02:39",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/28/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 407,
+      "no": 406,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 11,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 17 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz niektórych innych ustaw (druki nr 342, 374 i 374-A)",
+      "topic": "poprawka 1",
+      "totalVoted": 423,
+      "votingNumber": 28,
+      "yes": 15
+    },
+    {
+      "abstain": 3,
+      "date": "2024-05-15T19:03:11",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/29/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 403,
+      "no": 402,
+      "notParticipating": 37,
+      "present": 0,
+      "sitting": 11,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 17 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz niektórych innych ustaw (druki nr 342, 374 i 374-A)",
+      "topic": "poprawka 2",
+      "totalVoted": 421,
+      "votingNumber": 29,
+      "yes": 16
+    },
+    {
+      "abstain": 3,
+      "date": "2024-05-15T19:03:48",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/30/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 407,
+      "no": 406,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 11,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 17 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz niektórych innych ustaw (druki nr 342, 374 i 374-A)",
+      "topic": "poprawka 3",
+      "totalVoted": 423,
+      "votingNumber": 30,
+      "yes": 14
+    },
+    {
+      "abstain": 11,
+      "date": "2024-05-15T19:05:54",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/31/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 235,
+      "no": 234,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 11,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 17 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz niektórych innych ustaw (druki nr 342, 374 i 374-A)",
+      "topic": "poprawka 4",
+      "totalVoted": 424,
+      "votingNumber": 31,
+      "yes": 179
+    },
+    {
+      "abstain": 3,
+      "date": "2024-05-15T19:06:29",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/32/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 405,
+      "no": 404,
+      "notParticipating": 36,
+      "present": 0,
+      "sitting": 11,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 17 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz niektórych innych ustaw (druki nr 342, 374 i 374-A)",
+      "topic": "poprawka 5",
+      "totalVoted": 422,
+      "votingNumber": 32,
+      "yes": 15
+    },
+    {
+      "abstain": 3,
+      "date": "2024-05-15T19:07:02",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/33/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 406,
+      "no": 405,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 11,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 17 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz niektórych innych ustaw (druki nr 342, 374 i 374-A)",
+      "topic": "poprawka 6",
+      "totalVoted": 423,
+      "votingNumber": 33,
+      "yes": 15
+    },
+    {
+      "abstain": 5,
+      "date": "2024-05-15T19:07:35",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/34/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 400,
+      "no": 399,
+      "notParticipating": 39,
+      "present": 0,
+      "sitting": 11,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 17 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz niektórych innych ustaw (druki nr 342, 374 i 374-A)",
+      "topic": "poprawka 7",
+      "totalVoted": 419,
+      "votingNumber": 34,
+      "yes": 15
+    },
+    {
+      "abstain": 5,
+      "date": "2024-05-15T19:08:06",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/35/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 404,
+      "no": 403,
+      "notParticipating": 36,
+      "present": 0,
+      "sitting": 11,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 17 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz niektórych innych ustaw (druki nr 342, 374 i 374-A)",
+      "topic": "poprawka 8",
+      "totalVoted": 422,
+      "votingNumber": 35,
+      "yes": 14
+    },
+    {
+      "abstain": 5,
+      "date": "2024-05-15T19:08:38",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/36/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 405,
+      "no": 404,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 11,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 17 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz niektórych innych ustaw (druki nr 342, 374 i 374-A)",
+      "topic": "poprawka 9",
+      "totalVoted": 423,
+      "votingNumber": 36,
+      "yes": 14
+    },
+    {
+      "abstain": 5,
+      "date": "2024-05-15T19:09:13",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/37/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 406,
+      "no": 405,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 11,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 17 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz niektórych innych ustaw (druki nr 342, 374 i 374-A)",
+      "topic": "poprawka 10",
+      "totalVoted": 424,
+      "votingNumber": 37,
+      "yes": 14
+    },
+    {
+      "abstain": 5,
+      "date": "2024-05-15T19:09:43",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/38/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 406,
+      "no": 405,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 11,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 17 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz niektórych innych ustaw (druki nr 342, 374 i 374-A)",
+      "topic": "poprawka 11",
+      "totalVoted": 425,
+      "votingNumber": 38,
+      "yes": 15
+    },
+    {
+      "abstain": 178,
+      "date": "2024-05-15T19:10:35",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/39/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 16,
+      "no": 15,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 11,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 17 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz niektórych innych ustaw (druki nr 342, 374 i 374-A)",
+      "topic": "poprawki nr 12-13, 15, 18-20 i 22",
+      "totalVoted": 425,
+      "votingNumber": 39,
+      "yes": 232
+    },
+    {
+      "abstain": 5,
+      "date": "2024-05-15T19:11:27",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/40/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 406,
+      "no": 405,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 11,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 17 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz niektórych innych ustaw (druki nr 342, 374 i 374-A)",
+      "topic": "poprawka 14",
+      "totalVoted": 425,
+      "votingNumber": 40,
+      "yes": 15
+    },
+    {
+      "abstain": 4,
+      "date": "2024-05-15T19:13:36",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/41/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 231,
+      "no": 230,
+      "notParticipating": 36,
+      "present": 0,
+      "sitting": 11,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 17 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz niektórych innych ustaw (druki nr 342, 374 i 374-A)",
+      "topic": "poprawka 16",
+      "totalVoted": 422,
+      "votingNumber": 41,
+      "yes": 188
+    },
+    {
+      "abstain": 1,
+      "date": "2024-05-15T19:14:09",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/42/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 26,
+      "no": 25,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 11,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 17 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz niektórych innych ustaw (druki nr 342, 374 i 374-A)",
+      "topic": "poprawka 17",
+      "totalVoted": 424,
+      "votingNumber": 42,
+      "yes": 398
+    },
+    {
+      "abstain": 5,
+      "date": "2024-05-15T19:14:45",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/43/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 401,
+      "no": 400,
+      "notParticipating": 36,
+      "present": 0,
+      "sitting": 11,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 17 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz niektórych innych ustaw (druki nr 342, 374 i 374-A)",
+      "topic": "poprawka 21",
+      "totalVoted": 422,
+      "votingNumber": 43,
+      "yes": 17
+    },
+    {
+      "abstain": 20,
+      "date": "2024-05-15T19:15:20",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/44/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 20,
+      "no": 19,
+      "notParticipating": 38,
+      "present": 0,
+      "sitting": 11,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 17 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz niektórych innych ustaw (druki nr 342, 374 i 374-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 420,
+      "votingNumber": 44,
+      "yes": 381
+    },
+    {
+      "abstain": 14,
+      "date": "2024-05-15T19:17:40",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/45/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 226,
+      "no": 225,
+      "notParticipating": 41,
+      "present": 0,
+      "sitting": 11,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 18 Sprawozdanie Komisji o rządowym projekcie ustawy o czasowym ograniczeniu cen za energię elektryczną, gaz ziemny i ciepło systemowe oraz o bonie energetycznym (druki nr 346, 380 i 380-A)",
+      "topic": "poprawki nr 3-4, wnioski mniejszości nr 1-3 oraz 6-18",
+      "totalVoted": 417,
+      "votingNumber": 45,
+      "yes": 178
+    },
+    {
+      "abstain": 2,
+      "date": "2024-05-15T19:18:22",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/46/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 179,
+      "no": 178,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 11,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 18 Sprawozdanie Komisji o rządowym projekcie ustawy o czasowym ograniczeniu cen za energię elektryczną, gaz ziemny i ciepło systemowe oraz o bonie energetycznym (druki nr 346, 380 i 380-A)",
+      "topic": "poprawka 1",
+      "totalVoted": 424,
+      "votingNumber": 46,
+      "yes": 244
+    },
+    {
+      "abstain": 14,
+      "date": "2024-05-15T19:19:05",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/47/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 177,
+      "no": 176,
+      "notParticipating": 37,
+      "present": 0,
+      "sitting": 11,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 18 Sprawozdanie Komisji o rządowym projekcie ustawy o czasowym ograniczeniu cen za energię elektryczną, gaz ziemny i ciepło systemowe oraz o bonie energetycznym (druki nr 346, 380 i 380-A)",
+      "topic": "poprawka 2",
+      "totalVoted": 421,
+      "votingNumber": 47,
+      "yes": 231
+    },
+    {
+      "abstain": 183,
+      "date": "2024-05-15T19:19:44",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/48/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 11,
+      "no": 10,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 11,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 18 Sprawozdanie Komisji o rządowym projekcie ustawy o czasowym ograniczeniu cen za energię elektryczną, gaz ziemny i ciepło systemowe oraz o bonie energetycznym (druki nr 346, 380 i 380-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 424,
+      "votingNumber": 48,
+      "yes": 231
+    },
+    {
+      "abstain": 14,
+      "date": "2024-05-15T19:21:14",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/49/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 232,
+      "no": 231,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 11,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 23 Sprawozdanie Komisji o rządowym projekcie ustawy o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka - \"Aktywny rodzic\" (druki nr 319 i 376)",
+      "topic": "wniosek mniejszości 1",
+      "totalVoted": 423,
+      "votingNumber": 49,
+      "yes": 178
+    },
+    {
+      "abstain": 14,
+      "date": "2024-05-15T19:21:53",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/50/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 179,
+      "no": 178,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 11,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 23 Sprawozdanie Komisji o rządowym projekcie ustawy o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka - \"Aktywny rodzic\" (druki nr 319 i 376)",
+      "topic": "poprawka 1",
+      "totalVoted": 423,
+      "votingNumber": 50,
+      "yes": 231
+    },
+    {
+      "abstain": 0,
+      "date": "2024-05-15T19:22:47",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/51/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 244,
+      "no": 243,
+      "notParticipating": 38,
+      "present": 0,
+      "sitting": 11,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 23 Sprawozdanie Komisji o rządowym projekcie ustawy o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka - \"Aktywny rodzic\" (druki nr 319 i 376)",
+      "topic": "wnioski mniejszości nr 2-15",
+      "totalVoted": 420,
+      "votingNumber": 51,
+      "yes": 177
+    },
+    {
+      "abstain": 14,
+      "date": "2024-05-15T19:23:25",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/52/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 178,
+      "no": 177,
+      "notParticipating": 36,
+      "present": 0,
+      "sitting": 11,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 23 Sprawozdanie Komisji o rządowym projekcie ustawy o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka - \"Aktywny rodzic\" (druki nr 319 i 376)",
+      "topic": "poprawka 2",
+      "totalVoted": 422,
+      "votingNumber": 52,
+      "yes": 231
+    },
+    {
+      "abstain": 15,
+      "date": "2024-05-15T19:24:02",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/53/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 179,
+      "no": 178,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 11,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 23 Sprawozdanie Komisji o rządowym projekcie ustawy o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka - \"Aktywny rodzic\" (druki nr 319 i 376)",
+      "topic": "poprawka 3",
+      "totalVoted": 423,
+      "votingNumber": 53,
+      "yes": 230
+    },
+    {
+      "abstain": 14,
+      "date": "2024-05-15T19:24:38",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/54/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 179,
+      "no": 178,
+      "notParticipating": 36,
+      "present": 0,
+      "sitting": 11,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 23 Sprawozdanie Komisji o rządowym projekcie ustawy o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka - \"Aktywny rodzic\" (druki nr 319 i 376)",
+      "topic": "poprawka 4",
+      "totalVoted": 422,
+      "votingNumber": 54,
+      "yes": 230
+    },
+    {
+      "abstain": 2,
+      "date": "2024-05-15T19:25:13",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/55/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 15,
+      "no": 14,
+      "notParticipating": 37,
+      "present": 0,
+      "sitting": 11,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 23 Sprawozdanie Komisji o rządowym projekcie ustawy o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka - \"Aktywny rodzic\" (druki nr 319 i 376)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 421,
+      "votingNumber": 55,
+      "yes": 405
+    },
+    {
+      "abstain": 1,
+      "date": "2024-05-15T19:26:30",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/56/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 233,
+      "no": 232,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 11,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 24 Informacja Ministra Spraw Wewnętrznych i Administracji o podjętych działaniach w celu wyjaśnienia przyczyn i okoliczności wybuchów pożarów w dniach 10-13 maja 2024 r. w różnych miejscach w Polsce",
+      "topic": "głosowanie nad wnioskiem o odrzucenie informacji",
+      "totalVoted": 424,
+      "votingNumber": 56,
+      "yes": 191
+    },
+    {
+      "abstain": 13,
+      "date": "2024-05-15T19:27:59",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/57/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 103,
+      "no": 102,
+      "notParticipating": 37,
+      "present": 0,
+      "sitting": 11,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "11. posiedzenie Sejmu RP w dniach 8, 9 i 15 maja 2024 r.",
+      "topic": "ustalenie czasów debat",
+      "totalVoted": 421,
+      "votingNumber": 57,
+      "yes": 306
+    },
+    {
+      "abstain": 4,
+      "date": "2024-05-15T19:33:42",
+      "description": "wniosek z druku nr 390",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/58/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 3,
+      "no": 2,
+      "notParticipating": 42,
+      "present": 0,
+      "sitting": 11,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 26 Zmiany w składach osobowych komisji sejmowych (druk nr 390)",
+      "topic": "głosowanie nad przyjęciem wniosku z druku.",
+      "totalVoted": 416,
+      "votingNumber": 58,
+      "yes": 410
+    }
+  ],
+  "_pobrano": "2026-03-24T10:36:14Z"
+}

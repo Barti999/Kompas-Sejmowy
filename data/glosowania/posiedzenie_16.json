@@ -1,0 +1,2079 @@
+{
+  "posiedzenie": 16,
+  "data": "",
+  "tytul": "16. Posiedzenie Sejmu RP w dniach 23, 24, 25 i 26 lipca 2024 r.",
+  "glosowania": [
+    {
+      "abstain": 0,
+      "date": "2024-07-23T10:14:12",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/1/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 196,
+      "no": 195,
+      "notParticipating": 44,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "16. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 23, 24, 25 i 26 lipca 2024 r.",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu",
+      "totalVoted": 416,
+      "votingNumber": 1,
+      "yes": 221
+    },
+    {
+      "abstain": 1,
+      "date": "2024-07-23T10:25:10",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/2/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 230,
+      "no": 229,
+      "notParticipating": 38,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "16. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 23, 24, 25 i 26 lipca 2024 r.",
+      "topic": "Wniosek o przerwę",
+      "totalVoted": 422,
+      "votingNumber": 2,
+      "yes": 192
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-23T10:27:44",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/3/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 228,
+      "no": 227,
+      "notParticipating": 39,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "16. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 23, 24, 25 i 26 lipca 2024 r.",
+      "topic": "wniosek o odroczenie posiedzenia",
+      "totalVoted": 421,
+      "votingNumber": 3,
+      "yes": 194
+    },
+    {
+      "abstain": 211,
+      "date": "2024-07-23T10:35:51",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/4/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 41,
+      "no": 40,
+      "notParticipating": 36,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "16. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 23, 24, 25 i 26 lipca 2024 r.",
+      "topic": "wniosek o stwierdzenie kworum",
+      "totalVoted": 424,
+      "votingNumber": 4,
+      "yes": 173
+    },
+    {
+      "abstain": 1,
+      "date": "2024-07-24T16:52:22",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/5/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 241,
+      "no": 240,
+      "notParticipating": 22,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "16. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 23, 24, 25 i 26 lipca 2024 r.",
+      "topic": "Wniosek o przerwę",
+      "totalVoted": 438,
+      "votingNumber": 5,
+      "yes": 197
+    },
+    {
+      "abstain": 18,
+      "date": "2024-07-24T16:56:01",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/6/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 19,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 6 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o dochodzeniu roszczeń w postępowaniu grupowym oraz niektórych innych ustaw (druki nr 437 i 539)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 441,
+      "votingNumber": 6,
+      "yes": 423
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-24T16:57:07",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/7/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 19,
+      "no": 18,
+      "notParticipating": 16,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 8 Sprawozdanie Komisji o:- poselskim projekcie ustawy o zmianie ustawy o świadczeniu pieniężnym z tytułu pełnienia funkcji sołtysa,- senackim projekcie ustawy o zmianie ustawy o świadczeniu pieniężnym z tytułu pełnienia funkcji sołtysa oraz ustawy o świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji (druki nr 211, 407 i 567)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 444,
+      "votingNumber": 7,
+      "yes": 426
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-24T17:02:52",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/8/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 243,
+      "no": 242,
+      "notParticipating": 16,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o poselskim projekcie ustawy o Trybunale Konstytucyjnym (druki nr 253, 543 i 543-A)",
+      "topic": "wniosek o odrzucenie w całości projektu.",
+      "totalVoted": 444,
+      "votingNumber": 8,
+      "yes": 202
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-24T17:03:40",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/9/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 420,
+      "no": 419,
+      "notParticipating": 16,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o poselskim projekcie ustawy o Trybunale Konstytucyjnym (druki nr 253, 543 i 543-A)",
+      "topic": "poprawka 1",
+      "totalVoted": 444,
+      "votingNumber": 9,
+      "yes": 25
+    },
+    {
+      "abstain": 4,
+      "date": "2024-07-24T17:04:24",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/10/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 205,
+      "no": 204,
+      "notParticipating": 17,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o poselskim projekcie ustawy o Trybunale Konstytucyjnym (druki nr 253, 543 i 543-A)",
+      "topic": "poprawka 2",
+      "totalVoted": 443,
+      "votingNumber": 10,
+      "yes": 235
+    },
+    {
+      "abstain": 2,
+      "date": "2024-07-24T17:04:59",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/11/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 57,
+      "no": 56,
+      "notParticipating": 16,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o poselskim projekcie ustawy o Trybunale Konstytucyjnym (druki nr 253, 543 i 543-A)",
+      "topic": "poprawka 3",
+      "totalVoted": 444,
+      "votingNumber": 11,
+      "yes": 386
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-24T17:05:30",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/12/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 203,
+      "no": 202,
+      "notParticipating": 16,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o poselskim projekcie ustawy o Trybunale Konstytucyjnym (druki nr 253, 543 i 543-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 444,
+      "votingNumber": 12,
+      "yes": 242
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-24T17:07:35",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/13/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 242,
+      "no": 241,
+      "notParticipating": 19,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 3 Sprawozdanie Komisji o poselskim projekcie ustawy - Przepisy wprowadzające ustawę o Trybunale Konstytucyjnym (druki nr 254, 544 i 544-A)",
+      "topic": "wniosek o odrzucenie w całości projektu.",
+      "totalVoted": 441,
+      "votingNumber": 13,
+      "yes": 200
+    },
+    {
+      "abstain": 19,
+      "date": "2024-07-24T17:08:03",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/14/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 401,
+      "no": 400,
+      "notParticipating": 17,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 3 Sprawozdanie Komisji o poselskim projekcie ustawy - Przepisy wprowadzające ustawę o Trybunale Konstytucyjnym (druki nr 254, 544 i 544-A)",
+      "topic": "wniosek mniejszości 1",
+      "totalVoted": 443,
+      "votingNumber": 14,
+      "yes": 24
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-24T17:08:36",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/15/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 201,
+      "no": 200,
+      "notParticipating": 18,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 3 Sprawozdanie Komisji o poselskim projekcie ustawy - Przepisy wprowadzające ustawę o Trybunale Konstytucyjnym (druki nr 254, 544 i 544-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 442,
+      "votingNumber": 15,
+      "yes": 242
+    },
+    {
+      "abstain": 6,
+      "date": "2024-07-24T17:10:15",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/16/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 242,
+      "no": 241,
+      "notParticipating": 16,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa oraz ustawy o wstrzymaniu sprzedaży nieruchomości Zasobu Własności Rolnej Skarbu Państwa (druki nr 497, 518 i 518-A)",
+      "topic": "poprawka 1",
+      "totalVoted": 444,
+      "votingNumber": 16,
+      "yes": 197
+    },
+    {
+      "abstain": 22,
+      "date": "2024-07-24T17:10:44",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/17/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 180,
+      "no": 179,
+      "notParticipating": 18,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa oraz ustawy o wstrzymaniu sprzedaży nieruchomości Zasobu Własności Rolnej Skarbu Państwa (druki nr 497, 518 i 518-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 442,
+      "votingNumber": 17,
+      "yes": 241
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-24T17:11:56",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/18/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 261,
+      "no": 260,
+      "notParticipating": 16,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 5 Sprawozdanie Komisji o poselskim projekcie ustawy o uchyleniu ustawy o Państwowej Komisji do spraw badania wpływów rosyjskich na bezpieczeństwo wewnętrzne Rzeczypospolitej Polskiej w latach 2007-2022 (druki nr 351 i 540)",
+      "topic": "wniosek o odrzucenie w całości projektu.",
+      "totalVoted": 444,
+      "votingNumber": 18,
+      "yes": 184
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-24T17:12:28",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/19/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 185,
+      "no": 184,
+      "notParticipating": 17,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 5 Sprawozdanie Komisji o poselskim projekcie ustawy o uchyleniu ustawy o Państwowej Komisji do spraw badania wpływów rosyjskich na bezpieczeństwo wewnętrzne Rzeczypospolitej Polskiej w latach 2007-2022 (druki nr 351 i 540)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 443,
+      "votingNumber": 19,
+      "yes": 259
+    },
+    {
+      "abstain": 1,
+      "date": "2024-07-24T17:13:27",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/20/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 17,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 9 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (druki nr 546 i 551)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 443,
+      "votingNumber": 20,
+      "yes": 442
+    },
+    {
+      "abstain": 19,
+      "date": "2024-07-24T17:14:21",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/21/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 16,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 10 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o sporcie (druki nr 545 i 549)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 444,
+      "votingNumber": 21,
+      "yes": 425
+    },
+    {
+      "abstain": 21,
+      "date": "2024-07-24T17:15:13",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/22/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 16,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 11 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o dokumentach publicznych (druki nr 547 i 565)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 444,
+      "votingNumber": 22,
+      "yes": 423
+    },
+    {
+      "abstain": 12,
+      "date": "2024-07-24T17:20:34",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/23/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 234,
+      "no": 233,
+      "notParticipating": 16,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 12 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o publicznej służbie krwi (druki nr 548 i 563)",
+      "topic": "wniosek mniejszości 1",
+      "totalVoted": 444,
+      "votingNumber": 23,
+      "yes": 199
+    },
+    {
+      "abstain": 19,
+      "date": "2024-07-24T17:21:05",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/24/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 17,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 12 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o publicznej służbie krwi (druki nr 548 i 563)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 443,
+      "votingNumber": 24,
+      "yes": 424
+    },
+    {
+      "abstain": 18,
+      "date": "2024-07-24T17:22:16",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/25/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 180,
+      "no": 179,
+      "notParticipating": 17,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 13 Sprawozdanie Komisji o poselskim projekcie uchwały w sprawie ustanowienia roku 2025 Rokiem 1000-lecia Królestwa Polskiego (druki nr 354 i 473)",
+      "topic": "wniosek o przystąpienie do głosowania nad projektem bez odsyłania go do komisji",
+      "totalVoted": 443,
+      "votingNumber": 25,
+      "yes": 246
+    },
+    {
+      "abstain": 1,
+      "date": "2024-07-24T17:23:20",
+      "description": "całość projektu uchwały",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/26/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 2,
+      "no": 1,
+      "notParticipating": 17,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o poselskim projekcie uchwały w sprawie ustanowienia roku 2025 Rokiem Stefana Żeromskiego (druki nr 329 i 474)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 443,
+      "votingNumber": 26,
+      "yes": 441
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-24T17:24:09",
+      "description": "całość projektu uchwały",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/27/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 19,
+      "no": 18,
+      "notParticipating": 20,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 15 Sprawozdanie Komisji o poselskim projekcie uchwały w sprawie ustanowienia roku 2025 Rokiem Olgi Boznańskiej (druki nr 358 i 475)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 440,
+      "votingNumber": 27,
+      "yes": 422
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-24T17:24:59",
+      "description": "całość projektu uchwały",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/28/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 15,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 16 Sprawozdanie Komisji o poselskim projekcie uchwały w sprawie ustanowienia roku 2025 Rokiem Polskich Oficerów z Katynia, Miednoje i Ostaszkowa (druki nr 353 i 492)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 445,
+      "votingNumber": 28,
+      "yes": 445
+    },
+    {
+      "abstain": 14,
+      "date": "2024-07-24T17:25:55",
+      "description": "całość projektu uchwały",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/29/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 5,
+      "no": 4,
+      "notParticipating": 17,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 17 Sprawozdanie Komisji o poselskim projekcie uchwały w sprawie ustanowienia roku 2025 Rokiem Antoniego Słonimskiego (druki nr 355 i 493)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 443,
+      "votingNumber": 29,
+      "yes": 425
+    },
+    {
+      "abstain": 1,
+      "date": "2024-07-24T17:26:48",
+      "description": "całość projektu uchwały",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/30/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 18,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 18 Sprawozdanie Komisji o poselskim projekcie uchwały w sprawie ustanowienia roku 2025 Rokiem Franciszka Duszeńko (druki nr 359 i 531)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 442,
+      "votingNumber": 30,
+      "yes": 441
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-24T17:27:38",
+      "description": "całość projektu uchwały",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/31/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 16,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 19 Sprawozdanie Komisji o poselskim projekcie uchwały w sprawie ustanowienia roku 2025 Rokiem Generała Kazimierza Sosnkowskiego (druki nr 360 i 532)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 444,
+      "votingNumber": 31,
+      "yes": 444
+    },
+    {
+      "abstain": 18,
+      "date": "2024-07-24T17:29:18",
+      "description": "poprawka 1 i 2",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/32/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 182,
+      "no": 181,
+      "notParticipating": 16,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 13 Sprawozdanie Komisji o poselskim projekcie uchwały w sprawie ustanowienia roku 2025 Rokiem 1000-lecia Królestwa Polskiego (druki nr 354 i 473)",
+      "topic": "poprawki nr 1-2",
+      "totalVoted": 444,
+      "votingNumber": 32,
+      "yes": 245
+    },
+    {
+      "abstain": 3,
+      "date": "2024-07-24T17:30:43",
+      "description": "wniosek z druku nr 570",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/33/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 15,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 20 Zmiany w składach osobowych komisji sejmowych (druk nr 570)",
+      "topic": "głosowanie nad przyjęciem wniosku z druku.",
+      "totalVoted": 445,
+      "votingNumber": 33,
+      "yes": 442
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-24T17:31:36",
+      "description": "wniosek z druku nr 571",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/34/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 2,
+      "no": 1,
+      "notParticipating": 17,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 21 Wybór składu osobowego Komisji do Spraw Dzieci i Młodzieży (druk nr 571)",
+      "topic": "głosowanie nad przyjęciem wniosku z druku.",
+      "totalVoted": 443,
+      "votingNumber": 34,
+      "yes": 442
+    },
+    {
+      "abstain": 2,
+      "date": "2024-07-26T17:15:41",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/35/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 241,
+      "no": 240,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "16. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 23, 24, 25 i 26 lipca 2024 r.",
+      "topic": "Wniosek o przerwę",
+      "totalVoted": 437,
+      "votingNumber": 35,
+      "yes": 195
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-26T17:17:47",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/36/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 240,
+      "no": 239,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "16. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 23, 24, 25 i 26 lipca 2024 r.",
+      "topic": "wniosek o odroczenie posiedzenia",
+      "totalVoted": 437,
+      "votingNumber": 36,
+      "yes": 198
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-26T17:26:16",
+      "description": "całość projektu uchwały",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/37/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 18,
+      "no": 17,
+      "notParticipating": 21,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 25 Sprawozdanie Komisji  w sprawie sprawozdania z wykonania budżetu państwa za okres od 1 stycznia do 31 grudnia 2023 r. wraz z przedstawioną przez Najwyższą Izbę Kontroli analizą wykonania budżetu państwa i założeń polityki pieniężnej w 2023 r. oraz komisyjnym projektem uchwały w przedmiocie absolutorium (druki nr 425, 464 i 538)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 439,
+      "votingNumber": 37,
+      "yes": 422
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-26T17:27:56",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/38/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 217,
+      "no": 186,
+      "notParticipating": 27,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 34 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy - Kodeks karny oraz niektórych innych ustaw (druki nr 577 i 579)",
+      "topic": "poprawka 1",
+      "totalVoted": 433,
+      "votingNumber": 38,
+      "yes": 247
+    },
+    {
+      "abstain": 17,
+      "date": "2024-07-26T17:31:41",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/39/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 219,
+      "no": 420,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 35 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o prawie autorskim i prawach pokrewnych, ustawy o ochronie baz danych oraz ustawy o zbiorowym zarządzaniu prawami autorskimi i prawami pokrewnymi (druki nr 576 i 581)",
+      "topic": "poprawki nr 1, 4 i 21",
+      "totalVoted": 437,
+      "votingNumber": 39,
+      "yes": 0
+    },
+    {
+      "abstain": 18,
+      "date": "2024-07-26T17:32:20",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/40/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 216,
+      "no": 242,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 35 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o prawie autorskim i prawach pokrewnych, ustawy o ochronie baz danych oraz ustawy o zbiorowym zarządzaniu prawami autorskimi i prawami pokrewnymi (druki nr 576 i 581)",
+      "topic": "poprawki nr 2, 16-17, 19 i 22",
+      "totalVoted": 431,
+      "votingNumber": 40,
+      "yes": 171
+    },
+    {
+      "abstain": 17,
+      "date": "2024-07-26T17:33:05",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/41/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 220,
+      "no": 421,
+      "notParticipating": 22,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 35 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o prawie autorskim i prawach pokrewnych, ustawy o ochronie baz danych oraz ustawy o zbiorowym zarządzaniu prawami autorskimi i prawami pokrewnymi (druki nr 576 i 581)",
+      "topic": "poprawki nr 3, 5 i 12",
+      "totalVoted": 438,
+      "votingNumber": 41,
+      "yes": 0
+    },
+    {
+      "abstain": 17,
+      "date": "2024-07-26T17:33:48",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/42/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 219,
+      "no": 419,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 35 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o prawie autorskim i prawach pokrewnych, ustawy o ochronie baz danych oraz ustawy o zbiorowym zarządzaniu prawami autorskimi i prawami pokrewnymi (druki nr 576 i 581)",
+      "topic": "poprawki nr 6, 8-9, 11, 14 i 20",
+      "totalVoted": 436,
+      "votingNumber": 42,
+      "yes": 0
+    },
+    {
+      "abstain": 16,
+      "date": "2024-07-26T17:34:28",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/43/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 218,
+      "no": 419,
+      "notParticipating": 25,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 35 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o prawie autorskim i prawach pokrewnych, ustawy o ochronie baz danych oraz ustawy o zbiorowym zarządzaniu prawami autorskimi i prawami pokrewnymi (druki nr 576 i 581)",
+      "topic": "poprawki nr 7 i 18",
+      "totalVoted": 435,
+      "votingNumber": 43,
+      "yes": 0
+    },
+    {
+      "abstain": 16,
+      "date": "2024-07-26T17:35:07",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/44/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 219,
+      "no": 418,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 35 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o prawie autorskim i prawach pokrewnych, ustawy o ochronie baz danych oraz ustawy o zbiorowym zarządzaniu prawami autorskimi i prawami pokrewnymi (druki nr 576 i 581)",
+      "topic": "poprawka 10",
+      "totalVoted": 436,
+      "votingNumber": 44,
+      "yes": 2
+    },
+    {
+      "abstain": 17,
+      "date": "2024-07-26T17:35:41",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/45/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 219,
+      "no": 420,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 35 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o prawie autorskim i prawach pokrewnych, ustawy o ochronie baz danych oraz ustawy o zbiorowym zarządzaniu prawami autorskimi i prawami pokrewnymi (druki nr 576 i 581)",
+      "topic": "poprawka 13",
+      "totalVoted": 437,
+      "votingNumber": 45,
+      "yes": 0
+    },
+    {
+      "abstain": 19,
+      "date": "2024-07-26T17:36:17",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/46/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 219,
+      "no": 245,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 35 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o prawie autorskim i prawach pokrewnych, ustawy o ochronie baz danych oraz ustawy o zbiorowym zarządzaniu prawami autorskimi i prawami pokrewnymi (druki nr 576 i 581)",
+      "topic": "poprawka 15",
+      "totalVoted": 436,
+      "votingNumber": 46,
+      "yes": 172
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-26T17:38:20",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/47/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 220,
+      "no": 439,
+      "notParticipating": 21,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 38 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie niektórych ustaw w celu usprawnienia działań Sił Zbrojnych Rzeczypospolitej Polskiej, Policji oraz Straży Granicznej na wypadek zagrożenia bezpieczeństwa państwa (druki nr 584 i 587)",
+      "topic": "poprawki nr 1-2",
+      "totalVoted": 439,
+      "votingNumber": 47,
+      "yes": 0
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-26T17:38:54",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/48/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 218,
+      "no": 435,
+      "notParticipating": 25,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 38 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie niektórych ustaw w celu usprawnienia działań Sił Zbrojnych Rzeczypospolitej Polskiej, Policji oraz Straży Granicznej na wypadek zagrożenia bezpieczeństwa państwa (druki nr 584 i 587)",
+      "topic": "poprawka 3",
+      "totalVoted": 435,
+      "votingNumber": 48,
+      "yes": 0
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-26T17:39:29",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/49/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 220,
+      "no": 0,
+      "notParticipating": 21,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 38 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie niektórych ustaw w celu usprawnienia działań Sił Zbrojnych Rzeczypospolitej Polskiej, Policji oraz Straży Granicznej na wypadek zagrożenia bezpieczeństwa państwa (druki nr 584 i 587)",
+      "topic": "poprawka 4",
+      "totalVoted": 439,
+      "votingNumber": 49,
+      "yes": 439
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-26T17:40:03",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/50/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 219,
+      "no": 20,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 38 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie niektórych ustaw w celu usprawnienia działań Sił Zbrojnych Rzeczypospolitej Polskiej, Policji oraz Straży Granicznej na wypadek zagrożenia bezpieczeństwa państwa (druki nr 584 i 587)",
+      "topic": "poprawka 5",
+      "totalVoted": 437,
+      "votingNumber": 50,
+      "yes": 417
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-26T17:40:41",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/51/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 219,
+      "no": 437,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 38 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie niektórych ustaw w celu usprawnienia działań Sił Zbrojnych Rzeczypospolitej Polskiej, Policji oraz Straży Granicznej na wypadek zagrożenia bezpieczeństwa państwa (druki nr 584 i 587)",
+      "topic": "poprawka 6",
+      "totalVoted": 437,
+      "votingNumber": 51,
+      "yes": 0
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-26T17:41:18",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/52/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 220,
+      "no": 406,
+      "notParticipating": 21,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 38 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie niektórych ustaw w celu usprawnienia działań Sił Zbrojnych Rzeczypospolitej Polskiej, Policji oraz Straży Granicznej na wypadek zagrożenia bezpieczeństwa państwa (druki nr 584 i 587)",
+      "topic": "poprawka 7",
+      "totalVoted": 439,
+      "votingNumber": 52,
+      "yes": 33
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-26T17:41:53",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/53/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 220,
+      "no": 439,
+      "notParticipating": 21,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 38 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie niektórych ustaw w celu usprawnienia działań Sił Zbrojnych Rzeczypospolitej Polskiej, Policji oraz Straży Granicznej na wypadek zagrożenia bezpieczeństwa państwa (druki nr 584 i 587)",
+      "topic": "poprawka 8",
+      "totalVoted": 439,
+      "votingNumber": 53,
+      "yes": 0
+    },
+    {
+      "abstain": 16,
+      "date": "2024-07-26T17:47:13",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/54/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 219,
+      "no": 3,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 43 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa oraz ustawy o wstrzymaniu sprzedaży nieruchomości Zasobu Własności Rolnej Skarbu Państwa oraz o zmianie niektórych ustaw (druki nr 586 i 588)",
+      "topic": "poprawka 1",
+      "totalVoted": 436,
+      "votingNumber": 54,
+      "yes": 417
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-26T17:48:56",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/55/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 241,
+      "no": 240,
+      "notParticipating": 22,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 42 Sprawozdanie Komisji o przedstawionym przez Prezydium Sejmu projekcie uchwały w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej (druki nr 389 i 575)",
+      "topic": "wniosek mniejszości 1",
+      "totalVoted": 438,
+      "votingNumber": 55,
+      "yes": 198
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-26T17:49:40",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/56/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 62,
+      "no": 61,
+      "notParticipating": 21,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 42 Sprawozdanie Komisji o przedstawionym przez Prezydium Sejmu projekcie uchwały w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej (druki nr 389 i 575)",
+      "topic": "poprawki nr 1-2",
+      "totalVoted": 439,
+      "votingNumber": 56,
+      "yes": 378
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-26T17:50:18",
+      "description": "całość projektu uchwały",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/57/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 182,
+      "no": 181,
+      "notParticipating": 22,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 42 Sprawozdanie Komisji o przedstawionym przez Prezydium Sejmu projekcie uchwały w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej (druki nr 389 i 575)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 438,
+      "votingNumber": 57,
+      "yes": 257
+    },
+    {
+      "abstain": 16,
+      "date": "2024-07-26T17:57:39",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/58/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 183,
+      "no": 182,
+      "notParticipating": 21,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 28 Sprawozdanie Komisji o obywatelskim projekcie ustawy o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw w celu wprowadzenia renty wdowiej (druki nr 32, 503 i 503-A)",
+      "topic": "poprawki nr 1, 11-12, 20, 25-26, 28-30 i 32",
+      "totalVoted": 439,
+      "votingNumber": 58,
+      "yes": 241
+    },
+    {
+      "abstain": 15,
+      "date": "2024-07-26T17:58:48",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/59/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 184,
+      "no": 183,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 28 Sprawozdanie Komisji o obywatelskim projekcie ustawy o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw w celu wprowadzenia renty wdowiej (druki nr 32, 503 i 503-A)",
+      "topic": "poprawki nr 3, 14-15, 18 oraz 22-23",
+      "totalVoted": 436,
+      "votingNumber": 59,
+      "yes": 238
+    },
+    {
+      "abstain": 15,
+      "date": "2024-07-26T17:59:29",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/60/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 184,
+      "no": 183,
+      "notParticipating": 27,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 28 Sprawozdanie Komisji o obywatelskim projekcie ustawy o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw w celu wprowadzenia renty wdowiej (druki nr 32, 503 i 503-A)",
+      "topic": "poprawki nr 4-7, 9, 17 i 24",
+      "totalVoted": 433,
+      "votingNumber": 60,
+      "yes": 235
+    },
+    {
+      "abstain": 17,
+      "date": "2024-07-26T18:00:12",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/61/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 182,
+      "no": 181,
+      "notParticipating": 21,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 28 Sprawozdanie Komisji o obywatelskim projekcie ustawy o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw w celu wprowadzenia renty wdowiej (druki nr 32, 503 i 503-A)",
+      "topic": "poprawki nr 8, 10, 13, 16, 19 i 21",
+      "totalVoted": 439,
+      "votingNumber": 61,
+      "yes": 241
+    },
+    {
+      "abstain": 16,
+      "date": "2024-07-26T18:00:59",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/62/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 180,
+      "no": 179,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 28 Sprawozdanie Komisji o obywatelskim projekcie ustawy o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw w celu wprowadzenia renty wdowiej (druki nr 32, 503 i 503-A)",
+      "topic": "poprawka 31",
+      "totalVoted": 437,
+      "votingNumber": 62,
+      "yes": 242
+    },
+    {
+      "abstain": 12,
+      "date": "2024-07-26T18:02:25",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/63/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 3,
+      "no": 2,
+      "notParticipating": 21,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 28 Sprawozdanie Komisji o obywatelskim projekcie ustawy o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw w celu wprowadzenia renty wdowiej (druki nr 32, 503 i 503-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 439,
+      "votingNumber": 63,
+      "yes": 425
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-26T18:04:35",
+      "description": "całość projektu uchwały",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/64/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 197,
+      "no": 196,
+      "notParticipating": 25,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 29 Sprawozdanie Krajowej Rady Radiofonii i Telewizji z działalności w 2023 roku oraz Informacja o podstawowych problemach radiofonii i telewizji w 2023 roku wraz z komisyjnym projektem uchwały (druki nr 451 i 520)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 435,
+      "votingNumber": 64,
+      "yes": 239
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-26T18:05:27",
+      "description": "całość projektu uchwały",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/65/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 199,
+      "no": 198,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 30 Informacja o działalności Rady Mediów Narodowych w 2023 roku wraz z komisyjnym projektem uchwały (druki nr 452 i 519)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 437,
+      "votingNumber": 65,
+      "yes": 239
+    },
+    {
+      "abstain": 2,
+      "date": "2024-07-26T18:07:02",
+      "description": "wniosek o odwołanie Barbary Chrobak ze stanowiska członka Państwowej Komisji do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15 ",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/66/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "MAJORITY_THREE_FIFTHS",
+      "majorityVotes": 252,
+      "no": 4,
+      "notParticipating": 40,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 41 Odwołanie członków Państwowej Komisji do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15 - Pani Hanny Elżanowskiej oraz Pani Barbary Chrobak (druki nr 343 i 574)",
+      "topic": "Odwołanie Pani Barbary Chrobak",
+      "totalVoted": 420,
+      "votingNumber": 66,
+      "yes": 414
+    },
+    {
+      "abstain": 6,
+      "date": "2024-07-26T18:07:58",
+      "description": "wniosek o odwołanie Hanny Elżanowskiej ze stanowiska członka Państwowej Komisji do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/67/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "MAJORITY_THREE_FIFTHS",
+      "majorityVotes": 256,
+      "no": 2,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 41 Odwołanie członków Państwowej Komisji do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15 - Pani Hanny Elżanowskiej oraz Pani Barbary Chrobak (druki nr 343 i 574)",
+      "topic": "Odwołanie Pani Hanny Elżanowskiej",
+      "totalVoted": 426,
+      "votingNumber": 67,
+      "yes": 418
+    },
+    {
+      "abstain": 2,
+      "date": "2024-07-26T18:10:28",
+      "description": "całość projektu uchwały",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/68/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 16,
+      "no": 15,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 40 Sprawozdanie Komisji o poselskim projekcie uchwały w sprawie uczczenia 119. rocznicy stracenia Stefana Okrzei (druki nr 568 i 572)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 436,
+      "votingNumber": 68,
+      "yes": 419
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-26T18:12:24",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/69/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 208,
+      "no": 207,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 39 Sprawozdanie Komisji o poselskich projektach uchwał:- w sprawie uczczenia 81. rocznicy zbrodni ludobójstwa dokonanej na Polakach przez nacjonalistów ukraińskich,- w sprawie oddania hołdu w 81. rocznicę Krwawej Niedzieli ofiarom ludobójstwa dokonanego przez szowinistów ukraińskich na obywatelach II Rzeczypospolitej Polskiej w latach 1943-1945 (druki nr 533, 536, 569 i 569-A)",
+      "topic": "poprawka 1",
+      "totalVoted": 436,
+      "votingNumber": 69,
+      "yes": 229
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-26T18:13:02",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/70/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 3,
+      "no": 2,
+      "notParticipating": 21,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 39 Sprawozdanie Komisji o poselskich projektach uchwał:- w sprawie uczczenia 81. rocznicy zbrodni ludobójstwa dokonanej na Polakach przez nacjonalistów ukraińskich,- w sprawie oddania hołdu w 81. rocznicę Krwawej Niedzieli ofiarom ludobójstwa dokonanego przez szowinistów ukraińskich na obywatelach II Rzeczypospolitej Polskiej w latach 1943-1945 (druki nr 533, 536, 569 i 569-A)",
+      "topic": "poprawka 2",
+      "totalVoted": 439,
+      "votingNumber": 70,
+      "yes": 437
+    },
+    {
+      "abstain": 1,
+      "date": "2024-07-26T18:13:33",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/71/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 414,
+      "no": 413,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 39 Sprawozdanie Komisji o poselskich projektach uchwał:- w sprawie uczczenia 81. rocznicy zbrodni ludobójstwa dokonanej na Polakach przez nacjonalistów ukraińskich,- w sprawie oddania hołdu w 81. rocznicę Krwawej Niedzieli ofiarom ludobójstwa dokonanego przez szowinistów ukraińskich na obywatelach II Rzeczypospolitej Polskiej w latach 1943-1945 (druki nr 533, 536, 569 i 569-A)",
+      "topic": "poprawka 3",
+      "totalVoted": 437,
+      "votingNumber": 71,
+      "yes": 23
+    },
+    {
+      "abstain": 2,
+      "date": "2024-07-26T18:14:02",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/72/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 203,
+      "no": 202,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 39 Sprawozdanie Komisji o poselskich projektach uchwał:- w sprawie uczczenia 81. rocznicy zbrodni ludobójstwa dokonanej na Polakach przez nacjonalistów ukraińskich,- w sprawie oddania hołdu w 81. rocznicę Krwawej Niedzieli ofiarom ludobójstwa dokonanego przez szowinistów ukraińskich na obywatelach II Rzeczypospolitej Polskiej w latach 1943-1945 (druki nr 533, 536, 569 i 569-A)",
+      "topic": "poprawka 4",
+      "totalVoted": 428,
+      "votingNumber": 72,
+      "yes": 224
+    },
+    {
+      "abstain": 150,
+      "date": "2024-07-26T18:14:35",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/73/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 3,
+      "no": 2,
+      "notParticipating": 21,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 39 Sprawozdanie Komisji o poselskich projektach uchwał:- w sprawie uczczenia 81. rocznicy zbrodni ludobójstwa dokonanej na Polakach przez nacjonalistów ukraińskich,- w sprawie oddania hołdu w 81. rocznicę Krwawej Niedzieli ofiarom ludobójstwa dokonanego przez szowinistów ukraińskich na obywatelach II Rzeczypospolitej Polskiej w latach 1943-1945 (druki nr 533, 536, 569 i 569-A)",
+      "topic": "poprawka 5",
+      "totalVoted": 439,
+      "votingNumber": 73,
+      "yes": 287
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-26T18:15:09",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/74/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 242,
+      "no": 241,
+      "notParticipating": 21,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 39 Sprawozdanie Komisji o poselskich projektach uchwał:- w sprawie uczczenia 81. rocznicy zbrodni ludobójstwa dokonanej na Polakach przez nacjonalistów ukraińskich,- w sprawie oddania hołdu w 81. rocznicę Krwawej Niedzieli ofiarom ludobójstwa dokonanego przez szowinistów ukraińskich na obywatelach II Rzeczypospolitej Polskiej w latach 1943-1945 (druki nr 533, 536, 569 i 569-A)",
+      "topic": "poprawka 6",
+      "totalVoted": 439,
+      "votingNumber": 74,
+      "yes": 198
+    },
+    {
+      "abstain": 7,
+      "date": "2024-07-26T18:21:18",
+      "description": "całość projektu uchwały",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/75/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 39 Sprawozdanie Komisji o poselskich projektach uchwał:- w sprawie uczczenia 81. rocznicy zbrodni ludobójstwa dokonanej na Polakach przez nacjonalistów ukraińskich,- w sprawie oddania hołdu w 81. rocznicę Krwawej Niedzieli ofiarom ludobójstwa dokonanego przez szowinistów ukraińskich na obywatelach II Rzeczypospolitej Polskiej w latach 1943-1945 (druki nr 533, 536, 569 i 569-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 434,
+      "votingNumber": 75,
+      "yes": 427
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-26T18:22:47",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/76/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 198,
+      "no": 197,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 31 Sprawozdanie Komisji o poselskim projekcie uchwały w sprawie zlecenia Najwyższej Izbie Kontroli przeprowadzenia kontroli działalności Krajowej Rady Radiofonii i Telewizji oraz innych odpowiednich organów w zakresie realizacji konstytucyjnych i ustawowych obowiązków stania na straży wolności słowa, prawa do informacji, interesu publicznego w radiofonii i telewizji oraz zapewnienia otwartego i pluralistycznego charakteru radiofonii i telewizji (druki nr 529 i 580)",
+      "topic": "wniosek o przystąpienie do głosowania nad projektem bez odsyłania go do komisji",
+      "totalVoted": 437,
+      "votingNumber": 76,
+      "yes": 240
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-26T18:26:56",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/77/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 241,
+      "no": 240,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 31 Sprawozdanie Komisji o poselskim projekcie uchwały w sprawie zlecenia Najwyższej Izbie Kontroli przeprowadzenia kontroli działalności Krajowej Rady Radiofonii i Telewizji oraz innych odpowiednich organów w zakresie realizacji konstytucyjnych i ustawowych obowiązków stania na straży wolności słowa, prawa do informacji, interesu publicznego w radiofonii i telewizji oraz zapewnienia otwartego i pluralistycznego charakteru radiofonii i telewizji (druki nr 529 i 580)",
+      "topic": "poprawka 1",
+      "totalVoted": 434,
+      "votingNumber": 77,
+      "yes": 194
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-26T18:27:28",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/78/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 255,
+      "no": 254,
+      "notParticipating": 25,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 31 Sprawozdanie Komisji o poselskim projekcie uchwały w sprawie zlecenia Najwyższej Izbie Kontroli przeprowadzenia kontroli działalności Krajowej Rady Radiofonii i Telewizji oraz innych odpowiednich organów w zakresie realizacji konstytucyjnych i ustawowych obowiązków stania na straży wolności słowa, prawa do informacji, interesu publicznego w radiofonii i telewizji oraz zapewnienia otwartego i pluralistycznego charakteru radiofonii i telewizji (druki nr 529 i 580)",
+      "topic": "poprawka 2",
+      "totalVoted": 435,
+      "votingNumber": 78,
+      "yes": 181
+    },
+    {
+      "abstain": 1,
+      "date": "2024-07-26T18:27:59",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/79/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 252,
+      "no": 251,
+      "notParticipating": 28,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 31 Sprawozdanie Komisji o poselskim projekcie uchwały w sprawie zlecenia Najwyższej Izbie Kontroli przeprowadzenia kontroli działalności Krajowej Rady Radiofonii i Telewizji oraz innych odpowiednich organów w zakresie realizacji konstytucyjnych i ustawowych obowiązków stania na straży wolności słowa, prawa do informacji, interesu publicznego w radiofonii i telewizji oraz zapewnienia otwartego i pluralistycznego charakteru radiofonii i telewizji (druki nr 529 i 580)",
+      "topic": "poprawka 3",
+      "totalVoted": 432,
+      "votingNumber": 79,
+      "yes": 180
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-26T18:28:29",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/80/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 241,
+      "no": 240,
+      "notParticipating": 27,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 31 Sprawozdanie Komisji o poselskim projekcie uchwały w sprawie zlecenia Najwyższej Izbie Kontroli przeprowadzenia kontroli działalności Krajowej Rady Radiofonii i Telewizji oraz innych odpowiednich organów w zakresie realizacji konstytucyjnych i ustawowych obowiązków stania na straży wolności słowa, prawa do informacji, interesu publicznego w radiofonii i telewizji oraz zapewnienia otwartego i pluralistycznego charakteru radiofonii i telewizji (druki nr 529 i 580)",
+      "topic": "poprawka 4",
+      "totalVoted": 433,
+      "votingNumber": 80,
+      "yes": 193
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-26T18:29:00",
+      "description": "całość projektu uchwaly",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/81/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 179,
+      "no": 178,
+      "notParticipating": 27,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 31 Sprawozdanie Komisji o poselskim projekcie uchwały w sprawie zlecenia Najwyższej Izbie Kontroli przeprowadzenia kontroli działalności Krajowej Rady Radiofonii i Telewizji oraz innych odpowiednich organów w zakresie realizacji konstytucyjnych i ustawowych obowiązków stania na straży wolności słowa, prawa do informacji, interesu publicznego w radiofonii i telewizji oraz zapewnienia otwartego i pluralistycznego charakteru radiofonii i telewizji (druki nr 529 i 580)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 433,
+      "votingNumber": 81,
+      "yes": 255
+    },
+    {
+      "abstain": 1,
+      "date": "2024-07-26T18:34:20",
+      "description": "wniosek o odrzucenie projektu ustawy w pierwszym czytaniu",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/82/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 191,
+      "no": 190,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 33 Pierwsze czytanie poselskiego projektu ustawy o zmianie ustawy - Ordynacja podatkowa oraz ustawy - Kodeks karny skarbowy (druk nr 552)",
+      "topic": "wniosek o odrzucenie projektu w pierwszym czytaniu.",
+      "totalVoted": 428,
+      "votingNumber": 82,
+      "yes": 237
+    },
+    {
+      "abstain": 19,
+      "date": "2024-07-26T18:35:35",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/83/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 226,
+      "no": 225,
+      "notParticipating": 45,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Rozstrzygnięcie przez Sejm wniosku o uzupełnienie porządku dziennego o punkt: Pierwsze czytanie poselskiego projektu ustawy o zmianie ustaw w celu wsparcia odbiorców energii elektrycznej, paliw gazowych i ciepła oraz niektórych innych ustaw",
+      "topic": "wniosek o uzupełnienie porządku dziennego.",
+      "totalVoted": 415,
+      "votingNumber": 83,
+      "yes": 171
+    },
+    {
+      "abstain": 6,
+      "date": "2024-07-26T18:36:10",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/84/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 229,
+      "no": 228,
+      "notParticipating": 46,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Rozstrzygnięcie przez Sejm wniosku o uzupełnienie porządku dziennego o punkt: Pierwsze czytanie poselskiego projektu ustawy o zmianie ustawy o podatku od towarów i usług (druk nr 323)",
+      "topic": "wniosek o uzupełnienie porządku dziennego.",
+      "totalVoted": 414,
+      "votingNumber": 84,
+      "yes": 180
+    },
+    {
+      "abstain": 2,
+      "date": "2024-07-26T18:36:59",
+      "description": "wniosek z druku nr 585",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/85/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 65,
+      "present": 0,
+      "sitting": 16,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 44 Zmiany w składach osobowych komisji sejmowych (druk nr 585)",
+      "topic": "głosowanie nad przyjęciem wniosku z druku.",
+      "totalVoted": 395,
+      "votingNumber": 85,
+      "yes": 393
+    }
+  ],
+  "_pobrano": "2026-03-24T10:36:16Z"
+}

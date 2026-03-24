@@ -1,0 +1,518 @@
+{
+  "posiedzenie": 8,
+  "data": "",
+  "tytul": "8. Posiedzenie Sejmu RP w dniach 20 i 21 marca 2024 r.",
+  "glosowania": [
+    {
+      "abstain": 0,
+      "date": "2024-03-20T10:06:32",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/8/1/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 192,
+      "no": 191,
+      "notParticipating": 36,
+      "present": 0,
+      "sitting": 8,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "8. posiedzenie Sejmu RP w dniach 20 i 21 marca 2024 r.",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu",
+      "totalVoted": 423,
+      "votingNumber": 1,
+      "yes": 232
+    },
+    {
+      "abstain": 3,
+      "date": "2024-03-20T10:15:38",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/8/2/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 354,
+      "no": 353,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 8,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "8. posiedzenie Sejmu RP w dniach 20 i 21 marca 2024 r.",
+      "topic": "Wniosek o przerwę",
+      "totalVoted": 424,
+      "votingNumber": 2,
+      "yes": 68
+    },
+    {
+      "abstain": 2,
+      "date": "2024-03-20T10:23:28",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/8/3/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 376,
+      "no": 375,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 8,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "8. posiedzenie Sejmu RP w dniach 20 i 21 marca 2024 r.",
+      "topic": "wniosek o odroczenie posiedzenia",
+      "totalVoted": 426,
+      "votingNumber": 3,
+      "yes": 49
+    },
+    {
+      "abstain": 2,
+      "date": "2024-03-20T10:27:23",
+      "description": "wniosek z druku nr 256",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/8/4/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 8,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Zmiany w składach osobowych komisji sejmowych (druk nr 256)",
+      "topic": "głosowanie nad przyjęciem wniosku z druku.",
+      "totalVoted": 430,
+      "votingNumber": 4,
+      "yes": 428
+    },
+    {
+      "abstain": 0,
+      "date": "2024-03-20T18:25:41",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/8/5/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 250,
+      "no": 249,
+      "notParticipating": 31,
+      "present": 0,
+      "sitting": 8,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "8. posiedzenie Sejmu RP w dniach 20 i 21 marca 2024 r.",
+      "topic": "Wniosek o przerwę",
+      "totalVoted": 428,
+      "votingNumber": 5,
+      "yes": 179
+    },
+    {
+      "abstain": 1,
+      "date": "2024-03-20T18:29:19",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/8/6/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 379,
+      "no": 378,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 8,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "8. posiedzenie Sejmu RP w dniach 20 i 21 marca 2024 r.",
+      "topic": "wniosek o odroczenie posiedzenia",
+      "totalVoted": 433,
+      "votingNumber": 6,
+      "yes": 54
+    },
+    {
+      "abstain": 0,
+      "date": "2024-03-20T18:31:34",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/8/7/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 28,
+      "present": 0,
+      "sitting": 8,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 3 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o rachunkowości oraz niektórych innych ustaw (druki nr 242 i 252)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 431,
+      "votingNumber": 7,
+      "yes": 431
+    },
+    {
+      "abstain": 13,
+      "date": "2024-03-20T18:34:11",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/8/8/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 241,
+      "no": 240,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 8,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 7 Informacja Rządu dotycząca możliwości popełnienia przestępstwa z art. 231 Kodeksu karnego przez Prezesa Rady Ministrów oraz Ministra Właściwego do Spraw Europejskich, polegającego na zaniechaniu urzędniczym, które doprowadziło do bezpowrotnej utraty przez Polskę zaliczki z Krajowego Planu Odbudowy w kwocie 4,7 mld euro - głosowanie",
+      "topic": "wniosek o odrzucenie informacji",
+      "totalVoted": 435,
+      "votingNumber": 8,
+      "yes": 182
+    },
+    {
+      "abstain": 1,
+      "date": "2024-03-20T18:36:08",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/8/9/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 237,
+      "no": 236,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 8,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o:- poselskim projekcie ustawy o zmianie ustawy o konsumenckiej pożyczce lombardowej oraz o zmianie niektórych innych ustaw,- rządowym projekcie ustawy o zmianie ustawy - Kodeks cywilny oraz ustawy o kredycie konsumenckim (druki nr 208, 227, 250 i 250-A)",
+      "topic": "wniosek mniejszości 1",
+      "totalVoted": 433,
+      "votingNumber": 9,
+      "yes": 196
+    },
+    {
+      "abstain": 0,
+      "date": "2024-03-20T18:36:53",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/8/10/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 197,
+      "no": 196,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 8,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o:- poselskim projekcie ustawy o zmianie ustawy o konsumenckiej pożyczce lombardowej oraz o zmianie niektórych innych ustaw,- rządowym projekcie ustawy o zmianie ustawy - Kodeks cywilny oraz ustawy o kredycie konsumenckim (druki nr 208, 227, 250 i 250-A)",
+      "topic": "poprawka 1",
+      "totalVoted": 435,
+      "votingNumber": 10,
+      "yes": 239
+    },
+    {
+      "abstain": 0,
+      "date": "2024-03-20T18:37:26",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/8/11/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 181,
+      "no": 180,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 8,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o:- poselskim projekcie ustawy o zmianie ustawy o konsumenckiej pożyczce lombardowej oraz o zmianie niektórych innych ustaw,- rządowym projekcie ustawy o zmianie ustawy - Kodeks cywilny oraz ustawy o kredycie konsumenckim (druki nr 208, 227, 250 i 250-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 435,
+      "votingNumber": 11,
+      "yes": 255
+    },
+    {
+      "abstain": 0,
+      "date": "2024-03-20T18:39:59",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/8/12/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 416,
+      "no": 415,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 8,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o poselskim projekcie uchwały w sprawie upamiętnienia 90. rocznicy uchwalenia pierwszej ustawy o ochronie przyrody w Polsce (druki nr 234, 249 i 249-A)",
+      "topic": "wniosek o odrzucenie w całości projektu.",
+      "totalVoted": 435,
+      "votingNumber": 12,
+      "yes": 20
+    },
+    {
+      "abstain": 0,
+      "date": "2024-03-20T18:40:33",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/8/13/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 8,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o poselskim projekcie uchwały w sprawie upamiętnienia 90. rocznicy uchwalenia pierwszej ustawy o ochronie przyrody w Polsce (druki nr 234, 249 i 249-A)",
+      "topic": "poprawka 1",
+      "totalVoted": 435,
+      "votingNumber": 13,
+      "yes": 435
+    },
+    {
+      "abstain": 13,
+      "date": "2024-03-20T18:41:16",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/8/14/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 238,
+      "no": 237,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 8,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o poselskim projekcie uchwały w sprawie upamiętnienia 90. rocznicy uchwalenia pierwszej ustawy o ochronie przyrody w Polsce (druki nr 234, 249 i 249-A)",
+      "topic": "poprawka 2",
+      "totalVoted": 435,
+      "votingNumber": 14,
+      "yes": 185
+    },
+    {
+      "abstain": 14,
+      "date": "2024-03-20T18:41:53",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/8/15/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 27,
+      "present": 0,
+      "sitting": 8,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o poselskim projekcie uchwały w sprawie upamiętnienia 90. rocznicy uchwalenia pierwszej ustawy o ochronie przyrody w Polsce (druki nr 234, 249 i 249-A)",
+      "topic": "poprawka 3",
+      "totalVoted": 432,
+      "votingNumber": 15,
+      "yes": 418
+    },
+    {
+      "abstain": 0,
+      "date": "2024-03-20T18:42:30",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/8/16/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 239,
+      "no": 238,
+      "notParticipating": 25,
+      "present": 0,
+      "sitting": 8,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o poselskim projekcie uchwały w sprawie upamiętnienia 90. rocznicy uchwalenia pierwszej ustawy o ochronie przyrody w Polsce (druki nr 234, 249 i 249-A)",
+      "topic": "poprawka 4",
+      "totalVoted": 434,
+      "votingNumber": 16,
+      "yes": 196
+    },
+    {
+      "abstain": 163,
+      "date": "2024-03-20T18:43:04",
+      "description": "całość projektu uchwały",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/8/17/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 27,
+      "no": 26,
+      "notParticipating": 25,
+      "present": 0,
+      "sitting": 8,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o poselskim projekcie uchwały w sprawie upamiętnienia 90. rocznicy uchwalenia pierwszej ustawy o ochronie przyrody w Polsce (druki nr 234, 249 i 249-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 434,
+      "votingNumber": 17,
+      "yes": 245
+    },
+    {
+      "abstain": 1,
+      "date": "2024-03-20T18:44:16",
+      "description": "wniosek o odrzucenie projektu ustawy w pierwszym czytaniu",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/8/18/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 253,
+      "no": 252,
+      "notParticipating": 27,
+      "present": 0,
+      "sitting": 8,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 5 Pierwsze czytanie poselskiego projektu ustawy o zmianie ustawy o mniejszościach narodowych i etnicznych oraz o języku regionalnym oraz niektórych innych ustaw (druk nr 233)",
+      "topic": "wniosek o odrzucenie projektu w pierwszym czytaniu.",
+      "totalVoted": 432,
+      "votingNumber": 18,
+      "yes": 179
+    },
+    {
+      "abstain": 0,
+      "date": "2024-03-20T18:45:32",
+      "description": "wniosek o wyznaczenie terminu na przedstawienie sprawozdania przez Komisję",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/8/19/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 239,
+      "no": 238,
+      "notParticipating": 25,
+      "present": 0,
+      "sitting": 8,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 6 Pierwsze czytanie poselskiego projektu ustawy o zmianie ustawy o podatku dochodowym od osób fizycznych (druk nr 194)",
+      "topic": "wniosek o wyznaczenie terminu na przedstawienie sprawozdania (art. 39 ust. 3 regulaminu Sejmu)",
+      "totalVoted": 434,
+      "votingNumber": 19,
+      "yes": 196
+    },
+    {
+      "abstain": 15,
+      "date": "2024-03-20T18:47:50",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/8/20/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 218,
+      "no": 419,
+      "notParticipating": 25,
+      "present": 0,
+      "sitting": 8,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 11 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy - Prawo pocztowe oraz ustawy o zmianie ustawy - Prawo pocztowe (druki nr 265 i 266)",
+      "topic": "poprawka 1",
+      "totalVoted": 434,
+      "votingNumber": 20,
+      "yes": 0
+    },
+    {
+      "abstain": 12,
+      "date": "2024-03-20T18:48:36",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/8/21/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 217,
+      "no": 421,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 8,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 11 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy - Prawo pocztowe oraz ustawy o zmianie ustawy - Prawo pocztowe (druki nr 265 i 266)",
+      "topic": "poprawka 2",
+      "totalVoted": 433,
+      "votingNumber": 21,
+      "yes": 0
+    }
+  ],
+  "_pobrano": "2026-03-24T10:36:13Z"
+}

@@ -1,0 +1,1799 @@
+{
+  "posiedzenie": 31,
+  "data": "",
+  "tytul": "31. Posiedzenie Sejmu RP w dniach 19 i 20 marca 2025 r.",
+  "glosowania": [
+    {
+      "abstain": 17,
+      "date": "2025-03-19T10:09:08",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/1/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 48,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Głosowanie proceduralne dotyczące druku 1111",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie sprawozdania z druku nr 1111",
+      "totalVoted": 412,
+      "votingNumber": 1,
+      "yes": 395
+    },
+    {
+      "abstain": 194,
+      "date": "2025-03-19T10:09:58",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/2/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 25,
+      "no": 24,
+      "notParticipating": 46,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Głosowanie proceduralne dotyczące druku 1103",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie sprawozdania z druku nr 1103",
+      "totalVoted": 414,
+      "votingNumber": 2,
+      "yes": 196
+    },
+    {
+      "abstain": 17,
+      "date": "2025-03-19T10:10:46",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/3/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 2,
+      "no": 1,
+      "notParticipating": 45,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Głosowanie proceduralne dotyczące druku 1101",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie sprawozdania z druku nr 1101",
+      "totalVoted": 415,
+      "votingNumber": 3,
+      "yes": 397
+    },
+    {
+      "abstain": 1,
+      "date": "2025-03-19T10:19:44",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/4/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 215,
+      "no": 214,
+      "notParticipating": 42,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "31. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 19 i 20 marca 2025 r.",
+      "topic": "wniosek o odroczenie posiedzenia",
+      "totalVoted": 418,
+      "votingNumber": 4,
+      "yes": 203
+    },
+    {
+      "abstain": 14,
+      "date": "2025-03-19T10:26:23",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/5/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 348,
+      "no": 347,
+      "notParticipating": 43,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "31. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 19 i 20 marca 2025 r.",
+      "topic": "Wniosek o przerwę",
+      "totalVoted": 417,
+      "votingNumber": 5,
+      "yes": 56
+    },
+    {
+      "abstain": 18,
+      "date": "2025-03-20T13:19:52",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/6/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 52,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Głosowanie proceduralne dotyczące druku 1096",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 54 ust. 5 regulaminu Sejmu w sprawie sprawozdania z druku nr 1096.",
+      "totalVoted": 408,
+      "votingNumber": 6,
+      "yes": 390
+    },
+    {
+      "abstain": 13,
+      "date": "2025-03-20T13:20:54",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/7/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 19,
+      "no": 18,
+      "notParticipating": 44,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Głosowanie proceduralne dotyczące druku 1098",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 54 ust. 5 regulaminu Sejmu w sprawie sprawozdania z druku nr 1098.",
+      "totalVoted": 416,
+      "votingNumber": 7,
+      "yes": 385
+    },
+    {
+      "abstain": 0,
+      "date": "2025-03-20T13:22:32",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/8/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 195,
+      "no": 194,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Głosowanie proceduralne dotyczące druku nr 1128",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie sprawozdania z druku nr 1128.",
+      "totalVoted": 425,
+      "votingNumber": 8,
+      "yes": 231
+    },
+    {
+      "abstain": 4,
+      "date": "2025-03-20T13:31:30",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/9/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 229,
+      "no": 228,
+      "notParticipating": 31,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "31. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 19 i 20 marca 2025 r.",
+      "topic": "Wniosek o przerwę",
+      "totalVoted": 429,
+      "votingNumber": 9,
+      "yes": 197
+    },
+    {
+      "abstain": 0,
+      "date": "2025-03-20T13:33:29",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/10/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 230,
+      "no": 0,
+      "notParticipating": 34,
+      "present": 426,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "31. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 19 i 20 marca 2025 r.",
+      "topic": "Głosowanie kworum",
+      "totalVoted": 426,
+      "votingNumber": 10,
+      "yes": 0
+    },
+    {
+      "abstain": 17,
+      "date": "2025-03-20T13:35:54",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/11/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o współpracy rozwojowej oraz niektórych innych ustaw (druki nr 1034 i 1086)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 428,
+      "votingNumber": 11,
+      "yes": 411
+    },
+    {
+      "abstain": 0,
+      "date": "2025-03-20T13:37:06",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/12/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o ratyfikacji Poprawek do Konwencji o pracy na morzu, przyjętej w Genewie dnia 23 lutego 2006 r., zatwierdzonych przez Międzynarodową Konferencję Pracy w Genewie w dniu 6 czerwca 2022 r. (druki nr 994 i 1068)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 431,
+      "votingNumber": 12,
+      "yes": 431
+    },
+    {
+      "abstain": 194,
+      "date": "2025-03-20T13:40:17",
+      "description": "całość projektu uchwały",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/13/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 5 Sprawozdanie Komisji o poselskim projekcie uchwały w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej (druki nr 1042 i 1063)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 428,
+      "votingNumber": 13,
+      "yes": 234
+    },
+    {
+      "abstain": 0,
+      "date": "2025-03-20T14:12:39",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/14/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 193,
+      "no": 192,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "31. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 19 i 20 marca 2025 r.",
+      "topic": "wniosek o przystąpienie do głosowania nad projektem uchwały bez kierowania go do komisji",
+      "totalVoted": 427,
+      "votingNumber": 14,
+      "yes": 235
+    },
+    {
+      "abstain": 15,
+      "date": "2025-03-20T14:15:02",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/15/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 233,
+      "no": 232,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowym Ratownictwie Medycznym oraz niektórych innych ustaw (druki nr 1058, 1111 i 1111-A)",
+      "topic": "wnioski mniejszości nr 1 i 3",
+      "totalVoted": 431,
+      "votingNumber": 15,
+      "yes": 184
+    },
+    {
+      "abstain": 0,
+      "date": "2025-03-20T14:15:43",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/16/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 210,
+      "no": 209,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowym Ratownictwie Medycznym oraz niektórych innych ustaw (druki nr 1058, 1111 i 1111-A)",
+      "topic": "wniosek mniejszości 2",
+      "totalVoted": 428,
+      "votingNumber": 16,
+      "yes": 219
+    },
+    {
+      "abstain": 0,
+      "date": "2025-03-20T14:16:34",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/17/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 211,
+      "no": 210,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowym Ratownictwie Medycznym oraz niektórych innych ustaw (druki nr 1058, 1111 i 1111-A)",
+      "topic": "poprawka 1",
+      "totalVoted": 430,
+      "votingNumber": 17,
+      "yes": 220
+    },
+    {
+      "abstain": 16,
+      "date": "2025-03-20T14:17:12",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/18/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 31,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowym Ratownictwie Medycznym oraz niektórych innych ustaw (druki nr 1058, 1111 i 1111-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 429,
+      "votingNumber": 18,
+      "yes": 413
+    },
+    {
+      "abstain": 1,
+      "date": "2025-03-20T14:18:05",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/19/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_STATUTORY_MAJORITY",
+      "majorityVotes": 231,
+      "no": 0,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 7 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych (druki nr 1038 i 1101)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 426,
+      "votingNumber": 19,
+      "yes": 425
+    },
+    {
+      "abstain": 15,
+      "date": "2025-03-20T14:19:56",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/20/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 213,
+      "no": 410,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej oraz ustawy o inwestycjach w zakresie budowy portów zewnętrznych (druki nr 1095 i 1096)",
+      "topic": "poprawki nr 1-2 i 4",
+      "totalVoted": 425,
+      "votingNumber": 20,
+      "yes": 0
+    },
+    {
+      "abstain": 13,
+      "date": "2025-03-20T14:20:42",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/21/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 209,
+      "no": 400,
+      "notParticipating": 44,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej oraz ustawy o inwestycjach w zakresie budowy portów zewnętrznych (druki nr 1095 i 1096)",
+      "topic": "poprawki nr 3 i 6",
+      "totalVoted": 416,
+      "votingNumber": 21,
+      "yes": 3
+    },
+    {
+      "abstain": 14,
+      "date": "2025-03-20T14:21:25",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/22/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 215,
+      "no": 413,
+      "notParticipating": 31,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej oraz ustawy o inwestycjach w zakresie budowy portów zewnętrznych (druki nr 1095 i 1096)",
+      "topic": "poprawka 5",
+      "totalVoted": 429,
+      "votingNumber": 22,
+      "yes": 2
+    },
+    {
+      "abstain": 15,
+      "date": "2025-03-20T14:24:36",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/23/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 216,
+      "no": 3,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 15 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o rynku pracy i służbach zatrudnienia (druki nr 1092 i 1100)",
+      "topic": "poprawka 1",
+      "totalVoted": 430,
+      "votingNumber": 23,
+      "yes": 412
+    },
+    {
+      "abstain": 15,
+      "date": "2025-03-20T14:26:44",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/24/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 216,
+      "no": 415,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 15 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o rynku pracy i służbach zatrudnienia (druki nr 1092 i 1100)",
+      "topic": "poprawki nr 2-3, 6-10, 13-15, 17-21, 23-43, 46, 49-51, 53-55, 57-58, 60-64, 66-76, 78-81, 83-86, 88-101 oraz 103-104",
+      "totalVoted": 430,
+      "votingNumber": 24,
+      "yes": 0
+    },
+    {
+      "abstain": 14,
+      "date": "2025-03-20T14:27:27",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/25/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 215,
+      "no": 414,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 15 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o rynku pracy i służbach zatrudnienia (druki nr 1092 i 1100)",
+      "topic": "poprawka 4",
+      "totalVoted": 428,
+      "votingNumber": 25,
+      "yes": 0
+    },
+    {
+      "abstain": 17,
+      "date": "2025-03-20T14:28:06",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/26/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 215,
+      "no": 411,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 15 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o rynku pracy i służbach zatrudnienia (druki nr 1092 i 1100)",
+      "topic": "poprawka 5",
+      "totalVoted": 428,
+      "votingNumber": 26,
+      "yes": 0
+    },
+    {
+      "abstain": 17,
+      "date": "2025-03-20T14:28:39",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/27/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 215,
+      "no": 5,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 15 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o rynku pracy i służbach zatrudnienia (druki nr 1092 i 1100)",
+      "topic": "poprawka 11",
+      "totalVoted": 428,
+      "votingNumber": 27,
+      "yes": 406
+    },
+    {
+      "abstain": 18,
+      "date": "2025-03-20T14:29:10",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/28/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 216,
+      "no": 1,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 15 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o rynku pracy i służbach zatrudnienia (druki nr 1092 i 1100)",
+      "topic": "poprawka 12",
+      "totalVoted": 431,
+      "votingNumber": 28,
+      "yes": 412
+    },
+    {
+      "abstain": 18,
+      "date": "2025-03-20T14:29:53",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/29/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 216,
+      "no": 411,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 15 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o rynku pracy i służbach zatrudnienia (druki nr 1092 i 1100)",
+      "topic": "poprawki nr 16 i 44",
+      "totalVoted": 430,
+      "votingNumber": 29,
+      "yes": 1
+    },
+    {
+      "abstain": 0,
+      "date": "2025-03-20T14:30:29",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/30/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 210,
+      "no": 1,
+      "notParticipating": 42,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 15 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o rynku pracy i służbach zatrudnienia (druki nr 1092 i 1100)",
+      "topic": "poprawka 22",
+      "totalVoted": 418,
+      "votingNumber": 30,
+      "yes": 417
+    },
+    {
+      "abstain": 17,
+      "date": "2025-03-20T14:31:21",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/31/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 214,
+      "no": 410,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 15 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o rynku pracy i służbach zatrudnienia (druki nr 1092 i 1100)",
+      "topic": "poprawki nr 45, 47-48, 52, 56 i 59",
+      "totalVoted": 427,
+      "votingNumber": 31,
+      "yes": 0
+    },
+    {
+      "abstain": 18,
+      "date": "2025-03-20T14:31:57",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/32/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 215,
+      "no": 0,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 15 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o rynku pracy i służbach zatrudnienia (druki nr 1092 i 1100)",
+      "topic": "poprawka 65",
+      "totalVoted": 428,
+      "votingNumber": 32,
+      "yes": 410
+    },
+    {
+      "abstain": 1,
+      "date": "2025-03-20T14:32:32",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/33/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 205,
+      "no": 392,
+      "notParticipating": 51,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 15 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o rynku pracy i służbach zatrudnienia (druki nr 1092 i 1100)",
+      "topic": "poprawka 77",
+      "totalVoted": 409,
+      "votingNumber": 33,
+      "yes": 16
+    },
+    {
+      "abstain": 17,
+      "date": "2025-03-20T14:33:10",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/34/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 213,
+      "no": 407,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 15 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o rynku pracy i służbach zatrudnienia (druki nr 1092 i 1100)",
+      "topic": "poprawka 82",
+      "totalVoted": 425,
+      "votingNumber": 34,
+      "yes": 1
+    },
+    {
+      "abstain": 18,
+      "date": "2025-03-20T14:33:43",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/35/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 211,
+      "no": 403,
+      "notParticipating": 39,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 15 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o rynku pracy i służbach zatrudnienia (druki nr 1092 i 1100)",
+      "topic": "poprawka 87",
+      "totalVoted": 421,
+      "votingNumber": 35,
+      "yes": 0
+    },
+    {
+      "abstain": 0,
+      "date": "2025-03-20T14:34:15",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/36/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 213,
+      "no": 13,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 15 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o rynku pracy i służbach zatrudnienia (druki nr 1092 i 1100)",
+      "topic": "poprawka 102",
+      "totalVoted": 425,
+      "votingNumber": 36,
+      "yes": 412
+    },
+    {
+      "abstain": 191,
+      "date": "2025-03-20T14:36:44",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/37/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 216,
+      "no": 237,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 16 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 1091 i 1099)",
+      "topic": "poprawki nr 1, 7, 11, 22 i 37",
+      "totalVoted": 430,
+      "votingNumber": 37,
+      "yes": 2
+    },
+    {
+      "abstain": 20,
+      "date": "2025-03-20T14:37:27",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/38/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 213,
+      "no": 0,
+      "notParticipating": 36,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 16 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 1091 i 1099)",
+      "topic": "poprawki nr 2, 20, 38 oraz 40-41",
+      "totalVoted": 424,
+      "votingNumber": 38,
+      "yes": 404
+    },
+    {
+      "abstain": 19,
+      "date": "2025-03-20T14:38:04",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/39/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 212,
+      "no": 0,
+      "notParticipating": 37,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 16 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 1091 i 1099)",
+      "topic": "poprawki nr 3, 5 i 17",
+      "totalVoted": 423,
+      "votingNumber": 39,
+      "yes": 404
+    },
+    {
+      "abstain": 17,
+      "date": "2025-03-20T14:38:34",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/40/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 208,
+      "no": 2,
+      "notParticipating": 46,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 16 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 1091 i 1099)",
+      "topic": "poprawka 4",
+      "totalVoted": 414,
+      "votingNumber": 40,
+      "yes": 395
+    },
+    {
+      "abstain": 185,
+      "date": "2025-03-20T14:39:11",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/41/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 212,
+      "no": 229,
+      "notParticipating": 38,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 16 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 1091 i 1099)",
+      "topic": "poprawki nr 6 i 26",
+      "totalVoted": 422,
+      "votingNumber": 41,
+      "yes": 8
+    },
+    {
+      "abstain": 3,
+      "date": "2025-03-20T14:39:41",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/42/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 209,
+      "no": 213,
+      "notParticipating": 44,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 16 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 1091 i 1099)",
+      "topic": "poprawka 8",
+      "totalVoted": 416,
+      "votingNumber": 42,
+      "yes": 200
+    },
+    {
+      "abstain": 14,
+      "date": "2025-03-20T14:40:09",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/43/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 212,
+      "no": 232,
+      "notParticipating": 37,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 16 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 1091 i 1099)",
+      "topic": "poprawka 9",
+      "totalVoted": 423,
+      "votingNumber": 43,
+      "yes": 177
+    },
+    {
+      "abstain": 16,
+      "date": "2025-03-20T14:40:40",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/44/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 211,
+      "no": 234,
+      "notParticipating": 40,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 16 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 1091 i 1099)",
+      "topic": "poprawka 10",
+      "totalVoted": 420,
+      "votingNumber": 44,
+      "yes": 170
+    },
+    {
+      "abstain": 15,
+      "date": "2025-03-20T14:41:18",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/45/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 213,
+      "no": 234,
+      "notParticipating": 36,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 16 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 1091 i 1099)",
+      "topic": "poprawki nr 12 i 27",
+      "totalVoted": 424,
+      "votingNumber": 45,
+      "yes": 175
+    },
+    {
+      "abstain": 0,
+      "date": "2025-03-20T14:42:14",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/46/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 214,
+      "no": 205,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 16 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 1091 i 1099)",
+      "topic": "poprawki nr 13-14, 28 i 31",
+      "totalVoted": 427,
+      "votingNumber": 46,
+      "yes": 222
+    },
+    {
+      "abstain": 16,
+      "date": "2025-03-20T14:42:43",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/47/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 211,
+      "no": 225,
+      "notParticipating": 39,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 16 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 1091 i 1099)",
+      "topic": "poprawka 15",
+      "totalVoted": 421,
+      "votingNumber": 47,
+      "yes": 180
+    },
+    {
+      "abstain": 16,
+      "date": "2025-03-20T14:43:28",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/48/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 216,
+      "no": 237,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 16 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 1091 i 1099)",
+      "topic": "poprawki nr 16, 19, 33 i 46",
+      "totalVoted": 431,
+      "votingNumber": 48,
+      "yes": 178
+    },
+    {
+      "abstain": 17,
+      "date": "2025-03-20T14:44:05",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/49/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 215,
+      "no": 235,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 16 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 1091 i 1099)",
+      "topic": "poprawka 18",
+      "totalVoted": 428,
+      "votingNumber": 49,
+      "yes": 176
+    },
+    {
+      "abstain": 13,
+      "date": "2025-03-20T14:44:43",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/50/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 214,
+      "no": 238,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 16 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 1091 i 1099)",
+      "topic": "poprawki nr 21 oraz 24-25",
+      "totalVoted": 426,
+      "votingNumber": 50,
+      "yes": 175
+    },
+    {
+      "abstain": 18,
+      "date": "2025-03-20T14:45:22",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/51/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 216,
+      "no": 236,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 16 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 1091 i 1099)",
+      "topic": "poprawki nr 23 i 30",
+      "totalVoted": 430,
+      "votingNumber": 51,
+      "yes": 176
+    },
+    {
+      "abstain": 15,
+      "date": "2025-03-20T14:45:56",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/52/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 215,
+      "no": 238,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 16 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 1091 i 1099)",
+      "topic": "poprawka 29",
+      "totalVoted": 428,
+      "votingNumber": 52,
+      "yes": 175
+    },
+    {
+      "abstain": 0,
+      "date": "2025-03-20T14:46:34",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/53/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 215,
+      "no": 254,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 16 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 1091 i 1099)",
+      "topic": "poprawka 32",
+      "totalVoted": 428,
+      "votingNumber": 53,
+      "yes": 174
+    },
+    {
+      "abstain": 0,
+      "date": "2025-03-20T14:47:09",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/54/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 214,
+      "no": 246,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 16 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 1091 i 1099)",
+      "topic": "poprawka 34",
+      "totalVoted": 427,
+      "votingNumber": 54,
+      "yes": 181
+    },
+    {
+      "abstain": 176,
+      "date": "2025-03-20T14:47:45",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/55/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 215,
+      "no": 216,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 16 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 1091 i 1099)",
+      "topic": "poprawka 35",
+      "totalVoted": 428,
+      "votingNumber": 55,
+      "yes": 36
+    },
+    {
+      "abstain": 17,
+      "date": "2025-03-20T14:48:16",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/56/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 210,
+      "no": 232,
+      "notParticipating": 42,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 16 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 1091 i 1099)",
+      "topic": "poprawka 36",
+      "totalVoted": 418,
+      "votingNumber": 56,
+      "yes": 169
+    },
+    {
+      "abstain": 16,
+      "date": "2025-03-20T14:48:49",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/57/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 216,
+      "no": 2,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 16 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 1091 i 1099)",
+      "topic": "poprawka 39",
+      "totalVoted": 430,
+      "votingNumber": 57,
+      "yes": 412
+    },
+    {
+      "abstain": 16,
+      "date": "2025-03-20T14:49:23",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/58/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 215,
+      "no": 2,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 16 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 1091 i 1099)",
+      "topic": "poprawka 42",
+      "totalVoted": 428,
+      "votingNumber": 58,
+      "yes": 410
+    },
+    {
+      "abstain": 17,
+      "date": "2025-03-20T14:50:01",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/59/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 216,
+      "no": 1,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 16 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 1091 i 1099)",
+      "topic": "poprawki nr 43-44",
+      "totalVoted": 430,
+      "votingNumber": 59,
+      "yes": 412
+    },
+    {
+      "abstain": 5,
+      "date": "2025-03-20T14:50:36",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/60/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 216,
+      "no": 210,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 16 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 1091 i 1099)",
+      "topic": "poprawka 45",
+      "totalVoted": 431,
+      "votingNumber": 60,
+      "yes": 216
+    },
+    {
+      "abstain": 6,
+      "date": "2025-03-20T14:52:19",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/61/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 211,
+      "no": 395,
+      "notParticipating": 39,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 17 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy zmieniającej ustawę o zmianie ustawy o finansowym wsparciu tworzenia lokali socjalnych, mieszkań chronionych, noclegowni i domów dla bezdomnych, ustawy o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego oraz niektórych innych ustaw (druki nr 1094 i 1098)",
+      "topic": "poprawka 1 - głosowanie zostało powtórzone w głosowaniu 72",
+      "totalVoted": 421,
+      "votingNumber": 61,
+      "yes": 20
+    },
+    {
+      "abstain": 4,
+      "date": "2025-03-20T14:55:01",
+      "description": "wniosek o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej poseł Anity Kucharskiej-Dziedzic  - za czyn określony w punkcie pierwszym wniosku",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/62/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_STATUTORY_MAJORITY",
+      "majorityVotes": 231,
+      "no": 248,
+      "notParticipating": 37,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 10 Sprawozdanie Komisji w sprawie wniosku oskarżyciela prywatnego Łukasza Mejzy, reprezentowanego przez adwokata Huberta Kubika, z dnia 24 marca 2023 r., poprawionego w dniu 25 maja 2023 r., o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej poseł Anity Kucharskiej-Dziedzic w zakresie dotyczącym zachowań opisanych w pkt 1, 2, 3, 5 i 6 wniosku (druk nr 1060)",
+      "topic": "Głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej poseł Anity Kucharskiej-Dziedzic za czyn określony w punkcie pierwszym",
+      "totalVoted": 423,
+      "votingNumber": 62,
+      "yes": 171
+    },
+    {
+      "abstain": 2,
+      "date": "2025-03-20T14:56:11",
+      "description": "wniosek o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej poseł Anity Kucharskiej-Dziedzic  - za czyn określony w punkcie drugim wniosku",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/63/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_STATUTORY_MAJORITY",
+      "majorityVotes": 231,
+      "no": 248,
+      "notParticipating": 41,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 10 Sprawozdanie Komisji w sprawie wniosku oskarżyciela prywatnego Łukasza Mejzy, reprezentowanego przez adwokata Huberta Kubika, z dnia 24 marca 2023 r., poprawionego w dniu 25 maja 2023 r., o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej poseł Anity Kucharskiej-Dziedzic w zakresie dotyczącym zachowań opisanych w pkt 1, 2, 3, 5 i 6 wniosku (druk nr 1060)",
+      "topic": "Głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej poseł Anity Kucharskiej-Dziedzic za czyn określony w punkcie drugim",
+      "totalVoted": 419,
+      "votingNumber": 63,
+      "yes": 169
+    },
+    {
+      "abstain": 3,
+      "date": "2025-03-20T14:57:15",
+      "description": "wniosek o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej poseł Anity Kucharskiej-Dziedzic  - za czyn określony w punkcie trzecim wniosku",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/64/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_STATUTORY_MAJORITY",
+      "majorityVotes": 231,
+      "no": 250,
+      "notParticipating": 42,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 10 Sprawozdanie Komisji w sprawie wniosku oskarżyciela prywatnego Łukasza Mejzy, reprezentowanego przez adwokata Huberta Kubika, z dnia 24 marca 2023 r., poprawionego w dniu 25 maja 2023 r., o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej poseł Anity Kucharskiej-Dziedzic w zakresie dotyczącym zachowań opisanych w pkt 1, 2, 3, 5 i 6 wniosku (druk nr 1060)",
+      "topic": "Głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej poseł Anity Kucharskiej-Dziedzic za czyn określony w punkcie trzecim",
+      "totalVoted": 418,
+      "votingNumber": 64,
+      "yes": 165
+    },
+    {
+      "abstain": 2,
+      "date": "2025-03-20T14:58:03",
+      "description": "wniosek o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej poseł Anity Kucharskiej-Dziedzic  - za czyn określony w punkcie piątym wniosku",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/65/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_STATUTORY_MAJORITY",
+      "majorityVotes": 231,
+      "no": 246,
+      "notParticipating": 50,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 10 Sprawozdanie Komisji w sprawie wniosku oskarżyciela prywatnego Łukasza Mejzy, reprezentowanego przez adwokata Huberta Kubika, z dnia 24 marca 2023 r., poprawionego w dniu 25 maja 2023 r., o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej poseł Anity Kucharskiej-Dziedzic w zakresie dotyczącym zachowań opisanych w pkt 1, 2, 3, 5 i 6 wniosku (druk nr 1060)",
+      "topic": "Głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej poseł Anity Kucharskiej-Dziedzic za czyn określony w punkcie piątym",
+      "totalVoted": 410,
+      "votingNumber": 65,
+      "yes": 162
+    },
+    {
+      "abstain": 3,
+      "date": "2025-03-20T14:59:00",
+      "description": "wniosek o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej poseł Anity Kucharskiej-Dziedzic  - za czyn określony w punkcie szóstym wniosku",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/66/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_STATUTORY_MAJORITY",
+      "majorityVotes": 231,
+      "no": 249,
+      "notParticipating": 43,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 10 Sprawozdanie Komisji w sprawie wniosku oskarżyciela prywatnego Łukasza Mejzy, reprezentowanego przez adwokata Huberta Kubika, z dnia 24 marca 2023 r., poprawionego w dniu 25 maja 2023 r., o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej poseł Anity Kucharskiej-Dziedzic w zakresie dotyczącym zachowań opisanych w pkt 1, 2, 3, 5 i 6 wniosku (druk nr 1060)",
+      "topic": "Głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej poseł Anity Kucharskiej-Dziedzic za czyn określony w punkcie szóstym",
+      "totalVoted": 417,
+      "votingNumber": 66,
+      "yes": 165
+    },
+    {
+      "abstain": 2,
+      "date": "2025-03-20T15:01:30",
+      "description": "wniosek o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej poseł Anity Kucharskiej-Dziedzic  - za czyn określony w punkcie czwartym wniosku",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/67/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_STATUTORY_MAJORITY",
+      "majorityVotes": 231,
+      "no": 250,
+      "notParticipating": 39,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 11 Sprawozdanie Komisji w sprawie wniosku oskarżyciela prywatnego Łukasza Mejzy, reprezentowanego przez adwokata Huberta Kubika, z dnia 24 marca 2023 r., poprawionego w dniu 25 maja 2023 r., o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej poseł Anity Kucharskiej-Dziedzic w zakresie dotyczącym zachowań opisanych w pkt 4 i 7 wniosku (druk nr 1061)",
+      "topic": "Głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej poseł Anity Kucharskiej-Dziedzic za czyn określony w punkcie czwartym",
+      "totalVoted": 421,
+      "votingNumber": 67,
+      "yes": 169
+    },
+    {
+      "abstain": 3,
+      "date": "2025-03-20T15:02:31",
+      "description": "wniosek o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej poseł Anity Kucharskiej-Dziedzic  - za czyn określony w punkcie siódmym wniosku",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/68/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_STATUTORY_MAJORITY",
+      "majorityVotes": 231,
+      "no": 249,
+      "notParticipating": 39,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 11 Sprawozdanie Komisji w sprawie wniosku oskarżyciela prywatnego Łukasza Mejzy, reprezentowanego przez adwokata Huberta Kubika, z dnia 24 marca 2023 r., poprawionego w dniu 25 maja 2023 r., o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej poseł Anity Kucharskiej-Dziedzic w zakresie dotyczącym zachowań opisanych w pkt 4 i 7 wniosku (druk nr 1061)",
+      "topic": "Głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej poseł Anity Kucharskiej-Dziedzic za czyn określony w punkcie siódmym",
+      "totalVoted": 421,
+      "votingNumber": 68,
+      "yes": 169
+    },
+    {
+      "abstain": 0,
+      "date": "2025-03-20T15:12:05",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/69/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 232,
+      "no": 231,
+      "notParticipating": 38,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 22 Sprawozdanie Komisji o poselskich projektach uchwał :- w sprawie poparcia dla rezolucji Parlamentu Europejskiego dotyczącej białej księgi o przyszłości europejskiej obrony, - w sprawie obrony polskiej suwerenności (druki nr 1105, 1121 i 1128)",
+      "topic": "poprawki nr 1-2",
+      "totalVoted": 422,
+      "votingNumber": 69,
+      "yes": 191
+    },
+    {
+      "abstain": 1,
+      "date": "2025-03-20T15:13:42",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/70/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 190,
+      "no": 189,
+      "notParticipating": 40,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 22 Sprawozdanie Komisji o poselskich projektach uchwał :- w sprawie poparcia dla rezolucji Parlamentu Europejskiego dotyczącej białej księgi o przyszłości europejskiej obrony, - w sprawie obrony polskiej suwerenności (druki nr 1105, 1121 i 1128)",
+      "topic": "głosowanie nad całością projektu. - głosowanie zostało powtórzone w głosowaniu 71",
+      "totalVoted": 420,
+      "votingNumber": 70,
+      "yes": 230
+    },
+    {
+      "abstain": 0,
+      "date": "2025-03-20T15:24:06",
+      "description": "całość projektu uchwały",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/71/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 172,
+      "no": 171,
+      "notParticipating": 69,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 22 Sprawozdanie Komisji o poselskich projektach uchwał :- w sprawie poparcia dla rezolucji Parlamentu Europejskiego dotyczącej białej księgi o przyszłości europejskiej obrony, - w sprawie obrony polskiej suwerenności (druki nr 1105, 1121 i 1128)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 391,
+      "votingNumber": 71,
+      "yes": 220
+    },
+    {
+      "abstain": 6,
+      "date": "2025-03-20T15:26:45",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/72/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 121,
+      "no": 228,
+      "notParticipating": 220,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 17 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy zmieniającej ustawę o zmianie ustawy o finansowym wsparciu tworzenia lokali socjalnych, mieszkań chronionych, noclegowni i domów dla bezdomnych, ustawy o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego oraz niektórych innych ustaw (druki nr 1094 i 1098)",
+      "topic": "poprawka 1",
+      "totalVoted": 240,
+      "votingNumber": 72,
+      "yes": 6
+    },
+    {
+      "abstain": 4,
+      "date": "2025-03-20T15:27:47",
+      "description": "wniosek z druku nr 1102",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/73/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 14,
+      "no": 13,
+      "notParticipating": 135,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 18 Wybór składu osobowego Komisji do Spraw Deregulacji (druk nr 1102)",
+      "topic": "Głosowanie nad przyjęciem wniosku z druku.",
+      "totalVoted": 325,
+      "votingNumber": 73,
+      "yes": 308
+    },
+    {
+      "abstain": 4,
+      "date": "2025-03-20T15:28:56",
+      "description": "wniosek z druku nr 1122",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/31/74/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 113,
+      "present": 0,
+      "sitting": 31,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 19 Zmiany w składach osobowych komisji sejmowych (druk nr 1122)",
+      "topic": "głosowanie nad przyjęciem wniosku z druku.",
+      "totalVoted": 347,
+      "votingNumber": 74,
+      "yes": 343
+    }
+  ],
+  "_pobrano": "2026-03-24T10:36:23Z"
+}

@@ -1,0 +1,2383 @@
+{
+  "posiedzenie": 15,
+  "data": "",
+  "tytul": "15. Posiedzenie Sejmu RP w dniach 11 i 12 lipca 2024 r.",
+  "glosowania": [
+    {
+      "abstain": 0,
+      "date": "2024-07-11T10:22:52",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/1/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 234,
+      "no": 233,
+      "notParticipating": 38,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "15. posiedzenie Sejmu RP w dniach 11 i 12 lipca 2024 r.",
+      "topic": "Wniosek o przerwę",
+      "totalVoted": 420,
+      "votingNumber": 1,
+      "yes": 187
+    },
+    {
+      "abstain": 18,
+      "date": "2024-07-11T10:26:44",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/2/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 362,
+      "no": 361,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "15. posiedzenie Sejmu RP w dniach 11 i 12 lipca 2024 r.",
+      "topic": "wniosek o zamknięcie posiedzenia",
+      "totalVoted": 423,
+      "votingNumber": 2,
+      "yes": 44
+    },
+    {
+      "abstain": 2,
+      "date": "2024-07-12T13:10:44",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/3/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 191,
+      "no": 190,
+      "notParticipating": 31,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "15. posiedzenie Sejmu RP w dniach 11 i 12 lipca 2024 r.",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 54 ust. 5 regulaminu Sejmu",
+      "totalVoted": 427,
+      "votingNumber": 3,
+      "yes": 235
+    },
+    {
+      "abstain": 205,
+      "date": "2024-07-12T13:14:33",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/4/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 46,
+      "no": 45,
+      "notParticipating": 40,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "15. posiedzenie Sejmu RP w dniach 11 i 12 lipca 2024 r.",
+      "topic": "wniosek o stwierdzenie kworum",
+      "totalVoted": 418,
+      "votingNumber": 4,
+      "yes": 168
+    },
+    {
+      "abstain": 1,
+      "date": "2024-07-12T13:17:13",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/5/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 242,
+      "no": 241,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "15. posiedzenie Sejmu RP w dniach 11 i 12 lipca 2024 r.",
+      "topic": "Wniosek o przerwę",
+      "totalVoted": 435,
+      "votingNumber": 5,
+      "yes": 193
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-12T13:29:37",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/6/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 18,
+      "no": 17,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Rozstrzygnięcie proceduralne dotyczące pkt 14",
+      "topic": "zgoda na zastosowanie art. 51 pkt 3 regulaminu Sejmu",
+      "totalVoted": 429,
+      "votingNumber": 6,
+      "yes": 412
+    },
+    {
+      "abstain": 2,
+      "date": "2024-07-12T13:42:54",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/7/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 17,
+      "no": 16,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o przedstawionym przez Prezydium Sejmu projekcie uchwały w sprawie upamiętnienia ofiar ludobójstwa dokonanego na Tatarach krymskich (druki nr 525 i 535)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 432,
+      "votingNumber": 7,
+      "yes": 414
+    },
+    {
+      "abstain": 2,
+      "date": "2024-07-12T13:44:43",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/8/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 217,
+      "no": 216,
+      "notParticipating": 25,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy - Kodeks karny (druki nr 176 i 477)",
+      "topic": "wniosek o odrzucenie w całości projektu.",
+      "totalVoted": 433,
+      "votingNumber": 8,
+      "yes": 215
+    },
+    {
+      "abstain": 2,
+      "date": "2024-07-12T13:45:21",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/9/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 219,
+      "no": 218,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy - Kodeks karny (druki nr 176 i 477)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 435,
+      "votingNumber": 9,
+      "yes": 215
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-12T13:47:44",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/10/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 239,
+      "no": 238,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy - Prawo komunikacji elektronicznej (druki nr 423 i 506)",
+      "topic": "poprawka 1",
+      "totalVoted": 432,
+      "votingNumber": 10,
+      "yes": 194
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-12T13:48:30",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/11/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 416,
+      "no": 415,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy - Prawo komunikacji elektronicznej (druki nr 423 i 506)",
+      "topic": "poprawka 2",
+      "totalVoted": 434,
+      "votingNumber": 11,
+      "yes": 19
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-12T13:49:01",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/12/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 250,
+      "no": 249,
+      "notParticipating": 25,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy - Prawo komunikacji elektronicznej (druki nr 423 i 506)",
+      "topic": "poprawka 3",
+      "totalVoted": 433,
+      "votingNumber": 12,
+      "yes": 184
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-12T13:49:34",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/13/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 238,
+      "no": 237,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy - Prawo komunikacji elektronicznej (druki nr 423 i 506)",
+      "topic": "poprawka 4",
+      "totalVoted": 432,
+      "votingNumber": 13,
+      "yes": 195
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-12T13:50:05",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/14/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 241,
+      "no": 240,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy - Prawo komunikacji elektronicznej (druki nr 423 i 506)",
+      "topic": "poprawka 5",
+      "totalVoted": 434,
+      "votingNumber": 14,
+      "yes": 194
+    },
+    {
+      "abstain": 1,
+      "date": "2024-07-12T13:50:45",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/15/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 414,
+      "no": 413,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy - Prawo komunikacji elektronicznej (druki nr 423 i 506)",
+      "topic": "poprawki nr 6, 8-14 i 25",
+      "totalVoted": 434,
+      "votingNumber": 15,
+      "yes": 20
+    },
+    {
+      "abstain": 9,
+      "date": "2024-07-12T13:51:16",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/16/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 233,
+      "no": 232,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy - Prawo komunikacji elektronicznej (druki nr 423 i 506)",
+      "topic": "poprawka 7",
+      "totalVoted": 434,
+      "votingNumber": 16,
+      "yes": 193
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-12T13:51:53",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/17/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 242,
+      "no": 241,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy - Prawo komunikacji elektronicznej (druki nr 423 i 506)",
+      "topic": "poprawki nr 15 i 26",
+      "totalVoted": 435,
+      "votingNumber": 17,
+      "yes": 194
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-12T13:52:26",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/18/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 242,
+      "no": 241,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy - Prawo komunikacji elektronicznej (druki nr 423 i 506)",
+      "topic": "poprawka 16",
+      "totalVoted": 435,
+      "votingNumber": 18,
+      "yes": 194
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-12T13:52:58",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/19/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 417,
+      "no": 416,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy - Prawo komunikacji elektronicznej (druki nr 423 i 506)",
+      "topic": "poprawka 17",
+      "totalVoted": 434,
+      "votingNumber": 19,
+      "yes": 18
+    },
+    {
+      "abstain": 1,
+      "date": "2024-07-12T13:53:37",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/20/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 415,
+      "no": 414,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy - Prawo komunikacji elektronicznej (druki nr 423 i 506)",
+      "topic": "poprawka 18",
+      "totalVoted": 435,
+      "votingNumber": 20,
+      "yes": 20
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-12T13:54:20",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/21/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 415,
+      "no": 414,
+      "notParticipating": 25,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy - Prawo komunikacji elektronicznej (druki nr 423 i 506)",
+      "topic": "poprawki nr 19-20 i 27",
+      "totalVoted": 433,
+      "votingNumber": 21,
+      "yes": 19
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-12T13:54:53",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/22/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 239,
+      "no": 238,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy - Prawo komunikacji elektronicznej (druki nr 423 i 506)",
+      "topic": "poprawka 21",
+      "totalVoted": 432,
+      "votingNumber": 22,
+      "yes": 194
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-12T13:55:29",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/23/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 416,
+      "no": 415,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy - Prawo komunikacji elektronicznej (druki nr 423 i 506)",
+      "topic": "poprawka 22",
+      "totalVoted": 435,
+      "votingNumber": 23,
+      "yes": 20
+    },
+    {
+      "abstain": 9,
+      "date": "2024-07-12T13:57:44",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/24/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 233,
+      "no": 232,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy - Prawo komunikacji elektronicznej (druki nr 423 i 506)",
+      "topic": "poprawka 23",
+      "totalVoted": 435,
+      "votingNumber": 24,
+      "yes": 194
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-12T13:58:19",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/25/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 412,
+      "no": 411,
+      "notParticipating": 25,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy - Prawo komunikacji elektronicznej (druki nr 423 i 506)",
+      "topic": "poprawka 24",
+      "totalVoted": 433,
+      "votingNumber": 25,
+      "yes": 22
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-12T13:58:53",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/26/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 412,
+      "no": 411,
+      "notParticipating": 27,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy - Prawo komunikacji elektronicznej (druki nr 423 i 506)",
+      "topic": "poprawka 28",
+      "totalVoted": 431,
+      "votingNumber": 26,
+      "yes": 20
+    },
+    {
+      "abstain": 7,
+      "date": "2024-07-12T13:59:25",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/27/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 16,
+      "no": 15,
+      "notParticipating": 25,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy - Prawo komunikacji elektronicznej (druki nr 423 i 506)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 433,
+      "votingNumber": 27,
+      "yes": 411
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-12T14:00:39",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/28/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 240,
+      "no": 239,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 3 Sprawozdanie Komisji o rządowym projekcie ustawy - Przepisy wprowadzające ustawę - Prawo komunikacji elektronicznej (druki nr 424, 507 i 507-A)",
+      "topic": "poprawka 1",
+      "totalVoted": 428,
+      "votingNumber": 28,
+      "yes": 189
+    },
+    {
+      "abstain": 1,
+      "date": "2024-07-12T14:01:25",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/29/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 242,
+      "no": 241,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 3 Sprawozdanie Komisji o rządowym projekcie ustawy - Przepisy wprowadzające ustawę - Prawo komunikacji elektronicznej (druki nr 424, 507 i 507-A)",
+      "topic": "poprawka 2",
+      "totalVoted": 434,
+      "votingNumber": 29,
+      "yes": 192
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-12T14:01:58",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/30/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 415,
+      "no": 414,
+      "notParticipating": 25,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 3 Sprawozdanie Komisji o rządowym projekcie ustawy - Przepisy wprowadzające ustawę - Prawo komunikacji elektronicznej (druki nr 424, 507 i 507-A)",
+      "topic": "poprawka 3",
+      "totalVoted": 433,
+      "votingNumber": 30,
+      "yes": 19
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-12T14:02:43",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/31/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 243,
+      "no": 242,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 3 Sprawozdanie Komisji o rządowym projekcie ustawy - Przepisy wprowadzające ustawę - Prawo komunikacji elektronicznej (druki nr 424, 507 i 507-A)",
+      "topic": "poprawka 4",
+      "totalVoted": 432,
+      "votingNumber": 31,
+      "yes": 190
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-12T14:03:15",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/32/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 239,
+      "no": 238,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 3 Sprawozdanie Komisji o rządowym projekcie ustawy - Przepisy wprowadzające ustawę - Prawo komunikacji elektronicznej (druki nr 424, 507 i 507-A)",
+      "topic": "poprawka 5",
+      "totalVoted": 432,
+      "votingNumber": 32,
+      "yes": 194
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-12T14:03:48",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/33/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 243,
+      "no": 242,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 3 Sprawozdanie Komisji o rządowym projekcie ustawy - Przepisy wprowadzające ustawę - Prawo komunikacji elektronicznej (druki nr 424, 507 i 507-A)",
+      "topic": "poprawka 6",
+      "totalVoted": 434,
+      "votingNumber": 33,
+      "yes": 192
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-12T14:04:27",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/34/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 407,
+      "no": 406,
+      "notParticipating": 27,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 3 Sprawozdanie Komisji o rządowym projekcie ustawy - Przepisy wprowadzające ustawę - Prawo komunikacji elektronicznej (druki nr 424, 507 i 507-A)",
+      "topic": "poprawka 7",
+      "totalVoted": 431,
+      "votingNumber": 34,
+      "yes": 25
+    },
+    {
+      "abstain": 8,
+      "date": "2024-07-12T14:05:03",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/35/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 13,
+      "no": 12,
+      "notParticipating": 25,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 3 Sprawozdanie Komisji o rządowym projekcie ustawy - Przepisy wprowadzające ustawę - Prawo komunikacji elektronicznej (druki nr 424, 507 i 507-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 433,
+      "votingNumber": 35,
+      "yes": 413
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-12T14:09:53",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/36/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 19,
+      "no": 18,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie niektórych ustaw w celu usprawnienia działań Sił Zbrojnych Rzeczypospolitej Polskiej, Policji oraz Straży Granicznej na wypadek zagrożenia bezpieczeństwa państwa (druki nr 471, 471-A i 505)",
+      "topic": "poprawka 1",
+      "totalVoted": 435,
+      "votingNumber": 36,
+      "yes": 417
+    },
+    {
+      "abstain": 14,
+      "date": "2024-07-12T14:10:30",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/37/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 33,
+      "no": 32,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie niektórych ustaw w celu usprawnienia działań Sił Zbrojnych Rzeczypospolitej Polskiej, Policji oraz Straży Granicznej na wypadek zagrożenia bezpieczeństwa państwa (druki nr 471, 471-A i 505)",
+      "topic": "poprawka 2",
+      "totalVoted": 435,
+      "votingNumber": 37,
+      "yes": 389
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-12T14:11:13",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/38/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 406,
+      "no": 405,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie niektórych ustaw w celu usprawnienia działań Sił Zbrojnych Rzeczypospolitej Polskiej, Policji oraz Straży Granicznej na wypadek zagrożenia bezpieczeństwa państwa (druki nr 471, 471-A i 505)",
+      "topic": "wnioski mniejszości nr 1 i 13",
+      "totalVoted": 435,
+      "votingNumber": 38,
+      "yes": 30
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-12T14:11:52",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/39/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 407,
+      "no": 406,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie niektórych ustaw w celu usprawnienia działań Sił Zbrojnych Rzeczypospolitej Polskiej, Policji oraz Straży Granicznej na wypadek zagrożenia bezpieczeństwa państwa (druki nr 471, 471-A i 505)",
+      "topic": "wnioski mniejszości nr 2 i 14",
+      "totalVoted": 435,
+      "votingNumber": 39,
+      "yes": 29
+    },
+    {
+      "abstain": 19,
+      "date": "2024-07-12T14:12:56",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/40/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 241,
+      "no": 240,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie niektórych ustaw w celu usprawnienia działań Sił Zbrojnych Rzeczypospolitej Polskiej, Policji oraz Straży Granicznej na wypadek zagrożenia bezpieczeństwa państwa (druki nr 471, 471-A i 505)",
+      "topic": "poprawki nr 3-4 i 10",
+      "totalVoted": 434,
+      "votingNumber": 40,
+      "yes": 175
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-12T14:15:35",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/41/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 240,
+      "no": 239,
+      "notParticipating": 27,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie niektórych ustaw w celu usprawnienia działań Sił Zbrojnych Rzeczypospolitej Polskiej, Policji oraz Straży Granicznej na wypadek zagrożenia bezpieczeństwa państwa (druki nr 471, 471-A i 505)",
+      "topic": "wniosek mniejszości nr 3 oraz poprawka 5",
+      "totalVoted": 431,
+      "votingNumber": 41,
+      "yes": 192
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-12T14:16:13",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/42/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 241,
+      "no": 240,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie niektórych ustaw w celu usprawnienia działań Sił Zbrojnych Rzeczypospolitej Polskiej, Policji oraz Straży Granicznej na wypadek zagrożenia bezpieczeństwa państwa (druki nr 471, 471-A i 505)",
+      "topic": "poprawka 6",
+      "totalVoted": 434,
+      "votingNumber": 42,
+      "yes": 194
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-12T14:16:47",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/43/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 417,
+      "no": 416,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie niektórych ustaw w celu usprawnienia działań Sił Zbrojnych Rzeczypospolitej Polskiej, Policji oraz Straży Granicznej na wypadek zagrożenia bezpieczeństwa państwa (druki nr 471, 471-A i 505)",
+      "topic": "wniosek mniejszości nr 4",
+      "totalVoted": 435,
+      "votingNumber": 43,
+      "yes": 19
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-12T14:17:27",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/44/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 387,
+      "no": 386,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie niektórych ustaw w celu usprawnienia działań Sił Zbrojnych Rzeczypospolitej Polskiej, Policji oraz Straży Granicznej na wypadek zagrożenia bezpieczeństwa państwa (druki nr 471, 471-A i 505)",
+      "topic": "wniosek mniejszości nr 5",
+      "totalVoted": 432,
+      "votingNumber": 44,
+      "yes": 46
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-12T14:18:30",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/45/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 28,
+      "no": 27,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie niektórych ustaw w celu usprawnienia działań Sił Zbrojnych Rzeczypospolitej Polskiej, Policji oraz Straży Granicznej na wypadek zagrożenia bezpieczeństwa państwa (druki nr 471, 471-A i 505)",
+      "topic": "poprawka 8",
+      "totalVoted": 434,
+      "votingNumber": 45,
+      "yes": 407
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-12T14:20:12",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/46/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 415,
+      "no": 414,
+      "notParticipating": 25,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie niektórych ustaw w celu usprawnienia działań Sił Zbrojnych Rzeczypospolitej Polskiej, Policji oraz Straży Granicznej na wypadek zagrożenia bezpieczeństwa państwa (druki nr 471, 471-A i 505)",
+      "topic": "wniosek mniejszości nr 8",
+      "totalVoted": 433,
+      "votingNumber": 46,
+      "yes": 19
+    },
+    {
+      "abstain": 19,
+      "date": "2024-07-12T14:20:47",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/47/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 19,
+      "no": 18,
+      "notParticipating": 25,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie niektórych ustaw w celu usprawnienia działań Sił Zbrojnych Rzeczypospolitej Polskiej, Policji oraz Straży Granicznej na wypadek zagrożenia bezpieczeństwa państwa (druki nr 471, 471-A i 505)",
+      "topic": "poprawka 9",
+      "totalVoted": 433,
+      "votingNumber": 47,
+      "yes": 396
+    },
+    {
+      "abstain": 3,
+      "date": "2024-07-12T14:21:25",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/48/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 417,
+      "no": 416,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie niektórych ustaw w celu usprawnienia działań Sił Zbrojnych Rzeczypospolitej Polskiej, Policji oraz Straży Granicznej na wypadek zagrożenia bezpieczeństwa państwa (druki nr 471, 471-A i 505)",
+      "topic": "wniosek mniejszości nr 9",
+      "totalVoted": 435,
+      "votingNumber": 48,
+      "yes": 16
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-12T14:22:34",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/49/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie niektórych ustaw w celu usprawnienia działań Sił Zbrojnych Rzeczypospolitej Polskiej, Policji oraz Straży Granicznej na wypadek zagrożenia bezpieczeństwa państwa (druki nr 471, 471-A i 505)",
+      "topic": "wnioski mniejszości nr 10 i 12 oraz poprawki 12 i 14",
+      "totalVoted": 434,
+      "votingNumber": 49,
+      "yes": 434
+    },
+    {
+      "abstain": 17,
+      "date": "2024-07-12T14:23:19",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/50/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 18,
+      "no": 17,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie niektórych ustaw w celu usprawnienia działań Sił Zbrojnych Rzeczypospolitej Polskiej, Policji oraz Straży Granicznej na wypadek zagrożenia bezpieczeństwa państwa (druki nr 471, 471-A i 505)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 435,
+      "votingNumber": 50,
+      "yes": 401
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-12T14:25:00",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/51/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 257,
+      "no": 256,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 5 Pierwsze czytanie obywatelskiego projektu ustawy o zmianie ustaw w celu wsparcia odbiorców energii elektrycznej, paliw gazowych i ciepła oraz niektórych innych ustaw (druk nr 494)",
+      "topic": "wniosek o niezwłoczne przystąpienie do drugiego czytania",
+      "totalVoted": 434,
+      "votingNumber": 51,
+      "yes": 178
+    },
+    {
+      "abstain": 19,
+      "date": "2024-07-12T14:26:04",
+      "description": "wniosek o skierowanie projektu ustawy dodatkowo do Komisji Gospodarki i Rozwoju",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/52/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 177,
+      "no": 176,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 5 Pierwsze czytanie obywatelskiego projektu ustawy o zmianie ustaw w celu wsparcia odbiorców energii elektrycznej, paliw gazowych i ciepła oraz niektórych innych ustaw (druk nr 494)",
+      "topic": "wniosek o dodatkowe skierowanie",
+      "totalVoted": 435,
+      "votingNumber": 52,
+      "yes": 240
+    },
+    {
+      "abstain": 6,
+      "date": "2024-07-12T14:28:30",
+      "description": "wniosek o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej posła Marcina Romanowskiego - za czyn określony w punkcie pierwszym wniosku",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/53/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_STATUTORY_MAJORITY",
+      "majorityVotes": 231,
+      "no": 178,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 6 Sprawozdanie Komisji w sprawie wniosku Prokuratora Krajowego z dnia 19 czerwca 2024 r. o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej oraz zatrzymanie i tymczasowe aresztowanie posła Marcina Romanowskiego (druk nr 504)",
+      "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła za czyn określony w punkcie pierwszym",
+      "totalVoted": 434,
+      "votingNumber": 53,
+      "yes": 250
+    },
+    {
+      "abstain": 7,
+      "date": "2024-07-12T14:29:24",
+      "description": "wniosek o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej posła Marcina Romanowskiego - za czyn określony w punkcie drugim wniosku",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/54/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_STATUTORY_MAJORITY",
+      "majorityVotes": 231,
+      "no": 178,
+      "notParticipating": 25,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 6 Sprawozdanie Komisji w sprawie wniosku Prokuratora Krajowego z dnia 19 czerwca 2024 r. o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej oraz zatrzymanie i tymczasowe aresztowanie posła Marcina Romanowskiego (druk nr 504)",
+      "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła za czyn określony w punkcie drugim",
+      "totalVoted": 433,
+      "votingNumber": 54,
+      "yes": 248
+    },
+    {
+      "abstain": 6,
+      "date": "2024-07-12T14:30:16",
+      "description": "wniosek o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej posła Marcina Romanowskiego - za czyn określony w punkcie trzecim wniosku",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/55/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_STATUTORY_MAJORITY",
+      "majorityVotes": 231,
+      "no": 178,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 6 Sprawozdanie Komisji w sprawie wniosku Prokuratora Krajowego z dnia 19 czerwca 2024 r. o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej oraz zatrzymanie i tymczasowe aresztowanie posła Marcina Romanowskiego (druk nr 504)",
+      "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła za czyn określony w punkcie trzecim",
+      "totalVoted": 434,
+      "votingNumber": 55,
+      "yes": 250
+    },
+    {
+      "abstain": 6,
+      "date": "2024-07-12T14:31:05",
+      "description": "wniosek o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej posła Marcina Romanowskiego - za czyn określony w punkcie czwartym wniosku",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/56/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_STATUTORY_MAJORITY",
+      "majorityVotes": 231,
+      "no": 176,
+      "notParticipating": 27,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 6 Sprawozdanie Komisji w sprawie wniosku Prokuratora Krajowego z dnia 19 czerwca 2024 r. o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej oraz zatrzymanie i tymczasowe aresztowanie posła Marcina Romanowskiego (druk nr 504)",
+      "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła za czyn określony w punkcie czwartym",
+      "totalVoted": 431,
+      "votingNumber": 56,
+      "yes": 249
+    },
+    {
+      "abstain": 6,
+      "date": "2024-07-12T14:31:52",
+      "description": "wniosek o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej posła Marcina Romanowskiego - za czyn określony w punkcie piątym wniosku",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/57/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_STATUTORY_MAJORITY",
+      "majorityVotes": 231,
+      "no": 178,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 6 Sprawozdanie Komisji w sprawie wniosku Prokuratora Krajowego z dnia 19 czerwca 2024 r. o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej oraz zatrzymanie i tymczasowe aresztowanie posła Marcina Romanowskiego (druk nr 504)",
+      "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła za czyn określony w punkcie piątym",
+      "totalVoted": 434,
+      "votingNumber": 57,
+      "yes": 250
+    },
+    {
+      "abstain": 6,
+      "date": "2024-07-12T14:32:38",
+      "description": "wniosek o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej posła Marcina Romanowskiego - za czyn określony w punkcie szóstym wniosku",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/58/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_STATUTORY_MAJORITY",
+      "majorityVotes": 231,
+      "no": 178,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 6 Sprawozdanie Komisji w sprawie wniosku Prokuratora Krajowego z dnia 19 czerwca 2024 r. o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej oraz zatrzymanie i tymczasowe aresztowanie posła Marcina Romanowskiego (druk nr 504)",
+      "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła za czyn określony w punkcie szóstym",
+      "totalVoted": 434,
+      "votingNumber": 58,
+      "yes": 250
+    },
+    {
+      "abstain": 6,
+      "date": "2024-07-12T14:33:26",
+      "description": "wniosek o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej posła Marcina Romanowskiego - za czyn określony w punkcie siódmym wniosku",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/59/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_STATUTORY_MAJORITY",
+      "majorityVotes": 231,
+      "no": 178,
+      "notParticipating": 25,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 6 Sprawozdanie Komisji w sprawie wniosku Prokuratora Krajowego z dnia 19 czerwca 2024 r. o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej oraz zatrzymanie i tymczasowe aresztowanie posła Marcina Romanowskiego (druk nr 504)",
+      "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła za czyn określony w punkcie siódmym",
+      "totalVoted": 433,
+      "votingNumber": 59,
+      "yes": 249
+    },
+    {
+      "abstain": 6,
+      "date": "2024-07-12T14:34:12",
+      "description": "wniosek o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej posła Marcina Romanowskiego - za czyn określony w punkcie ósmym wniosku",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/60/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_STATUTORY_MAJORITY",
+      "majorityVotes": 231,
+      "no": 177,
+      "notParticipating": 27,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 6 Sprawozdanie Komisji w sprawie wniosku Prokuratora Krajowego z dnia 19 czerwca 2024 r. o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej oraz zatrzymanie i tymczasowe aresztowanie posła Marcina Romanowskiego (druk nr 504)",
+      "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła za czyn określony w punkcie ósmym",
+      "totalVoted": 431,
+      "votingNumber": 60,
+      "yes": 248
+    },
+    {
+      "abstain": 6,
+      "date": "2024-07-12T14:35:02",
+      "description": "wniosek o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej posła Marcina Romanowskiego - za czyn określony w punkcie dziewiątym wniosku",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/61/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_STATUTORY_MAJORITY",
+      "majorityVotes": 231,
+      "no": 178,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 6 Sprawozdanie Komisji w sprawie wniosku Prokuratora Krajowego z dnia 19 czerwca 2024 r. o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej oraz zatrzymanie i tymczasowe aresztowanie posła Marcina Romanowskiego (druk nr 504)",
+      "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła za czyn określony w punkcie dziewiątym",
+      "totalVoted": 432,
+      "votingNumber": 61,
+      "yes": 248
+    },
+    {
+      "abstain": 6,
+      "date": "2024-07-12T14:35:54",
+      "description": "wniosek o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej posła Marcina Romanowskiego - za czyn określony w punkcie dziesiątym wniosku",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/62/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_STATUTORY_MAJORITY",
+      "majorityVotes": 231,
+      "no": 178,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 6 Sprawozdanie Komisji w sprawie wniosku Prokuratora Krajowego z dnia 19 czerwca 2024 r. o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej oraz zatrzymanie i tymczasowe aresztowanie posła Marcina Romanowskiego (druk nr 504)",
+      "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła za czyn określony w punkcie dziesiątym",
+      "totalVoted": 434,
+      "votingNumber": 62,
+      "yes": 250
+    },
+    {
+      "abstain": 6,
+      "date": "2024-07-12T14:36:46",
+      "description": "wniosek o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej posła Marcina Romanowskiego - za czyn określony w punkcie jedenastym wniosku",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/63/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_STATUTORY_MAJORITY",
+      "majorityVotes": 231,
+      "no": 178,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 6 Sprawozdanie Komisji w sprawie wniosku Prokuratora Krajowego z dnia 19 czerwca 2024 r. o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej oraz zatrzymanie i tymczasowe aresztowanie posła Marcina Romanowskiego (druk nr 504)",
+      "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła za czyn określony w punkcie jedenastym",
+      "totalVoted": 434,
+      "votingNumber": 63,
+      "yes": 250
+    },
+    {
+      "abstain": 4,
+      "date": "2024-07-12T14:37:44",
+      "description": "wniosek o wyrażenie zgody na zatrzymanie i tymczasowe aresztowanie posła Marcina Romanowskiego",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/64/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_STATUTORY_MAJORITY",
+      "majorityVotes": 231,
+      "no": 196,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 6 Sprawozdanie Komisji w sprawie wniosku Prokuratora Krajowego z dnia 19 czerwca 2024 r. o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej oraz zatrzymanie i tymczasowe aresztowanie posła Marcina Romanowskiego (druk nr 504)",
+      "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na zatrzymanie i tymczasowe aresztowanie posła",
+      "totalVoted": 434,
+      "votingNumber": 64,
+      "yes": 234
+    },
+    {
+      "abstain": 7,
+      "date": "2024-07-12T14:39:53",
+      "description": "wniosek o  wyrażenie przez Sejm zgody na pociągnięcie do odpowiedzialności karnej posła Mariusza Błaszczaka\n",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/65/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_STATUTORY_MAJORITY",
+      "majorityVotes": 231,
+      "no": 181,
+      "notParticipating": 25,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 15 Sprawozdanie Komisji w sprawie wniosku oskarżyciela prywatnego Tomasza Piotrowskiego reprezentowanego przez adwokata Macieja Syzdoła z dnia 6 maja 2024 r. o wyrażenie zgody na pociągniecie do odpowiedzialności karnej posła Mariusza Błaszczaka (druk nr 512)",
+      "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła Mariusza Błaszczaka.",
+      "totalVoted": 433,
+      "votingNumber": 65,
+      "yes": 245
+    },
+    {
+      "abstain": 20,
+      "date": "2024-07-12T14:41:25",
+      "description": "całość projektu uchwały",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/66/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 174,
+      "no": 173,
+      "notParticipating": 25,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 7 Sprawozdanie Komisji o poselskim projekcie uchwały w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej (druki nr 508 i 511)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 433,
+      "votingNumber": 66,
+      "yes": 240
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-12T14:42:35",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/67/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 2,
+      "no": 1,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 8 Sprawozdanie Komisji o rządowym projekcie ustawy o ratyfikacji Porozumienia między Rządem Rzeczypospolitej Polskiej a Rządem Królestwa Norwegii o zakończeniu obowiązywania Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Królestwa Norwegii w sprawie popierania i wzajemnej ochrony inwestycji, podpisanej w Warszawie dnia 5 czerwca 1990 r., zawartego dnia 27 czerwca 2023 r. i 18 lipca 2023 r. (druki nr 294 i 476)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 432,
+      "votingNumber": 67,
+      "yes": 431
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-12T14:43:49",
+      "description": "całość projektu uchwały",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/68/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 9 Sprawozdanie Komisji o poselskim projekcie uchwały w sprawie uczczenia 48. rocznicy protestów robotników przeciwko władzy komunistycznej w czerwcu 1976 r. w Radomiu, Ursusie i Płocku (druki nr 478 i 514)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 434,
+      "votingNumber": 68,
+      "yes": 434
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-12T14:44:45",
+      "description": "całość projektu uchwały",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/69/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 10 Sprawozdanie Komisji o poselskim projekcie uchwały w sprawie 68. rocznicy Poznańskiego Czerwca 1956 (druki nr 480 i 515)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 434,
+      "votingNumber": 69,
+      "yes": 434
+    },
+    {
+      "abstain": 171,
+      "date": "2024-07-12T14:47:41",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/70/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 215,
+      "no": 258,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 13 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o Krajowej Radzie Sądownictwa (druki nr 378 i 510)",
+      "topic": "poprawka 1",
+      "totalVoted": 429,
+      "votingNumber": 70,
+      "yes": 0
+    },
+    {
+      "abstain": 175,
+      "date": "2024-07-12T14:48:32",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/71/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 218,
+      "no": 22,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 13 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o Krajowej Radzie Sądownictwa (druki nr 378 i 510)",
+      "topic": "poprawka 2",
+      "totalVoted": 434,
+      "votingNumber": 71,
+      "yes": 237
+    },
+    {
+      "abstain": 173,
+      "date": "2024-07-12T14:49:14",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/72/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 217,
+      "no": 258,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 13 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o Krajowej Radzie Sądownictwa (druki nr 378 i 510)",
+      "topic": "poprawka 3",
+      "totalVoted": 432,
+      "votingNumber": 72,
+      "yes": 1
+    },
+    {
+      "abstain": 173,
+      "date": "2024-07-12T14:51:11",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/73/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 217,
+      "no": 260,
+      "notParticipating": 25,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 13 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o Krajowej Radzie Sądownictwa (druki nr 378 i 510)",
+      "topic": "poprawki nr 4, 10, 13, 20, 22, 24, 26-27, 29 i 32",
+      "totalVoted": 433,
+      "votingNumber": 73,
+      "yes": 0
+    },
+    {
+      "abstain": 172,
+      "date": "2024-07-12T14:53:19",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/74/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 216,
+      "no": 258,
+      "notParticipating": 27,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 13 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o Krajowej Radzie Sądownictwa (druki nr 378 i 510)",
+      "topic": "poprawka 5",
+      "totalVoted": 431,
+      "votingNumber": 74,
+      "yes": 1
+    },
+    {
+      "abstain": 14,
+      "date": "2024-07-12T14:55:51",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/75/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 242,
+      "no": 241,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "15. posiedzenie Sejmu RP w dniach 11 i 12 lipca 2024 r.",
+      "topic": "Wniosek o przerwę",
+      "totalVoted": 432,
+      "votingNumber": 75,
+      "yes": 177
+    },
+    {
+      "abstain": 175,
+      "date": "2024-07-12T14:56:27",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/76/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 216,
+      "no": 255,
+      "notParticipating": 27,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 13 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o Krajowej Radzie Sądownictwa (druki nr 378 i 510)",
+      "topic": "poprawka 6",
+      "totalVoted": 431,
+      "votingNumber": 76,
+      "yes": 1
+    },
+    {
+      "abstain": 171,
+      "date": "2024-07-12T14:57:07",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/77/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 213,
+      "no": 28,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 13 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o Krajowej Radzie Sądownictwa (druki nr 378 i 510)",
+      "topic": "poprawki nr 7 i 9",
+      "totalVoted": 425,
+      "votingNumber": 77,
+      "yes": 226
+    },
+    {
+      "abstain": 173,
+      "date": "2024-07-12T14:57:48",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/78/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 215,
+      "no": 256,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 13 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o Krajowej Radzie Sądownictwa (druki nr 378 i 510)",
+      "topic": "poprawka 8",
+      "totalVoted": 429,
+      "votingNumber": 78,
+      "yes": 0
+    },
+    {
+      "abstain": 172,
+      "date": "2024-07-12T14:58:28",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/79/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 216,
+      "no": 258,
+      "notParticipating": 28,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 13 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o Krajowej Radzie Sądownictwa (druki nr 378 i 510)",
+      "topic": "poprawka 11",
+      "totalVoted": 430,
+      "votingNumber": 79,
+      "yes": 0
+    },
+    {
+      "abstain": 174,
+      "date": "2024-07-12T14:59:03",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/80/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 216,
+      "no": 256,
+      "notParticipating": 28,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 13 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o Krajowej Radzie Sądownictwa (druki nr 378 i 510)",
+      "topic": "poprawka 12",
+      "totalVoted": 430,
+      "votingNumber": 80,
+      "yes": 0
+    },
+    {
+      "abstain": 172,
+      "date": "2024-07-12T14:59:37",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/81/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 214,
+      "no": 254,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 13 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o Krajowej Radzie Sądownictwa (druki nr 378 i 510)",
+      "topic": "poprawka 14",
+      "totalVoted": 426,
+      "votingNumber": 81,
+      "yes": 0
+    },
+    {
+      "abstain": 173,
+      "date": "2024-07-12T15:00:13",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/82/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 217,
+      "no": 259,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 13 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o Krajowej Radzie Sądownictwa (druki nr 378 i 510)",
+      "topic": "poprawka 15",
+      "totalVoted": 432,
+      "votingNumber": 82,
+      "yes": 0
+    },
+    {
+      "abstain": 174,
+      "date": "2024-07-12T15:00:51",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/83/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 216,
+      "no": 257,
+      "notParticipating": 27,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 13 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o Krajowej Radzie Sądownictwa (druki nr 378 i 510)",
+      "topic": "poprawka 16",
+      "totalVoted": 431,
+      "votingNumber": 83,
+      "yes": 0
+    },
+    {
+      "abstain": 173,
+      "date": "2024-07-12T15:01:32",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/84/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 216,
+      "no": 257,
+      "notParticipating": 28,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 13 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o Krajowej Radzie Sądownictwa (druki nr 378 i 510)",
+      "topic": "poprawka 17",
+      "totalVoted": 430,
+      "votingNumber": 84,
+      "yes": 0
+    },
+    {
+      "abstain": 173,
+      "date": "2024-07-12T15:02:11",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/85/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 217,
+      "no": 259,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 13 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o Krajowej Radzie Sądownictwa (druki nr 378 i 510)",
+      "topic": "poprawka 18",
+      "totalVoted": 432,
+      "votingNumber": 85,
+      "yes": 0
+    },
+    {
+      "abstain": 172,
+      "date": "2024-07-12T15:02:45",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/86/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 216,
+      "no": 258,
+      "notParticipating": 28,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 13 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o Krajowej Radzie Sądownictwa (druki nr 378 i 510)",
+      "topic": "poprawka 19",
+      "totalVoted": 430,
+      "votingNumber": 86,
+      "yes": 0
+    },
+    {
+      "abstain": 173,
+      "date": "2024-07-12T15:03:23",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/87/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 216,
+      "no": 258,
+      "notParticipating": 27,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 13 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o Krajowej Radzie Sądownictwa (druki nr 378 i 510)",
+      "topic": "poprawka 21",
+      "totalVoted": 431,
+      "votingNumber": 87,
+      "yes": 0
+    },
+    {
+      "abstain": 170,
+      "date": "2024-07-12T15:03:57",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/88/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 216,
+      "no": 260,
+      "notParticipating": 28,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 13 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o Krajowej Radzie Sądownictwa (druki nr 378 i 510)",
+      "topic": "poprawka 23",
+      "totalVoted": 430,
+      "votingNumber": 88,
+      "yes": 0
+    },
+    {
+      "abstain": 172,
+      "date": "2024-07-12T15:04:34",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/89/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 215,
+      "no": 256,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 13 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o Krajowej Radzie Sądownictwa (druki nr 378 i 510)",
+      "topic": "poprawka 25",
+      "totalVoted": 428,
+      "votingNumber": 89,
+      "yes": 0
+    },
+    {
+      "abstain": 172,
+      "date": "2024-07-12T15:05:13",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/90/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 216,
+      "no": 258,
+      "notParticipating": 28,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 13 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o Krajowej Radzie Sądownictwa (druki nr 378 i 510)",
+      "topic": "poprawka 28",
+      "totalVoted": 430,
+      "votingNumber": 90,
+      "yes": 0
+    },
+    {
+      "abstain": 190,
+      "date": "2024-07-12T15:05:51",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/91/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 216,
+      "no": 240,
+      "notParticipating": 28,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 13 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o Krajowej Radzie Sądownictwa (druki nr 378 i 510)",
+      "topic": "poprawka 30",
+      "totalVoted": 430,
+      "votingNumber": 91,
+      "yes": 0
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-12T15:06:36",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/92/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 217,
+      "no": 195,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 13 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o Krajowej Radzie Sądownictwa (druki nr 378 i 510)",
+      "topic": "poprawka 31",
+      "totalVoted": 432,
+      "votingNumber": 92,
+      "yes": 237
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-12T15:08:42",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/93/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 236,
+      "no": 235,
+      "notParticipating": 36,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Rozstrzygnięcie przez Sejm wniosku o uzupełnienie porządku dziennego o punkt: Informacja Ministra Spraw Wewnętrznych i Administracji w sprawie działań Policji podczas protestów rolników, leśników i myśliwych przed Sejmem RP w dniu 6 marca 2024 r.",
+      "topic": "wniosek o uzupełnienie porządku dziennego.",
+      "totalVoted": 422,
+      "votingNumber": 93,
+      "yes": 187
+    },
+    {
+      "abstain": 1,
+      "date": "2024-07-12T15:09:19",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/94/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 236,
+      "no": 235,
+      "notParticipating": 36,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Rozstrzygnięcie przez Sejm wniosku o uzupełnienie porządku dziennego o punkt: Pierwsze czytanie poselskiego projektu ustawy o zmianie niektórych ustaw w zakresie podlegania obowiązkowym ubezpieczeniom społecznym przez przedsiębiorców będących osobami fizycznymi",
+      "topic": "wniosek o uzupełnienie porządku dziennego.",
+      "totalVoted": 422,
+      "votingNumber": 94,
+      "yes": 186
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-12T15:09:53",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/95/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 237,
+      "no": 236,
+      "notParticipating": 36,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Rozstrzygnięcie przez Sejm wniosku o uzupełnienie porządku dziennego o punkt: Pierwsze czytanie poselskiego projektu ustawy o zmianie ustawy o podatku od towarów i usług (druk nr 481)",
+      "topic": "wniosek o uzupełnienie porządku dziennego.",
+      "totalVoted": 422,
+      "votingNumber": 95,
+      "yes": 186
+    },
+    {
+      "abstain": 0,
+      "date": "2024-07-12T15:10:25",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/96/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 255,
+      "no": 254,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Rozstrzygnięcie przez Sejm wniosku o uzupełnienie porządku dziennego o punkt: Pierwsze czytanie poselskiego projektu ustawy o wsparciu państwa dla rodziców powracających na rynek pracy",
+      "topic": "wniosek o uzupełnienie porządku dziennego.",
+      "totalVoted": 423,
+      "votingNumber": 96,
+      "yes": 169
+    },
+    {
+      "abstain": 1,
+      "date": "2024-07-12T15:11:06",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/97/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 238,
+      "no": 237,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Rozstrzygnięcie przez Sejm wniosku o uzupełnienie porządku dziennego o punkt: Pierwsze czytanie poselskiego projektu ustawy o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz ustawy o podatku dochodowym od osób fizycznych (druk nr 324)",
+      "topic": "wniosek o uzupełnienie porządku dziennego.",
+      "totalVoted": 423,
+      "votingNumber": 97,
+      "yes": 185
+    },
+    {
+      "abstain": 2,
+      "date": "2024-07-12T15:12:17",
+      "description": "wniosek z druku nr 537",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/98/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 166,
+      "no": 165,
+      "notParticipating": 39,
+      "present": 0,
+      "sitting": 15,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 16 Zmiany w składach osobowych komisji sejmowych (druk nr 537)",
+      "topic": "głosowanie nad przyjęciem wniosku z druku.",
+      "totalVoted": 419,
+      "votingNumber": 98,
+      "yes": 252
+    }
+  ],
+  "_pobrano": "2026-03-24T10:36:16Z"
+}

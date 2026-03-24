@@ -1,0 +1,545 @@
+{
+  "posiedzenie": 7,
+  "data": "",
+  "tytul": "7. Posiedzenie Sejmu RP w dniach 6, 7 i 8 marca 2024 r.",
+  "glosowania": [
+    {
+      "abstain": 1,
+      "date": "2024-03-06T10:09:41",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/7/1/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 177,
+      "no": 176,
+      "notParticipating": 49,
+      "present": 0,
+      "sitting": 7,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "7. posiedzenie Sejmu RP w dniach 6, 7 i 8 marca 2024 r.",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 37 ust. 4 regulaminu Sejmu",
+      "totalVoted": 410,
+      "votingNumber": 1,
+      "yes": 233
+    },
+    {
+      "abstain": 0,
+      "date": "2024-03-06T10:18:47",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/7/2/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 237,
+      "no": 236,
+      "notParticipating": 36,
+      "present": 0,
+      "sitting": 7,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "7. posiedzenie Sejmu RP w dniach 6, 7 i 8 marca 2024 r.",
+      "topic": "Wniosek o przerwę",
+      "totalVoted": 423,
+      "votingNumber": 2,
+      "yes": 187
+    },
+    {
+      "abstain": 0,
+      "date": "2024-03-06T10:22:28",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/7/3/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 237,
+      "no": 236,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 7,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "7. posiedzenie Sejmu RP w dniach 6, 7 i 8 marca 2024 r.",
+      "topic": "wniosek o odroczenie posiedzenia",
+      "totalVoted": 426,
+      "votingNumber": 3,
+      "yes": 190
+    },
+    {
+      "abstain": 0,
+      "date": "2024-03-06T17:32:21",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/7/4/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 246,
+      "no": 245,
+      "notParticipating": 19,
+      "present": 0,
+      "sitting": 7,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "7. posiedzenie Sejmu RP w dniach 6, 7 i 8 marca 2024 r.",
+      "topic": "Wniosek o przerwę",
+      "totalVoted": 440,
+      "votingNumber": 4,
+      "yes": 195
+    },
+    {
+      "abstain": 0,
+      "date": "2024-03-06T17:33:30",
+      "description": "wniosek o odrzucenie projektu uchwały w pierwszym czytaniu",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/7/5/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 245,
+      "no": 244,
+      "notParticipating": 20,
+      "present": 0,
+      "sitting": 7,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 3 Pierwsze czytanie poselskiego projektu uchwały w sprawie usunięcia skutków kryzysu konstytucyjnego lat 2015-2023 w kontekście działalności Trybunału Konstytucyjnego (druk nr 226)",
+      "topic": "wniosek o odrzucenie projektu w pierwszym czytaniu.",
+      "totalVoted": 439,
+      "votingNumber": 5,
+      "yes": 195
+    },
+    {
+      "abstain": 0,
+      "date": "2024-03-06T17:34:28",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/7/6/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 196,
+      "no": 195,
+      "notParticipating": 19,
+      "present": 0,
+      "sitting": 7,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 3 Pierwsze czytanie poselskiego projektu uchwały w sprawie usunięcia skutków kryzysu konstytucyjnego lat 2015-2023 w kontekście działalności Trybunału Konstytucyjnego (druk nr 226)",
+      "topic": "wniosek o niezwłoczne przystąpienie do drugiego czytania",
+      "totalVoted": 440,
+      "votingNumber": 6,
+      "yes": 245
+    },
+    {
+      "abstain": 0,
+      "date": "2024-03-06T17:58:14",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/7/7/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 240,
+      "no": 239,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 7,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 3 Pierwsze czytanie poselskiego projektu uchwały w sprawie usunięcia skutków kryzysu konstytucyjnego lat 2015-2023 w kontekście działalności Trybunału Konstytucyjnego (druk nr 226)",
+      "topic": "wniosek o odrzucenie projektu w całości",
+      "totalVoted": 436,
+      "votingNumber": 7,
+      "yes": 197
+    },
+    {
+      "abstain": 0,
+      "date": "2024-03-06T17:59:02",
+      "description": "całość projektu uchwały",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/7/8/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 198,
+      "no": 197,
+      "notParticipating": 22,
+      "present": 0,
+      "sitting": 7,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 3 Pierwsze czytanie poselskiego projektu uchwały w sprawie usunięcia skutków kryzysu konstytucyjnego lat 2015-2023 w kontekście działalności Trybunału Konstytucyjnego (druk nr 226)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 437,
+      "votingNumber": 8,
+      "yes": 240
+    },
+    {
+      "abstain": 0,
+      "date": "2024-03-07T21:08:24",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/7/9/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 238,
+      "no": 237,
+      "notParticipating": 25,
+      "present": 0,
+      "sitting": 7,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "7. posiedzenie Sejmu RP w dniach 6, 7 i 8 marca 2024 r.",
+      "topic": "Wniosek o przerwę",
+      "totalVoted": 434,
+      "votingNumber": 9,
+      "yes": 197
+    },
+    {
+      "abstain": 1,
+      "date": "2024-03-07T21:14:47",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/7/10/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 244,
+      "no": 243,
+      "notParticipating": 17,
+      "present": 0,
+      "sitting": 7,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "7. posiedzenie Sejmu RP w dniach 6, 7 i 8 marca 2024 r.",
+      "topic": "wniosek o odroczenie posiedzenia",
+      "totalVoted": 442,
+      "votingNumber": 10,
+      "yes": 198
+    },
+    {
+      "abstain": 13,
+      "date": "2024-03-07T21:15:42",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/7/11/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 6,
+      "no": 5,
+      "notParticipating": 17,
+      "present": 0,
+      "sitting": 7,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy - Prawo pocztowe oraz ustawy o zmianie ustawy - Prawo pocztowe (druki nr 201 i 225)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 442,
+      "votingNumber": 11,
+      "yes": 424
+    },
+    {
+      "abstain": 0,
+      "date": "2024-03-07T21:16:47",
+      "description": "wniosek o odrzucenie projektu ustawy w pierwszym czytaniu",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/7/12/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 243,
+      "no": 242,
+      "notParticipating": 16,
+      "present": 0,
+      "sitting": 7,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 2 Pierwsze czytanie rządowego projektu ustawy o zmianie ustawy o Krajowej Radzie Sądownictwa (druk nr 219)",
+      "topic": "wniosek o odrzucenie projektu w pierwszym czytaniu.",
+      "totalVoted": 443,
+      "votingNumber": 12,
+      "yes": 201
+    },
+    {
+      "abstain": 0,
+      "date": "2024-03-07T21:17:54",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/7/13/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 6,
+      "no": 5,
+      "notParticipating": 19,
+      "present": 0,
+      "sitting": 7,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 5 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie zakresu obowiązywania Traktatu o konwencjonalnych siłach zbrojnych w Europie, podpisanego w Paryżu dnia 19 listopada 1990 r. (druki nr 204 i 230)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 440,
+      "votingNumber": 13,
+      "yes": 435
+    },
+    {
+      "abstain": 0,
+      "date": "2024-03-07T21:19:27",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/7/14/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 243,
+      "no": 242,
+      "notParticipating": 18,
+      "present": 0,
+      "sitting": 7,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 9 Sprawozdanie Komisji o przedstawionym przez Prezydium Sejmu projekcie uchwały w sprawie nałożenia sankcji na import rosyjskiej i białoruskiej żywności i produktów rolnych do UE (druki nr 228 i 239)",
+      "topic": "poprawka 1",
+      "totalVoted": 441,
+      "votingNumber": 14,
+      "yes": 199
+    },
+    {
+      "abstain": 0,
+      "date": "2024-03-07T21:20:02",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/7/15/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 242,
+      "no": 241,
+      "notParticipating": 17,
+      "present": 0,
+      "sitting": 7,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 9 Sprawozdanie Komisji o przedstawionym przez Prezydium Sejmu projekcie uchwały w sprawie nałożenia sankcji na import rosyjskiej i białoruskiej żywności i produktów rolnych do UE (druki nr 228 i 239)",
+      "topic": "wniosek mniejszości 1",
+      "totalVoted": 442,
+      "votingNumber": 15,
+      "yes": 201
+    },
+    {
+      "abstain": 0,
+      "date": "2024-03-07T21:20:36",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/7/16/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 243,
+      "no": 242,
+      "notParticipating": 17,
+      "present": 0,
+      "sitting": 7,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 9 Sprawozdanie Komisji o przedstawionym przez Prezydium Sejmu projekcie uchwały w sprawie nałożenia sankcji na import rosyjskiej i białoruskiej żywności i produktów rolnych do UE (druki nr 228 i 239)",
+      "topic": "wniosek mniejszości 2",
+      "totalVoted": 442,
+      "votingNumber": 16,
+      "yes": 200
+    },
+    {
+      "abstain": 2,
+      "date": "2024-03-07T21:22:23",
+      "description": "całość projektu uchwały",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/7/17/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 16,
+      "present": 0,
+      "sitting": 7,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 9 Sprawozdanie Komisji o przedstawionym przez Prezydium Sejmu projekcie uchwały w sprawie nałożenia sankcji na import rosyjskiej i białoruskiej żywności i produktów rolnych do UE (druki nr 228 i 239)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 443,
+      "votingNumber": 17,
+      "yes": 441
+    },
+    {
+      "abstain": 0,
+      "date": "2024-03-07T21:23:27",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/7/18/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 202,
+      "no": 201,
+      "notParticipating": 17,
+      "present": 0,
+      "sitting": 7,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 13 Informacja Prezesa Rady Ministrów w sprawie działań rządu w związku z protestem rolników w Polsce - głosowanie",
+      "topic": "głosowanie nad wnioskiem o przyjęcie informacji",
+      "totalVoted": 442,
+      "votingNumber": 18,
+      "yes": 241
+    },
+    {
+      "abstain": 0,
+      "date": "2024-03-07T21:25:10",
+      "description": "wniosek o niezwłoczne przejście do drugiego czytania",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/7/19/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 19,
+      "no": 18,
+      "notParticipating": 16,
+      "present": 0,
+      "sitting": 7,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 14 Informacja dla Sejmu i Senatu RP o udziale Rzeczypospolitej Polskiej w pracach Unii Europejskiej w okresie lipiec-grudzień 2023 r. (przewodnictwo Hiszpanii w Radzie Unii Europejskiej) wraz z komisyjnym projektem uchwały (druki nr 193 i 217) - kontynuacja",
+      "topic": "wniosek o niezwłoczne przystąpienie do II czytania",
+      "totalVoted": 443,
+      "votingNumber": 19,
+      "yes": 425
+    },
+    {
+      "abstain": 0,
+      "date": "2024-03-07T21:26:16",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/7/20/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 114,
+      "no": 113,
+      "notParticipating": 22,
+      "present": 0,
+      "sitting": 7,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "7. posiedzenie Sejmu RP w dniach 6, 7 i 8 marca 2024 r.",
+      "topic": "ustalenie czasów debat",
+      "totalVoted": 437,
+      "votingNumber": 20,
+      "yes": 324
+    },
+    {
+      "abstain": 2,
+      "date": "2024-03-07T21:44:14",
+      "description": "całość projektu uchwały",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/7/21/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 27,
+      "no": 26,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 7,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 14 Informacja dla Sejmu i Senatu RP o udziale Rzeczypospolitej Polskiej w pracach Unii Europejskiej w okresie lipiec-grudzień 2023 r. (przewodnictwo Hiszpanii w Radzie Unii Europejskiej) wraz z komisyjnym projektem uchwały (druki nr 193 i 217) - kontynuacja",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 433,
+      "votingNumber": 21,
+      "yes": 405
+    },
+    {
+      "abstain": 3,
+      "date": "2024-03-07T21:45:20",
+      "description": "wniosek z druku nr 240",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/7/22/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 18,
+      "present": 0,
+      "sitting": 7,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 15 Zmiany w składach osobowych komisji sejmowych (druk nr 240)",
+      "topic": "głosowanie nad przyjęciem wniosku z druku.",
+      "totalVoted": 441,
+      "votingNumber": 22,
+      "yes": 438
+    }
+  ],
+  "_pobrano": "2026-03-24T10:36:12Z"
+}

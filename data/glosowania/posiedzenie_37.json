@@ -1,0 +1,1981 @@
+{
+  "posiedzenie": 37,
+  "data": "",
+  "tytul": "37. Posiedzenie Sejmu RP w dniach 24, 25 i 26 czerwca 2025 r.",
+  "glosowania": [
+    {
+      "abstain": 1,
+      "date": "2025-06-24T10:11:29",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/1/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 186,
+      "no": 185,
+      "notParticipating": 54,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Głosowanie proceduralne w sprawie przedłożenia dotyczącego KRRiT",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 37 ust. 4 regulaminu Sejmu, w sprawie przedłożenia dotyczącego KRRiT",
+      "totalVoted": 406,
+      "votingNumber": 1,
+      "yes": 220
+    },
+    {
+      "abstain": 0,
+      "date": "2025-06-24T10:12:08",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/2/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 186,
+      "no": 185,
+      "notParticipating": 51,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Głosowanie proceduralne w sprawie przedłożenia dotyczącego RMN",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 37 ust. 4 regulaminu Sejmu, sprawie przedłożenia dotyczącego RMN",
+      "totalVoted": 409,
+      "votingNumber": 2,
+      "yes": 224
+    },
+    {
+      "abstain": 0,
+      "date": "2025-06-24T10:14:55",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/3/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 184,
+      "no": 183,
+      "notParticipating": 51,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Głosowanie proceduralne dotyczące druku nr 1367",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie sprawozdania z druku nr 1367",
+      "totalVoted": 409,
+      "votingNumber": 3,
+      "yes": 226
+    },
+    {
+      "abstain": 19,
+      "date": "2025-06-24T10:15:35",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/4/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 3,
+      "no": 2,
+      "notParticipating": 50,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Głosowanie proceduralne dotyczące druku nr 1371",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie sprawozdania z druku nr 1371",
+      "totalVoted": 410,
+      "votingNumber": 4,
+      "yes": 389
+    },
+    {
+      "abstain": 0,
+      "date": "2025-06-24T10:16:19",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/5/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 19,
+      "no": 18,
+      "notParticipating": 52,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Głosowanie proceduralne dotyczące druku nr 1372",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie sprawozdania z druku nr 1372",
+      "totalVoted": 408,
+      "votingNumber": 5,
+      "yes": 390
+    },
+    {
+      "abstain": 1,
+      "date": "2025-06-24T10:23:42",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/6/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 224,
+      "no": 223,
+      "notParticipating": 48,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "37. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 24, 25 i 26 czerwca 2025 r.",
+      "topic": "Wniosek o przerwę",
+      "totalVoted": 412,
+      "votingNumber": 6,
+      "yes": 188
+    },
+    {
+      "abstain": 126,
+      "date": "2025-06-24T10:26:06",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/7/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 228,
+      "no": 227,
+      "notParticipating": 47,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "37. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 24, 25 i 26 czerwca 2025 r.",
+      "topic": "wniosek o odroczenie posiedzenia",
+      "totalVoted": 413,
+      "votingNumber": 7,
+      "yes": 60
+    },
+    {
+      "abstain": 19,
+      "date": "2025-06-24T10:34:50",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/8/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 175,
+      "no": 174,
+      "notParticipating": 49,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (druki nr 1267 i 1331) - trzecie czytanie",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 411,
+      "votingNumber": 8,
+      "yes": 218
+    },
+    {
+      "abstain": 0,
+      "date": "2025-06-24T10:35:44",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/9/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 44,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o obrocie instrumentami finansowymi (druki nr 1269 i 1330) - trzecie czytanie",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 416,
+      "votingNumber": 9,
+      "yes": 416
+    },
+    {
+      "abstain": 0,
+      "date": "2025-06-24T10:36:33",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/10/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 44,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 3 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Krajowej Administracji Skarbowej oraz ustawy o podatku od towarów i usług (druki nr 1231 i 1332) - trzecie czytanie",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 416,
+      "votingNumber": 10,
+      "yes": 416
+    },
+    {
+      "abstain": 174,
+      "date": "2025-06-24T10:37:20",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/11/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 2,
+      "no": 1,
+      "notParticipating": 43,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo farmaceutyczne (druki nr 1266 i 1293) - trzecie czytanie",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 417,
+      "votingNumber": 11,
+      "yes": 242
+    },
+    {
+      "abstain": 1,
+      "date": "2025-06-24T10:39:58",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/12/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 43,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 5 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Kodeks rodzinny i opiekuńczy (druki nr 1234 i 1292) - trzecie czytanie",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 417,
+      "votingNumber": 12,
+      "yes": 416
+    },
+    {
+      "abstain": 6,
+      "date": "2025-06-24T10:45:44",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/13/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 218,
+      "no": 217,
+      "notParticipating": 47,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 6 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o podatku od towarów i usług (druki nr 1232, 1333 i 1333-A) - trzecie czytanie",
+      "topic": "poprawki nr 1 i 3",
+      "totalVoted": 413,
+      "votingNumber": 13,
+      "yes": 190
+    },
+    {
+      "abstain": 6,
+      "date": "2025-06-24T10:49:06",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/14/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 217,
+      "no": 216,
+      "notParticipating": 44,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 6 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o podatku od towarów i usług (druki nr 1232, 1333 i 1333-A) - trzecie czytanie",
+      "topic": "poprawki nr 2 i 4",
+      "totalVoted": 416,
+      "votingNumber": 14,
+      "yes": 194
+    },
+    {
+      "abstain": 0,
+      "date": "2025-06-24T10:49:38",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/15/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 45,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 6 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o podatku od towarów i usług (druki nr 1232, 1333 i 1333-A) - trzecie czytanie",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 415,
+      "votingNumber": 15,
+      "yes": 415
+    },
+    {
+      "abstain": 5,
+      "date": "2025-06-25T12:08:41",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/16/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 218,
+      "no": 217,
+      "notParticipating": 52,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "37. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 24, 25 i 26 czerwca 2025 r.",
+      "topic": "Wniosek o przerwę",
+      "totalVoted": 408,
+      "votingNumber": 16,
+      "yes": 186
+    },
+    {
+      "abstain": 0,
+      "date": "2025-06-25T12:18:54",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/17/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 193,
+      "no": 192,
+      "notParticipating": 48,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Głosowanie proceduralne dotyczące druku nr 1394",
+      "topic": "wniosek o przystąpienie do drugiego czytania  bez kierowania projektu z druku nr 1394 do komisji",
+      "totalVoted": 412,
+      "votingNumber": 17,
+      "yes": 220
+    },
+    {
+      "abstain": 0,
+      "date": "2025-06-25T12:19:33",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/18/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 193,
+      "no": 192,
+      "notParticipating": 49,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Głosowanie proceduralne dotyczące druku nr 1395",
+      "topic": "wniosek o przystąpienie do drugiego czytania  bez kierowania projektu 1395 do komisji",
+      "totalVoted": 411,
+      "votingNumber": 18,
+      "yes": 219
+    },
+    {
+      "abstain": 0,
+      "date": "2025-06-25T21:19:21",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/19/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 40,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Głosowanie proceduralne",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 54 ust. 5 regulaminu Sejmu w sprawie sprawozdania z druku nr 1385",
+      "totalVoted": 420,
+      "votingNumber": 19,
+      "yes": 420
+    },
+    {
+      "abstain": 5,
+      "date": "2025-06-25T21:22:32",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/20/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 228,
+      "no": 227,
+      "notParticipating": 31,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 7 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie niektórych ustaw w związku z zapewnieniem operacyjnej odporności cyfrowej sektora finansowego oraz emitowaniem europejskich zielonych obligacji (druki nr 1262, 1326 i 1326-A)",
+      "topic": "poprawki nr 1-3",
+      "totalVoted": 429,
+      "votingNumber": 20,
+      "yes": 197
+    },
+    {
+      "abstain": 5,
+      "date": "2025-06-25T21:24:29",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/21/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 229,
+      "no": 228,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 7 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie niektórych ustaw w związku z zapewnieniem operacyjnej odporności cyfrowej sektora finansowego oraz emitowaniem europejskich zielonych obligacji (druki nr 1262, 1326 i 1326-A)",
+      "topic": "wniosek mniejszości 1",
+      "totalVoted": 428,
+      "votingNumber": 21,
+      "yes": 195
+    },
+    {
+      "abstain": 5,
+      "date": "2025-06-25T21:25:01",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/22/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 229,
+      "no": 228,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 7 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie niektórych ustaw w związku z zapewnieniem operacyjnej odporności cyfrowej sektora finansowego oraz emitowaniem europejskich zielonych obligacji (druki nr 1262, 1326 i 1326-A)",
+      "topic": "wniosek mniejszości 2",
+      "totalVoted": 426,
+      "votingNumber": 22,
+      "yes": 193
+    },
+    {
+      "abstain": 5,
+      "date": "2025-06-25T21:25:30",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/23/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 194,
+      "no": 193,
+      "notParticipating": 31,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 7 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie niektórych ustaw w związku z zapewnieniem operacyjnej odporności cyfrowej sektora finansowego oraz emitowaniem europejskich zielonych obligacji (druki nr 1262, 1326 i 1326-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 429,
+      "votingNumber": 23,
+      "yes": 231
+    },
+    {
+      "abstain": 0,
+      "date": "2025-06-25T21:27:51",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/24/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 236,
+      "no": 235,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 8 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw (druki nr 1246, 1298 i 1298-A)",
+      "topic": "poprawki nr 1 i 3",
+      "totalVoted": 430,
+      "votingNumber": 24,
+      "yes": 195
+    },
+    {
+      "abstain": 0,
+      "date": "2025-06-25T21:29:35",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/25/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 234,
+      "no": 233,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 8 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw (druki nr 1246, 1298 i 1298-A)",
+      "topic": "poprawka 2",
+      "totalVoted": 425,
+      "votingNumber": 25,
+      "yes": 192
+    },
+    {
+      "abstain": 0,
+      "date": "2025-06-25T21:30:08",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/26/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 234,
+      "no": 233,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 8 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw (druki nr 1246, 1298 i 1298-A)",
+      "topic": "poprawka 4",
+      "totalVoted": 426,
+      "votingNumber": 26,
+      "yes": 193
+    },
+    {
+      "abstain": 0,
+      "date": "2025-06-25T21:30:38",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/27/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 236,
+      "no": 235,
+      "notParticipating": 31,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 8 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw (druki nr 1246, 1298 i 1298-A)",
+      "topic": "poprawka 5",
+      "totalVoted": 429,
+      "votingNumber": 27,
+      "yes": 194
+    },
+    {
+      "abstain": 0,
+      "date": "2025-06-25T21:31:08",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/28/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 232,
+      "no": 231,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 8 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw (druki nr 1246, 1298 i 1298-A)",
+      "topic": "poprawka 6",
+      "totalVoted": 427,
+      "votingNumber": 28,
+      "yes": 196
+    },
+    {
+      "abstain": 1,
+      "date": "2025-06-25T21:31:37",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/29/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 235,
+      "no": 234,
+      "notParticipating": 31,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 8 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw (druki nr 1246, 1298 i 1298-A)",
+      "topic": "poprawka 7",
+      "totalVoted": 429,
+      "votingNumber": 29,
+      "yes": 194
+    },
+    {
+      "abstain": 0,
+      "date": "2025-06-25T21:32:09",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/30/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 233,
+      "no": 232,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 8 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw (druki nr 1246, 1298 i 1298-A)",
+      "topic": "poprawka 8",
+      "totalVoted": 426,
+      "votingNumber": 30,
+      "yes": 194
+    },
+    {
+      "abstain": 178,
+      "date": "2025-06-25T21:32:41",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/31/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 28,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 8 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw (druki nr 1246, 1298 i 1298-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 432,
+      "votingNumber": 31,
+      "yes": 254
+    },
+    {
+      "abstain": 19,
+      "date": "2025-06-25T21:34:50",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/32/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 237,
+      "no": 236,
+      "notParticipating": 28,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 9 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Służbie Więziennej oraz ustawy o ustanowieniu \"Programu modernizacji Policji, Straży Granicznej, Państwowej Straży Pożarnej i Służby Ochrony Państwa w latach 2022-2025\", o ustanowieniu \"Programu modernizacji Służby Więziennej w latach 2022-2025\" oraz o zmianie ustawy o Policji i niektórych innych ustaw (druki nr 1243, 1296 i 1296-A)",
+      "topic": "wniosek o odrzucenie w całości projektu.",
+      "totalVoted": 432,
+      "votingNumber": 32,
+      "yes": 177
+    },
+    {
+      "abstain": 18,
+      "date": "2025-06-25T21:35:19",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/33/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 176,
+      "no": 175,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 9 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Służbie Więziennej oraz ustawy o ustanowieniu \"Programu modernizacji Policji, Straży Granicznej, Państwowej Straży Pożarnej i Służby Ochrony Państwa w latach 2022-2025\", o ustanowieniu \"Programu modernizacji Służby Więziennej w latach 2022-2025\" oraz o zmianie ustawy o Policji i niektórych innych ustaw (druki nr 1243, 1296 i 1296-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 425,
+      "votingNumber": 33,
+      "yes": 232
+    },
+    {
+      "abstain": 0,
+      "date": "2025-06-25T21:42:36",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/34/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 10 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o obronie Ojczyzny oraz niektórych innych ustaw (druki nr 1270 i 1334)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 426,
+      "votingNumber": 34,
+      "yes": 426
+    },
+    {
+      "abstain": 0,
+      "date": "2025-06-25T21:45:38",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/35/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 11 Sprawozdanie Komisji o rządowym projekcie ustawy o szczególnych zasadach przygotowania i realizacji strategicznych oraz kluczowych inwestycji w zakresie potrzeb obronności państwa i bezpieczeństwa publicznego oraz ustanawiania stref ochronnych dla niektórych terenów zamkniętych (druki nr 1203, 1351 i 1351-A)",
+      "topic": "poprawki nr 1, 4 i 7",
+      "totalVoted": 431,
+      "votingNumber": 35,
+      "yes": 431
+    },
+    {
+      "abstain": 0,
+      "date": "2025-06-25T21:46:08",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/36/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 31,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 11 Sprawozdanie Komisji o rządowym projekcie ustawy o szczególnych zasadach przygotowania i realizacji strategicznych oraz kluczowych inwestycji w zakresie potrzeb obronności państwa i bezpieczeństwa publicznego oraz ustanawiania stref ochronnych dla niektórych terenów zamkniętych (druki nr 1203, 1351 i 1351-A)",
+      "topic": "poprawki nr 2 i 8",
+      "totalVoted": 429,
+      "votingNumber": 36,
+      "yes": 429
+    },
+    {
+      "abstain": 0,
+      "date": "2025-06-25T21:46:33",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/37/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 11 Sprawozdanie Komisji o rządowym projekcie ustawy o szczególnych zasadach przygotowania i realizacji strategicznych oraz kluczowych inwestycji w zakresie potrzeb obronności państwa i bezpieczeństwa publicznego oraz ustanawiania stref ochronnych dla niektórych terenów zamkniętych (druki nr 1203, 1351 i 1351-A)",
+      "topic": "poprawka 3",
+      "totalVoted": 425,
+      "votingNumber": 37,
+      "yes": 425
+    },
+    {
+      "abstain": 0,
+      "date": "2025-06-25T21:46:59",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/38/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 11 Sprawozdanie Komisji o rządowym projekcie ustawy o szczególnych zasadach przygotowania i realizacji strategicznych oraz kluczowych inwestycji w zakresie potrzeb obronności państwa i bezpieczeństwa publicznego oraz ustanawiania stref ochronnych dla niektórych terenów zamkniętych (druki nr 1203, 1351 i 1351-A)",
+      "topic": "poprawka 5",
+      "totalVoted": 427,
+      "votingNumber": 38,
+      "yes": 427
+    },
+    {
+      "abstain": 18,
+      "date": "2025-06-25T21:47:24",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/39/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 11 Sprawozdanie Komisji o rządowym projekcie ustawy o szczególnych zasadach przygotowania i realizacji strategicznych oraz kluczowych inwestycji w zakresie potrzeb obronności państwa i bezpieczeństwa publicznego oraz ustanawiania stref ochronnych dla niektórych terenów zamkniętych (druki nr 1203, 1351 i 1351-A)",
+      "topic": "poprawka 6",
+      "totalVoted": 428,
+      "votingNumber": 39,
+      "yes": 410
+    },
+    {
+      "abstain": 19,
+      "date": "2025-06-25T21:47:57",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/40/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 235,
+      "no": 234,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 11 Sprawozdanie Komisji o rządowym projekcie ustawy o szczególnych zasadach przygotowania i realizacji strategicznych oraz kluczowych inwestycji w zakresie potrzeb obronności państwa i bezpieczeństwa publicznego oraz ustanawiania stref ochronnych dla niektórych terenów zamkniętych (druki nr 1203, 1351 i 1351-A)",
+      "topic": "poprawka 9",
+      "totalVoted": 430,
+      "votingNumber": 40,
+      "yes": 177
+    },
+    {
+      "abstain": 0,
+      "date": "2025-06-25T21:48:28",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/41/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 168,
+      "no": 167,
+      "notParticipating": 31,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 11 Sprawozdanie Komisji o rządowym projekcie ustawy o szczególnych zasadach przygotowania i realizacji strategicznych oraz kluczowych inwestycji w zakresie potrzeb obronności państwa i bezpieczeństwa publicznego oraz ustanawiania stref ochronnych dla niektórych terenów zamkniętych (druki nr 1203, 1351 i 1351-A)",
+      "topic": "poprawka 10",
+      "totalVoted": 429,
+      "votingNumber": 41,
+      "yes": 262
+    },
+    {
+      "abstain": 0,
+      "date": "2025-06-25T21:51:37",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/42/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 11 Sprawozdanie Komisji o rządowym projekcie ustawy o szczególnych zasadach przygotowania i realizacji strategicznych oraz kluczowych inwestycji w zakresie potrzeb obronności państwa i bezpieczeństwa publicznego oraz ustanawiania stref ochronnych dla niektórych terenów zamkniętych (druki nr 1203, 1351 i 1351-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 431,
+      "votingNumber": 42,
+      "yes": 431
+    },
+    {
+      "abstain": 19,
+      "date": "2025-06-25T21:54:11",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/43/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 236,
+      "no": 235,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 12 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o komornikach sądowych (druki nr 1244, 1297 i 1297-A)",
+      "topic": "wniosek o odrzucenie w całości projektu.",
+      "totalVoted": 430,
+      "votingNumber": 43,
+      "yes": 176
+    },
+    {
+      "abstain": 19,
+      "date": "2025-06-25T21:54:37",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/44/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 175,
+      "no": 174,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 12 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o komornikach sądowych (druki nr 1244, 1297 i 1297-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 427,
+      "votingNumber": 44,
+      "yes": 234
+    },
+    {
+      "abstain": 1,
+      "date": "2025-06-25T21:55:26",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/45/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 199,
+      "no": 198,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 13 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o podatku dochodowym od osób prawnych (druki nr 1233 i 1336)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 426,
+      "votingNumber": 45,
+      "yes": 227
+    },
+    {
+      "abstain": 0,
+      "date": "2025-06-25T21:56:18",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/46/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 7,
+      "no": 6,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o podatku dochodowym od osób fizycznych oraz ustawy o podatku dochodowym od osób prawnych (druki nr 1281 i 1337)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 428,
+      "votingNumber": 46,
+      "yes": 422
+    },
+    {
+      "abstain": 0,
+      "date": "2025-06-25T21:57:06",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/47/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 31,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 15 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o podatku od spadków i darowizn (druki nr 1282 i 1338)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 429,
+      "votingNumber": 47,
+      "yes": 429
+    },
+    {
+      "abstain": 5,
+      "date": "2025-06-25T22:00:31",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/48/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 29,
+      "no": 28,
+      "notParticipating": 39,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 16 Sprawozdanie Komisji o poselskim projekcie ustawy o Instytucie imienia Wincentego Witosa (druki nr 829 i 1325)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 421,
+      "votingNumber": 48,
+      "yes": 388
+    },
+    {
+      "abstain": 0,
+      "date": "2025-06-25T22:01:20",
+      "description": "całość projektu uchwały",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/49/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 2,
+      "no": 1,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 17 Sprawozdanie Komisji o komisyjnym projekcie uchwały w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej (druki nr 1283 i 1290)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 430,
+      "votingNumber": 49,
+      "yes": 429
+    },
+    {
+      "abstain": 0,
+      "date": "2025-06-25T22:09:03",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/50/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 3,
+      "no": 2,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 18 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy o restrukturyzacji zadłużenia podmiotów prowadzących gospodarstwa rolne (druki nr 1315 i 1371)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 428,
+      "votingNumber": 50,
+      "yes": 426
+    },
+    {
+      "abstain": 2,
+      "date": "2025-06-25T22:09:54",
+      "description": "całość projektu uchwały",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/51/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 179,
+      "no": 178,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 19 Sprawozdanie Krajowej Rady Radiofonii i Telewizji z działalności w 2024 roku oraz Informacja o podstawowych problemach radiofonii i telewizji w 2024 roku wraz z komisyjnym projektem uchwały (druki nr 1146 i 1394)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 430,
+      "votingNumber": 51,
+      "yes": 250
+    },
+    {
+      "abstain": 176,
+      "date": "2025-06-25T22:10:41",
+      "description": "całość projektu uchwały",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/52/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 7,
+      "no": 6,
+      "notParticipating": 31,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 20 Informacja o działalności Rady Mediów Narodowych w 2024 roku wraz z komisyjnym projektem uchwały (druki nr 1147 i 1395)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 429,
+      "votingNumber": 52,
+      "yes": 247
+    },
+    {
+      "abstain": 0,
+      "date": "2025-06-25T22:14:09",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/53/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 192,
+      "no": 191,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 21 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o inwestycjach w zakresie elektrowni wiatrowych oraz niektórych innych ustaw (druki nr 1130 i 1367)",
+      "topic": "wniosek o przystąpienie do trzeciego czytania bez kierowania projektu do komisji",
+      "totalVoted": 427,
+      "votingNumber": 53,
+      "yes": 236
+    },
+    {
+      "abstain": 0,
+      "date": "2025-06-25T22:25:17",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/54/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 237,
+      "no": 236,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 21 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o inwestycjach w zakresie elektrowni wiatrowych oraz niektórych innych ustaw (druki nr 1130 i 1367)",
+      "topic": "wniosek o odrzucenie w całości projektu.",
+      "totalVoted": 428,
+      "votingNumber": 54,
+      "yes": 192
+    },
+    {
+      "abstain": 0,
+      "date": "2025-06-25T22:28:43",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/55/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 236,
+      "no": 235,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 21 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o inwestycjach w zakresie elektrowni wiatrowych oraz niektórych innych ustaw (druki nr 1130 i 1367)",
+      "topic": "wniosek mniejszości 1",
+      "totalVoted": 426,
+      "votingNumber": 55,
+      "yes": 191
+    },
+    {
+      "abstain": 19,
+      "date": "2025-06-25T22:29:22",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/56/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 176,
+      "no": 175,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 21 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o inwestycjach w zakresie elektrowni wiatrowych oraz niektórych innych ustaw (druki nr 1130 i 1367)",
+      "topic": "poprawki nr 1-3, 5-8 i 11",
+      "totalVoted": 427,
+      "votingNumber": 56,
+      "yes": 233
+    },
+    {
+      "abstain": 1,
+      "date": "2025-06-25T22:29:50",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/57/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 237,
+      "no": 236,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 21 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o inwestycjach w zakresie elektrowni wiatrowych oraz niektórych innych ustaw (druki nr 1130 i 1367)",
+      "topic": "wniosek mniejszości 2",
+      "totalVoted": 428,
+      "votingNumber": 57,
+      "yes": 191
+    },
+    {
+      "abstain": 0,
+      "date": "2025-06-25T22:30:18",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/58/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 235,
+      "no": 234,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 21 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o inwestycjach w zakresie elektrowni wiatrowych oraz niektórych innych ustaw (druki nr 1130 i 1367)",
+      "topic": "wniosek mniejszości 3",
+      "totalVoted": 428,
+      "votingNumber": 58,
+      "yes": 194
+    },
+    {
+      "abstain": 19,
+      "date": "2025-06-25T22:31:00",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/59/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 2,
+      "no": 1,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 21 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o inwestycjach w zakresie elektrowni wiatrowych oraz niektórych innych ustaw (druki nr 1130 i 1367)",
+      "topic": "poprawki nr 4 oraz 9-10",
+      "totalVoted": 425,
+      "votingNumber": 59,
+      "yes": 405
+    },
+    {
+      "abstain": 1,
+      "date": "2025-06-25T22:31:25",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/60/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 194,
+      "no": 193,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 21 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o inwestycjach w zakresie elektrowni wiatrowych oraz niektórych innych ustaw (druki nr 1130 i 1367)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 425,
+      "votingNumber": 60,
+      "yes": 231
+    },
+    {
+      "abstain": 18,
+      "date": "2025-06-25T22:32:21",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/61/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 5,
+      "no": 4,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 22 Sprawozdanie Komisji o rządowym projekcie ustawy o krajowym systemie certyfikacji cyberbezpieczeństwa (druki nr 1238 i 1249)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 428,
+      "votingNumber": 61,
+      "yes": 406
+    },
+    {
+      "abstain": 39,
+      "date": "2025-06-25T22:35:06",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/62/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 211,
+      "no": 210,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 24 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo restrukturyzacyjne oraz niektórych innych ustaw (druki nr 1263, 1354 i 1354-A)",
+      "topic": "poprawka 1",
+      "totalVoted": 430,
+      "votingNumber": 62,
+      "yes": 181
+    },
+    {
+      "abstain": 28,
+      "date": "2025-06-25T22:35:42",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/63/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 208,
+      "no": 207,
+      "notParticipating": 42,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 24 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo restrukturyzacyjne oraz niektórych innych ustaw (druki nr 1263, 1354 i 1354-A)",
+      "topic": "poprawka 2",
+      "totalVoted": 418,
+      "votingNumber": 63,
+      "yes": 183
+    },
+    {
+      "abstain": 38,
+      "date": "2025-06-25T22:36:11",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/64/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 210,
+      "no": 209,
+      "notParticipating": 38,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 24 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo restrukturyzacyjne oraz niektórych innych ustaw (druki nr 1263, 1354 i 1354-A)",
+      "topic": "poprawka 3",
+      "totalVoted": 422,
+      "votingNumber": 64,
+      "yes": 175
+    },
+    {
+      "abstain": 3,
+      "date": "2025-06-25T22:36:54",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/65/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 233,
+      "no": 232,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 24 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo restrukturyzacyjne oraz niektórych innych ustaw (druki nr 1263, 1354 i 1354-A)",
+      "topic": "poprawka 4",
+      "totalVoted": 428,
+      "votingNumber": 65,
+      "yes": 193
+    },
+    {
+      "abstain": 0,
+      "date": "2025-06-25T22:37:27",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/66/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 233,
+      "no": 232,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 24 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo restrukturyzacyjne oraz niektórych innych ustaw (druki nr 1263, 1354 i 1354-A)",
+      "topic": "poprawka 5",
+      "totalVoted": 428,
+      "votingNumber": 66,
+      "yes": 196
+    },
+    {
+      "abstain": 16,
+      "date": "2025-06-25T22:37:54",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/67/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 3,
+      "no": 2,
+      "notParticipating": 31,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 24 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo restrukturyzacyjne oraz niektórych innych ustaw (druki nr 1263, 1354 i 1354-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 429,
+      "votingNumber": 67,
+      "yes": 411
+    },
+    {
+      "abstain": 144,
+      "date": "2025-06-25T22:42:35",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/68/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 18,
+      "no": 17,
+      "notParticipating": 38,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 25 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy o prawach pacjenta i Rzeczniku Praw Pacjenta oraz niektórych innych ustaw (druki nr 748, 1372 i 1372-A)",
+      "topic": "poprawka 1",
+      "totalVoted": 422,
+      "votingNumber": 68,
+      "yes": 261
+    },
+    {
+      "abstain": 145,
+      "date": "2025-06-25T22:43:03",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/69/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 33,
+      "no": 32,
+      "notParticipating": 45,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 25 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy o prawach pacjenta i Rzeczniku Praw Pacjenta oraz niektórych innych ustaw (druki nr 748, 1372 i 1372-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 415,
+      "votingNumber": 69,
+      "yes": 238
+    },
+    {
+      "abstain": 142,
+      "date": "2025-06-25T22:44:27",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/70/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 20,
+      "no": 19,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 26 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne oraz niektórych innych ustaw (druki nr 1268 i 1294)",
+      "topic": "wniosek o przystąpienie do trzeciego czytania bez kierowania projektu do komisji",
+      "totalVoted": 426,
+      "votingNumber": 70,
+      "yes": 265
+    },
+    {
+      "abstain": 0,
+      "date": "2025-06-25T22:45:17",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/71/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 26 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne oraz niektórych innych ustaw (druki nr 1268 i 1294)",
+      "topic": "poprawka 1",
+      "totalVoted": 427,
+      "votingNumber": 71,
+      "yes": 427
+    },
+    {
+      "abstain": 5,
+      "date": "2025-06-25T22:45:44",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/72/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 219,
+      "no": 218,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 26 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne oraz niektórych innych ustaw (druki nr 1268 i 1294)",
+      "topic": "poprawka 2",
+      "totalVoted": 430,
+      "votingNumber": 72,
+      "yes": 207
+    },
+    {
+      "abstain": 5,
+      "date": "2025-06-25T22:46:20",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/73/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 228,
+      "no": 227,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 26 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne oraz niektórych innych ustaw (druki nr 1268 i 1294)",
+      "topic": "poprawka 3",
+      "totalVoted": 428,
+      "votingNumber": 73,
+      "yes": 196
+    },
+    {
+      "abstain": 18,
+      "date": "2025-06-25T22:46:50",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/74/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 3,
+      "no": 2,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 26 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne oraz niektórych innych ustaw (druki nr 1268 i 1294)",
+      "topic": "poprawka 4",
+      "totalVoted": 430,
+      "votingNumber": 74,
+      "yes": 410
+    },
+    {
+      "abstain": 0,
+      "date": "2025-06-25T22:47:20",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/75/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 26 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne oraz niektórych innych ustaw (druki nr 1268 i 1294)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 428,
+      "votingNumber": 75,
+      "yes": 428
+    },
+    {
+      "abstain": 3,
+      "date": "2025-06-25T22:48:18",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/76/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 16,
+      "no": 15,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 27 Sprawozdanie Komisji o rządowym projekcie ustawy o wypowiedzeniu Konwencji o zakazie użycia, składowania, produkcji i przekazywania min przeciwpiechotnych oraz o ich zniszczeniu, sporządzonej w Oslo dnia 18 września 1997 r. (druki nr 1261 i 1327)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 431,
+      "votingNumber": 76,
+      "yes": 413
+    },
+    {
+      "abstain": 0,
+      "date": "2025-06-25T22:57:46",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/77/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 235,
+      "no": 234,
+      "notParticipating": 31,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 28 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo geologiczne i górnicze (druki nr 1208, 1229 i 1229-A) - trzecie czytanie",
+      "topic": "wniosek o odrzucenie w całości projektu.",
+      "totalVoted": 429,
+      "votingNumber": 77,
+      "yes": 195
+    },
+    {
+      "abstain": 1,
+      "date": "2025-06-25T22:58:14",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/78/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 196,
+      "no": 195,
+      "notParticipating": 28,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 28 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo geologiczne i górnicze (druki nr 1208, 1229 i 1229-A) - trzecie czytanie",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 432,
+      "votingNumber": 78,
+      "yes": 236
+    },
+    {
+      "abstain": 18,
+      "date": "2025-06-25T23:00:43",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/79/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 217,
+      "no": 414,
+      "notParticipating": 28,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 29 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o repatriacji oraz niektórych innych ustaw (druki nr 1352 i 1385)",
+      "topic": "poprawka 1",
+      "totalVoted": 432,
+      "votingNumber": 79,
+      "yes": 0
+    },
+    {
+      "abstain": 24,
+      "date": "2025-06-25T23:11:39",
+      "description": "wniosek z druku nr 1398",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/80/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 128,
+      "no": 1,
+      "notParticipating": 206,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 30 Wybór uzupełniający do składu osobowego Komisji Śledczej do zbadania legalności, prawidłowości oraz celowości czynności operacyjno-rozpoznawczych podejmowanych m.in. z wykorzystaniem oprogramowania Pegasus przez członków Rady Ministrów, służby specjalne, Policję, organy kontroli skarbowej oraz celno-skarbowej, organy powołane do ścigania przestępstw i prokuraturę w okresie od dnia 16 listopada 2015 r. do dnia 20 listopada 2023 r. (druk nr 1398)",
+      "topic": "głosowanie nad przyjęciem wniosku z druku.",
+      "totalVoted": 254,
+      "votingNumber": 80,
+      "yes": 229
+    },
+    {
+      "abstain": 8,
+      "date": "2025-06-25T23:13:07",
+      "description": "wniosek z druku nr 1399",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/81/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 47,
+      "present": 0,
+      "sitting": 37,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 38 Zmiany w składach osobowych komisji sejmowych (druk nr 1399)",
+      "topic": "głosowanie nad przyjęciem wniosku z druku.",
+      "totalVoted": 413,
+      "votingNumber": 81,
+      "yes": 405
+    }
+  ],
+  "_pobrano": "2026-03-24T10:36:25Z"
+}

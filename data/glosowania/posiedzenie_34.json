@@ -1,0 +1,1282 @@
+{
+  "posiedzenie": 34,
+  "data": "",
+  "tytul": "34. Posiedzenie Sejmu RP w dniach 7, 8 i 9 maja 2025 r.",
+  "glosowania": [
+    {
+      "abstain": 1,
+      "date": "2025-05-07T10:08:04",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/34/1/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 10,
+      "no": 9,
+      "notParticipating": 46,
+      "present": 0,
+      "sitting": 34,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Głosowanie proceduralne dotyczące druku 1214",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie sprawozdania z druku nr 1214",
+      "totalVoted": 414,
+      "votingNumber": 1,
+      "yes": 404
+    },
+    {
+      "abstain": 6,
+      "date": "2025-05-07T10:15:05",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/34/2/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 230,
+      "no": 229,
+      "notParticipating": 44,
+      "present": 0,
+      "sitting": 34,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "34. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 7, 8 i 9 maja 2025 r.",
+      "topic": "Wniosek o przerwę",
+      "totalVoted": 416,
+      "votingNumber": 2,
+      "yes": 181
+    },
+    {
+      "abstain": 105,
+      "date": "2025-05-07T10:19:36",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/34/3/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 251,
+      "no": 250,
+      "notParticipating": 45,
+      "present": 0,
+      "sitting": 34,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "34. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 7, 8 i 9 maja 2025 r.",
+      "topic": "wniosek o odroczenie posiedzenia",
+      "totalVoted": 415,
+      "votingNumber": 3,
+      "yes": 60
+    },
+    {
+      "abstain": 7,
+      "date": "2025-05-09T09:08:41",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/34/4/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 228,
+      "no": 227,
+      "notParticipating": 37,
+      "present": 0,
+      "sitting": 34,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "34. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 7, 8 i 9 maja 2025 r.",
+      "topic": "Wniosek o przerwę",
+      "totalVoted": 423,
+      "votingNumber": 4,
+      "yes": 189
+    },
+    {
+      "abstain": 124,
+      "date": "2025-05-09T09:12:08",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/34/5/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 237,
+      "no": 236,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 34,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "34. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 7, 8 i 9 maja 2025 r.",
+      "topic": "wniosek o odroczenie posiedzenia",
+      "totalVoted": 427,
+      "votingNumber": 5,
+      "yes": 67
+    },
+    {
+      "abstain": 0,
+      "date": "2025-05-09T09:20:23",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/34/6/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 230,
+      "no": 0,
+      "notParticipating": 40,
+      "present": 420,
+      "sitting": 34,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "34. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 7, 8 i 9 maja 2025 r.",
+      "topic": "Głosowanie kworum",
+      "totalVoted": 420,
+      "votingNumber": 6,
+      "yes": 0
+    },
+    {
+      "abstain": 0,
+      "date": "2025-05-09T09:22:26",
+      "description": "całość projektu uchwały",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/34/7/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 34,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 8 Sprawozdanie Komisji o poselskim projekcie uchwały w sprawie upamiętnienia Haliny Poświatowskiej w 90. rocznicę urodzin (druki nr 1144 i 1182)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 426,
+      "votingNumber": 7,
+      "yes": 426
+    },
+    {
+      "abstain": 0,
+      "date": "2025-05-09T09:23:27",
+      "description": "całość projektu uchwały",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/34/8/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 14,
+      "no": 13,
+      "notParticipating": 38,
+      "present": 0,
+      "sitting": 34,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 9 Sprawozdanie Komisji o poselskim projekcie uchwały w sprawie uczczenia Marszałka Józefa Piłsudskiego w 90. rocznicę śmierci (druki nr 1190 i 1214)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 422,
+      "votingNumber": 8,
+      "yes": 409
+    },
+    {
+      "abstain": 14,
+      "date": "2025-05-09T09:26:44",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/34/9/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 233,
+      "no": 232,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 34,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (druki nr 993, 1120 i 1120-A)",
+      "topic": "wniosek o odrzucenie w całości projektu.",
+      "totalVoted": 428,
+      "votingNumber": 9,
+      "yes": 182
+    },
+    {
+      "abstain": 15,
+      "date": "2025-05-09T09:27:17",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/34/10/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 178,
+      "no": 177,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 34,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (druki nr 993, 1120 i 1120-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 425,
+      "votingNumber": 10,
+      "yes": 233
+    },
+    {
+      "abstain": 15,
+      "date": "2025-05-09T09:30:03",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/34/11/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 227,
+      "no": 226,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 34,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy o Krajowej Sieci Kardiologicznej (druki nr 1090 i 1152)",
+      "topic": "wnioski mniejszości nr 1-3 i 8",
+      "totalVoted": 426,
+      "votingNumber": 11,
+      "yes": 185
+    },
+    {
+      "abstain": 13,
+      "date": "2025-05-09T09:31:48",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/34/12/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 230,
+      "no": 229,
+      "notParticipating": 31,
+      "present": 0,
+      "sitting": 34,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy o Krajowej Sieci Kardiologicznej (druki nr 1090 i 1152)",
+      "topic": "wniosek mniejszości 4",
+      "totalVoted": 429,
+      "votingNumber": 12,
+      "yes": 187
+    },
+    {
+      "abstain": 0,
+      "date": "2025-05-09T09:33:26",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/34/13/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 227,
+      "no": 226,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 34,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy o Krajowej Sieci Kardiologicznej (druki nr 1090 i 1152)",
+      "topic": "wniosek mniejszości 5",
+      "totalVoted": 428,
+      "votingNumber": 13,
+      "yes": 202
+    },
+    {
+      "abstain": 15,
+      "date": "2025-05-09T09:36:12",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/34/14/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 227,
+      "no": 226,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 34,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy o Krajowej Sieci Kardiologicznej (druki nr 1090 i 1152)",
+      "topic": "wniosek mniejszości 6",
+      "totalVoted": 427,
+      "votingNumber": 14,
+      "yes": 186
+    },
+    {
+      "abstain": 15,
+      "date": "2025-05-09T09:40:04",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/34/15/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 223,
+      "no": 222,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 34,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy o Krajowej Sieci Kardiologicznej (druki nr 1090 i 1152)",
+      "topic": "wniosek mniejszości 7",
+      "totalVoted": 426,
+      "votingNumber": 15,
+      "yes": 189
+    },
+    {
+      "abstain": 15,
+      "date": "2025-05-09T09:40:47",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/34/16/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 2,
+      "no": 1,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 34,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy o Krajowej Sieci Kardiologicznej (druki nr 1090 i 1152)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 428,
+      "votingNumber": 16,
+      "yes": 412
+    },
+    {
+      "abstain": 180,
+      "date": "2025-05-09T09:43:05",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/34/17/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 230,
+      "no": 229,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 34,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 3 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy - Kodeks pracy (druki nr 934, 1153 i 1153-A)",
+      "topic": "wniosek o odrzucenie w całości projektu.",
+      "totalVoted": 426,
+      "votingNumber": 17,
+      "yes": 17
+    },
+    {
+      "abstain": 175,
+      "date": "2025-05-09T09:43:51",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/34/18/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 17,
+      "no": 16,
+      "notParticipating": 39,
+      "present": 0,
+      "sitting": 34,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 3 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy - Kodeks pracy (druki nr 934, 1153 i 1153-A)",
+      "topic": "poprawka 1",
+      "totalVoted": 421,
+      "votingNumber": 18,
+      "yes": 230
+    },
+    {
+      "abstain": 181,
+      "date": "2025-05-09T09:44:22",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/34/19/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 15,
+      "no": 14,
+      "notParticipating": 37,
+      "present": 0,
+      "sitting": 34,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 3 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy - Kodeks pracy (druki nr 934, 1153 i 1153-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 423,
+      "votingNumber": 19,
+      "yes": 228
+    },
+    {
+      "abstain": 0,
+      "date": "2025-05-09T09:47:40",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/34/20/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 245,
+      "no": 244,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 34,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (druki nr 1176, 1200 i 1200-A)",
+      "topic": "poprawka 1",
+      "totalVoted": 427,
+      "votingNumber": 20,
+      "yes": 183
+    },
+    {
+      "abstain": 14,
+      "date": "2025-05-09T09:48:13",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/34/21/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 43,
+      "present": 0,
+      "sitting": 34,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (druki nr 1176, 1200 i 1200-A)",
+      "topic": "poprawka 2",
+      "totalVoted": 417,
+      "votingNumber": 21,
+      "yes": 403
+    },
+    {
+      "abstain": 0,
+      "date": "2025-05-09T09:48:45",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/34/22/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 2,
+      "no": 1,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 34,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (druki nr 1176, 1200 i 1200-A)",
+      "topic": "poprawka 3",
+      "totalVoted": 427,
+      "votingNumber": 22,
+      "yes": 426
+    },
+    {
+      "abstain": 14,
+      "date": "2025-05-09T09:49:15",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/34/23/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 34,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (druki nr 1176, 1200 i 1200-A)",
+      "topic": "poprawka 4",
+      "totalVoted": 425,
+      "votingNumber": 23,
+      "yes": 411
+    },
+    {
+      "abstain": 0,
+      "date": "2025-05-09T09:49:44",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/34/24/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 42,
+      "present": 0,
+      "sitting": 34,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (druki nr 1176, 1200 i 1200-A)",
+      "topic": "poprawka 5",
+      "totalVoted": 418,
+      "votingNumber": 24,
+      "yes": 418
+    },
+    {
+      "abstain": 0,
+      "date": "2025-05-09T09:50:13",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/34/25/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 34,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (druki nr 1176, 1200 i 1200-A)",
+      "topic": "poprawka 6",
+      "totalVoted": 425,
+      "votingNumber": 25,
+      "yes": 425
+    },
+    {
+      "abstain": 8,
+      "date": "2025-05-09T09:50:48",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/34/26/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 231,
+      "no": 230,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 34,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (druki nr 1176, 1200 i 1200-A)",
+      "topic": "wniosek mniejszości 1",
+      "totalVoted": 427,
+      "votingNumber": 26,
+      "yes": 189
+    },
+    {
+      "abstain": 0,
+      "date": "2025-05-09T09:51:16",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/34/27/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 36,
+      "present": 0,
+      "sitting": 34,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (druki nr 1176, 1200 i 1200-A)",
+      "topic": "poprawka 7",
+      "totalVoted": 424,
+      "votingNumber": 27,
+      "yes": 424
+    },
+    {
+      "abstain": 14,
+      "date": "2025-05-09T09:51:49",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/34/28/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 183,
+      "no": 182,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 34,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (druki nr 1176, 1200 i 1200-A)",
+      "topic": "poprawka 8",
+      "totalVoted": 426,
+      "votingNumber": 28,
+      "yes": 230
+    },
+    {
+      "abstain": 14,
+      "date": "2025-05-09T09:52:16",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/34/29/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 231,
+      "no": 230,
+      "notParticipating": 36,
+      "present": 0,
+      "sitting": 34,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (druki nr 1176, 1200 i 1200-A)",
+      "topic": "wniosek mniejszości 2",
+      "totalVoted": 424,
+      "votingNumber": 29,
+      "yes": 180
+    },
+    {
+      "abstain": 0,
+      "date": "2025-05-09T09:52:50",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/34/30/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 34,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (druki nr 1176, 1200 i 1200-A)",
+      "topic": "poprawka 9",
+      "totalVoted": 428,
+      "votingNumber": 30,
+      "yes": 428
+    },
+    {
+      "abstain": 14,
+      "date": "2025-05-09T09:53:21",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/34/31/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 232,
+      "no": 231,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 34,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (druki nr 1176, 1200 i 1200-A)",
+      "topic": "wniosek mniejszości 3",
+      "totalVoted": 425,
+      "votingNumber": 31,
+      "yes": 180
+    },
+    {
+      "abstain": 0,
+      "date": "2025-05-09T09:53:51",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/34/32/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 37,
+      "present": 0,
+      "sitting": 34,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (druki nr 1176, 1200 i 1200-A)",
+      "topic": "poprawka 10",
+      "totalVoted": 423,
+      "votingNumber": 32,
+      "yes": 423
+    },
+    {
+      "abstain": 14,
+      "date": "2025-05-09T09:54:22",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/34/33/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 36,
+      "present": 0,
+      "sitting": 34,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (druki nr 1176, 1200 i 1200-A)",
+      "topic": "poprawka 11",
+      "totalVoted": 424,
+      "votingNumber": 33,
+      "yes": 410
+    },
+    {
+      "abstain": 14,
+      "date": "2025-05-09T09:54:53",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/34/34/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 34,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (druki nr 1176, 1200 i 1200-A)",
+      "topic": "poprawka 12",
+      "totalVoted": 426,
+      "votingNumber": 34,
+      "yes": 412
+    },
+    {
+      "abstain": 14,
+      "date": "2025-05-09T09:55:26",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/34/35/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 34,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (druki nr 1176, 1200 i 1200-A)",
+      "topic": "poprawka 13",
+      "totalVoted": 427,
+      "votingNumber": 35,
+      "yes": 413
+    },
+    {
+      "abstain": 14,
+      "date": "2025-05-09T09:55:57",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/34/36/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 34,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (druki nr 1176, 1200 i 1200-A)",
+      "topic": "poprawka 14",
+      "totalVoted": 425,
+      "votingNumber": 36,
+      "yes": 411
+    },
+    {
+      "abstain": 14,
+      "date": "2025-05-09T09:56:29",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/34/37/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 2,
+      "no": 1,
+      "notParticipating": 40,
+      "present": 0,
+      "sitting": 34,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (druki nr 1176, 1200 i 1200-A)",
+      "topic": "poprawka 15",
+      "totalVoted": 420,
+      "votingNumber": 37,
+      "yes": 405
+    },
+    {
+      "abstain": 14,
+      "date": "2025-05-09T09:56:58",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/34/38/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 34,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (druki nr 1176, 1200 i 1200-A)",
+      "topic": "poprawka 16",
+      "totalVoted": 426,
+      "votingNumber": 38,
+      "yes": 412
+    },
+    {
+      "abstain": 0,
+      "date": "2025-05-09T09:57:29",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/34/39/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 34,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (druki nr 1176, 1200 i 1200-A)",
+      "topic": "poprawka 17",
+      "totalVoted": 427,
+      "votingNumber": 39,
+      "yes": 427
+    },
+    {
+      "abstain": 0,
+      "date": "2025-05-09T09:58:08",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/34/40/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 31,
+      "present": 0,
+      "sitting": 34,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (druki nr 1176, 1200 i 1200-A)",
+      "topic": "poprawki nr 18 i 20",
+      "totalVoted": 429,
+      "votingNumber": 40,
+      "yes": 429
+    },
+    {
+      "abstain": 8,
+      "date": "2025-05-09T09:58:42",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/34/41/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 7,
+      "no": 6,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 34,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (druki nr 1176, 1200 i 1200-A)",
+      "topic": "poprawka 19",
+      "totalVoted": 427,
+      "votingNumber": 41,
+      "yes": 413
+    },
+    {
+      "abstain": 0,
+      "date": "2025-05-09T09:59:17",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/34/42/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 34,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (druki nr 1176, 1200 i 1200-A)",
+      "topic": "poprawka 21",
+      "totalVoted": 427,
+      "votingNumber": 42,
+      "yes": 427
+    },
+    {
+      "abstain": 0,
+      "date": "2025-05-09T10:05:21",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/34/43/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 34,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (druki nr 1176, 1200 i 1200-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 425,
+      "votingNumber": 43,
+      "yes": 425
+    },
+    {
+      "abstain": 3,
+      "date": "2025-05-09T10:07:20",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/34/44/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 6,
+      "no": 5,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 34,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 5 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw (druki nr 1172 i 1195)",
+      "topic": "wniosek o przystąpienie do trzeciego czytania bez kierowania projektu do komisji",
+      "totalVoted": 428,
+      "votingNumber": 44,
+      "yes": 420
+    },
+    {
+      "abstain": 5,
+      "date": "2025-05-09T10:08:07",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/34/45/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 2,
+      "no": 1,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 34,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 5 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw (druki nr 1172 i 1195)",
+      "topic": "poprawka 1",
+      "totalVoted": 426,
+      "votingNumber": 45,
+      "yes": 420
+    },
+    {
+      "abstain": 6,
+      "date": "2025-05-09T10:08:37",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/34/46/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 2,
+      "no": 1,
+      "notParticipating": 43,
+      "present": 0,
+      "sitting": 34,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 5 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw (druki nr 1172 i 1195)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 417,
+      "votingNumber": 46,
+      "yes": 410
+    },
+    {
+      "abstain": 5,
+      "date": "2025-05-09T10:09:46",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/34/47/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 193,
+      "no": 192,
+      "notParticipating": 31,
+      "present": 0,
+      "sitting": 34,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie niektórych ustaw w celu zapewnienia stosowania przepisów prawa Unii Europejskiej poprawiających funkcjonowanie rynku wewnętrznego (druki nr 1174 i 1179)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 429,
+      "votingNumber": 47,
+      "yes": 232
+    },
+    {
+      "abstain": 0,
+      "date": "2025-05-09T10:11:57",
+      "description": "wniosek o skierowanie projektu ustawy do Komisji do Spraw Energii, Klimatu i Aktywów Państwowych",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/34/48/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 36,
+      "no": 35,
+      "notParticipating": 36,
+      "present": 0,
+      "sitting": 34,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 15 Pierwsze czytanie poselskiego projektu ustawy o zmianie ustawy o zasadach zarządzania mieniem państwowym oraz niektórych innych ustaw (druk nr 1186)",
+      "topic": "wniosek o skierowanie projektu ustawy do Komisji",
+      "totalVoted": 424,
+      "votingNumber": 48,
+      "yes": 389
+    },
+    {
+      "abstain": 0,
+      "againstAll": 18,
+      "date": "2025-05-09T10:26:04",
+      "description": "powołanie członka Komisji do spraw reprywatyzacji nieruchomości warszawskich",
+      "kind": "ON_LIST",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/34/49/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 213,
+      "no": 0,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 34,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Powołanie członka Komisji do spraw reprywatyzacji nieruchomości warszawskich (druki nr 1158, 1159, 1212 i 1213)",
+      "topic": "Powołanie członka Komisji ds. reprywatyzacji nieruchomości warszawskich",
+      "totalVoted": 425,
+      "votingNumber": 49,
+      "votingOptions": [
+        {
+          "option": "MOSIŃSKI JAN",
+          "optionIndex": 1,
+          "votes": 182
+        },
+        {
+          "option": "WIERZBICA ANNA",
+          "optionIndex": 2,
+          "votes": 225
+        }
+      ],
+      "yes": 0
+    },
+    {
+      "abstain": 10,
+      "date": "2025-05-09T10:40:30",
+      "description": "wniosek w sprawie wyboru Marka Asta na sędziego Trybunału Konstytucyjnego",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/34/50/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 211,
+      "no": 230,
+      "notParticipating": 40,
+      "present": 0,
+      "sitting": 34,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 17 Wybór sędziów Trybunału Konstytucyjnego (druki nr 1118, 1119, 1210 i 1211)",
+      "topic": "głosowanie nad kandydaturą Pana Marka Asta na stanowisko sędziego Trybunału Konstytucyjnego",
+      "totalVoted": 420,
+      "votingNumber": 50,
+      "yes": 180
+    },
+    {
+      "abstain": 10,
+      "date": "2025-05-09T10:41:14",
+      "description": "wniosek w sprawie wyboru Artura Kotowskiego na sędziego Trybunału Konstytucyjnego",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/34/51/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 211,
+      "no": 229,
+      "notParticipating": 40,
+      "present": 0,
+      "sitting": 34,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 17 Wybór sędziów Trybunału Konstytucyjnego (druki nr 1118, 1119, 1210 i 1211)",
+      "topic": "głosowanie nad kandydaturą Pana Artura Kotowskiego na stanowisko sędziego Trybunału Konstytucyjnego",
+      "totalVoted": 420,
+      "votingNumber": 51,
+      "yes": 181
+    },
+    {
+      "abstain": 5,
+      "date": "2025-05-09T10:43:49",
+      "description": "wniosek z druku nr 1230",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/34/52/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 47,
+      "present": 0,
+      "sitting": 34,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 21 Zmiany w składach osobowych komisji sejmowych (druk nr 1230)",
+      "topic": "głosowanie nad przyjęciem wniosku z druku.",
+      "totalVoted": 413,
+      "votingNumber": 52,
+      "yes": 408
+    }
+  ],
+  "_pobrano": "2026-03-24T10:36:24Z"
+}

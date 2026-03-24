@@ -1,0 +1,709 @@
+{
+  "posiedzenie": 2,
+  "data": "",
+  "tytul": "2. Posiedzenie Sejmu RP w dniach 16 i 17 stycznia 2024 r.",
+  "glosowania": [
+    {
+      "abstain": 6,
+      "date": "2024-01-16T10:15:07",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/2/1/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 387,
+      "no": 386,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 2,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "2. posiedzenie Sejmu RP w dniach 16 i 17 stycznia 2024 r.",
+      "topic": "wniosek o odroczenie posiedzenia",
+      "totalVoted": 425,
+      "votingNumber": 1,
+      "yes": 33
+    },
+    {
+      "abstain": 1,
+      "date": "2024-01-16T10:17:55",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/2/2/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 238,
+      "no": 237,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 2,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "2. posiedzenie Sejmu RP w dniach 16 i 17 stycznia 2024 r.",
+      "topic": "Wniosek o przerwę",
+      "totalVoted": 425,
+      "votingNumber": 2,
+      "yes": 187
+    },
+    {
+      "abstain": 2,
+      "date": "2024-01-16T10:32:39",
+      "description": "wniosek z druku nr 161",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/2/3/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 42,
+      "present": 0,
+      "sitting": 2,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Zmiany w składach osobowych komisji sejmowych (druk nr 161)",
+      "topic": "głosowanie nad przyjęciem wniosku z druku.",
+      "totalVoted": 415,
+      "votingNumber": 3,
+      "yes": 413
+    },
+    {
+      "abstain": 12,
+      "date": "2024-01-16T19:04:37",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/2/4/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 238,
+      "no": 237,
+      "notParticipating": 39,
+      "present": 0,
+      "sitting": 2,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "2. posiedzenie Sejmu RP w dniach 16 i 17 stycznia 2024 r.",
+      "topic": "Wniosek o przerwę",
+      "totalVoted": 418,
+      "votingNumber": 4,
+      "yes": 169
+    },
+    {
+      "abstain": 14,
+      "date": "2024-01-16T19:06:51",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/2/5/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 2,
+      "no": 1,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 2,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2024 (druki nr 142, 143 i 143-A)",
+      "topic": "poprawki nr 1 i 4",
+      "totalVoted": 423,
+      "votingNumber": 5,
+      "yes": 408
+    },
+    {
+      "abstain": 14,
+      "date": "2024-01-16T19:07:31",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/2/6/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 2,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2024 (druki nr 142, 143 i 143-A)",
+      "topic": "poprawka 2",
+      "totalVoted": 422,
+      "votingNumber": 6,
+      "yes": 408
+    },
+    {
+      "abstain": 15,
+      "date": "2024-01-16T19:08:06",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/2/7/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 171,
+      "no": 170,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 2,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2024 (druki nr 142, 143 i 143-A)",
+      "topic": "poprawka 3",
+      "totalVoted": 425,
+      "votingNumber": 7,
+      "yes": 240
+    },
+    {
+      "abstain": 0,
+      "date": "2024-01-16T19:08:45",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/2/8/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 16,
+      "no": 15,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 2,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2024 (druki nr 142, 143 i 143-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 423,
+      "votingNumber": 8,
+      "yes": 408
+    },
+    {
+      "abstain": 15,
+      "date": "2024-01-16T19:10:47",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/2/9/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 242,
+      "no": 241,
+      "notParticipating": 31,
+      "present": 0,
+      "sitting": 2,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 3 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Przepisy wprowadzające ustawę - Prawo o szkolnictwie wyższym i nauce (druki nr 141, 141-A, 153 i 153-A)",
+      "topic": "poprawki nr 1-3",
+      "totalVoted": 426,
+      "votingNumber": 9,
+      "yes": 170
+    },
+    {
+      "abstain": 0,
+      "date": "2024-01-16T19:11:27",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/2/10/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 186,
+      "no": 185,
+      "notParticipating": 31,
+      "present": 0,
+      "sitting": 2,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 3 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Przepisy wprowadzające ustawę - Prawo o szkolnictwie wyższym i nauce (druki nr 141, 141-A, 153 i 153-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 426,
+      "votingNumber": 10,
+      "yes": 241
+    },
+    {
+      "abstain": 0,
+      "againstAll": 15,
+      "date": "2024-01-16T19:40:02",
+      "description": "powołanie Prezesa Urzędu Ochrony Danych Osobowych",
+      "kind": "ON_LIST",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/2/11/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 213,
+      "no": 0,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 2,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Powołanie Prezesa Urzędu Ochrony Danych Osobowych",
+      "topic": "Powołanie Prezesa Urzędu Ochrony Danych Osobowych (druki nr 132, 135, 145 i 148)",
+      "totalVoted": 424,
+      "votingNumber": 11,
+      "votingOptions": [
+        {
+          "option": "GROSZKOWSKI JAKUB",
+          "optionIndex": 1,
+          "votes": 169
+        },
+        {
+          "option": "WRÓBLEWSKI MIROSŁAW",
+          "optionIndex": 2,
+          "votes": 240
+        }
+      ],
+      "yes": 0
+    },
+    {
+      "abstain": 3,
+      "date": "2024-01-16T19:41:29",
+      "description": "wniosek z druku nr 170",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/2/12/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 2,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 6 Zmiany w składach osobowych komisji sejmowych (druk nr 170)",
+      "topic": "głosowanie nad przyjęciem wniosku z druku.",
+      "totalVoted": 425,
+      "votingNumber": 12,
+      "yes": 422
+    },
+    {
+      "abstain": 5,
+      "date": "2024-01-17T09:10:53",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/2/13/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 236,
+      "no": 235,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 2,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "2. posiedzenie Sejmu RP w dniach 16 i 17 stycznia 2024 r.",
+      "topic": "Wniosek o przerwę",
+      "totalVoted": 425,
+      "votingNumber": 13,
+      "yes": 185
+    },
+    {
+      "abstain": 8,
+      "date": "2024-01-17T09:12:28",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/2/14/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 238,
+      "no": 237,
+      "notParticipating": 27,
+      "present": 0,
+      "sitting": 2,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "2. posiedzenie Sejmu RP w dniach 16 i 17 stycznia 2024 r.",
+      "topic": "wniosek o odroczenie posiedzenia",
+      "totalVoted": 430,
+      "votingNumber": 14,
+      "yes": 185
+    },
+    {
+      "abstain": 0,
+      "date": "2024-01-17T09:14:11",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/2/15/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 239,
+      "no": 238,
+      "notParticipating": 25,
+      "present": 0,
+      "sitting": 2,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 7 Sprawozdanie Komisji o poselskim projekcie uchwały w sprawie powołania Komisji Śledczej do zbadania legalności, prawidłowości oraz celowości czynności operacyjno-rozpoznawczych podejmowanych m.in. z wykorzystaniem oprogramowania Pegasus przez członków Rady Ministrów, służby specjalne, Policję, organy kontroli skarbowej oraz celno-skarbowej w okresie od dnia 16 listopada 2015 r. do dnia 20 listopada 2023 r. (druki nr 57 i 79)",
+      "topic": "wnioski mniejszości nr 1-3",
+      "totalVoted": 432,
+      "votingNumber": 15,
+      "yes": 194
+    },
+    {
+      "abstain": 0,
+      "date": "2024-01-17T09:14:55",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/2/16/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 239,
+      "no": 238,
+      "notParticipating": 25,
+      "present": 0,
+      "sitting": 2,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 7 Sprawozdanie Komisji o poselskim projekcie uchwały w sprawie powołania Komisji Śledczej do zbadania legalności, prawidłowości oraz celowości czynności operacyjno-rozpoznawczych podejmowanych m.in. z wykorzystaniem oprogramowania Pegasus przez członków Rady Ministrów, służby specjalne, Policję, organy kontroli skarbowej oraz celno-skarbowej w okresie od dnia 16 listopada 2015 r. do dnia 20 listopada 2023 r. (druki nr 57 i 79)",
+      "topic": "poprawki nr 1-3",
+      "totalVoted": 432,
+      "votingNumber": 16,
+      "yes": 194
+    },
+    {
+      "abstain": 0,
+      "date": "2024-01-17T09:15:38",
+      "description": "całość projektu uchwały",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/2/17/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 217,
+      "no": 0,
+      "notParticipating": 25,
+      "present": 0,
+      "sitting": 2,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 7 Sprawozdanie Komisji o poselskim projekcie uchwały w sprawie powołania Komisji Śledczej do zbadania legalności, prawidłowości oraz celowości czynności operacyjno-rozpoznawczych podejmowanych m.in. z wykorzystaniem oprogramowania Pegasus przez członków Rady Ministrów, służby specjalne, Policję, organy kontroli skarbowej oraz celno-skarbowej w okresie od dnia 16 listopada 2015 r. do dnia 20 listopada 2023 r. (druki nr 57 i 79)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 432,
+      "votingNumber": 17,
+      "yes": 432
+    },
+    {
+      "abstain": 2,
+      "date": "2024-01-17T16:54:09",
+      "description": "wniosek o wyrażenie wotum nieufności wobec Ministra Kultury i Dziedzictwa Narodowego Bartłomieja Sienkiewicza",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/2/18/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "STATUTORY_MAJORITY",
+      "majorityVotes": 231,
+      "no": 241,
+      "notParticipating": 20,
+      "present": 0,
+      "sitting": 2,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 10 Wniosek o wyrażenie wotum nieufności wobec Ministra Kultury i Dziedzictwa Narodowego Bartłomieja Sienkiewicza (druki nr 140 i 150)",
+      "topic": "głosowanie nad wnioskiem o wyrażenie wotum nieufności.",
+      "totalVoted": 437,
+      "votingNumber": 18,
+      "yes": 194
+    },
+    {
+      "abstain": 0,
+      "date": "2024-01-17T16:58:40",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/2/19/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 241,
+      "no": 240,
+      "notParticipating": 22,
+      "present": 0,
+      "sitting": 2,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "2. posiedzenie Sejmu RP w dniach 16 i 17 stycznia 2024 r.",
+      "topic": "Wniosek o przerwę",
+      "totalVoted": 435,
+      "votingNumber": 19,
+      "yes": 195
+    },
+    {
+      "abstain": 152,
+      "date": "2024-01-17T16:59:54",
+      "description": "wniosek o odwołanie Wicemarszałka Sejmu Rzeczypospolitej Polskiej Krzysztofa Bosaka",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/2/20/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 131,
+      "no": 77,
+      "notParticipating": 196,
+      "present": 0,
+      "sitting": 2,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 11 Wniosek o odwołanie Wicemarszałka Sejmu Rzeczypospolitej Polskiej pana Krzysztofa Bosaka (druk nr 105)",
+      "topic": "głosowanie nad odwołaniem Wicemarszałka Sejmu Krzysztofa Bosaka",
+      "totalVoted": 261,
+      "votingNumber": 20,
+      "yes": 32
+    },
+    {
+      "abstain": 4,
+      "date": "2024-01-17T17:02:24",
+      "description": "wniosek o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej posła Grzegorza Brauna - za czyn określony w punkcie pierwszym wniosku",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/2/21/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_STATUTORY_MAJORITY",
+      "majorityVotes": 231,
+      "no": 15,
+      "notParticipating": 40,
+      "present": 0,
+      "sitting": 2,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 12 Sprawozdanie Komisji w sprawie wniosku Prokuratora Okręgowego w Warszawie z dnia 9 stycznia 2024 r. uzupełnionego w dniu 10 stycznia 2024 r. o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej posła Grzegorza Brauna (druk nr 152)",
+      "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła Grzegorza Brauna za czyn określony w punkcie pierwszym",
+      "totalVoted": 417,
+      "votingNumber": 21,
+      "yes": 398
+    },
+    {
+      "abstain": 5,
+      "date": "2024-01-17T17:03:29",
+      "description": "wniosek o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej posła Grzegorza Brauna - za czyn określony w punkcie drugim wniosku",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/2/22/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_STATUTORY_MAJORITY",
+      "majorityVotes": 231,
+      "no": 15,
+      "notParticipating": 43,
+      "present": 0,
+      "sitting": 2,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 12 Sprawozdanie Komisji w sprawie wniosku Prokuratora Okręgowego w Warszawie z dnia 9 stycznia 2024 r. uzupełnionego w dniu 10 stycznia 2024 r. o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej posła Grzegorza Brauna (druk nr 152)",
+      "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła Grzegorza Brauna za czyn określony w punkcie drugim",
+      "totalVoted": 414,
+      "votingNumber": 22,
+      "yes": 394
+    },
+    {
+      "abstain": 4,
+      "date": "2024-01-17T17:04:31",
+      "description": "wniosek o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej posła Grzegorza Brauna - za czyn określony w punkcie trzecim wniosku",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/2/23/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_STATUTORY_MAJORITY",
+      "majorityVotes": 231,
+      "no": 15,
+      "notParticipating": 41,
+      "present": 0,
+      "sitting": 2,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 12 Sprawozdanie Komisji w sprawie wniosku Prokuratora Okręgowego w Warszawie z dnia 9 stycznia 2024 r. uzupełnionego w dniu 10 stycznia 2024 r. o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej posła Grzegorza Brauna (druk nr 152)",
+      "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła Grzegorza Brauna za czyn określony w punkcie trzecim",
+      "totalVoted": 416,
+      "votingNumber": 23,
+      "yes": 397
+    },
+    {
+      "abstain": 4,
+      "date": "2024-01-17T17:05:30",
+      "description": "wniosek o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej posła Grzegorza Brauna - za czyn określony w punkcie czwartym wniosku",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/2/24/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_STATUTORY_MAJORITY",
+      "majorityVotes": 231,
+      "no": 15,
+      "notParticipating": 40,
+      "present": 0,
+      "sitting": 2,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 12 Sprawozdanie Komisji w sprawie wniosku Prokuratora Okręgowego w Warszawie z dnia 9 stycznia 2024 r. uzupełnionego w dniu 10 stycznia 2024 r. o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej posła Grzegorza Brauna (druk nr 152)",
+      "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła Grzegorza Brauna za czyn określony w punkcie czwartym",
+      "totalVoted": 417,
+      "votingNumber": 24,
+      "yes": 398
+    },
+    {
+      "abstain": 13,
+      "date": "2024-01-17T17:06:30",
+      "description": "wniosek o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej posła Grzegorza Brauna - za czyn określony w punkcie piątym wniosku",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/2/25/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_STATUTORY_MAJORITY",
+      "majorityVotes": 231,
+      "no": 16,
+      "notParticipating": 42,
+      "present": 0,
+      "sitting": 2,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 12 Sprawozdanie Komisji w sprawie wniosku Prokuratora Okręgowego w Warszawie z dnia 9 stycznia 2024 r. uzupełnionego w dniu 10 stycznia 2024 r. o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej posła Grzegorza Brauna (druk nr 152)",
+      "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła Grzegorza Brauna za czyn określony w punkcie piątym",
+      "totalVoted": 415,
+      "votingNumber": 25,
+      "yes": 386
+    },
+    {
+      "abstain": 4,
+      "date": "2024-01-17T17:07:25",
+      "description": "wniosek o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej posła Grzegorza Brauna - za czyn określony w punkcie szóstym wniosku",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/2/26/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_STATUTORY_MAJORITY",
+      "majorityVotes": 231,
+      "no": 15,
+      "notParticipating": 38,
+      "present": 0,
+      "sitting": 2,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 12 Sprawozdanie Komisji w sprawie wniosku Prokuratora Okręgowego w Warszawie z dnia 9 stycznia 2024 r. uzupełnionego w dniu 10 stycznia 2024 r. o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej posła Grzegorza Brauna (druk nr 152)",
+      "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła Grzegorza Brauna za czyn określony w punkcie szóstym",
+      "totalVoted": 419,
+      "votingNumber": 26,
+      "yes": 400
+    },
+    {
+      "abstain": 4,
+      "date": "2024-01-17T17:08:22",
+      "description": "wniosek o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej posła Grzegorza Brauna - za czyn określony w punkcie siódmym wniosku",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/2/27/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_STATUTORY_MAJORITY",
+      "majorityVotes": 231,
+      "no": 15,
+      "notParticipating": 36,
+      "present": 0,
+      "sitting": 2,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 12 Sprawozdanie Komisji w sprawie wniosku Prokuratora Okręgowego w Warszawie z dnia 9 stycznia 2024 r. uzupełnionego w dniu 10 stycznia 2024 r. o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej posła Grzegorza Brauna (druk nr 152)",
+      "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła Grzegorza Brauna za czyn określony w punkcie siódmym",
+      "totalVoted": 421,
+      "votingNumber": 27,
+      "yes": 402
+    },
+    {
+      "abstain": 15,
+      "date": "2024-01-17T17:10:44",
+      "description": "całość projektu uchwały",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/2/28/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 2,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 13 Pierwsze czytanie przedstawionego przez Prezydium Sejmu projektu uchwały w sprawie utworzenia Polskiej Grupy Unii Międzyparlamentarnej (druk nr 162)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 434,
+      "votingNumber": 28,
+      "yes": 419
+    }
+  ],
+  "_pobrano": "2026-03-24T10:36:09Z"
+}

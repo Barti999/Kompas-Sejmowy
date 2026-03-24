@@ -1,0 +1,976 @@
+{
+  "posiedzenie": 14,
+  "data": "",
+  "tytul": "14. Posiedzenie Sejmu RP w dniach 26, 27 i 28 czerwca 2024 r.",
+  "glosowania": [
+    {
+      "abstain": 1,
+      "date": "2024-06-26T10:26:39",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/14/1/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 232,
+      "no": 231,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 14,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "14. posiedzenie Sejmu RP w dniach 26, 27 i 28 czerwca 2024 r.",
+      "topic": "Wniosek o przerwę",
+      "totalVoted": 420,
+      "votingNumber": 1,
+      "yes": 188
+    },
+    {
+      "abstain": 0,
+      "date": "2024-06-26T10:35:31",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/14/2/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 232,
+      "no": 231,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 14,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "14. posiedzenie Sejmu RP w dniach 26, 27 i 28 czerwca 2024 r.",
+      "topic": "wniosek o odroczenie posiedzenia",
+      "totalVoted": 420,
+      "votingNumber": 2,
+      "yes": 189
+    },
+    {
+      "abstain": 1,
+      "date": "2024-06-26T15:07:33",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/14/3/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 219,
+      "no": 218,
+      "notParticipating": 49,
+      "present": 0,
+      "sitting": 14,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "14. posiedzenie Sejmu RP w dniach 26, 27 i 28 czerwca 2024 r.",
+      "topic": "Wniosek o przerwę",
+      "totalVoted": 406,
+      "votingNumber": 3,
+      "yes": 187
+    },
+    {
+      "abstain": 5,
+      "date": "2024-06-26T15:11:53",
+      "description": "wniosek z druku nr 488",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/14/4/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 41,
+      "present": 0,
+      "sitting": 14,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 4 Zmiany w składach osobowych komisji sejmowych (druk nr 488)",
+      "topic": "głosowanie nad przyjęciem wniosku z druku.",
+      "totalVoted": 414,
+      "votingNumber": 4,
+      "yes": 409
+    },
+    {
+      "abstain": 0,
+      "date": "2024-06-28T09:19:41",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/14/5/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 241,
+      "no": 240,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 14,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "14. posiedzenie Sejmu RP w dniach 26, 27 i 28 czerwca 2024 r.",
+      "topic": "Wniosek o przerwę",
+      "totalVoted": 434,
+      "votingNumber": 5,
+      "yes": 194
+    },
+    {
+      "abstain": 47,
+      "date": "2024-06-28T09:28:45",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/14/6/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 45,
+      "no": 44,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 14,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy - Kodeks karny (druki nr 209 i 247)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 426,
+      "votingNumber": 6,
+      "yes": 335
+    },
+    {
+      "abstain": 18,
+      "date": "2024-06-28T09:31:36",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/14/7/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 18,
+      "present": 0,
+      "sitting": 14,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o zapewnianiu dostępności osobom ze szczególnymi potrzebami (druki nr 430, 468 i 468-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 440,
+      "votingNumber": 7,
+      "yes": 422
+    },
+    {
+      "abstain": 13,
+      "date": "2024-06-28T09:35:36",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/14/8/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 418,
+      "no": 417,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 14,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 6 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o prawie autorskim i prawach pokrewnych oraz niektórych innych ustaw (druki nr 406, 467 i 467-A)",
+      "topic": "wniosek mniejszości 1",
+      "totalVoted": 435,
+      "votingNumber": 8,
+      "yes": 5
+    },
+    {
+      "abstain": 28,
+      "date": "2024-06-28T09:36:09",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/14/9/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 228,
+      "no": 227,
+      "notParticipating": 21,
+      "present": 0,
+      "sitting": 14,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 6 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o prawie autorskim i prawach pokrewnych oraz niektórych innych ustaw (druki nr 406, 467 i 467-A)",
+      "topic": "wniosek mniejszości 2",
+      "totalVoted": 437,
+      "votingNumber": 9,
+      "yes": 182
+    },
+    {
+      "abstain": 150,
+      "date": "2024-06-28T09:36:48",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/14/10/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 211,
+      "no": 210,
+      "notParticipating": 44,
+      "present": 0,
+      "sitting": 14,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 6 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o prawie autorskim i prawach pokrewnych oraz niektórych innych ustaw (druki nr 406, 467 i 467-A)",
+      "topic": "poprawka 2",
+      "totalVoted": 414,
+      "votingNumber": 10,
+      "yes": 54
+    },
+    {
+      "abstain": 1,
+      "date": "2024-06-28T09:37:19",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/14/11/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 207,
+      "no": 206,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 14,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 6 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o prawie autorskim i prawach pokrewnych oraz niektórych innych ustaw (druki nr 406, 467 i 467-A)",
+      "topic": "poprawka 3",
+      "totalVoted": 434,
+      "votingNumber": 11,
+      "yes": 227
+    },
+    {
+      "abstain": 32,
+      "date": "2024-06-28T09:38:00",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/14/12/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 213,
+      "no": 212,
+      "notParticipating": 20,
+      "present": 0,
+      "sitting": 14,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 6 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o prawie autorskim i prawach pokrewnych oraz niektórych innych ustaw (druki nr 406, 467 i 467-A)",
+      "topic": "poprawka 4",
+      "totalVoted": 438,
+      "votingNumber": 12,
+      "yes": 194
+    },
+    {
+      "abstain": 1,
+      "date": "2024-06-28T09:38:36",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/14/13/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 250,
+      "no": 249,
+      "notParticipating": 22,
+      "present": 0,
+      "sitting": 14,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 6 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o prawie autorskim i prawach pokrewnych oraz niektórych innych ustaw (druki nr 406, 467 i 467-A)",
+      "topic": "poprawka 5",
+      "totalVoted": 436,
+      "votingNumber": 13,
+      "yes": 186
+    },
+    {
+      "abstain": 1,
+      "date": "2024-06-28T09:39:18",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/14/14/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 201,
+      "no": 200,
+      "notParticipating": 19,
+      "present": 0,
+      "sitting": 14,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 6 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o prawie autorskim i prawach pokrewnych oraz niektórych innych ustaw (druki nr 406, 467 i 467-A)",
+      "topic": "poprawka 6",
+      "totalVoted": 439,
+      "votingNumber": 14,
+      "yes": 238
+    },
+    {
+      "abstain": 2,
+      "date": "2024-06-28T09:41:23",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/14/15/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 225,
+      "no": 224,
+      "notParticipating": 21,
+      "present": 0,
+      "sitting": 14,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 6 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o prawie autorskim i prawach pokrewnych oraz niektórych innych ustaw (druki nr 406, 467 i 467-A)",
+      "topic": "poprawka 8",
+      "totalVoted": 437,
+      "votingNumber": 15,
+      "yes": 211
+    },
+    {
+      "abstain": 1,
+      "date": "2024-06-28T09:41:58",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/14/16/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 228,
+      "no": 227,
+      "notParticipating": 19,
+      "present": 0,
+      "sitting": 14,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 6 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o prawie autorskim i prawach pokrewnych oraz niektórych innych ustaw (druki nr 406, 467 i 467-A)",
+      "topic": "poprawka 9",
+      "totalVoted": 439,
+      "votingNumber": 16,
+      "yes": 211
+    },
+    {
+      "abstain": 2,
+      "date": "2024-06-28T09:42:29",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/14/17/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 227,
+      "no": 226,
+      "notParticipating": 21,
+      "present": 0,
+      "sitting": 14,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 6 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o prawie autorskim i prawach pokrewnych oraz niektórych innych ustaw (druki nr 406, 467 i 467-A)",
+      "topic": "poprawka 10",
+      "totalVoted": 437,
+      "votingNumber": 17,
+      "yes": 209
+    },
+    {
+      "abstain": 1,
+      "date": "2024-06-28T09:43:02",
+      "description": "całość projektu ustawy ",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/14/18/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 19,
+      "no": 18,
+      "notParticipating": 22,
+      "present": 0,
+      "sitting": 14,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 6 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o prawie autorskim i prawach pokrewnych oraz niektórych innych ustaw (druki nr 406, 467 i 467-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 436,
+      "votingNumber": 18,
+      "yes": 417
+    },
+    {
+      "abstain": 8,
+      "date": "2024-06-28T09:46:02",
+      "description": "wniosek o odrzucenie projektu ustawy w pierwszym czytaniu",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/14/19/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 191,
+      "no": 190,
+      "notParticipating": 28,
+      "present": 0,
+      "sitting": 14,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 7 Pierwsze czytanie poselskiego projektu ustawy o zmianie ustawy o podatku od czynności cywilnoprawnych (druki nr 419 i 419-A)",
+      "topic": "wniosek o odrzucenie w całości projektu.",
+      "totalVoted": 430,
+      "votingNumber": 19,
+      "yes": 232
+    },
+    {
+      "abstain": 3,
+      "date": "2024-06-28T09:47:03",
+      "description": "wniosek o odrzucenie projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/14/20/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 255,
+      "no": 254,
+      "notParticipating": 19,
+      "present": 0,
+      "sitting": 14,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 11 Pierwsze czytanie poselskiego projektu ustawy o zmianie ustawy - Kodeks postępowania karnego (druk nr 409)",
+      "topic": "wniosek o odrzucenie w całości projektu.",
+      "totalVoted": 439,
+      "votingNumber": 20,
+      "yes": 182
+    },
+    {
+      "abstain": 2,
+      "date": "2024-06-28T09:48:14",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/14/21/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 18,
+      "no": 17,
+      "notParticipating": 20,
+      "present": 0,
+      "sitting": 14,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 12 Sprawozdanie Komisji o rządowym projekcie ustawy o ratyfikacji Umowy o partnerstwie między Unią Europejską i jej państwami członkowskimi, z jednej strony, a członkami Organizacji Państw Afryki, Karaibów i Pacyfiku, z drugiej strony, sporządzonej w Apii dnia 15 listopada 2023 r. (druki nr 348 i 428)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 438,
+      "votingNumber": 21,
+      "yes": 419
+    },
+    {
+      "abstain": 18,
+      "date": "2024-06-28T09:49:19",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/14/22/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 22,
+      "present": 0,
+      "sitting": 14,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 13 Sprawozdanie Komisji o rządowym projekcie ustawy o ratyfikacji Zaawansowanej umowy ramowej między Unią Europejską i jej państwami członkowskimi, z jednej strony, a Republiką Chile, z drugiej strony, sporządzonej w Brukseli dnia 13 grudnia 2023 r. (druki nr 420 i 429)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 436,
+      "votingNumber": 22,
+      "yes": 418
+    },
+    {
+      "abstain": 0,
+      "date": "2024-06-28T09:50:25",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/14/23/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 19,
+      "no": 18,
+      "notParticipating": 19,
+      "present": 0,
+      "sitting": 14,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o ratyfikacji Umowy między Rządem Rzeczypospolitej Polskiej a Organizacją Narodów Zjednoczonych w sprawie utworzenia Przedstawicielstwa Biura Narodów Zjednoczonych do spraw Obsługi Projektów w Warszawie, podpisanej w Nowym Jorku dnia 21 września 2023 r. (druki nr 276 i 456)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 439,
+      "votingNumber": 23,
+      "yes": 421
+    },
+    {
+      "abstain": 9,
+      "date": "2024-06-28T09:51:29",
+      "description": "całość projektu uchwały",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/14/24/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 192,
+      "no": 191,
+      "notParticipating": 18,
+      "present": 0,
+      "sitting": 14,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 15 Sprawozdanie Komisji o przedstawionym przez Prezydium Sejmu projekcie uchwały w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej (druki nr 446 i 495)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 440,
+      "votingNumber": 24,
+      "yes": 240
+    },
+    {
+      "abstain": 7,
+      "date": "2024-06-28T09:56:47",
+      "description": "wniosek o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej posła Michała Piotra Wosia",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/14/25/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_STATUTORY_MAJORITY",
+      "majorityVotes": 231,
+      "no": 192,
+      "notParticipating": 19,
+      "present": 0,
+      "sitting": 14,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 16 Sprawozdanie Komisji w sprawie wniosku Prokuratora Krajowego z dnia 28 maja 2024 r. o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej posła Michała Piotra Wosia (druk nr 484)",
+      "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła Michała Piotra Wosia",
+      "totalVoted": 439,
+      "votingNumber": 25,
+      "yes": 240
+    },
+    {
+      "abstain": 5,
+      "date": "2024-06-28T09:58:44",
+      "description": "wniosek o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej poseł Anity Kucharskiej-Dziedzic",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/14/26/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_STATUTORY_MAJORITY",
+      "majorityVotes": 231,
+      "no": 257,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 14,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 17 Sprawozdanie Komisji w sprawie wniosku Komendanta Głównego Policji z dnia 10 października 2022 r. o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej za wykroczenie poseł Anity Kucharskiej-Dziedzic (druk nr 411)",
+      "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej poseł Anity Kucharskiej-Dziedzic",
+      "totalVoted": 434,
+      "votingNumber": 26,
+      "yes": 172
+    },
+    {
+      "abstain": 13,
+      "date": "2024-06-28T10:02:07",
+      "description": "wniosek o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej Prezesa Najwyższej Izby Kontroli Mariana Banasia",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/14/27/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_STATUTORY_MAJORITY",
+      "majorityVotes": 231,
+      "no": 165,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 14,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji w sprawie wniosku Głównego Inspektora Transportu Drogowego z dnia 20 maja 2022 r. o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej za wykroczenie Prezesa Najwyższej Izby Kontroli Mariana Banasia (druk nr 461)",
+      "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej Prezesa Najwyższej Izby Kontroli Mariana Banasia",
+      "totalVoted": 434,
+      "votingNumber": 27,
+      "yes": 256
+    },
+    {
+      "abstain": 11,
+      "date": "2024-06-28T10:04:12",
+      "description": "wniosek o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej poseł Katarzyny Lubnauer",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/14/28/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_STATUTORY_MAJORITY",
+      "majorityVotes": 231,
+      "no": 250,
+      "notParticipating": 19,
+      "present": 0,
+      "sitting": 14,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 21 Sprawozdanie Komisji w sprawie wniosku oskarżyciela prywatnego Łukasza Konrada Piebiaka z dnia 17 lutego 2021 r. przedłożonego przez adwokata Krzysztofa Wąsowskiego, uzupełnionego w dniu 1 kwietnia 2021 r., o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej poseł Katarzyny Lubnauer (druk nr 462)",
+      "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej poseł Katarzyny Lubnauer",
+      "totalVoted": 439,
+      "votingNumber": 28,
+      "yes": 178
+    },
+    {
+      "abstain": 2,
+      "date": "2024-06-28T10:05:46",
+      "description": "wniosek o odrzucenie projektu ustawy w pierwszym czytaniu",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/14/29/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 219,
+      "no": 218,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 14,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 22 Pierwsze czytanie poselskiego projektu ustawy o zmianie ustawy o ograniczeniu handlu w niedziele i święta oraz w niektóre inne dni oraz ustawy - Kodeks pracy (druk nr 384) - kontynuacja",
+      "topic": "wniosek o odrzucenie w całości projektu.",
+      "totalVoted": 429,
+      "votingNumber": 29,
+      "yes": 209
+    },
+    {
+      "abstain": 15,
+      "date": "2024-06-28T10:07:56",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/14/30/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 185,
+      "no": 184,
+      "notParticipating": 20,
+      "present": 0,
+      "sitting": 14,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 26 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw (druki nr 472, 491 i 491-A)",
+      "topic": "poprawka 1",
+      "totalVoted": 438,
+      "votingNumber": 30,
+      "yes": 239
+    },
+    {
+      "abstain": 15,
+      "date": "2024-06-28T10:08:39",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/14/31/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 181,
+      "no": 180,
+      "notParticipating": 25,
+      "present": 0,
+      "sitting": 14,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 26 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw (druki nr 472, 491 i 491-A)",
+      "topic": "poprawki nr 2-3, 6-8 oraz 10-13",
+      "totalVoted": 433,
+      "votingNumber": 31,
+      "yes": 238
+    },
+    {
+      "abstain": 18,
+      "date": "2024-06-28T10:11:40",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/14/33/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 183,
+      "no": 182,
+      "notParticipating": 19,
+      "present": 0,
+      "sitting": 14,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "14. posiedzenie Sejmu RP w dniach 26, 27 i 28 czerwca 2024 r.",
+      "topic": "poprawki nr 4-5",
+      "totalVoted": 439,
+      "votingNumber": 33,
+      "yes": 239
+    },
+    {
+      "abstain": 0,
+      "date": "2024-06-28T10:12:20",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/14/34/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 199,
+      "no": 198,
+      "notParticipating": 22,
+      "present": 0,
+      "sitting": 14,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 26 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw (druki nr 472, 491 i 491-A)",
+      "topic": "poprawka 9",
+      "totalVoted": 436,
+      "votingNumber": 34,
+      "yes": 238
+    },
+    {
+      "abstain": 1,
+      "date": "2024-06-28T10:12:54",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/14/35/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 198,
+      "no": 197,
+      "notParticipating": 20,
+      "present": 0,
+      "sitting": 14,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 26 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw (druki nr 472, 491 i 491-A)",
+      "topic": "poprawka 14",
+      "totalVoted": 438,
+      "votingNumber": 35,
+      "yes": 240
+    },
+    {
+      "abstain": 0,
+      "date": "2024-06-28T10:15:27",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/14/36/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 200,
+      "no": 199,
+      "notParticipating": 21,
+      "present": 0,
+      "sitting": 14,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 26 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw (druki nr 472, 491 i 491-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 437,
+      "votingNumber": 36,
+      "yes": 238
+    },
+    {
+      "abstain": 0,
+      "date": "2024-06-28T10:19:42",
+      "description": "wniosek z druku nr 502",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/14/37/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 217,
+      "no": 181,
+      "notParticipating": 25,
+      "present": 0,
+      "sitting": 14,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 27 Wybór uzupełniający do składu osobowego Komisji Śledczej do zbadania legalności, prawidłowości oraz celowości działań podjętych w celu przygotowania i przeprowadzenia wyborów Prezydenta Rzeczypospolitej Polskiej w 2020 roku w formie głosowania korespondencyjnego (druk nr 502)",
+      "topic": "głosowanie nad przyjęciem wniosku z druku.",
+      "totalVoted": 433,
+      "votingNumber": 37,
+      "yes": 252
+    },
+    {
+      "abstain": 0,
+      "againstAll": 15,
+      "date": "2024-06-28T10:36:42",
+      "description": "wybór uzupełniający posła członka Krajowej Rady Sądownictwa",
+      "kind": "ON_LIST",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/14/38/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 216,
+      "no": 0,
+      "notParticipating": 27,
+      "present": 0,
+      "sitting": 14,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Wybór uzupełniający posła członka Krajowej Rady Sądownictwa (druki nr 465, 466, 489 i 490)",
+      "topic": "Wybór uzupełniający posła członka Krajowej Rady Sądownictwa",
+      "totalVoted": 431,
+      "votingNumber": 38,
+      "votingOptions": [
+        {
+          "option": "SMOLIŃSKI KAZIMIERZ",
+          "optionIndex": 1,
+          "votes": 181
+        },
+        {
+          "option": "URBANIAK JAROSŁAW",
+          "optionIndex": 2,
+          "votes": 235
+        }
+      ],
+      "yes": 0
+    },
+    {
+      "abstain": 5,
+      "date": "2024-06-28T10:38:30",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/14/39/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 227,
+      "no": 226,
+      "notParticipating": 28,
+      "present": 0,
+      "sitting": 14,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Rozstrzygnięcie przez Sejm wniosku o uzupełnienie porządku dziennego o punkt: Informacja Ministra Klimatu i Środowiska w sprawie przekroczenia przez niego uprawnień w zakresie ograniczenia i wyłączenia z gospodarki leśnej wybranych obszarów będących w zarządzie Państwowego Gospodarstwa Leśnego Lasy Państwowe oraz podejmowania prób ograniczeń w zakresie prowadzenia gospodarki łowieckiej przez myśliwych zrzeszonych w Polskim Związku Łowieckim",
+      "topic": "wniosek o uzupełnienie porządku dziennego.",
+      "totalVoted": 430,
+      "votingNumber": 39,
+      "yes": 199
+    },
+    {
+      "abstain": 7,
+      "date": "2024-06-28T10:39:22",
+      "description": "wniosek z druku nr 501",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/14/40/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 2,
+      "no": 1,
+      "notParticipating": 38,
+      "present": 0,
+      "sitting": 14,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 28 Zmiany w składach osobowych komisji sejmowych (druk nr 501)",
+      "topic": "głosowanie nad przyjęciem wniosku z druku.",
+      "totalVoted": 420,
+      "votingNumber": 40,
+      "yes": 412
+    }
+  ],
+  "_pobrano": "2026-03-24T10:36:15Z"
+}

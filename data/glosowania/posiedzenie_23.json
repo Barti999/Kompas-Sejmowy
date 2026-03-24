@@ -1,0 +1,908 @@
+{
+  "posiedzenie": 23,
+  "data": "",
+  "tytul": "23. Posiedzenie Sejmu RP w dniach 4 i 5 grudnia 2024 r.",
+  "glosowania": [
+    {
+      "abstain": 0,
+      "date": "2024-12-04T10:08:40",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/23/1/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 21,
+      "no": 20,
+      "notParticipating": 39,
+      "present": 0,
+      "sitting": 23,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Druk nr 856 - wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu",
+      "topic": "Wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie sprawozdania z druku nr 856.",
+      "totalVoted": 421,
+      "votingNumber": 1,
+      "yes": 401
+    },
+    {
+      "abstain": 13,
+      "date": "2024-12-05T17:41:05",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/23/2/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 237,
+      "no": 236,
+      "notParticipating": 17,
+      "present": 0,
+      "sitting": 23,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "23. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 4 i 5 grudnia 2024 r.",
+      "topic": "Wniosek o przerwę",
+      "totalVoted": 443,
+      "votingNumber": 2,
+      "yes": 194
+    },
+    {
+      "abstain": 0,
+      "date": "2024-12-05T17:47:05",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/23/3/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 16,
+      "present": 0,
+      "sitting": 23,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 10 Sprawozdanie Komisji o rządowym projekcie ustawy o wypowiedzeniu Porozumienia o zdolności prawnej, przywilejach i immunitetach Międzynarodowej Organizacji Łączności Kosmicznej \"Intersputnik\", sporządzonego w Berlinie dnia 20 września 1976 r. (druki nr 745 i 779)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 444,
+      "votingNumber": 3,
+      "yes": 444
+    },
+    {
+      "abstain": 0,
+      "date": "2024-12-05T17:48:24",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/23/4/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 18,
+      "present": 0,
+      "sitting": 23,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 11 Sprawozdanie Komisji o rządowym projekcie ustawy o wypowiedzeniu Porozumienia o utworzeniu międzynarodowego systemu i organizacji łączności kosmicznej \"Intersputnik\", sporządzonego w Moskwie dnia 15 listopada 1971 r., zmienionego Protokołem o wprowadzeniu zmian do Porozumienia sporządzonego w Moskwie dnia 15 listopada 1971 r. o utworzeniu międzynarodowego systemu i organizacji łączności kosmicznej \"Intersputnik\", przyjętym podczas XXV Jubileuszowej Sesji Rady INTERSPUTNIK w Moskwie dnia 30 listopada 1996 r. (druki nr 746 i 780)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 442,
+      "votingNumber": 4,
+      "yes": 442
+    },
+    {
+      "abstain": 16,
+      "date": "2024-12-05T17:49:40",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/23/5/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 3,
+      "no": 2,
+      "notParticipating": 16,
+      "present": 0,
+      "sitting": 23,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o ratyfikacji Porozumienia w sprawie Środkowoeuropejskiego Programu Wymiany Uniwersyteckiej (\"CEEPUS IV\"), podpisanego w Warszawie dnia 20 września 2023 r. (druki nr 747 i 792)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 444,
+      "votingNumber": 5,
+      "yes": 426
+    },
+    {
+      "abstain": 19,
+      "date": "2024-12-05T17:51:54",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/23/6/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 188,
+      "no": 187,
+      "notParticipating": 20,
+      "present": 0,
+      "sitting": 23,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy - Prawo lotnicze (druki nr 573, 843 i 843-A)",
+      "topic": "poprawki nr 1-2",
+      "totalVoted": 440,
+      "votingNumber": 6,
+      "yes": 234
+    },
+    {
+      "abstain": 1,
+      "date": "2024-12-05T17:52:35",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/23/7/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 252,
+      "no": 251,
+      "notParticipating": 16,
+      "present": 0,
+      "sitting": 23,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy - Prawo lotnicze (druki nr 573, 843 i 843-A)",
+      "topic": "wniosek mniejszości 1",
+      "totalVoted": 444,
+      "votingNumber": 7,
+      "yes": 192
+    },
+    {
+      "abstain": 1,
+      "date": "2024-12-05T17:54:44",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/23/8/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 254,
+      "no": 253,
+      "notParticipating": 16,
+      "present": 0,
+      "sitting": 23,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy - Prawo lotnicze (druki nr 573, 843 i 843-A)",
+      "topic": "wniosek mniejszości 2",
+      "totalVoted": 444,
+      "votingNumber": 8,
+      "yes": 190
+    },
+    {
+      "abstain": 1,
+      "date": "2024-12-05T17:55:21",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/23/9/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 232,
+      "no": 231,
+      "notParticipating": 17,
+      "present": 0,
+      "sitting": 23,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy - Prawo lotnicze (druki nr 573, 843 i 843-A)",
+      "topic": "wniosek mniejszości 3",
+      "totalVoted": 443,
+      "votingNumber": 9,
+      "yes": 211
+    },
+    {
+      "abstain": 18,
+      "date": "2024-12-05T17:55:49",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/23/10/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 194,
+      "no": 193,
+      "notParticipating": 17,
+      "present": 0,
+      "sitting": 23,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy - Prawo lotnicze (druki nr 573, 843 i 843-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 443,
+      "votingNumber": 10,
+      "yes": 232
+    },
+    {
+      "abstain": 11,
+      "date": "2024-12-05T17:56:35",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/23/11/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 13,
+      "no": 12,
+      "notParticipating": 16,
+      "present": 0,
+      "sitting": 23,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 3 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw (druki nr 803 i 845)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 444,
+      "votingNumber": 11,
+      "yes": 421
+    },
+    {
+      "abstain": 1,
+      "date": "2024-12-05T17:57:24",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/23/12/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 17,
+      "present": 0,
+      "sitting": 23,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Funduszu Ochrony Rolnictwa oraz niektórych innych ustaw (druki nr 842 i 859)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 443,
+      "votingNumber": 12,
+      "yes": 442
+    },
+    {
+      "abstain": 19,
+      "date": "2024-12-05T17:58:27",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/23/13/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 17,
+      "present": 0,
+      "sitting": 23,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 5 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (druki nr 852 i 856)",
+      "topic": "wniosek o przystąpienie do trzeciego czytania bez kierowania projektu do komisji",
+      "totalVoted": 443,
+      "votingNumber": 13,
+      "yes": 424
+    },
+    {
+      "abstain": 0,
+      "date": "2024-12-05T17:59:24",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/23/14/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 232,
+      "no": 231,
+      "notParticipating": 15,
+      "present": 0,
+      "sitting": 23,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 5 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (druki nr 852 i 856)",
+      "topic": "poprawka 1",
+      "totalVoted": 445,
+      "votingNumber": 14,
+      "yes": 214
+    },
+    {
+      "abstain": 17,
+      "date": "2024-12-05T18:01:17",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/23/15/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 234,
+      "no": 233,
+      "notParticipating": 19,
+      "present": 0,
+      "sitting": 23,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 5 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (druki nr 852 i 856)",
+      "topic": "poprawka 2",
+      "totalVoted": 441,
+      "votingNumber": 15,
+      "yes": 191
+    },
+    {
+      "abstain": 1,
+      "date": "2024-12-05T18:01:48",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/23/16/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 231,
+      "no": 230,
+      "notParticipating": 20,
+      "present": 0,
+      "sitting": 23,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 5 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (druki nr 852 i 856)",
+      "topic": "poprawka 3",
+      "totalVoted": 440,
+      "votingNumber": 16,
+      "yes": 209
+    },
+    {
+      "abstain": 1,
+      "date": "2024-12-05T18:02:20",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/23/17/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 15,
+      "present": 0,
+      "sitting": 23,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 5 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (druki nr 852 i 856)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 445,
+      "votingNumber": 17,
+      "yes": 444
+    },
+    {
+      "abstain": 21,
+      "date": "2024-12-05T18:05:58",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/23/18/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 233,
+      "no": 232,
+      "notParticipating": 16,
+      "present": 0,
+      "sitting": 23,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 8 Sprawozdanie Komisji o rządowym projekcie ustawy zmieniającej ustawę o zmianie ustawy o prawie autorskim i prawach pokrewnych oraz ustawy o grach hazardowych (druki nr 840, 860 i 860-A)",
+      "topic": "poprawki nr 1-2",
+      "totalVoted": 444,
+      "votingNumber": 18,
+      "yes": 191
+    },
+    {
+      "abstain": 0,
+      "date": "2024-12-05T18:06:26",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/23/19/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 21,
+      "no": 20,
+      "notParticipating": 19,
+      "present": 0,
+      "sitting": 23,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 8 Sprawozdanie Komisji o rządowym projekcie ustawy zmieniającej ustawę o zmianie ustawy o prawie autorskim i prawach pokrewnych oraz ustawy o grach hazardowych (druki nr 840, 860 i 860-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 441,
+      "votingNumber": 19,
+      "yes": 421
+    },
+    {
+      "abstain": 0,
+      "date": "2024-12-05T18:07:13",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/23/20/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 20,
+      "no": 19,
+      "notParticipating": 17,
+      "present": 0,
+      "sitting": 23,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 9 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy o sporcie (druki nr 560 i 822)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 443,
+      "votingNumber": 20,
+      "yes": 424
+    },
+    {
+      "abstain": 17,
+      "date": "2024-12-05T18:09:03",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/23/21/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 223,
+      "no": 428,
+      "notParticipating": 15,
+      "present": 0,
+      "sitting": 23,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 15 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o ochronie ludności i obronie cywilnej (druki nr 854 i 869)",
+      "topic": "poprawki nr 1-2",
+      "totalVoted": 445,
+      "votingNumber": 21,
+      "yes": 0
+    },
+    {
+      "abstain": 8,
+      "date": "2024-12-05T18:09:39",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/23/22/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 223,
+      "no": 435,
+      "notParticipating": 15,
+      "present": 0,
+      "sitting": 23,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 15 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o ochronie ludności i obronie cywilnej (druki nr 854 i 869)",
+      "topic": "poprawka 3",
+      "totalVoted": 445,
+      "votingNumber": 22,
+      "yes": 2
+    },
+    {
+      "abstain": 0,
+      "date": "2024-12-05T18:10:38",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/23/23/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 224,
+      "no": 446,
+      "notParticipating": 14,
+      "present": 0,
+      "sitting": 23,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 15 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o ochronie ludności i obronie cywilnej (druki nr 854 i 869)",
+      "topic": "poprawki nr 4 i 22",
+      "totalVoted": 446,
+      "votingNumber": 23,
+      "yes": 0
+    },
+    {
+      "abstain": 0,
+      "date": "2024-12-05T18:11:19",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/23/24/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 224,
+      "no": 446,
+      "notParticipating": 14,
+      "present": 0,
+      "sitting": 23,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 15 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o ochronie ludności i obronie cywilnej (druki nr 854 i 869)",
+      "topic": "poprawki nr 5, 7 i 15",
+      "totalVoted": 446,
+      "votingNumber": 24,
+      "yes": 0
+    },
+    {
+      "abstain": 0,
+      "date": "2024-12-05T18:11:54",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/23/25/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 223,
+      "no": 444,
+      "notParticipating": 16,
+      "present": 0,
+      "sitting": 23,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 15 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o ochronie ludności i obronie cywilnej (druki nr 854 i 869)",
+      "topic": "poprawka 6",
+      "totalVoted": 444,
+      "votingNumber": 25,
+      "yes": 0
+    },
+    {
+      "abstain": 0,
+      "date": "2024-12-05T18:12:30",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/23/26/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 223,
+      "no": 444,
+      "notParticipating": 16,
+      "present": 0,
+      "sitting": 23,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 15 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o ochronie ludności i obronie cywilnej (druki nr 854 i 869)",
+      "topic": "poprawka 8",
+      "totalVoted": 444,
+      "votingNumber": 26,
+      "yes": 0
+    },
+    {
+      "abstain": 0,
+      "date": "2024-12-05T18:13:09",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/23/27/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 224,
+      "no": 446,
+      "notParticipating": 14,
+      "present": 0,
+      "sitting": 23,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 15 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o ochronie ludności i obronie cywilnej (druki nr 854 i 869)",
+      "topic": "poprawki nr 9 i 14",
+      "totalVoted": 446,
+      "votingNumber": 27,
+      "yes": 0
+    },
+    {
+      "abstain": 0,
+      "date": "2024-12-05T18:13:48",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/23/28/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 224,
+      "no": 446,
+      "notParticipating": 14,
+      "present": 0,
+      "sitting": 23,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 15 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o ochronie ludności i obronie cywilnej (druki nr 854 i 869)",
+      "topic": "poprawki nr 10-13 i 17",
+      "totalVoted": 446,
+      "votingNumber": 28,
+      "yes": 0
+    },
+    {
+      "abstain": 19,
+      "date": "2024-12-05T18:14:18",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/23/29/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 223,
+      "no": 426,
+      "notParticipating": 15,
+      "present": 0,
+      "sitting": 23,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 15 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o ochronie ludności i obronie cywilnej (druki nr 854 i 869)",
+      "topic": "poprawka 16",
+      "totalVoted": 445,
+      "votingNumber": 29,
+      "yes": 0
+    },
+    {
+      "abstain": 0,
+      "date": "2024-12-05T18:14:52",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/23/30/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 223,
+      "no": 445,
+      "notParticipating": 15,
+      "present": 0,
+      "sitting": 23,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 15 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o ochronie ludności i obronie cywilnej (druki nr 854 i 869)",
+      "topic": "poprawka 18",
+      "totalVoted": 445,
+      "votingNumber": 30,
+      "yes": 0
+    },
+    {
+      "abstain": 0,
+      "date": "2024-12-05T18:15:22",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/23/31/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 221,
+      "no": 441,
+      "notParticipating": 19,
+      "present": 0,
+      "sitting": 23,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 15 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o ochronie ludności i obronie cywilnej (druki nr 854 i 869)",
+      "topic": "poprawka 19",
+      "totalVoted": 441,
+      "votingNumber": 31,
+      "yes": 0
+    },
+    {
+      "abstain": 0,
+      "date": "2024-12-05T18:15:53",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/23/32/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 223,
+      "no": 445,
+      "notParticipating": 15,
+      "present": 0,
+      "sitting": 23,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 15 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o ochronie ludności i obronie cywilnej (druki nr 854 i 869)",
+      "topic": "poprawka 20",
+      "totalVoted": 445,
+      "votingNumber": 32,
+      "yes": 0
+    },
+    {
+      "abstain": 1,
+      "date": "2024-12-05T18:16:24",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/23/33/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 222,
+      "no": 442,
+      "notParticipating": 17,
+      "present": 0,
+      "sitting": 23,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 15 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o ochronie ludności i obronie cywilnej (druki nr 854 i 869)",
+      "topic": "poprawka 21",
+      "totalVoted": 443,
+      "votingNumber": 33,
+      "yes": 0
+    },
+    {
+      "abstain": 0,
+      "date": "2024-12-05T18:19:07",
+      "description": "wniosek o wyrażenie zgody na zatrzymanie i przymusowe doprowadzenie na posiedzenie Sejmowej Komisji Śledczej posła Zbigniewa Ziobry",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/23/34/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_STATUTORY_MAJORITY",
+      "majorityVotes": 231,
+      "no": 204,
+      "notParticipating": 15,
+      "present": 0,
+      "sitting": 23,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 13 Sprawozdanie Komisji w sprawie wniosku z dnia 7 listopada 2024 r. Komisji Śledczej do zbadania legalności, prawidłowości oraz celowości czynności operacyjno-rozpoznawczych podejmowanych m.in. z wykorzystaniem oprogramowania Pegasus przez członków Rady Ministrów, służby specjalne, Policję, organy kontroli skarbowej oraz celno-skarbowej, organy powołane do ścigania przestępstw i prokuraturę w okresie od dnia 16 listopada 2015 r. do dnia 20 listopada 2023 r. o wyrażenie przez Sejm zgody na zatrzymanie i przymusowe doprowadzenie na posiedzenie Sejmowej Komisji Śledczej posła Zbigniewa Ziobry (druk nr 870)",
+      "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na zatrzymanie i przymusowe doprowadzenie na posiedzenie sejmowej Komisji Śledczej posła Zbigniewa Ziobry",
+      "totalVoted": 445,
+      "votingNumber": 34,
+      "yes": 241
+    },
+    {
+      "abstain": 1,
+      "date": "2024-12-05T18:25:35",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/23/35/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 200,
+      "no": 199,
+      "notParticipating": 21,
+      "present": 0,
+      "sitting": 23,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "23. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 4 i 5 grudnia 2024 r.",
+      "topic": "ustalenie czasów debat",
+      "totalVoted": 439,
+      "votingNumber": 35,
+      "yes": 239
+    },
+    {
+      "abstain": 0,
+      "date": "2024-12-05T18:34:41",
+      "description": "wybór członka Rady Mediów Narodowych",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/23/36/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 130,
+      "no": 24,
+      "notParticipating": 202,
+      "present": 0,
+      "sitting": 23,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 16 Wybór członka Rady Mediów Narodowych (druki nr 778 i 817)",
+      "topic": "głosowanie nad kandydaturą Wojciecha Króla na stanowisko członka Rady Mediów Narodowych",
+      "totalVoted": 258,
+      "votingNumber": 36,
+      "yes": 234
+    },
+    {
+      "abstain": 1,
+      "date": "2024-12-05T18:35:42",
+      "description": "wniosek z druku nr 882",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/23/37/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 178,
+      "no": 177,
+      "notParticipating": 21,
+      "present": 0,
+      "sitting": 23,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 17 Zmiany w składach osobowych komisji sejmowych (druk nr 882)",
+      "topic": "głosowanie nad przyjęciem wniosku z druku.",
+      "totalVoted": 439,
+      "votingNumber": 37,
+      "yes": 261
+    }
+  ],
+  "_pobrano": "2026-03-24T10:36:19Z"
+}

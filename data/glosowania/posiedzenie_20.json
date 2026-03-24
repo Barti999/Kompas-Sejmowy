@@ -1,0 +1,908 @@
+{
+  "posiedzenie": 20,
+  "data": "",
+  "tytul": "20. Posiedzenie Sejmu RP w dniach 16, 17 i 18 października 2024 r.",
+  "glosowania": [
+    {
+      "abstain": 1,
+      "date": "2024-10-16T11:06:34",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/20/1/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 20,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "20. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 16, 17 i 18 października 2024 r.",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu",
+      "totalVoted": 425,
+      "votingNumber": 1,
+      "yes": 424
+    },
+    {
+      "abstain": 1,
+      "date": "2024-10-16T11:39:15",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/20/2/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 230,
+      "no": 229,
+      "notParticipating": 64,
+      "present": 0,
+      "sitting": 20,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "20. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 16, 17 i 18 października 2024 r.",
+      "topic": "Wniosek o przerwę",
+      "totalVoted": 395,
+      "votingNumber": 2,
+      "yes": 165
+    },
+    {
+      "abstain": 3,
+      "date": "2024-10-16T11:49:04",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/20/3/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 230,
+      "no": 229,
+      "notParticipating": 45,
+      "present": 0,
+      "sitting": 20,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "20. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 16, 17 i 18 października 2024 r.",
+      "topic": "wniosek o odroczenie posiedzenia",
+      "totalVoted": 414,
+      "votingNumber": 3,
+      "yes": 182
+    },
+    {
+      "abstain": 236,
+      "date": "2024-10-16T11:52:30",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/20/4/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 39,
+      "no": 38,
+      "notParticipating": 40,
+      "present": 0,
+      "sitting": 20,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "20. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 16, 17 i 18 października 2024 r.",
+      "topic": "wniosek o stwierdzenie kworum",
+      "totalVoted": 419,
+      "votingNumber": 4,
+      "yes": 145
+    },
+    {
+      "abstain": 2,
+      "date": "2024-10-18T09:08:20",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/20/5/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 20,
+      "no": 19,
+      "notParticipating": 40,
+      "present": 0,
+      "sitting": 20,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Głosowanie proceduralne",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 37 ust. 4 regulaminu Sejmu w sprawie przedłożenia z druku nr 737",
+      "totalVoted": 419,
+      "votingNumber": 5,
+      "yes": 398
+    },
+    {
+      "abstain": 6,
+      "date": "2024-10-18T09:17:21",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/20/6/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 228,
+      "no": 227,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 20,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "20. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 16, 17 i 18 października 2024 r.",
+      "topic": "Wniosek o przerwę",
+      "totalVoted": 425,
+      "votingNumber": 6,
+      "yes": 192
+    },
+    {
+      "abstain": 0,
+      "date": "2024-10-18T09:22:03",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/20/7/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 230,
+      "no": 0,
+      "notParticipating": 32,
+      "present": 427,
+      "sitting": 20,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "20. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 16, 17 i 18 października 2024 r.",
+      "topic": "Głosowanie kworum",
+      "totalVoted": 427,
+      "votingNumber": 7,
+      "yes": 0
+    },
+    {
+      "abstain": 1,
+      "date": "2024-10-18T09:26:23",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/20/8/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 17,
+      "no": 16,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 20,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o świadczeniu honorowym z tytułu ukończenia 100 lat życia (druki nr 607 i 709)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 425,
+      "votingNumber": 8,
+      "yes": 408
+    },
+    {
+      "abstain": 16,
+      "date": "2024-10-18T09:27:11",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/20/9/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 179,
+      "no": 178,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 20,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 5 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie niektórych ustaw związanych z udzielaniem pomocy de minimis (druki nr 600 i 697)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 427,
+      "votingNumber": 9,
+      "yes": 233
+    },
+    {
+      "abstain": 1,
+      "date": "2024-10-18T09:32:24",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/20/10/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 231,
+      "no": 230,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 20,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw (druki nr 656, 701 i 701-A)",
+      "topic": "poprawka 1",
+      "totalVoted": 429,
+      "votingNumber": 10,
+      "yes": 198
+    },
+    {
+      "abstain": 0,
+      "date": "2024-10-18T09:32:54",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/20/11/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 198,
+      "no": 197,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 20,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw (druki nr 656, 701 i 701-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 427,
+      "votingNumber": 11,
+      "yes": 230
+    },
+    {
+      "abstain": 1,
+      "date": "2024-10-18T09:35:11",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/20/12/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 406,
+      "no": 405,
+      "notParticipating": 31,
+      "present": 0,
+      "sitting": 20,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 3 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o działaniach antyterrorystycznych i ustawy o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (druki nr 661, 706 i 706-A)",
+      "topic": "poprawka 1",
+      "totalVoted": 428,
+      "votingNumber": 12,
+      "yes": 22
+    },
+    {
+      "abstain": 0,
+      "date": "2024-10-18T09:35:40",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/20/13/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 407,
+      "no": 406,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 20,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 3 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o działaniach antyterrorystycznych i ustawy o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (druki nr 661, 706 i 706-A)",
+      "topic": "poprawka 2",
+      "totalVoted": 426,
+      "votingNumber": 13,
+      "yes": 20
+    },
+    {
+      "abstain": 0,
+      "date": "2024-10-18T09:36:06",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/20/14/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 234,
+      "no": 233,
+      "notParticipating": 36,
+      "present": 0,
+      "sitting": 20,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 3 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o działaniach antyterrorystycznych i ustawy o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (druki nr 661, 706 i 706-A)",
+      "topic": "poprawka 3",
+      "totalVoted": 423,
+      "votingNumber": 14,
+      "yes": 190
+    },
+    {
+      "abstain": 0,
+      "date": "2024-10-18T09:37:17",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/20/15/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 230,
+      "no": 229,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 20,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 3 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o działaniach antyterrorystycznych i ustawy o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (druki nr 661, 706 i 706-A)",
+      "topic": "wniosek mniejszości 1",
+      "totalVoted": 427,
+      "votingNumber": 15,
+      "yes": 198
+    },
+    {
+      "abstain": 0,
+      "date": "2024-10-18T09:37:47",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/20/16/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 232,
+      "no": 231,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 20,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 3 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o działaniach antyterrorystycznych i ustawy o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (druki nr 661, 706 i 706-A)",
+      "topic": "poprawka 4",
+      "totalVoted": 425,
+      "votingNumber": 16,
+      "yes": 194
+    },
+    {
+      "abstain": 1,
+      "date": "2024-10-18T09:38:28",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/20/17/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 408,
+      "no": 407,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 20,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 3 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o działaniach antyterrorystycznych i ustawy o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (druki nr 661, 706 i 706-A)",
+      "topic": "poprawka 5",
+      "totalVoted": 429,
+      "votingNumber": 17,
+      "yes": 21
+    },
+    {
+      "abstain": 1,
+      "date": "2024-10-18T09:38:56",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/20/18/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 402,
+      "no": 401,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 20,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 3 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o działaniach antyterrorystycznych i ustawy o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (druki nr 661, 706 i 706-A)",
+      "topic": "poprawka 6",
+      "totalVoted": 425,
+      "votingNumber": 18,
+      "yes": 23
+    },
+    {
+      "abstain": 20,
+      "date": "2024-10-18T09:39:27",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/20/19/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 234,
+      "no": 233,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 20,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 3 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o działaniach antyterrorystycznych i ustawy o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (druki nr 661, 706 i 706-A)",
+      "topic": "wniosek mniejszości 2",
+      "totalVoted": 426,
+      "votingNumber": 19,
+      "yes": 173
+    },
+    {
+      "abstain": 0,
+      "date": "2024-10-18T09:40:02",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/20/20/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 199,
+      "no": 198,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 20,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 3 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o działaniach antyterrorystycznych i ustawy o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (druki nr 661, 706 i 706-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 429,
+      "votingNumber": 20,
+      "yes": 231
+    },
+    {
+      "abstain": 2,
+      "date": "2024-10-18T09:40:54",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/20/21/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 189,
+      "no": 188,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 20,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 13 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o podatku akcyzowym (druki nr 692 i 716)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 426,
+      "votingNumber": 21,
+      "yes": 236
+    },
+    {
+      "abstain": 1,
+      "date": "2024-10-18T09:43:36",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/20/22/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 18,
+      "no": 17,
+      "notParticipating": 36,
+      "present": 0,
+      "sitting": 20,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 23 Sprawozdanie Komisji o rządowym projekcie ustawy o udziale Rzeczypospolitej Polskiej w Systemie Wjazdu/Wyjazdu (druki nr 722, 732 i 732-A)",
+      "topic": "poprawka 1",
+      "totalVoted": 423,
+      "votingNumber": 22,
+      "yes": 405
+    },
+    {
+      "abstain": 0,
+      "date": "2024-10-18T09:44:09",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/20/23/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 3,
+      "no": 2,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 20,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 23 Sprawozdanie Komisji o rządowym projekcie ustawy o udziale Rzeczypospolitej Polskiej w Systemie Wjazdu/Wyjazdu (druki nr 722, 732 i 732-A)",
+      "topic": "poprawka 2",
+      "totalVoted": 426,
+      "votingNumber": 23,
+      "yes": 424
+    },
+    {
+      "abstain": 1,
+      "date": "2024-10-18T09:44:38",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/20/24/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 20,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 23 Sprawozdanie Komisji o rządowym projekcie ustawy o udziale Rzeczypospolitej Polskiej w Systemie Wjazdu/Wyjazdu (druki nr 722, 732 i 732-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 426,
+      "votingNumber": 24,
+      "yes": 425
+    },
+    {
+      "abstain": 10,
+      "date": "2024-10-18T09:46:18",
+      "description": "wniosek o wyrażenie przez Sejm zgody na pociągnięcie do odpowiedzialności karnej poseł Joanny Muchy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/20/25/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_STATUTORY_MAJORITY",
+      "majorityVotes": 231,
+      "no": 238,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 20,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 7 Sprawozdanie Komisji w sprawie wniosku Prokuratora Okręgowego w Warszawie z dnia 10 czerwca 2021 r. o wyrażenie zgody na pociągniecie do odpowiedzialności karnej poseł Joanny Muchy (druk nr 633)",
+      "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej poseł Joanny Muchy",
+      "totalVoted": 426,
+      "votingNumber": 25,
+      "yes": 178
+    },
+    {
+      "abstain": 12,
+      "date": "2024-10-18T09:48:14",
+      "description": "wniosek o wyrażenie przez Sejm zgody na pociągnięcie do odpowiedzialności karnej posła Marka Sowy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/20/26/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_STATUTORY_MAJORITY",
+      "majorityVotes": 231,
+      "no": 247,
+      "notParticipating": 36,
+      "present": 0,
+      "sitting": 20,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 8 Sprawozdanie Komisji w sprawie wniosku oskarżyciela prywatnego Macieja Lisowskiego reprezentowanego przez radcę prawnego Tomasza A. Kuśmierka z dnia 23 kwietnia 2024 r., uzupełnionego w dniu 14 czerwca 2024 r., o wyrażenie zgody na pociągniecie do odpowiedzialności karnej posła Marka Sowy (druk nr 631)",
+      "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła Marka Sowy",
+      "totalVoted": 423,
+      "votingNumber": 26,
+      "yes": 164
+    },
+    {
+      "abstain": 14,
+      "date": "2024-10-18T09:50:04",
+      "description": "wniosek o wyrażenie przez Sejm zgody na pociągnięcie do odpowiedzialności karnej posła Marka Sowy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/20/27/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_STATUTORY_MAJORITY",
+      "majorityVotes": 231,
+      "no": 247,
+      "notParticipating": 37,
+      "present": 0,
+      "sitting": 20,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 9 Sprawozdanie Komisji w sprawie wniosku oskarżyciela prywatnego Macieja Lisowskiego reprezentowanego przez radcę prawnego Tomasza A. Kuśmierka z dnia 27 czerwca 2024 r. o wyrażenie zgody na pociągniecie do odpowiedzialności karnej posła Marka Sowy (druk nr 632)",
+      "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła Marka Sowy",
+      "totalVoted": 422,
+      "votingNumber": 27,
+      "yes": 161
+    },
+    {
+      "abstain": 1,
+      "date": "2024-10-18T09:51:51",
+      "description": "wniosek o wyrażenie przez Sejm zgody na pociągnięcie do odpowiedzialności karnej posła Zbigniewa Dolaty",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/20/28/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_STATUTORY_MAJORITY",
+      "majorityVotes": 231,
+      "no": 425,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 20,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 10 Sprawozdanie Komisji w sprawie wniosku oskarżyciela prywatnego Piotra Gruszczyńskiego reprezentowanego przez adwokata Andrzeja Gozdowskiego z dnia 14 grudnia 2021 r., uzupełnionego w dniu 11 lutego 2022 r., o wyrażenie zgody na pociągniecie do odpowiedzialności karnej posła Zbigniewa Dolaty (druk nr 634)",
+      "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła Zbigniewa Dolaty",
+      "totalVoted": 426,
+      "votingNumber": 28,
+      "yes": 0
+    },
+    {
+      "abstain": 0,
+      "date": "2024-10-18T09:54:40",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/20/29/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 216,
+      "no": 198,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 20,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 17 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o podatku dochodowym od osób fizycznych oraz niektórych innych ustaw (druki nr 713 i 724)",
+      "topic": "poprawka 1",
+      "totalVoted": 430,
+      "votingNumber": 29,
+      "yes": 232
+    },
+    {
+      "abstain": 0,
+      "date": "2024-10-18T09:55:24",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/20/30/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 215,
+      "no": 198,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 20,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 17 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o podatku dochodowym od osób fizycznych oraz niektórych innych ustaw (druki nr 713 i 724)",
+      "topic": "poprawka 2",
+      "totalVoted": 429,
+      "votingNumber": 30,
+      "yes": 231
+    },
+    {
+      "abstain": 0,
+      "date": "2024-10-18T09:57:37",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/20/31/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 215,
+      "no": 230,
+      "notParticipating": 31,
+      "present": 0,
+      "sitting": 20,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 18 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o udostępnianiu informacji gospodarczych i wymianie danych gospodarczych (druki nr 721 i 725)",
+      "topic": "poprawka 1",
+      "totalVoted": 428,
+      "votingNumber": 31,
+      "yes": 198
+    },
+    {
+      "abstain": 0,
+      "date": "2024-10-18T09:58:20",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/20/32/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 215,
+      "no": 252,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 20,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 18 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o udostępnianiu informacji gospodarczych i wymianie danych gospodarczych (druki nr 721 i 725)",
+      "topic": "poprawka 2",
+      "totalVoted": 429,
+      "votingNumber": 32,
+      "yes": 177
+    },
+    {
+      "abstain": 3,
+      "date": "2024-10-18T10:03:38",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/20/33/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 199,
+      "no": 198,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 20,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "20. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 16, 17 i 18 października 2024 r.",
+      "topic": "ustalenie czasów debat",
+      "totalVoted": 427,
+      "votingNumber": 33,
+      "yes": 226
+    },
+    {
+      "abstain": 10,
+      "date": "2024-10-18T10:08:18",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/20/34/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 31,
+      "no": 30,
+      "notParticipating": 36,
+      "present": 0,
+      "sitting": 20,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 24 Pierwsze czytanie przedstawionego przez Prezydium Sejmu projektu uchwały w sprawie powołania i wyboru składu osobowego Komisji Nadzwyczajnej do spraw ochrony zwierząt (druk nr 737)",
+      "topic": "wniosek o przystąpienie do drugiego czytania  bez kierowania projektu do komisji",
+      "totalVoted": 423,
+      "votingNumber": 34,
+      "yes": 383
+    },
+    {
+      "abstain": 2,
+      "date": "2024-10-18T10:09:09",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/20/35/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 199,
+      "no": 198,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 20,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "20. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 16, 17 i 18 października 2024 r.",
+      "topic": "ustalenie czasów debat",
+      "totalVoted": 425,
+      "votingNumber": 35,
+      "yes": 225
+    },
+    {
+      "abstain": 9,
+      "date": "2024-10-18T10:11:44",
+      "description": "całość projektu uchwały",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/20/36/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 29,
+      "no": 28,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 20,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 24 Pierwsze czytanie przedstawionego przez Prezydium Sejmu projektu uchwały w sprawie powołania i wyboru składu osobowego Komisji Nadzwyczajnej do spraw ochrony zwierząt (druk nr 737)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 425,
+      "votingNumber": 36,
+      "yes": 388
+    },
+    {
+      "abstain": 3,
+      "date": "2024-10-18T10:12:43",
+      "description": "wniosek z druku nr 735",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/20/37/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 37,
+      "present": 0,
+      "sitting": 20,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 20 Zmiany w składach osobowych komisji sejmowych (druk nr 735)",
+      "topic": "głosowanie nad przyjęciem wniosku z druku.",
+      "totalVoted": 422,
+      "votingNumber": 37,
+      "yes": 419
+    }
+  ],
+  "_pobrano": "2026-03-24T10:36:18Z"
+}

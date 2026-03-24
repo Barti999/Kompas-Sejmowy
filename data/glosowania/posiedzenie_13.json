@@ -1,0 +1,857 @@
+{
+  "posiedzenie": 13,
+  "data": "",
+  "tytul": "13. Posiedzenie Sejmu RP w dniach 12, 13 i 14 czerwca 2024 r.",
+  "glosowania": [
+    {
+      "abstain": 0,
+      "date": "2024-06-12T10:16:23",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/13/1/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 218,
+      "no": 217,
+      "notParticipating": 41,
+      "present": 0,
+      "sitting": 13,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "13. posiedzenie Sejmu RP w dniach 12, 13 i 14 czerwca 2024 r.",
+      "topic": "Wniosek o przerwę",
+      "totalVoted": 393,
+      "votingNumber": 1,
+      "yes": 176
+    },
+    {
+      "abstain": 21,
+      "date": "2024-06-14T09:19:26",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/13/2/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 234,
+      "no": 233,
+      "notParticipating": 25,
+      "present": 0,
+      "sitting": 13,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "13. posiedzenie Sejmu RP w dniach 12, 13 i 14 czerwca 2024 r.",
+      "topic": "Wniosek o przerwę",
+      "totalVoted": 409,
+      "votingNumber": 2,
+      "yes": 155
+    },
+    {
+      "abstain": 14,
+      "date": "2024-06-14T09:24:33",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/13/3/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 177,
+      "no": 176,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 13,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o szczególnych rozwiązaniach w związku z przygotowywaniem i sprawowaniem przez Rzeczpospolitą Polską przewodnictwa w Radzie Unii Europejskiej w I połowie 2025 roku (druki nr 347, 391 i 391-A)",
+      "topic": "poprawka 1",
+      "totalVoted": 411,
+      "votingNumber": 3,
+      "yes": 221
+    },
+    {
+      "abstain": 0,
+      "date": "2024-06-14T09:25:02",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/13/4/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 222,
+      "no": 221,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 13,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o szczególnych rozwiązaniach w związku z przygotowywaniem i sprawowaniem przez Rzeczpospolitą Polską przewodnictwa w Radzie Unii Europejskiej w I połowie 2025 roku (druki nr 347, 391 i 391-A)",
+      "topic": "wniosek mniejszości 1",
+      "totalVoted": 411,
+      "votingNumber": 4,
+      "yes": 190
+    },
+    {
+      "abstain": 0,
+      "date": "2024-06-14T09:25:30",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/13/5/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 4,
+      "no": 3,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 13,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o szczególnych rozwiązaniach w związku z przygotowywaniem i sprawowaniem przez Rzeczpospolitą Polską przewodnictwa w Radzie Unii Europejskiej w I połowie 2025 roku (druki nr 347, 391 i 391-A)",
+      "topic": "poprawka 2",
+      "totalVoted": 411,
+      "votingNumber": 5,
+      "yes": 408
+    },
+    {
+      "abstain": 0,
+      "date": "2024-06-14T09:26:01",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/13/6/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 190,
+      "no": 189,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 13,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o szczególnych rozwiązaniach w związku z przygotowywaniem i sprawowaniem przez Rzeczpospolitą Polską przewodnictwa w Radzie Unii Europejskiej w I połowie 2025 roku (druki nr 347, 391 i 391-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 411,
+      "votingNumber": 6,
+      "yes": 222
+    },
+    {
+      "abstain": 0,
+      "date": "2024-06-14T09:30:24",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/13/7/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 222,
+      "no": 221,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 13,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy - Kodeks wyborczy (druki nr 296, 392 i 392-A)",
+      "topic": "wniosek o odrzucenie w całości projektu.",
+      "totalVoted": 411,
+      "votingNumber": 7,
+      "yes": 190
+    },
+    {
+      "abstain": 15,
+      "date": "2024-06-14T09:31:13",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/13/8/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 176,
+      "no": 175,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 13,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy - Kodeks wyborczy (druki nr 296, 392 i 392-A)",
+      "topic": "poprawka 1",
+      "totalVoted": 411,
+      "votingNumber": 8,
+      "yes": 221
+    },
+    {
+      "abstain": 1,
+      "date": "2024-06-14T09:32:01",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/13/9/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 379,
+      "no": 378,
+      "notParticipating": 22,
+      "present": 0,
+      "sitting": 13,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy - Kodeks wyborczy (druki nr 296, 392 i 392-A)",
+      "topic": "poprawki nr 2-3 i 6",
+      "totalVoted": 412,
+      "votingNumber": 9,
+      "yes": 33
+    },
+    {
+      "abstain": 15,
+      "date": "2024-06-14T09:32:33",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/13/10/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 175,
+      "no": 174,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 13,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy - Kodeks wyborczy (druki nr 296, 392 i 392-A)",
+      "topic": "poprawka 4",
+      "totalVoted": 411,
+      "votingNumber": 10,
+      "yes": 222
+    },
+    {
+      "abstain": 15,
+      "date": "2024-06-14T09:33:02",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/13/11/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 177,
+      "no": 176,
+      "notParticipating": 22,
+      "present": 0,
+      "sitting": 13,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy - Kodeks wyborczy (druki nr 296, 392 i 392-A)",
+      "topic": "poprawka 5",
+      "totalVoted": 412,
+      "votingNumber": 11,
+      "yes": 221
+    },
+    {
+      "abstain": 0,
+      "date": "2024-06-14T09:33:32",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/13/12/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 177,
+      "no": 176,
+      "notParticipating": 22,
+      "present": 0,
+      "sitting": 13,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy - Kodeks wyborczy (druki nr 296, 392 i 392-A)",
+      "topic": "poprawka 7",
+      "totalVoted": 412,
+      "votingNumber": 12,
+      "yes": 236
+    },
+    {
+      "abstain": 0,
+      "date": "2024-06-14T09:33:59",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/13/13/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 171,
+      "no": 170,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 13,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy - Kodeks wyborczy (druki nr 296, 392 i 392-A)",
+      "topic": "poprawka 8",
+      "totalVoted": 408,
+      "votingNumber": 13,
+      "yes": 238
+    },
+    {
+      "abstain": 0,
+      "date": "2024-06-14T09:34:28",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/13/14/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 177,
+      "no": 176,
+      "notParticipating": 21,
+      "present": 0,
+      "sitting": 13,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy - Kodeks wyborczy (druki nr 296, 392 i 392-A)",
+      "topic": "poprawka 9",
+      "totalVoted": 413,
+      "votingNumber": 14,
+      "yes": 237
+    },
+    {
+      "abstain": 15,
+      "date": "2024-06-14T09:34:57",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/13/15/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 174,
+      "no": 173,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 13,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy - Kodeks wyborczy (druki nr 296, 392 i 392-A)",
+      "topic": "poprawka 10",
+      "totalVoted": 410,
+      "votingNumber": 15,
+      "yes": 222
+    },
+    {
+      "abstain": 0,
+      "date": "2024-06-14T09:35:27",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/13/16/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 175,
+      "no": 174,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 13,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy - Kodeks wyborczy (druki nr 296, 392 i 392-A)",
+      "topic": "poprawka 11",
+      "totalVoted": 410,
+      "votingNumber": 16,
+      "yes": 236
+    },
+    {
+      "abstain": 0,
+      "date": "2024-06-14T09:35:59",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/13/17/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 177,
+      "no": 176,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 13,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy - Kodeks wyborczy (druki nr 296, 392 i 392-A)",
+      "topic": "poprawka 12",
+      "totalVoted": 408,
+      "votingNumber": 17,
+      "yes": 232
+    },
+    {
+      "abstain": 15,
+      "date": "2024-06-14T09:36:29",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/13/18/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 179,
+      "no": 178,
+      "notParticipating": 22,
+      "present": 0,
+      "sitting": 13,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy - Kodeks wyborczy (druki nr 296, 392 i 392-A)",
+      "topic": "poprawka 13",
+      "totalVoted": 412,
+      "votingNumber": 18,
+      "yes": 219
+    },
+    {
+      "abstain": 15,
+      "date": "2024-06-14T09:36:59",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/13/19/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 175,
+      "no": 174,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 13,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy - Kodeks wyborczy (druki nr 296, 392 i 392-A)",
+      "topic": "poprawka 14",
+      "totalVoted": 410,
+      "votingNumber": 19,
+      "yes": 221
+    },
+    {
+      "abstain": 0,
+      "date": "2024-06-14T09:37:29",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/13/20/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 172,
+      "no": 171,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 13,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy - Kodeks wyborczy (druki nr 296, 392 i 392-A)",
+      "topic": "poprawka 15",
+      "totalVoted": 408,
+      "votingNumber": 20,
+      "yes": 237
+    },
+    {
+      "abstain": 0,
+      "date": "2024-06-14T09:37:59",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/13/21/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 175,
+      "no": 174,
+      "notParticipating": 27,
+      "present": 0,
+      "sitting": 13,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy - Kodeks wyborczy (druki nr 296, 392 i 392-A)",
+      "topic": "poprawka 16",
+      "totalVoted": 407,
+      "votingNumber": 21,
+      "yes": 233
+    },
+    {
+      "abstain": 0,
+      "date": "2024-06-14T09:38:28",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/13/22/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 173,
+      "no": 172,
+      "notParticipating": 27,
+      "present": 0,
+      "sitting": 13,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy - Kodeks wyborczy (druki nr 296, 392 i 392-A)",
+      "topic": "poprawka 17",
+      "totalVoted": 407,
+      "votingNumber": 22,
+      "yes": 235
+    },
+    {
+      "abstain": 1,
+      "date": "2024-06-14T09:39:07",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/13/23/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 358,
+      "no": 357,
+      "notParticipating": 21,
+      "present": 0,
+      "sitting": 13,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy - Kodeks wyborczy (druki nr 296, 392 i 392-A)",
+      "topic": "poprawki nr 18-19",
+      "totalVoted": 413,
+      "votingNumber": 23,
+      "yes": 55
+    },
+    {
+      "abstain": 1,
+      "date": "2024-06-14T09:39:42",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/13/24/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 8,
+      "no": 7,
+      "notParticipating": 203,
+      "present": 0,
+      "sitting": 13,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy - Kodeks wyborczy (druki nr 296, 392 i 392-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 231,
+      "votingNumber": 24,
+      "yes": 223
+    },
+    {
+      "abstain": 4,
+      "date": "2024-06-14T09:43:11",
+      "description": "Wniosek o niezwłoczne przystąpienie do drugiego czytania",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/13/25/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 400,
+      "no": 399,
+      "notParticipating": 22,
+      "present": 0,
+      "sitting": 13,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 3 Pierwsze czytanie przedstawionego przez Prezydenta Rzeczypospolitej Polskiej projektu ustawy o działaniach organów władzy państwowej na wypadek zewnętrznego zagrożenia bezpieczeństwa państwa (druk nr 405)",
+      "topic": "wniosek o niezwłoczne przystąpienie do drugiego czytania",
+      "totalVoted": 412,
+      "votingNumber": 25,
+      "yes": 9
+    },
+    {
+      "abstain": 0,
+      "date": "2024-06-14T09:44:15",
+      "description": "wniosek o odrzucenie projektu ustawy w pierwszym czytaniu",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/13/26/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 238,
+      "no": 237,
+      "notParticipating": 22,
+      "present": 0,
+      "sitting": 13,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 8 Pierwsze czytanie poselskiego projektu ustawy o uchyleniu ustawy o Państwowej Komisji do spraw badania wpływów rosyjskich na bezpieczeństwo wewnętrzne Rzeczypospolitej Polskiej w latach 2007-2022 (druk nr 351)",
+      "topic": "wniosek o odrzucenie projektu w pierwszym czytaniu.",
+      "totalVoted": 412,
+      "votingNumber": 26,
+      "yes": 175
+    },
+    {
+      "abstain": 0,
+      "date": "2024-06-14T09:45:25",
+      "description": "wniosek o odrzucenie dokumentu",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/13/27/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 398,
+      "no": 397,
+      "notParticipating": 22,
+      "present": 0,
+      "sitting": 13,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 12 Przedstawiony przez Ministra Zdrowia dokument: Narodowy Program Chorób Układu Krążenia na lata 2022-2032 - Sprawozdanie za rok 2022 wraz ze stanowiskiem Komisji (druki nr 82 i 246) - głosowanie",
+      "topic": "głosowanie nad wnioskiem o odrzucenie dokumentu",
+      "totalVoted": 412,
+      "votingNumber": 27,
+      "yes": 15
+    },
+    {
+      "abstain": 15,
+      "date": "2024-06-14T09:48:49",
+      "description": "wniosek z druku nr 457",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/13/28/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 206,
+      "no": 0,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 13,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 14 Wybór uzupełniający do składu osobowego Komisji Śledczej do zbadania legalności, prawidłowości oraz celowości działań podjętych w celu przygotowania i przeprowadzenia wyborów Prezydenta Rzeczypospolitej Polskiej w 2020 roku w formie głosowania korespondencyjnego (druk nr 457)",
+      "topic": "głosowanie nad przyjęciem wniosku z druku.",
+      "totalVoted": 410,
+      "votingNumber": 28,
+      "yes": 395
+    },
+    {
+      "abstain": 15,
+      "date": "2024-06-14T09:50:37",
+      "description": "wniosek z druku nr 458",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/13/29/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 207,
+      "no": 1,
+      "notParticipating": 22,
+      "present": 0,
+      "sitting": 13,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 15 Wybór uzupełniający do składu osobowego Komisji Śledczej do zbadania legalności, prawidłowości oraz celowości działań, a także występowania nadużyć, zaniedbań i zaniechań w zakresie legalizacji pobytu cudzoziemców na terytorium Rzeczypospolitej Polskiej w okresie od dnia 12 listopada 2019 r. do dnia 20 listopada 2023 r. (druk nr 458)",
+      "topic": "głosowanie nad przyjęciem wniosku z druku.",
+      "totalVoted": 412,
+      "votingNumber": 29,
+      "yes": 396
+    },
+    {
+      "abstain": 18,
+      "date": "2024-06-14T10:00:00",
+      "description": "wniosek z druku nr 459",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/13/30/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 207,
+      "no": 174,
+      "notParticipating": 21,
+      "present": 0,
+      "sitting": 13,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 16 Wybór uzupełniający do składu osobowego Komisji Śledczej do zbadania legalności, prawidłowości oraz celowości czynności operacyjno-rozpoznawczych podejmowanych m.in. z wykorzystaniem oprogramowania Pegasus przez członków Rady Ministrów, służby specjalne, Policję, organy kontroli skarbowej oraz celno-skarbowej, organy powołane do ścigania przestępstw i prokuraturę w okresie od dnia 16 listopada 2015 r. do dnia 20 listopada 2023 r. (druk nr 459)",
+      "topic": "głosowanie nad przyjęciem wniosku z druku.",
+      "totalVoted": 413,
+      "votingNumber": 30,
+      "yes": 221
+    },
+    {
+      "abstain": 1,
+      "date": "2024-06-14T10:15:30",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/13/31/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 205,
+      "no": 235,
+      "notParticipating": 25,
+      "present": 0,
+      "sitting": 13,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 13 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o ochronie sygnalistów (druki nr 427 i 455)",
+      "topic": "poprawka 1",
+      "totalVoted": 409,
+      "votingNumber": 31,
+      "yes": 173
+    },
+    {
+      "abstain": 5,
+      "date": "2024-06-14T10:16:21",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/13/32/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 205,
+      "no": 212,
+      "notParticipating": 25,
+      "present": 0,
+      "sitting": 13,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 13 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o ochronie sygnalistów (druki nr 427 i 455)",
+      "topic": "poprawki nr 2 i 4",
+      "totalVoted": 409,
+      "votingNumber": 32,
+      "yes": 192
+    },
+    {
+      "abstain": 2,
+      "date": "2024-06-14T10:17:02",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/13/33/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 207,
+      "no": 237,
+      "notParticipating": 22,
+      "present": 0,
+      "sitting": 13,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 13 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o ochronie sygnalistów (druki nr 427 i 455)",
+      "topic": "poprawka 3",
+      "totalVoted": 412,
+      "votingNumber": 33,
+      "yes": 173
+    },
+    {
+      "abstain": 22,
+      "date": "2024-06-14T10:17:43",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/13/34/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 207,
+      "no": 225,
+      "notParticipating": 21,
+      "present": 0,
+      "sitting": 13,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 13 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o ochronie sygnalistów (druki nr 427 i 455)",
+      "topic": "poprawka 5",
+      "totalVoted": 413,
+      "votingNumber": 34,
+      "yes": 166
+    },
+    {
+      "abstain": 3,
+      "date": "2024-06-14T10:20:25",
+      "description": "wniosek z druku nr 460",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/13/35/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 13,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 17 Zmiany w składach osobowych komisji sejmowych (druk nr 460)",
+      "topic": "głosowanie nad przyjęciem wniosku z druku.",
+      "totalVoted": 408,
+      "votingNumber": 35,
+      "yes": 405
+    }
+  ],
+  "_pobrano": "2026-03-24T10:36:15Z"
+}

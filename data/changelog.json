@@ -1,1 +1,3554 @@
-[]
+[
+  {
+    "typ": "nowy_posel",
+    "posel_id": "1",
+    "nazwisko": "Adamczyk Andrzej",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "2",
+    "nazwisko": "Adamowicz Piotr",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "3",
+    "nazwisko": "Andruszkiewicz Adam",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "4",
+    "nazwisko": "Andzel Waldemar",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "5",
+    "nazwisko": "Arciszewska-Mielewczyk Dorota",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "6",
+    "nazwisko": "Ardanowski Jan Krzysztof",
+    "klub": "Demokracja",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "7",
+    "nazwisko": "Arent Iwona Ewa",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "8",
+    "nazwisko": "Arłukowicz Bartosz",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "9",
+    "nazwisko": "Ast Marek",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "10",
+    "nazwisko": "Augustyn Urszula",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "11",
+    "nazwisko": "Babinetz Piotr",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "12",
+    "nazwisko": "Bartosik Ryszard",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "13",
+    "nazwisko": "Bartoszewski Władysław",
+    "klub": "PSL-TD",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "14",
+    "nazwisko": "Bartuś Barbara",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "15",
+    "nazwisko": "Bejda Paweł",
+    "klub": "PSL-TD",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "16",
+    "nazwisko": "Berkowicz Konrad",
+    "klub": "Konfederacja",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "17",
+    "nazwisko": "Bielawska Sylwia",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "18",
+    "nazwisko": "Biernacki Marek",
+    "klub": "PSL-TD",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "19",
+    "nazwisko": "Bliźniuk Paweł",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "20",
+    "nazwisko": "Błaszczak Mariusz",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "21",
+    "nazwisko": "Bochenek Mateusz",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "22",
+    "nazwisko": "Bochenek Rafał",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "23",
+    "nazwisko": "Bodnar Izabela",
+    "klub": "Centrum",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "24",
+    "nazwisko": "Bogucki Jacek",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "25",
+    "nazwisko": "Bogucki Zbigniew",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "26",
+    "nazwisko": "Bojarski Krzysztof",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "27",
+    "nazwisko": "Borowiak Joanna",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "28",
+    "nazwisko": "Bortniczuk Kamil",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "29",
+    "nazwisko": "Borys Piotr",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "30",
+    "nazwisko": "Borys-Szopa Bożena",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "31",
+    "nazwisko": "Bosacki Marcin",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "32",
+    "nazwisko": "Bosak Karina Anna",
+    "klub": "Konfederacja",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "33",
+    "nazwisko": "Bosak Krzysztof",
+    "klub": "Konfederacja",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "34",
+    "nazwisko": "Braun Grzegorz",
+    "klub": "Konfederacja",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "35",
+    "nazwisko": "Brejza Krzysztof",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "36",
+    "nazwisko": "Buczyńska Agnieszka",
+    "klub": "Polska2050",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "37",
+    "nazwisko": "Buda Waldemar",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "38",
+    "nazwisko": "Budka Borys",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "39",
+    "nazwisko": "Burkiewicz Elżbieta",
+    "klub": "Centrum",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "40",
+    "nazwisko": "Burzyńska Lidia",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "41",
+    "nazwisko": "Chmielewski Marek Jan",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "42",
+    "nazwisko": "Chmielowiec Zbigniew",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "43",
+    "nazwisko": "Chojecki Artur",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "44",
+    "nazwisko": "Choma Kazimierz Bogusław",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "45",
+    "nazwisko": "Chorosińska Dominika",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "46",
+    "nazwisko": "Chrzan Tadeusz",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "47",
+    "nazwisko": "Chybicka Alicja",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "48",
+    "nazwisko": "Cicholska Anna Ewa",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "49",
+    "nazwisko": "Cichoń Janusz",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "50",
+    "nazwisko": "Ciecióra Krzysztof",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "51",
+    "nazwisko": "Cieszyński Janusz",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "52",
+    "nazwisko": "Cieślak Michał",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "53",
+    "nazwisko": "Cwalina-Śliwowska Żaneta",
+    "klub": "Centrum",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "54",
+    "nazwisko": "Czarnecki Krzysztof",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "55",
+    "nazwisko": "Czarnecki Witold Wojciech",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "56",
+    "nazwisko": "Czarnek Przemysław",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "57",
+    "nazwisko": "Czartoryski Arkadiusz",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "58",
+    "nazwisko": "Czarzasty Włodzimierz",
+    "klub": "Lewica",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "59",
+    "nazwisko": "Czerniak Jacek",
+    "klub": "Lewica",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "60",
+    "nazwisko": "Czernow Zofia",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "61",
+    "nazwisko": "Czerwińska Anita",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "62",
+    "nazwisko": "Czochara Katarzyna",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "63",
+    "nazwisko": "Ćwik Sławomir",
+    "klub": "Centrum",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "64",
+    "nazwisko": "Dajczak Władysław",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "65",
+    "nazwisko": "Dąbrowska-Banaszek Anna",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "66",
+    "nazwisko": "Dolata Zbigniew",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "67",
+    "nazwisko": "Dolniak Barbara",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "68",
+    "nazwisko": "Domański Andrzej",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "69",
+    "nazwisko": "Dorywalski Bartłomiej",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "70",
+    "nazwisko": "Dowhan Robert",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "71",
+    "nazwisko": "Drabek Przemysław",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "72",
+    "nazwisko": "Duda Elżbieta",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "73",
+    "nazwisko": "Dworczyk Michał Paweł",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "74",
+    "nazwisko": "Dziedzic Adam",
+    "klub": "PSL-TD",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "75",
+    "nazwisko": "Dziedziczak Jan Michał",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "76",
+    "nazwisko": "Dziemianowicz-Bąk Agnieszka",
+    "klub": "Lewica",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "77",
+    "nazwisko": "Filiks Magdalena",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "78",
+    "nazwisko": "Filipek-Sobczak Magdalena",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "79",
+    "nazwisko": "Fogiel Radosław",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "80",
+    "nazwisko": "Foltyn Bronisław",
+    "klub": "Konfederacja",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "81",
+    "nazwisko": "Fritz Roman",
+    "klub": "Konfederacja_KP",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "82",
+    "nazwisko": "Frydrych Joanna",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "83",
+    "nazwisko": "Frysztak Konrad",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "84",
+    "nazwisko": "Gabriel Patryk",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "85",
+    "nazwisko": "Gadowski Krzysztof",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "86",
+    "nazwisko": "Gajewska Aleksandra",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "87",
+    "nazwisko": "Gajewska Kinga",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "88",
+    "nazwisko": "Gapińska Elżbieta",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "89",
+    "nazwisko": "Gasiuk-Pihowicz Kamila",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "90",
+    "nazwisko": "Gawkowski Krzysztof",
+    "klub": "Lewica",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "91",
+    "nazwisko": "Gawlik Zdzisław",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "92",
+    "nazwisko": "Gawron Andrzej",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "93",
+    "nazwisko": "Gaża Grzegorz",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "94",
+    "nazwisko": "Gelert Elżbieta",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "95",
+    "nazwisko": "Gembicka Anna",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "96",
+    "nazwisko": "Gierada Artur Daniel",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "97",
+    "nazwisko": "Giertych Roman",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "98",
+    "nazwisko": "Giziński Włodzisław",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "99",
+    "nazwisko": "Giżyński Szymon",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "100",
+    "nazwisko": "Gliński Piotr",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "101",
+    "nazwisko": "Głogowski Tomasz",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "102",
+    "nazwisko": "Głowski Piotr",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "103",
+    "nazwisko": "Golbik Marta",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "104",
+    "nazwisko": "Golińska Małgorzata",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "105",
+    "nazwisko": "Gołojuch Kazimierz",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "106",
+    "nazwisko": "Gomoła Adam",
+    "klub": "Polska2050",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "107",
+    "nazwisko": "Gontarz Robert",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "108",
+    "nazwisko": "Gorczyca Stanisław",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "109",
+    "nazwisko": "Gosek Mariusz",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "110",
+    "nazwisko": "Gosek-Popiołek Daria",
+    "klub": "Lewica",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "111",
+    "nazwisko": "Gosiewska Małgorzata",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "112",
+    "nazwisko": "Górnikiewicz Piotr",
+    "klub": "Polska2050",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "113",
+    "nazwisko": "Górska Agnieszka",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "114",
+    "nazwisko": "Grabczuk Krzysztof",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "115",
+    "nazwisko": "Grabiec Jan",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "116",
+    "nazwisko": "Grabowski Marcin",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "117",
+    "nazwisko": "Gramatyka Michał",
+    "klub": "Polska2050",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "118",
+    "nazwisko": "Gromadzka Małgorzata",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "119",
+    "nazwisko": "Gróbarczyk Marek",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "120",
+    "nazwisko": "Grzyb Andrzej",
+    "klub": "PSL-TD",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "121",
+    "nazwisko": "Gut-Mostowy Andrzej",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "122",
+    "nazwisko": "Gwiazdowski Kazimierz",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "123",
+    "nazwisko": "Gwóźdź Marcin",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "124",
+    "nazwisko": "Gzik Marek",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "125",
+    "nazwisko": "Habura Krzysztof",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "126",
+    "nazwisko": "Hanajczyk Agnieszka",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "127",
+    "nazwisko": "Hartwich Iwona",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "128",
+    "nazwisko": "Hennig-Kloska Paulina",
+    "klub": "Centrum",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "129",
+    "nazwisko": "Hetman Krzysztof",
+    "klub": "PSL-TD",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "130",
+    "nazwisko": "Hoc Czesław",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "131",
+    "nazwisko": "Hoffmann Zbigniew",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "132",
+    "nazwisko": "Hok Marek Tomasz",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "133",
+    "nazwisko": "Hołownia Szymon",
+    "klub": "Polska2050",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "134",
+    "nazwisko": "Horała Marcin",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "135",
+    "nazwisko": "Horbatowski Łukasz",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "136",
+    "nazwisko": "Hreniak Paweł",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "137",
+    "nazwisko": "Jabłoński Paweł",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "138",
+    "nazwisko": "Jachira Klaudia",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "139",
+    "nazwisko": "Jakubiak Marek",
+    "klub": "niez.",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "140",
+    "nazwisko": "Janyska Maria Małgorzata",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "141",
+    "nazwisko": "Jaros Michał",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "142",
+    "nazwisko": "Jaskulski Patryk",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "143",
+    "nazwisko": "Jazłowiecka Danuta",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "144",
+    "nazwisko": "Joński Dariusz",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "145",
+    "nazwisko": "Józefaciuk Marcin",
+    "klub": "niez.",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "146",
+    "nazwisko": "Kaczmarczyk Norbert Jakub",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "147",
+    "nazwisko": "Kaczyński Filip",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "148",
+    "nazwisko": "Kaczyński Jarosław",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "149",
+    "nazwisko": "Kaleta Piotr",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "150",
+    "nazwisko": "Kaleta Sebastian",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "151",
+    "nazwisko": "Kałużny Mariusz",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "152",
+    "nazwisko": "Kamiński Mariusz",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "153",
+    "nazwisko": "Kandyba Piotr",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "154",
+    "nazwisko": "Kanthak Jan",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "155",
+    "nazwisko": "Kapinos Fryderyk Sylwester",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "156",
+    "nazwisko": "Karnowski Jacek",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "157",
+    "nazwisko": "Karolewska Iwona",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "158",
+    "nazwisko": "Kasprzyk Rafał",
+    "klub": "Centrum",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "159",
+    "nazwisko": "Kiepura Henryk",
+    "klub": "PSL-TD",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "160",
+    "nazwisko": "Kierwiński Marcin",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "161",
+    "nazwisko": "Kierzek-Koperska Katarzyna",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "162",
+    "nazwisko": "Klimczak Dariusz",
+    "klub": "PSL-TD",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "163",
+    "nazwisko": "Kluzik-Rostkowska Joanna",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "164",
+    "nazwisko": "Kłopotek Agnieszka Maria",
+    "klub": "PSL-TD",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "165",
+    "nazwisko": "Kmita Łukasz",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "166",
+    "nazwisko": "Kobosko Michał",
+    "klub": "Polska2050-TD",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "167",
+    "nazwisko": "Koc Maria",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "168",
+    "nazwisko": "Kołodziej Ewa",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "169",
+    "nazwisko": "Kołodziejczak Magdalena Małgorzata",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "170",
+    "nazwisko": "Kołodziejczak Michał",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "171",
+    "nazwisko": "Komarewicz Rafał",
+    "klub": "Centrum",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "172",
+    "nazwisko": "Konieczny Maciej",
+    "klub": "Razem",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "173",
+    "nazwisko": "Konwiński Zbigniew",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "174",
+    "nazwisko": "Kosiniak-Kamysz Władysław",
+    "klub": "PSL-TD",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "175",
+    "nazwisko": "Kostuś Tomasz",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "176",
+    "nazwisko": "Kosztowniak Andrzej",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "177",
+    "nazwisko": "Kotula Katarzyna",
+    "klub": "Lewica",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "178",
+    "nazwisko": "Kowal Paweł",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "179",
+    "nazwisko": "Kowalczyk Henryk",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "180",
+    "nazwisko": "Kowalski Janusz",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "181",
+    "nazwisko": "Kownacki Bartosz Józef",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "182",
+    "nazwisko": "Kozłowska Iwona Maria",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "183",
+    "nazwisko": "Krajewski Stefan",
+    "klub": "PSL-TD",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "184",
+    "nazwisko": "Krajewski Wiesław",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "185",
+    "nazwisko": "Krasulski Leonard",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "186",
+    "nazwisko": "Krawczyk Iwona Małgorzata",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "187",
+    "nazwisko": "Krawczyk Michał",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "188",
+    "nazwisko": "Kropiwnicki Robert",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "189",
+    "nazwisko": "Król Piotr",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "190",
+    "nazwisko": "Król Wojciech",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "191",
+    "nazwisko": "Krupka Anna",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "192",
+    "nazwisko": "Kryj Andrzej",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "193",
+    "nazwisko": "Krystian Mariusz",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "194",
+    "nazwisko": "Krząkała Marek",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "195",
+    "nazwisko": "Krzemiński Adam",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "196",
+    "nazwisko": "Krzywonos-Strycharska Henryka",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "197",
+    "nazwisko": "Kubów Krzysztof",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "198",
+    "nazwisko": "Kucharska-Dziedzic Anita",
+    "klub": "Lewica",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "199",
+    "nazwisko": "Kuchciński Marek",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "200",
+    "nazwisko": "Kukiz Paweł",
+    "klub": "Demokracja",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "201",
+    "nazwisko": "Kulasek Marcin",
+    "klub": "Lewica",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "202",
+    "nazwisko": "Kurowska Maria",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "203",
+    "nazwisko": "Kurowski Władysław",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "204",
+    "nazwisko": "Kuźmiuk Zbigniew Krzysztof",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "205",
+    "nazwisko": "Kwiecień Anna",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "206",
+    "nazwisko": "Lachowicz Piotr",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "207",
+    "nazwisko": "Lamczyk Stanisław",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "208",
+    "nazwisko": "Lasek Maciej",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "209",
+    "nazwisko": "Lenartowicz Gabriela",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "210",
+    "nazwisko": "Leniart Ewa",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "211",
+    "nazwisko": "Leo Aleksandra",
+    "klub": "Centrum",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "212",
+    "nazwisko": "Leszczyna Izabela",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "213",
+    "nazwisko": "Lichocka Joanna",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "214",
+    "nazwisko": "Lipiec Krzysztof",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "215",
+    "nazwisko": "Litewka Łukasz",
+    "klub": "Lewica",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "216",
+    "nazwisko": "Lorek Grzegorz",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "217",
+    "nazwisko": "Lubczyk Radosław",
+    "klub": "PSL-TD",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "218",
+    "nazwisko": "Lubnauer Katarzyna Anna",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "219",
+    "nazwisko": "Luboński Adam",
+    "klub": "Polska2050",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "220",
+    "nazwisko": "Łącki Artur Jarosław",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "221",
+    "nazwisko": "Łepkowska-Gołaś Alicja",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "222",
+    "nazwisko": "Łoboda Dorota",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "223",
+    "nazwisko": "Łuczak Krystian",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "224",
+    "nazwisko": "Łukaszewicz Sebastian",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "225",
+    "nazwisko": "Machałek Marzena Anna",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "226",
+    "nazwisko": "Macierewicz Antoni",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "227",
+    "nazwisko": "Maląg Marlena Magdalena",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "228",
+    "nazwisko": "Malik Ewa",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "229",
+    "nazwisko": "Maliszewski Mirosław",
+    "klub": "PSL-TD",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "230",
+    "nazwisko": "Małecki Maciej",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "231",
+    "nazwisko": "Marchewka Arkadiusz",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "232",
+    "nazwisko": "Marczułajtis-Walczak Jagna",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "233",
+    "nazwisko": "Marek Dorota",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "234",
+    "nazwisko": "Matecki Dariusz",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "235",
+    "nazwisko": "Materna Jerzy",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "236",
+    "nazwisko": "Matusiak Grzegorz",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "237",
+    "nazwisko": "Matusik-Lipiec Katarzyna",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "238",
+    "nazwisko": "Matuszewski Marek",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "239",
+    "nazwisko": "Matysiak Paulina",
+    "klub": "niez.",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "240",
+    "nazwisko": "Mejza Łukasz",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "241",
+    "nazwisko": "Mentzen Sławomir",
+    "klub": "Konfederacja",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "242",
+    "nazwisko": "Milczanowska Anna",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "243",
+    "nazwisko": "Milewski Daniel",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "244",
+    "nazwisko": "Miller Rajmund",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "245",
+    "nazwisko": "Miszalski Aleksander",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "246",
+    "nazwisko": "Morawiecki Mateusz",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "247",
+    "nazwisko": "Mosiński Jan",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "248",
+    "nazwisko": "Moskal Michał",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "249",
+    "nazwisko": "Mroczek Czesław",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "250",
+    "nazwisko": "Mrówczyński Aleksander Mikołaj",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "251",
+    "nazwisko": "Mrzygłocka Izabela Katarzyna",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "252",
+    "nazwisko": "Mucha Joanna",
+    "klub": "niez.",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "253",
+    "nazwisko": "Mularczyk Arkadiusz",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "254",
+    "nazwisko": "Mulawa Krzysztof",
+    "klub": "Konfederacja",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "255",
+    "nazwisko": "Müller Piotr",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "256",
+    "nazwisko": "Myrcha Arkadiusz",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "257",
+    "nazwisko": "Napieralski Grzegorz",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "258",
+    "nazwisko": "Niedziela Dorota",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "259",
+    "nazwisko": "Niedźwiedzki Jacek",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "260",
+    "nazwisko": "Niemczyk Małgorzata",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "261",
+    "nazwisko": "Niezgodzka Jolanta",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "262",
+    "nazwisko": "Nitras Sławomir",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "263",
+    "nazwisko": "Nowacka Barbara",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "264",
+    "nazwisko": "Nowak Maja Ewa",
+    "klub": "Polska2050",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "265",
+    "nazwisko": "Nowak Tomasz Piotr",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "266",
+    "nazwisko": "Nowicka Wanda",
+    "klub": "Lewica",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "267",
+    "nazwisko": "Nowogórska Urszula",
+    "klub": "PSL-TD",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "268",
+    "nazwisko": "Nykiel Mirosława",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "269",
+    "nazwisko": "Ociepa Marcin",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "270",
+    "nazwisko": "Okła-Drewnowicz Marzena",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "271",
+    "nazwisko": "Okuła Barbara",
+    "klub": "Centrum",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "272",
+    "nazwisko": "Oliwiecka Barbara",
+    "klub": "Centrum",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "273",
+    "nazwisko": "Olko Dorota",
+    "klub": "Lewica",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "274",
+    "nazwisko": "Olszewski Paweł",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "275",
+    "nazwisko": "Orliński Mirosław Adam",
+    "klub": "PSL-TD",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "276",
+    "nazwisko": "Osmalak Łukasz",
+    "klub": "Polska2050",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "277",
+    "nazwisko": "Osos Katarzyna",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "278",
+    "nazwisko": "Osuch Jacek",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "279",
+    "nazwisko": "Ozdoba Jacek",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "280",
+    "nazwisko": "Pamuła Teresa",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "281",
+    "nazwisko": "Papke Paweł",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "282",
+    "nazwisko": "Pasławska Urszula",
+    "klub": "PSL-TD",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "283",
+    "nazwisko": "Paszyk Krzysztof",
+    "klub": "PSL-TD",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "284",
+    "nazwisko": "Pawliczak Karolina",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "285",
+    "nazwisko": "Pejo Bartłomiej",
+    "klub": "Konfederacja",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "286",
+    "nazwisko": "Petru Ryszard",
+    "klub": "Centrum",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "287",
+    "nazwisko": "Pępek Małgorzata",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "288",
+    "nazwisko": "Piecha Bolesław",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "289",
+    "nazwisko": "Piechowiak Grzegorz",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "290",
+    "nazwisko": "Pieczarka Anna",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "291",
+    "nazwisko": "Piekarska Katarzyna Maria",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "292",
+    "nazwisko": "Pietrykowski Norbert",
+    "klub": "Centrum",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "293",
+    "nazwisko": "Pietrzczyk Lucjan Marek",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "294",
+    "nazwisko": "Piontkowski Dariusz",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "295",
+    "nazwisko": "Plocke Kazimierz",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "296",
+    "nazwisko": "Płaczek Grzegorz",
+    "klub": "Konfederacja",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "297",
+    "nazwisko": "Płażyński Kacper",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "298",
+    "nazwisko": "Pogoda Szymon",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "299",
+    "nazwisko": "Polaczek Jerzy",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "300",
+    "nazwisko": "Polak Elżbieta Anna",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "301",
+    "nazwisko": "Polak Piotr",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "302",
+    "nazwisko": "Pomaska Agnieszka",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "303",
+    "nazwisko": "Porzucek Marcin",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "304",
+    "nazwisko": "Protas Jacek",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "305",
+    "nazwisko": "Przydacz Marcin",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "306",
+    "nazwisko": "Puda Grzegorz",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "307",
+    "nazwisko": "Pyrzyk Michał",
+    "klub": "PSL-TD",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "308",
+    "nazwisko": "Rak Renata",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "309",
+    "nazwisko": "Raś Ireneusz",
+    "klub": "PSL-TD",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "310",
+    "nazwisko": "Rau Zbigniew",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "311",
+    "nazwisko": "Romanowski Marcin",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "312",
+    "nazwisko": "Romowicz Bartosz",
+    "klub": "Polska2050",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "313",
+    "nazwisko": "Rosa Monika",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "314",
+    "nazwisko": "Różyński Wiesław",
+    "klub": "PSL-TD",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "315",
+    "nazwisko": "Rusecka Urszula",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "316",
+    "nazwisko": "Rusiecki Grzegorz",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "317",
+    "nazwisko": "Rutnicki Jakub",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "318",
+    "nazwisko": "Rychlik Paweł",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "319",
+    "nazwisko": "Rząsa Marek",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "320",
+    "nazwisko": "Rzepa Jarosław",
+    "klub": "PSL-TD",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "321",
+    "nazwisko": "Sachajko Jarosław",
+    "klub": "Demokracja",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "322",
+    "nazwisko": "Sałek Paweł",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "323",
+    "nazwisko": "Saługa Wojciech",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "324",
+    "nazwisko": "Samborski Tadeusz",
+    "klub": "PSL-TD",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "325",
+    "nazwisko": "Sasin Jacek",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "326",
+    "nazwisko": "Sawicki Marek",
+    "klub": "PSL-TD",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "327",
+    "nazwisko": "Schädler Ewa",
+    "klub": "Polska2050",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "328",
+    "nazwisko": "Scheuring-Wielgus Joanna",
+    "klub": "Lewica",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "329",
+    "nazwisko": "Schmidt Anna",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "330",
+    "nazwisko": "Schreiber Łukasz",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "331",
+    "nazwisko": "Sellin Jarosław",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "332",
+    "nazwisko": "Semeniuk-Patkowska Olga Ewa",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "333",
+    "nazwisko": "Siarka Edward",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "334",
+    "nazwisko": "Sibińska Krystyna",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "335",
+    "nazwisko": "Siekierski Czesław",
+    "klub": "PSL-TD",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "336",
+    "nazwisko": "Siemaszko Rafał",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "337",
+    "nazwisko": "Siemoniak Tomasz",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "338",
+    "nazwisko": "Sienkiewicz Bartłomiej",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "339",
+    "nazwisko": "Sikora Arkadiusz",
+    "klub": "Lewica",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "340",
+    "nazwisko": "Skalik Włodzimierz",
+    "klub": "Konfederacja_KP",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "341",
+    "nazwisko": "Skonieczka Marcin",
+    "klub": "Centrum",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "342",
+    "nazwisko": "Skowrońska Krystyna",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "343",
+    "nazwisko": "Skwarek Sławomir",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "344",
+    "nazwisko": "Sługocki Waldemar",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "345",
+    "nazwisko": "Smarduch Weronika",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "346",
+    "nazwisko": "Smoliński Kazimierz",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "347",
+    "nazwisko": "Sobolak Anna",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "348",
+    "nazwisko": "Sobolewski Krzysztof",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "349",
+    "nazwisko": "Soboń Artur",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "350",
+    "nazwisko": "Soin Agnieszka Anna",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "351",
+    "nazwisko": "Sosnowski Zbigniew",
+    "klub": "PSL-TD",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "352",
+    "nazwisko": "Sowa Marek",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "353",
+    "nazwisko": "Sójka Katarzyna",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "354",
+    "nazwisko": "Sroka Magdalena",
+    "klub": "PSL-TD",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "355",
+    "nazwisko": "Stachowiak-Różecka Mirosława",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "356",
+    "nazwisko": "Stefaniuk Dariusz",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "357",
+    "nazwisko": "Sterczewski Franciszek",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "358",
+    "nazwisko": "Strach Piotr Paweł",
+    "klub": "Polska2050",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "359",
+    "nazwisko": "Suchoń Mirosław",
+    "klub": "Centrum",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "360",
+    "nazwisko": "Suski Marek",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "361",
+    "nazwisko": "Suski Paweł",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "362",
+    "nazwisko": "Szałabawka Artur",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "363",
+    "nazwisko": "Szarama Wojciech",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "364",
+    "nazwisko": "Szczepański Wiesław",
+    "klub": "Lewica",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "365",
+    "nazwisko": "Szczerba Michał",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "366",
+    "nazwisko": "Szczucki Krzysztof",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "367",
+    "nazwisko": "Szczurek-Żelazko Józefa",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "368",
+    "nazwisko": "Szefernaker Paweł",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "369",
+    "nazwisko": "Szejna Andrzej",
+    "klub": "Lewica",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "370",
+    "nazwisko": "Szewiński Andrzej",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "371",
+    "nazwisko": "Szłapka Adam",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "372",
+    "nazwisko": "Szopiński Henryk",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "373",
+    "nazwisko": "Szrot Paweł",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "374",
+    "nazwisko": "Szumilas Krystyna",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "375",
+    "nazwisko": "Szwed Stanisław",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "376",
+    "nazwisko": "Szymanowska Ewa",
+    "klub": "Centrum",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "377",
+    "nazwisko": "Szymański Tomasz",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "378",
+    "nazwisko": "Szynkowski vel Sęk Szymon",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "379",
+    "nazwisko": "Ściebiorowski Łukasz",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "380",
+    "nazwisko": "Ścigaj Agnieszka",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "381",
+    "nazwisko": "Śliwka Andrzej",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "382",
+    "nazwisko": "Śliz Paweł",
+    "klub": "Polska2050",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "383",
+    "nazwisko": "Śmiszek Krzysztof",
+    "klub": "Lewica",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "384",
+    "nazwisko": "Świat Jacek",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "385",
+    "nazwisko": "Tajner Apoloniusz",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "386",
+    "nazwisko": "Tchórzewski Krzysztof",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "387",
+    "nazwisko": "Telus Robert",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "388",
+    "nazwisko": "Terlecki Ryszard",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "389",
+    "nazwisko": "Tomaszewski Tadeusz",
+    "klub": "Lewica",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "390",
+    "nazwisko": "Tomczak Jacek",
+    "klub": "PSL-TD",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "391",
+    "nazwisko": "Tomczak Wioleta",
+    "klub": "Polska2050",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "392",
+    "nazwisko": "Tomczyk Cezary",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "393",
+    "nazwisko": "Tomczyszyn Stanisław",
+    "klub": "PSL-TD",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "394",
+    "nazwisko": "Tracz Małgorzata",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "395",
+    "nazwisko": "Trela Tomasz",
+    "klub": "Lewica",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "396",
+    "nazwisko": "Truskolaski Krzysztof",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "397",
+    "nazwisko": "Tuduj Krzysztof",
+    "klub": "Konfederacja",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "398",
+    "nazwisko": "Tułajew Sylwester",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "399",
+    "nazwisko": "Tumanowicz Witold",
+    "klub": "Konfederacja",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "400",
+    "nazwisko": "Tusk Donald",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "401",
+    "nazwisko": "Tyszka Stanisław",
+    "klub": "Konfederacja",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "402",
+    "nazwisko": "Ueberhan Katarzyna",
+    "klub": "Lewica",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "403",
+    "nazwisko": "Urbaniak Jarosław",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "404",
+    "nazwisko": "Uruski Piotr",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "405",
+    "nazwisko": "Uściński Piotr",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "406",
+    "nazwisko": "Wałęsa Jarosław",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "407",
+    "nazwisko": "Warchoł Marcin",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "408",
+    "nazwisko": "Wardzała Robert",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "409",
+    "nazwisko": "Warwas Robert",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "410",
+    "nazwisko": "Warzecha Jan",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "411",
+    "nazwisko": "Wassermann Małgorzata",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "412",
+    "nazwisko": "Wawer Michał",
+    "klub": "Konfederacja",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "413",
+    "nazwisko": "Wąsik Maciej",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "414",
+    "nazwisko": "Wcisło Marta",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "415",
+    "nazwisko": "Weber Rafał",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "416",
+    "nazwisko": "Wesoły Marek",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "417",
+    "nazwisko": "Wicha Joanna",
+    "klub": "Lewica",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "418",
+    "nazwisko": "Wicher Patryk",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "419",
+    "nazwisko": "Wieczorek Dariusz",
+    "klub": "Lewica",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "420",
+    "nazwisko": "Wieczorek Jarosław Wiesław",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "421",
+    "nazwisko": "Wielichowska Monika",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "422",
+    "nazwisko": "Wilk Ryszard",
+    "klub": "Konfederacja",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "423",
+    "nazwisko": "Wilk Teresa",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "424",
+    "nazwisko": "Wipler Przemysław",
+    "klub": "Konfederacja",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "425",
+    "nazwisko": "Uznańska-Wiśniewska Aleksandra Karolina",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "426",
+    "nazwisko": "Witczak Adrian",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "427",
+    "nazwisko": "Witczak Mariusz",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "428",
+    "nazwisko": "Witek Elżbieta",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "429",
+    "nazwisko": "Witek Przemysław",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "430",
+    "nazwisko": "Wnuk Kamil",
+    "klub": "Polska2050",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "431",
+    "nazwisko": "Wojciechowska Anna",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "432",
+    "nazwisko": "Wojciechowska van Heukelom Agnieszka",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "433",
+    "nazwisko": "Wojtyszek Agata",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "434",
+    "nazwisko": "Wołoszański Bogusław",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "435",
+    "nazwisko": "Woś Michał",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "436",
+    "nazwisko": "Woźniak Grzegorz",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "437",
+    "nazwisko": "Woźniak Tadeusz",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "438",
+    "nazwisko": "Wójcik Michał",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "439",
+    "nazwisko": "Wróbel Maciej",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "440",
+    "nazwisko": "Wróblewski Bartłomiej",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "441",
+    "nazwisko": "Zalewski Paweł",
+    "klub": "niez.",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "442",
+    "nazwisko": "Zandberg Adrian",
+    "klub": "Razem",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "443",
+    "nazwisko": "Zapałowski Andrzej Tomasz",
+    "klub": "Konfederacja",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "444",
+    "nazwisko": "Zawieja Bartosz",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "445",
+    "nazwisko": "Zawisza Marcelina",
+    "klub": "Razem",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "446",
+    "nazwisko": "Zawiślak Sławomir",
+    "klub": "Konfederacja_KP",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "447",
+    "nazwisko": "Zdrojewski Bogdan Andrzej",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "448",
+    "nazwisko": "Zembaczyński Witold",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "449",
+    "nazwisko": "Zgorzelski Piotr",
+    "klub": "PSL-TD",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "450",
+    "nazwisko": "Ziejewski Zbigniew",
+    "klub": "PSL-TD",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "451",
+    "nazwisko": "Zielińska Urszula Sara",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "452",
+    "nazwisko": "Zieliński Jarosław",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "453",
+    "nazwisko": "Zieliński Tomasz",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "454",
+    "nazwisko": "Zięba-Gzik Jolanta",
+    "klub": "PSL-TD",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "455",
+    "nazwisko": "Zimoch Tomasz",
+    "klub": "niez.",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "456",
+    "nazwisko": "Ziobro Zbigniew",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "457",
+    "nazwisko": "Zubowski Wojciech Michał",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "458",
+    "nazwisko": "Zyska Ireneusz",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "459",
+    "nazwisko": "Żelazowska Bożena",
+    "klub": "PSL-TD",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "460",
+    "nazwisko": "Żukowska Anna Maria",
+    "klub": "Lewica",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "461",
+    "nazwisko": "Baluch Anna",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "462",
+    "nazwisko": "Łośko Magdalena",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "463",
+    "nazwisko": "Pawłowska Monika",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "464",
+    "nazwisko": "Łuczak Alicja",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "465",
+    "nazwisko": "Jaśkowiec Dominik",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "466",
+    "nazwisko": "Masełko Paweł",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "467",
+    "nazwisko": "Stachowicz Katarzyna",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "468",
+    "nazwisko": "Czechak Lidia",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "469",
+    "nazwisko": "Grygorcewicz Barbara",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "470",
+    "nazwisko": "Hołownia Bożenna",
+    "klub": "Polska2050",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "471",
+    "nazwisko": "Koszutska Urszula",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "472",
+    "nazwisko": "Kowal Piotr",
+    "klub": "Lewica",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "473",
+    "nazwisko": "Kowalski Michał",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "474",
+    "nazwisko": "Koźlakiewicz Maria Joanna",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "475",
+    "nazwisko": "Królak Katarzyna",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "476",
+    "nazwisko": "Kulpa Wioletta Maria",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "477",
+    "nazwisko": "Macko Grzegorz",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "478",
+    "nazwisko": "Meysztowicz Jerzy",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "479",
+    "nazwisko": "Mieszkowski Krzysztof",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "480",
+    "nazwisko": "Paluch Anna",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "481",
+    "nazwisko": "Piątkowski Krzysztof",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "482",
+    "nazwisko": "Popielarz Mariusz",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "483",
+    "nazwisko": "Roguska Magdalena",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "484",
+    "nazwisko": "Stożek Marta",
+    "klub": "Razem",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "485",
+    "nazwisko": "Szymański Krzysztof",
+    "klub": "Konfederacja",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "486",
+    "nazwisko": "Tomaszewski Włodzimierz",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "487",
+    "nazwisko": "Tomczykiewicz Maciej",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "488",
+    "nazwisko": "Krajewski Jarosław",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "489",
+    "nazwisko": "Lisowska Bożena",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "490",
+    "nazwisko": "Połuboczek Michał",
+    "klub": "Konfederacja",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "491",
+    "nazwisko": "Kot Aleksandra",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "492",
+    "nazwisko": "Romanowski Rafał",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "493",
+    "nazwisko": "Smolarz Henryk",
+    "klub": "PSL-TD",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "494",
+    "nazwisko": "Jagła Robert",
+    "klub": "KO",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "495",
+    "nazwisko": "Jach Michał",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "496",
+    "nazwisko": "Olbryś Bogumiła",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "497",
+    "nazwisko": "Rzymkowski Tomasz",
+    "klub": "Demokracja",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowy_posel",
+    "posel_id": "498",
+    "nazwisko": "Subocz Marek",
+    "klub": "PiS",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowe_kolo",
+    "klub_id": "Centrum",
+    "nazwa": "Klub Parlamentarny Centrum",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowe_kolo",
+    "klub_id": "Demokracja",
+    "nazwa": "Koło Poselskie Demokracja Bezpośrednia",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowe_kolo",
+    "klub_id": "KO",
+    "nazwa": "Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowe_kolo",
+    "klub_id": "Konfederacja",
+    "nazwa": "Klub Poselski Konfederacja",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowe_kolo",
+    "klub_id": "Konfederacja_KP",
+    "nazwa": "Koło Poselskie Konfederacja Korony Polskiej",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowe_kolo",
+    "klub_id": "Lewica",
+    "nazwa": "Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Unia Pracy)",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowe_kolo",
+    "klub_id": "niez.",
+    "nazwa": "Posłowie niezrzeszeni",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowe_kolo",
+    "klub_id": "PiS",
+    "nazwa": "Klub Parlamentarny Prawo i Sprawiedliwość",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowe_kolo",
+    "klub_id": "Polska2050",
+    "nazwa": "Klub Parlamentarny Polska 2050",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowe_kolo",
+    "klub_id": "PSL-TD",
+    "nazwa": "Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga",
+    "data": "2026-03-24"
+  },
+  {
+    "typ": "nowe_kolo",
+    "klub_id": "Razem",
+    "nazwa": "Koło Poselskie Razem",
+    "data": "2026-03-24"
+  }
+]

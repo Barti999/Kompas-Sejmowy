@@ -1,0 +1,447 @@
+{
+  "posiedzenie": 28,
+  "data": "",
+  "tytul": "28. Posiedzenie Sejmu RP w dniach 5 i 6 lutego 2025 r.",
+  "glosowania": [
+    {
+      "abstain": 1,
+      "date": "2025-02-05T10:20:41",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/28/1/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 224,
+      "no": 223,
+      "notParticipating": 44,
+      "present": 0,
+      "sitting": 28,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "28. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 5 i 6 lutego 2025 r.",
+      "topic": "Wniosek o przerwę",
+      "totalVoted": 416,
+      "votingNumber": 1,
+      "yes": 192
+    },
+    {
+      "abstain": 0,
+      "date": "2025-02-05T10:26:47",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/28/2/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 230,
+      "no": 0,
+      "notParticipating": 47,
+      "present": 413,
+      "sitting": 28,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "28. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 5 i 6 lutego 2025 r.",
+      "topic": "Głosowanie kworum",
+      "totalVoted": 413,
+      "votingNumber": 2,
+      "yes": 0
+    },
+    {
+      "abstain": 12,
+      "date": "2025-02-06T11:48:14",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/28/3/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 228,
+      "no": 227,
+      "notParticipating": 31,
+      "present": 0,
+      "sitting": 28,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "28. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 5 i 6 lutego 2025 r.",
+      "topic": "Wniosek o przerwę",
+      "totalVoted": 429,
+      "votingNumber": 3,
+      "yes": 190
+    },
+    {
+      "abstain": 10,
+      "date": "2025-02-06T11:51:52",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/28/4/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 231,
+      "no": 230,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 28,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "28. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 5 i 6 lutego 2025 r.",
+      "topic": "wniosek o odroczenie posiedzenia",
+      "totalVoted": 431,
+      "votingNumber": 4,
+      "yes": 191
+    },
+    {
+      "abstain": 0,
+      "date": "2025-02-06T11:57:08",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/28/5/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 230,
+      "no": 0,
+      "notParticipating": 31,
+      "present": 429,
+      "sitting": 28,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "28. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 5 i 6 lutego 2025 r.",
+      "topic": "Głosowanie kworum",
+      "totalVoted": 429,
+      "votingNumber": 5,
+      "yes": 0
+    },
+    {
+      "abstain": 0,
+      "date": "2025-02-06T12:04:36",
+      "description": "całość projektu uchwały",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/28/6/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 28,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 8 Sprawozdanie Komisji o poselskim projekcie uchwały w sprawie upamiętnienia 105. rocznicy Zaślubin Polski z Morzem w Pucku (druki nr 910 i 975)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 431,
+      "votingNumber": 6,
+      "yes": 431
+    },
+    {
+      "abstain": 1,
+      "date": "2025-02-06T12:05:23",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/28/7/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 28,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o znakach Sił Zbrojnych Rzeczypospolitej Polskiej (druki nr 932 i 963)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 430,
+      "votingNumber": 7,
+      "yes": 429
+    },
+    {
+      "abstain": 3,
+      "date": "2025-02-06T12:08:55",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/28/8/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 219,
+      "no": 218,
+      "notParticipating": 107,
+      "present": 0,
+      "sitting": 28,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych innych ustaw (druki nr 956, 979 i 979-A)",
+      "topic": "wniosek o odrzucenie w całości projektu.",
+      "totalVoted": 353,
+      "votingNumber": 8,
+      "yes": 132
+    },
+    {
+      "abstain": 15,
+      "date": "2025-02-06T12:09:38",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/28/9/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 31,
+      "present": 0,
+      "sitting": 28,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych innych ustaw (druki nr 956, 979 i 979-A)",
+      "topic": "poprawka 1",
+      "totalVoted": 429,
+      "votingNumber": 9,
+      "yes": 414
+    },
+    {
+      "abstain": 17,
+      "date": "2025-02-06T12:10:09",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/28/10/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 28,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych innych ustaw (druki nr 956, 979 i 979-A)",
+      "topic": "poprawka 2",
+      "totalVoted": 430,
+      "votingNumber": 10,
+      "yes": 413
+    },
+    {
+      "abstain": 18,
+      "date": "2025-02-06T12:10:40",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/28/11/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 28,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych innych ustaw (druki nr 956, 979 i 979-A)",
+      "topic": "poprawka 3",
+      "totalVoted": 431,
+      "votingNumber": 11,
+      "yes": 413
+    },
+    {
+      "abstain": 18,
+      "date": "2025-02-06T12:11:10",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/28/12/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 28,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych innych ustaw (druki nr 956, 979 i 979-A)",
+      "topic": "poprawka 4",
+      "totalVoted": 430,
+      "votingNumber": 12,
+      "yes": 412
+    },
+    {
+      "abstain": 0,
+      "date": "2025-02-06T12:11:38",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/28/13/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 200,
+      "no": 199,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 28,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych innych ustaw (druki nr 956, 979 i 979-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 430,
+      "votingNumber": 13,
+      "yes": 231
+    },
+    {
+      "abstain": 15,
+      "date": "2025-02-06T12:16:27",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/28/14/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 235,
+      "no": 234,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 28,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo lotnicze (druki nr 952, 961 i 961-A)",
+      "topic": "poprawki nr 1-3",
+      "totalVoted": 430,
+      "votingNumber": 14,
+      "yes": 181
+    },
+    {
+      "abstain": 200,
+      "date": "2025-02-06T12:17:01",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/28/15/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 28,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo lotnicze (druki nr 952, 961 i 961-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 431,
+      "votingNumber": 15,
+      "yes": 231
+    },
+    {
+      "abstain": 0,
+      "date": "2025-02-06T12:17:59",
+      "description": "wniosek o odrzucenie projektu ustawy w pierwszym czytaniu",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/28/16/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 231,
+      "no": 230,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 28,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 6 Pierwsze czytanie rządowego projektu ustawy o zmianie ustawy - Prawo o ustroju sądów powszechnych oraz ustawy - Prawo o ustroju sądów wojskowych (druk nr 988)",
+      "topic": "wniosek o odrzucenie projektu w pierwszym czytaniu.",
+      "totalVoted": 431,
+      "votingNumber": 16,
+      "yes": 201
+    },
+    {
+      "abstain": 0,
+      "date": "2025-02-06T12:19:08",
+      "description": "wniosek o odrzucenie projektu ustawy w pierwszym czytaniu",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/28/17/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 230,
+      "no": 229,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 28,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 11 Pierwsze czytanie poselskiego projektu ustawy o zmianie ustawy - Kodeks pracy (druk nr 934) - kontynuacja",
+      "topic": "wniosek o odrzucenie projektu w pierwszym czytaniu.",
+      "totalVoted": 430,
+      "votingNumber": 17,
+      "yes": 201
+    },
+    {
+      "abstain": 3,
+      "date": "2025-02-06T12:26:01",
+      "description": "wniosek z druku nr 1013",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/28/18/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 37,
+      "present": 0,
+      "sitting": 28,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 12 Zmiany w składach osobowych komisji sejmowych (druk nr 1013)",
+      "topic": "głosowanie nad przyjęciem wniosku z druku.",
+      "totalVoted": 423,
+      "votingNumber": 18,
+      "yes": 420
+    }
+  ],
+  "_pobrano": "2026-03-24T10:36:22Z"
+}

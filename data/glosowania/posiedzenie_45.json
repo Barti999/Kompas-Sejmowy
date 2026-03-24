@@ -1,0 +1,3772 @@
+{
+  "posiedzenie": 45,
+  "data": "",
+  "tytul": "45. Posiedzenie Sejmu RP w dniach 18, 19, 20 i 21 listopada 2025 r.",
+  "glosowania": [
+    {
+      "abstain": 2,
+      "date": "2025-11-18T11:10:20",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/1/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 38,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Głosowanie proceduralne dotyczące druku 1951",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 37 ust. 4 regulaminu Sejmu w sprawie sprawozdania z druku nr 1951",
+      "totalVoted": 422,
+      "votingNumber": 1,
+      "yes": 420
+    },
+    {
+      "abstain": 4,
+      "date": "2025-11-18T11:11:42",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/2/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 186,
+      "no": 185,
+      "notParticipating": 37,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Głosowanie proceduralne dotyczące druku 1912",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie sprawozdania z druku nr 1912",
+      "totalVoted": 423,
+      "votingNumber": 2,
+      "yes": 234
+    },
+    {
+      "abstain": 14,
+      "date": "2025-11-18T11:13:02",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/3/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Głosowanie proceduralne dotyczące sprawozdania do druku nr 1886",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie sprawozdania do druku nr 1886",
+      "totalVoted": 427,
+      "votingNumber": 3,
+      "yes": 413
+    },
+    {
+      "abstain": 8,
+      "date": "2025-11-18T11:20:21",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/4/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 241,
+      "no": 240,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "45. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 18, 19, 20 i 21 listopada 2025",
+      "topic": "Wniosek o przerwę",
+      "totalVoted": 436,
+      "votingNumber": 4,
+      "yes": 188
+    },
+    {
+      "abstain": 7,
+      "date": "2025-11-18T11:21:58",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/5/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 403,
+      "no": 402,
+      "notParticipating": 21,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "45. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 18, 19, 20 i 21 listopada 2025",
+      "topic": "wniosek o odroczenie posiedzenia",
+      "totalVoted": 439,
+      "votingNumber": 5,
+      "yes": 30
+    },
+    {
+      "abstain": 2,
+      "date": "2025-11-18T11:58:54",
+      "description": "wybór na stanowisko Marszałka Sejmu Posła Włodzimierza Czarzastego",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/6/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 224,
+      "no": 209,
+      "notParticipating": 13,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Wybór Marszałka Sejmu Rzeczypospolitej Polskiej (druk nr 1968)",
+      "topic": "Głosowanie nad wyborem na stanowisko Marszałka Sejmu Pana Posła Włodzimierza Czarzastego.",
+      "totalVoted": 447,
+      "votingNumber": 6,
+      "yes": 236
+    },
+    {
+      "abstain": 162,
+      "date": "2025-11-18T14:18:21",
+      "description": "wybór na stanowisko Wicemarszałka Sejmu Posła Szymona Hołowni",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/7/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 219,
+      "no": 14,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 2 Wybór Wicemarszałka Sejmu Rzeczypospolitej Polskiej (druk nr 1972)",
+      "topic": "Głosowanie nad wyborem na stanowisko Wicemarszałka Sejmu Pana Posła Szymona Hołowni",
+      "totalVoted": 437,
+      "votingNumber": 7,
+      "yes": 261
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-19T09:06:29",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/8/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 182,
+      "no": 181,
+      "notParticipating": 65,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Głosowanie proceduralne dotyczące druku nr 1973",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie sprawozdania z druku nr 1973",
+      "totalVoted": 395,
+      "votingNumber": 8,
+      "yes": 214
+    },
+    {
+      "abstain": 14,
+      "date": "2025-11-19T09:07:24",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/9/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 61,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Głosowanie proceduralne dotyczące druku nr 1975",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie sprawozdania z druku nr 1975",
+      "totalVoted": 399,
+      "votingNumber": 9,
+      "yes": 385
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-19T09:08:50",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/10/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 181,
+      "no": 180,
+      "notParticipating": 59,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Głosowanie proceduralne dotyczące sprawozdania o projekcie ustawy o zmianie ustawy o statystyce publicznej oraz niektórych innych ustaw",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu, w sprawie sprawozdania o projekcie ustawy o zmianie ustawy o statystyce publicznej oraz niektórych innych ustaw",
+      "totalVoted": 401,
+      "votingNumber": 10,
+      "yes": 221
+    },
+    {
+      "abstain": 1,
+      "date": "2025-11-19T09:10:13",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/11/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 184,
+      "no": 183,
+      "notParticipating": 54,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Głosowanie proceduralne dotyczące druku nr 1985",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 37 ust. 4 regulaminu Sejmu w sprawie przedłożenia z druku nr 1985",
+      "totalVoted": 406,
+      "votingNumber": 11,
+      "yes": 222
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-20T09:09:35",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/12/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 183,
+      "no": 182,
+      "notParticipating": 54,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Głosowanie proceduralne dotyczące druku nr 1996",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 37 ust. 4 regulaminu Sejmu w sprawie przedłożenia z druku nr 1996",
+      "totalVoted": 406,
+      "votingNumber": 12,
+      "yes": 224
+    },
+    {
+      "abstain": 3,
+      "date": "2025-11-20T09:11:19",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/13/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 13,
+      "no": 12,
+      "notParticipating": 53,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Głosowanie proceduralne dotyczące druków nr 1945 i 1977",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie sprawozdania z druku nr 1977",
+      "totalVoted": 407,
+      "votingNumber": 13,
+      "yes": 392
+    },
+    {
+      "abstain": 13,
+      "date": "2025-11-20T09:12:05",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/14/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 171,
+      "no": 170,
+      "notParticipating": 53,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Głosowanie proceduralne dotyczące druków nr 1930 i 1987",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie sprawozdania z druku nr 1987",
+      "totalVoted": 407,
+      "votingNumber": 14,
+      "yes": 224
+    },
+    {
+      "abstain": 13,
+      "date": "2025-11-20T09:12:51",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/15/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 53,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Głosowanie proceduralne dotyczące druków nr 1951 i 1989",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie sprawozdania z druku nr 1989",
+      "totalVoted": 407,
+      "votingNumber": 15,
+      "yes": 394
+    },
+    {
+      "abstain": 10,
+      "date": "2025-11-20T09:15:11",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/16/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 52,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Głosowanie proceduralne dotyczące druków 1858 i 232",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie sprawozdania o projekcie ustawy o zmianie ustawy o zaopatrzeniu emerytalnym funkcjonariuszy",
+      "totalVoted": 408,
+      "votingNumber": 16,
+      "yes": 398
+    },
+    {
+      "abstain": 181,
+      "date": "2025-11-20T09:16:42",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/17/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 3,
+      "no": 2,
+      "notParticipating": 51,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Głosowanie proceduralne dotyczące druku 1985",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie projektu ustawy z druku nr 1985",
+      "totalVoted": 409,
+      "votingNumber": 17,
+      "yes": 226
+    },
+    {
+      "abstain": 7,
+      "date": "2025-11-21T09:10:59",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/18/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 232,
+      "no": 231,
+      "notParticipating": 42,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "45. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 18, 19, 20 i 21 listopada 2025",
+      "topic": "Wniosek o przerwę",
+      "totalVoted": 418,
+      "votingNumber": 18,
+      "yes": 180
+    },
+    {
+      "abstain": 11,
+      "date": "2025-11-21T09:14:06",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/19/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 398,
+      "no": 397,
+      "notParticipating": 27,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "45. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 18, 19, 20 i 21 listopada 2025",
+      "topic": "wniosek o odroczenie posiedzenia",
+      "totalVoted": 433,
+      "votingNumber": 19,
+      "yes": 25
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-21T09:18:43",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/20/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 230,
+      "no": 0,
+      "notParticipating": 30,
+      "present": 430,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "45. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 18, 19, 20 i 21 listopada 2025",
+      "topic": "Głosowanie kworum",
+      "totalVoted": 430,
+      "votingNumber": 20,
+      "yes": 0
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-21T09:37:13",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/21/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 238,
+      "no": 237,
+      "notParticipating": 20,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 3 Sprawozdanie Komisji o rządowym projekcie ustawy o ustanowieniu ?Programu modernizacji Policji, Straży Granicznej, Państwowej Straży Pożarnej i Służby Ochrony Państwa w latach 2026-2029? (druki nr 1860, 1907 i 1907-A)",
+      "topic": "poprawki nr 1-4",
+      "totalVoted": 440,
+      "votingNumber": 21,
+      "yes": 203
+    },
+    {
+      "abstain": 24,
+      "date": "2025-11-21T09:37:58",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/22/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 417,
+      "no": 416,
+      "notParticipating": 19,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 3 Sprawozdanie Komisji o rządowym projekcie ustawy o ustanowieniu ?Programu modernizacji Policji, Straży Granicznej, Państwowej Straży Pożarnej i Służby Ochrony Państwa w latach 2026-2029? (druki nr 1860, 1907 i 1907-A)",
+      "topic": "wniosek mniejszości 1",
+      "totalVoted": 441,
+      "votingNumber": 22,
+      "yes": 1
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-21T09:38:38",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/23/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 21,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 3 Sprawozdanie Komisji o rządowym projekcie ustawy o ustanowieniu ?Programu modernizacji Policji, Straży Granicznej, Państwowej Straży Pożarnej i Służby Ochrony Państwa w latach 2026-2029? (druki nr 1860, 1907 i 1907-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 439,
+      "votingNumber": 23,
+      "yes": 439
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-21T09:44:35",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/24/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 242,
+      "no": 241,
+      "notParticipating": 19,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo oświatowe oraz niektórych innych ustaw (druki nr 1857, 1912 i 1912-A)",
+      "topic": "wniosek o odrzucenie w całości projektu., wniosek mniejszości nr 1",
+      "totalVoted": 441,
+      "votingNumber": 24,
+      "yes": 200
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-21T09:45:57",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/25/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 242,
+      "no": 241,
+      "notParticipating": 19,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo oświatowe oraz niektórych innych ustaw (druki nr 1857, 1912 i 1912-A)",
+      "topic": "poprawki nr 1, 3, 5, 8, 10-16, 18-24, 26-29, 31-32, 34-51 oraz 53-58",
+      "totalVoted": 441,
+      "votingNumber": 25,
+      "yes": 200
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-21T09:46:56",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/26/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 241,
+      "no": 240,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo oświatowe oraz niektórych innych ustaw (druki nr 1857, 1912 i 1912-A)",
+      "topic": "poprawki nr 2, 9, 33 i 52",
+      "totalVoted": 437,
+      "votingNumber": 26,
+      "yes": 197
+    },
+    {
+      "abstain": 168,
+      "date": "2025-11-21T09:47:37",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/27/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 242,
+      "no": 241,
+      "notParticipating": 19,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo oświatowe oraz niektórych innych ustaw (druki nr 1857, 1912 i 1912-A)",
+      "topic": "poprawka 4",
+      "totalVoted": 441,
+      "votingNumber": 27,
+      "yes": 32
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-21T09:48:19",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/28/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 242,
+      "no": 241,
+      "notParticipating": 20,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo oświatowe oraz niektórych innych ustaw (druki nr 1857, 1912 i 1912-A)",
+      "topic": "poprawka 6",
+      "totalVoted": 440,
+      "votingNumber": 28,
+      "yes": 199
+    },
+    {
+      "abstain": 3,
+      "date": "2025-11-21T09:48:56",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/29/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 242,
+      "no": 241,
+      "notParticipating": 19,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo oświatowe oraz niektórych innych ustaw (druki nr 1857, 1912 i 1912-A)",
+      "topic": "poprawka 7",
+      "totalVoted": 441,
+      "votingNumber": 29,
+      "yes": 197
+    },
+    {
+      "abstain": 3,
+      "date": "2025-11-21T09:49:31",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/30/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 239,
+      "no": 238,
+      "notParticipating": 20,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo oświatowe oraz niektórych innych ustaw (druki nr 1857, 1912 i 1912-A)",
+      "topic": "wniosek mniejszości 2",
+      "totalVoted": 440,
+      "votingNumber": 30,
+      "yes": 199
+    },
+    {
+      "abstain": 3,
+      "date": "2025-11-21T09:50:13",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/31/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 256,
+      "no": 255,
+      "notParticipating": 18,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo oświatowe oraz niektórych innych ustaw (druki nr 1857, 1912 i 1912-A)",
+      "topic": "poprawka 17",
+      "totalVoted": 442,
+      "votingNumber": 31,
+      "yes": 184
+    },
+    {
+      "abstain": 14,
+      "date": "2025-11-21T09:50:52",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/32/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 242,
+      "no": 241,
+      "notParticipating": 18,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo oświatowe oraz niektórych innych ustaw (druki nr 1857, 1912 i 1912-A)",
+      "topic": "poprawka 25",
+      "totalVoted": 442,
+      "votingNumber": 32,
+      "yes": 187
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-21T09:51:30",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/33/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 242,
+      "no": 241,
+      "notParticipating": 19,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo oświatowe oraz niektórych innych ustaw (druki nr 1857, 1912 i 1912-A)",
+      "topic": "poprawka 30",
+      "totalVoted": 441,
+      "votingNumber": 33,
+      "yes": 200
+    },
+    {
+      "abstain": 6,
+      "date": "2025-11-21T09:58:01",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/34/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 201,
+      "no": 200,
+      "notParticipating": 21,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo oświatowe oraz niektórych innych ustaw (druki nr 1857, 1912 i 1912-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 439,
+      "votingNumber": 34,
+      "yes": 233
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-21T09:59:07",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/35/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 182,
+      "no": 181,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 5 Sprawozdanie Komisji o rządowym projekcie ustawy zmieniającej ustawę o zmianie ustawy - Prawo oświatowe oraz niektórych innych ustaw, ustawę o systemie informacji oświatowej, ustawę - Prawo oświatowe oraz ustawę - Prawo o szkolnictwie wyższym i nauce (druki nr 1805 i 1872)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 437,
+      "votingNumber": 35,
+      "yes": 256
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-21T10:00:14",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/36/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 7,
+      "no": 6,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 6 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o podatku dochodowym od osób fizycznych (druki nr 1835 i 1923)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 437,
+      "votingNumber": 36,
+      "yes": 431
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-21T10:01:22",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/37/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 241,
+      "no": 240,
+      "notParticipating": 20,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 7 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o podatku dochodowym od osób fizycznych (druki nr 1838 i 1925)",
+      "topic": "wniosek mniejszości 1",
+      "totalVoted": 440,
+      "votingNumber": 37,
+      "yes": 200
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-21T10:01:57",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/38/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 21,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 7 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o podatku dochodowym od osób fizycznych (druki nr 1838 i 1925)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 439,
+      "votingNumber": 38,
+      "yes": 439
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-21T10:02:54",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/39/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 2,
+      "no": 1,
+      "notParticipating": 20,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 10 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (druki nr 1886 i 1974)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 440,
+      "votingNumber": 39,
+      "yes": 439
+    },
+    {
+      "abstain": 32,
+      "date": "2025-11-21T10:07:08",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/40/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 195,
+      "no": 194,
+      "notParticipating": 21,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 11 Sprawozdanie Komisji o rządowym projekcie ustawy zmieniającej ustawę o zmianie ustawy - Kodeks karny oraz niektórych innych ustaw oraz o zmianie niektórych innych ustaw (druki nr 1863 i 1926)",
+      "topic": "poprawka 1",
+      "totalVoted": 439,
+      "votingNumber": 40,
+      "yes": 213
+    },
+    {
+      "abstain": 1,
+      "date": "2025-11-21T10:08:36",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/41/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 229,
+      "no": 228,
+      "notParticipating": 21,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 11 Sprawozdanie Komisji o rządowym projekcie ustawy zmieniającej ustawę o zmianie ustawy - Kodeks karny oraz niektórych innych ustaw oraz o zmianie niektórych innych ustaw (druki nr 1863 i 1926)",
+      "topic": "poprawka 4",
+      "totalVoted": 439,
+      "votingNumber": 41,
+      "yes": 210
+    },
+    {
+      "abstain": 3,
+      "date": "2025-11-21T10:09:50",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/42/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 229,
+      "no": 228,
+      "notParticipating": 20,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 11 Sprawozdanie Komisji o rządowym projekcie ustawy zmieniającej ustawę o zmianie ustawy - Kodeks karny oraz niektórych innych ustaw oraz o zmianie niektórych innych ustaw (druki nr 1863 i 1926)",
+      "topic": "poprawki nr 6 i 11",
+      "totalVoted": 440,
+      "votingNumber": 42,
+      "yes": 209
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-21T10:10:43",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/43/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 18,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 11 Sprawozdanie Komisji o rządowym projekcie ustawy zmieniającej ustawę o zmianie ustawy - Kodeks karny oraz niektórych innych ustaw oraz o zmianie niektórych innych ustaw (druki nr 1863 i 1926)",
+      "topic": "poprawki nr 7-10 i 12",
+      "totalVoted": 442,
+      "votingNumber": 43,
+      "yes": 442
+    },
+    {
+      "abstain": 14,
+      "date": "2025-11-21T10:11:22",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/44/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 185,
+      "no": 184,
+      "notParticipating": 18,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 11 Sprawozdanie Komisji o rządowym projekcie ustawy zmieniającej ustawę o zmianie ustawy - Kodeks karny oraz niektórych innych ustaw oraz o zmianie niektórych innych ustaw (druki nr 1863 i 1926)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 442,
+      "votingNumber": 44,
+      "yes": 244
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-21T10:12:22",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/45/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 20,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 12 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o podatku od spadków i darowizn (druki nr 1837 i 1924)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 440,
+      "votingNumber": 45,
+      "yes": 440
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-21T10:13:19",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/46/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 200,
+      "no": 199,
+      "notParticipating": 19,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 13 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o systemie zarządzania emisjami gazów cieplarnianych i innych substancji oraz niektórych innych ustaw (druki nr 1855 i 1969)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 441,
+      "votingNumber": 46,
+      "yes": 242
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-21T10:15:41",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/47/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 241,
+      "no": 240,
+      "notParticipating": 21,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o świadczeniu usług drogą elektroniczną oraz niektórych innych ustaw (druki nr 1757, 1922 i 1922-A)",
+      "topic": "wniosek o odrzucenie w całości projektu.",
+      "totalVoted": 439,
+      "votingNumber": 47,
+      "yes": 199
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-21T10:17:16",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/48/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 238,
+      "no": 237,
+      "notParticipating": 19,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o świadczeniu usług drogą elektroniczną oraz niektórych innych ustaw (druki nr 1757, 1922 i 1922-A)",
+      "topic": "poprawki nr 1, 7, 11, 15, 17-18, 20, 24-25, 39, 49, 52 i 55",
+      "totalVoted": 441,
+      "votingNumber": 48,
+      "yes": 204
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-21T10:18:05",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/49/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 180,
+      "no": 179,
+      "notParticipating": 20,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o świadczeniu usług drogą elektroniczną oraz niektórych innych ustaw (druki nr 1757, 1922 i 1922-A)",
+      "topic": "poprawka 2",
+      "totalVoted": 440,
+      "votingNumber": 49,
+      "yes": 261
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-21T10:18:40",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/50/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 186,
+      "no": 185,
+      "notParticipating": 20,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o świadczeniu usług drogą elektroniczną oraz niektórych innych ustaw (druki nr 1757, 1922 i 1922-A)",
+      "topic": "poprawka 3",
+      "totalVoted": 440,
+      "votingNumber": 50,
+      "yes": 255
+    },
+    {
+      "abstain": 13,
+      "date": "2025-11-21T10:19:24",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/51/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 235,
+      "no": 234,
+      "notParticipating": 22,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o świadczeniu usług drogą elektroniczną oraz niektórych innych ustaw (druki nr 1757, 1922 i 1922-A)",
+      "topic": "poprawki nr 4 i 12",
+      "totalVoted": 438,
+      "votingNumber": 51,
+      "yes": 191
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-21T10:20:04",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/52/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 236,
+      "no": 235,
+      "notParticipating": 22,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o świadczeniu usług drogą elektroniczną oraz niektórych innych ustaw (druki nr 1757, 1922 i 1922-A)",
+      "topic": "poprawka 5",
+      "totalVoted": 438,
+      "votingNumber": 52,
+      "yes": 203
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-21T10:20:40",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/53/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 182,
+      "no": 181,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o świadczeniu usług drogą elektroniczną oraz niektórych innych ustaw (druki nr 1757, 1922 i 1922-A)",
+      "topic": "poprawki nr 6, 10 i 14",
+      "totalVoted": 437,
+      "votingNumber": 53,
+      "yes": 256
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-21T10:21:18",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/54/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 235,
+      "no": 234,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o świadczeniu usług drogą elektroniczną oraz niektórych innych ustaw (druki nr 1757, 1922 i 1922-A)",
+      "topic": "poprawki nr 8-9",
+      "totalVoted": 434,
+      "votingNumber": 54,
+      "yes": 200
+    },
+    {
+      "abstain": 17,
+      "date": "2025-11-21T10:21:55",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/55/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 181,
+      "no": 180,
+      "notParticipating": 22,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o świadczeniu usług drogą elektroniczną oraz niektórych innych ustaw (druki nr 1757, 1922 i 1922-A)",
+      "topic": "poprawka 13",
+      "totalVoted": 438,
+      "votingNumber": 55,
+      "yes": 241
+    },
+    {
+      "abstain": 17,
+      "date": "2025-11-21T10:22:41",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/56/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 182,
+      "no": 181,
+      "notParticipating": 20,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o świadczeniu usług drogą elektroniczną oraz niektórych innych ustaw (druki nr 1757, 1922 i 1922-A)",
+      "topic": "poprawki nr 16, 54 oraz 56-57",
+      "totalVoted": 440,
+      "votingNumber": 56,
+      "yes": 242
+    },
+    {
+      "abstain": 17,
+      "date": "2025-11-21T10:23:15",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/57/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 179,
+      "no": 178,
+      "notParticipating": 21,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o świadczeniu usług drogą elektroniczną oraz niektórych innych ustaw (druki nr 1757, 1922 i 1922-A)",
+      "topic": "poprawka 19",
+      "totalVoted": 439,
+      "votingNumber": 57,
+      "yes": 244
+    },
+    {
+      "abstain": 1,
+      "date": "2025-11-21T10:23:51",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/58/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 238,
+      "no": 237,
+      "notParticipating": 20,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o świadczeniu usług drogą elektroniczną oraz niektórych innych ustaw (druki nr 1757, 1922 i 1922-A)",
+      "topic": "poprawka 21",
+      "totalVoted": 440,
+      "votingNumber": 58,
+      "yes": 202
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-21T10:24:24",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/59/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 181,
+      "no": 180,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o świadczeniu usług drogą elektroniczną oraz niektórych innych ustaw (druki nr 1757, 1922 i 1922-A)",
+      "topic": "poprawka 22",
+      "totalVoted": 437,
+      "votingNumber": 59,
+      "yes": 257
+    },
+    {
+      "abstain": 17,
+      "date": "2025-11-21T10:24:57",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/60/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 181,
+      "no": 180,
+      "notParticipating": 22,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o świadczeniu usług drogą elektroniczną oraz niektórych innych ustaw (druki nr 1757, 1922 i 1922-A)",
+      "topic": "poprawka 23",
+      "totalVoted": 438,
+      "votingNumber": 60,
+      "yes": 241
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-21T10:25:32",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/61/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 238,
+      "no": 237,
+      "notParticipating": 19,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o świadczeniu usług drogą elektroniczną oraz niektórych innych ustaw (druki nr 1757, 1922 i 1922-A)",
+      "topic": "poprawka 26",
+      "totalVoted": 441,
+      "votingNumber": 61,
+      "yes": 204
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-21T10:26:03",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/62/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 182,
+      "no": 181,
+      "notParticipating": 25,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o świadczeniu usług drogą elektroniczną oraz niektórych innych ustaw (druki nr 1757, 1922 i 1922-A)",
+      "topic": "poprawka 27",
+      "totalVoted": 435,
+      "votingNumber": 62,
+      "yes": 254
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-21T10:26:43",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/63/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 241,
+      "no": 240,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o świadczeniu usług drogą elektroniczną oraz niektórych innych ustaw (druki nr 1757, 1922 i 1922-A)",
+      "topic": "poprawki nr 28-29",
+      "totalVoted": 436,
+      "votingNumber": 63,
+      "yes": 196
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-21T10:28:10",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/64/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 184,
+      "no": 183,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o świadczeniu usług drogą elektroniczną oraz niektórych innych ustaw (druki nr 1757, 1922 i 1922-A)",
+      "topic": "poprawka 30",
+      "totalVoted": 437,
+      "votingNumber": 64,
+      "yes": 254
+    },
+    {
+      "abstain": 17,
+      "date": "2025-11-21T10:28:48",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/65/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 183,
+      "no": 182,
+      "notParticipating": 21,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o świadczeniu usług drogą elektroniczną oraz niektórych innych ustaw (druki nr 1757, 1922 i 1922-A)",
+      "topic": "poprawka 31",
+      "totalVoted": 439,
+      "votingNumber": 65,
+      "yes": 240
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-21T10:29:26",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/66/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 185,
+      "no": 184,
+      "notParticipating": 18,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o świadczeniu usług drogą elektroniczną oraz niektórych innych ustaw (druki nr 1757, 1922 i 1922-A)",
+      "topic": "poprawka 32",
+      "totalVoted": 442,
+      "votingNumber": 66,
+      "yes": 258
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-21T10:30:00",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/67/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 184,
+      "no": 183,
+      "notParticipating": 18,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o świadczeniu usług drogą elektroniczną oraz niektórych innych ustaw (druki nr 1757, 1922 i 1922-A)",
+      "topic": "poprawka 33",
+      "totalVoted": 442,
+      "votingNumber": 67,
+      "yes": 259
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-21T10:30:37",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/68/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 200,
+      "no": 199,
+      "notParticipating": 21,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o świadczeniu usług drogą elektroniczną oraz niektórych innych ustaw (druki nr 1757, 1922 i 1922-A)",
+      "topic": "poprawka 34",
+      "totalVoted": 439,
+      "votingNumber": 68,
+      "yes": 240
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-21T10:31:11",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/69/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 183,
+      "no": 182,
+      "notParticipating": 25,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o świadczeniu usług drogą elektroniczną oraz niektórych innych ustaw (druki nr 1757, 1922 i 1922-A)",
+      "topic": "poprawka 35",
+      "totalVoted": 435,
+      "votingNumber": 69,
+      "yes": 253
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-21T10:31:47",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/70/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 184,
+      "no": 183,
+      "notParticipating": 21,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o świadczeniu usług drogą elektroniczną oraz niektórych innych ustaw (druki nr 1757, 1922 i 1922-A)",
+      "topic": "poprawka 36",
+      "totalVoted": 439,
+      "votingNumber": 70,
+      "yes": 256
+    },
+    {
+      "abstain": 17,
+      "date": "2025-11-21T10:32:22",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/71/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 183,
+      "no": 182,
+      "notParticipating": 22,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o świadczeniu usług drogą elektroniczną oraz niektórych innych ustaw (druki nr 1757, 1922 i 1922-A)",
+      "topic": "poprawka 37",
+      "totalVoted": 438,
+      "votingNumber": 71,
+      "yes": 239
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-21T10:33:01",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/72/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 184,
+      "no": 183,
+      "notParticipating": 21,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o świadczeniu usług drogą elektroniczną oraz niektórych innych ustaw (druki nr 1757, 1922 i 1922-A)",
+      "topic": "poprawka 38",
+      "totalVoted": 439,
+      "votingNumber": 72,
+      "yes": 256
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-21T10:33:46",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/73/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 184,
+      "no": 183,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o świadczeniu usług drogą elektroniczną oraz niektórych innych ustaw (druki nr 1757, 1922 i 1922-A)",
+      "topic": "poprawki nr 40-41",
+      "totalVoted": 437,
+      "votingNumber": 73,
+      "yes": 254
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-21T10:34:19",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/74/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 183,
+      "no": 182,
+      "notParticipating": 22,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o świadczeniu usług drogą elektroniczną oraz niektórych innych ustaw (druki nr 1757, 1922 i 1922-A)",
+      "topic": "poprawka 42",
+      "totalVoted": 438,
+      "votingNumber": 74,
+      "yes": 256
+    },
+    {
+      "abstain": 17,
+      "date": "2025-11-21T10:34:59",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/75/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 184,
+      "no": 183,
+      "notParticipating": 19,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o świadczeniu usług drogą elektroniczną oraz niektórych innych ustaw (druki nr 1757, 1922 i 1922-A)",
+      "topic": "poprawki nr 43 i 51",
+      "totalVoted": 441,
+      "votingNumber": 75,
+      "yes": 241
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-21T10:35:40",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/76/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 181,
+      "no": 180,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o świadczeniu usług drogą elektroniczną oraz niektórych innych ustaw (druki nr 1757, 1922 i 1922-A)",
+      "topic": "poprawki nr 44-45",
+      "totalVoted": 437,
+      "votingNumber": 76,
+      "yes": 257
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-21T10:36:26",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/77/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 184,
+      "no": 183,
+      "notParticipating": 19,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o świadczeniu usług drogą elektroniczną oraz niektórych innych ustaw (druki nr 1757, 1922 i 1922-A)",
+      "topic": "poprawki nr 46-47",
+      "totalVoted": 441,
+      "votingNumber": 77,
+      "yes": 258
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-21T10:37:26",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/78/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 185,
+      "no": 184,
+      "notParticipating": 18,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o świadczeniu usług drogą elektroniczną oraz niektórych innych ustaw (druki nr 1757, 1922 i 1922-A)",
+      "topic": "poprawki nr 48 i 50",
+      "totalVoted": 442,
+      "votingNumber": 78,
+      "yes": 258
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-21T10:38:01",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/79/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 184,
+      "no": 183,
+      "notParticipating": 20,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o świadczeniu usług drogą elektroniczną oraz niektórych innych ustaw (druki nr 1757, 1922 i 1922-A)",
+      "topic": "poprawka 53",
+      "totalVoted": 440,
+      "votingNumber": 79,
+      "yes": 257
+    },
+    {
+      "abstain": 5,
+      "date": "2025-11-21T10:38:55",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/80/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 201,
+      "no": 200,
+      "notParticipating": 18,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o świadczeniu usług drogą elektroniczną oraz niektórych innych ustaw (druki nr 1757, 1922 i 1922-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 442,
+      "votingNumber": 80,
+      "yes": 237
+    },
+    {
+      "abstain": 172,
+      "date": "2025-11-21T10:40:05",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/81/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 3,
+      "no": 2,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 15 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie niektórych ustaw w celu usprawnienia działań Sił Zbrojnych Rzeczypospolitej Polskiej na wypadek zagrożenia bezpieczeństwa państwa na polskich obszarach morskich oraz zapewnienia bezpieczeństwa na Morzu Bałtyckim (druki nr 1862 i 1928)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 437,
+      "votingNumber": 81,
+      "yes": 263
+    },
+    {
+      "abstain": 1,
+      "date": "2025-11-21T10:42:36",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/82/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 409,
+      "no": 408,
+      "notParticipating": 21,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 16 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Centralnym Azylu dla Zwierząt (druki nr 1861, 1910 i 1910-A)",
+      "topic": "wniosek mniejszości 1",
+      "totalVoted": 439,
+      "votingNumber": 82,
+      "yes": 30
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-21T10:43:26",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/83/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 242,
+      "no": 241,
+      "notParticipating": 25,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 16 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Centralnym Azylu dla Zwierząt (druki nr 1861, 1910 i 1910-A)",
+      "topic": "poprawki nr 1, 6 i 10",
+      "totalVoted": 435,
+      "votingNumber": 83,
+      "yes": 194
+    },
+    {
+      "abstain": 215,
+      "date": "2025-11-21T10:44:08",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/84/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 13,
+      "no": 12,
+      "notParticipating": 20,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 16 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Centralnym Azylu dla Zwierząt (druki nr 1861, 1910 i 1910-A)",
+      "topic": "poprawki nr 2-3 i 7",
+      "totalVoted": 440,
+      "votingNumber": 84,
+      "yes": 213
+    },
+    {
+      "abstain": 18,
+      "date": "2025-11-21T10:44:42",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/85/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 239,
+      "no": 238,
+      "notParticipating": 25,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 16 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Centralnym Azylu dla Zwierząt (druki nr 1861, 1910 i 1910-A)",
+      "topic": "poprawka 4",
+      "totalVoted": 435,
+      "votingNumber": 85,
+      "yes": 179
+    },
+    {
+      "abstain": 17,
+      "date": "2025-11-21T10:45:18",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/86/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 237,
+      "no": 236,
+      "notParticipating": 19,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 16 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Centralnym Azylu dla Zwierząt (druki nr 1861, 1910 i 1910-A)",
+      "topic": "poprawka 5",
+      "totalVoted": 441,
+      "votingNumber": 86,
+      "yes": 188
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-21T10:45:54",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/87/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 240,
+      "no": 239,
+      "notParticipating": 20,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 16 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Centralnym Azylu dla Zwierząt (druki nr 1861, 1910 i 1910-A)",
+      "topic": "poprawka 8",
+      "totalVoted": 440,
+      "votingNumber": 87,
+      "yes": 201
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-21T10:46:28",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/88/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 257,
+      "no": 256,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 16 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Centralnym Azylu dla Zwierząt (druki nr 1861, 1910 i 1910-A)",
+      "topic": "poprawka 9",
+      "totalVoted": 437,
+      "votingNumber": 88,
+      "yes": 181
+    },
+    {
+      "abstain": 179,
+      "date": "2025-11-21T10:47:03",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/89/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 21,
+      "no": 20,
+      "notParticipating": 21,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 16 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Centralnym Azylu dla Zwierząt (druki nr 1861, 1910 i 1910-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 439,
+      "votingNumber": 89,
+      "yes": 240
+    },
+    {
+      "abstain": 1,
+      "date": "2025-11-21T10:47:58",
+      "description": "całość projektu uchwały",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/90/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 20,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 17 Sprawozdanie Komisji o poselskim projekcie uchwały w sprawie pilnej potrzeby zabezpieczenia terenu wokół Ministerstwa Obrony Narodowej (druki nr 1724 i 1853)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 440,
+      "votingNumber": 90,
+      "yes": 439
+    },
+    {
+      "abstain": 14,
+      "date": "2025-11-21T10:49:30",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/91/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 189,
+      "no": 188,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 18 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw (druki nr 1856 i 1973)",
+      "topic": "wniosek o przystąpienie do trzeciego czytania bez kierowania projektu do komisji",
+      "totalVoted": 437,
+      "votingNumber": 91,
+      "yes": 235
+    },
+    {
+      "abstain": 17,
+      "date": "2025-11-21T10:50:34",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/92/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 238,
+      "no": 237,
+      "notParticipating": 20,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 18 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw (druki nr 1856 i 1973)",
+      "topic": "poprawki nr 1-4 oraz 7-12",
+      "totalVoted": 440,
+      "votingNumber": 92,
+      "yes": 186
+    },
+    {
+      "abstain": 17,
+      "date": "2025-11-21T10:51:09",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/93/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 243,
+      "no": 242,
+      "notParticipating": 19,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 18 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw (druki nr 1856 i 1973)",
+      "topic": "poprawka 5",
+      "totalVoted": 441,
+      "votingNumber": 93,
+      "yes": 182
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-21T10:51:40",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/94/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 254,
+      "no": 253,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 18 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw (druki nr 1856 i 1973)",
+      "topic": "poprawka 6",
+      "totalVoted": 437,
+      "votingNumber": 94,
+      "yes": 184
+    },
+    {
+      "abstain": 16,
+      "date": "2025-11-21T10:52:12",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/95/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 241,
+      "no": 240,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 18 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw (druki nr 1856 i 1973)",
+      "topic": "poprawka 13",
+      "totalVoted": 428,
+      "votingNumber": 95,
+      "yes": 172
+    },
+    {
+      "abstain": 180,
+      "date": "2025-11-21T10:52:45",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/96/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 6,
+      "no": 5,
+      "notParticipating": 18,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 18 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw (druki nr 1856 i 1973)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 442,
+      "votingNumber": 96,
+      "yes": 257
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-21T10:53:58",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/97/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 231,
+      "no": 230,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 19 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o statystyce publicznej oraz niektórych innych ustaw (druki nr 1806 i 1967)",
+      "topic": "wniosek mniejszości 1",
+      "totalVoted": 426,
+      "votingNumber": 97,
+      "yes": 196
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-21T10:54:32",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/98/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 240,
+      "no": 239,
+      "notParticipating": 22,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 19 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o statystyce publicznej oraz niektórych innych ustaw (druki nr 1806 i 1967)",
+      "topic": "wniosek mniejszości 2",
+      "totalVoted": 438,
+      "votingNumber": 98,
+      "yes": 199
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-21T10:55:05",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/99/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 242,
+      "no": 241,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 19 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o statystyce publicznej oraz niektórych innych ustaw (druki nr 1806 i 1967)",
+      "topic": "wniosek mniejszości 3",
+      "totalVoted": 437,
+      "votingNumber": 99,
+      "yes": 196
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-21T10:55:35",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/100/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 243,
+      "no": 242,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 19 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o statystyce publicznej oraz niektórych innych ustaw (druki nr 1806 i 1967)",
+      "topic": "wniosek mniejszości 4",
+      "totalVoted": 431,
+      "votingNumber": 100,
+      "yes": 189
+    },
+    {
+      "abstain": 17,
+      "date": "2025-11-21T10:56:10",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/101/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 240,
+      "no": 239,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 19 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o statystyce publicznej oraz niektórych innych ustaw (druki nr 1806 i 1967)",
+      "topic": "wniosek mniejszości 5",
+      "totalVoted": 437,
+      "votingNumber": 101,
+      "yes": 181
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-21T10:56:42",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/102/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 240,
+      "no": 239,
+      "notParticipating": 22,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 19 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o statystyce publicznej oraz niektórych innych ustaw (druki nr 1806 i 1967)",
+      "topic": "wniosek mniejszości 6",
+      "totalVoted": 438,
+      "votingNumber": 102,
+      "yes": 199
+    },
+    {
+      "abstain": 201,
+      "date": "2025-11-21T10:57:18",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/103/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 19,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 19 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o statystyce publicznej oraz niektórych innych ustaw (druki nr 1806 i 1967)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 441,
+      "votingNumber": 103,
+      "yes": 240
+    },
+    {
+      "abstain": 5,
+      "date": "2025-11-21T10:58:33",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/104/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 234,
+      "no": 233,
+      "notParticipating": 20,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o podatku od wydobycia niektórych kopalin oraz niektórych innych ustaw (druki nr 1881 i 1975)",
+      "topic": "wnioski mniejszości nr 1-2",
+      "totalVoted": 440,
+      "votingNumber": 104,
+      "yes": 202
+    },
+    {
+      "abstain": 15,
+      "date": "2025-11-21T10:59:08",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/105/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 25,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o podatku od wydobycia niektórych kopalin oraz niektórych innych ustaw (druki nr 1881 i 1975)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 435,
+      "votingNumber": 105,
+      "yes": 420
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-21T11:00:57",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/106/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 236,
+      "no": 235,
+      "notParticipating": 22,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 25 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Narodowym Centrum Badań i Rozwoju oraz niektórych innych ustaw (druki nr 1807, 1917 i 1917-A)",
+      "topic": "wniosek o odrzucenie w całości projektu.",
+      "totalVoted": 438,
+      "votingNumber": 106,
+      "yes": 203
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-21T11:01:28",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/107/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 203,
+      "no": 202,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 25 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Narodowym Centrum Badań i Rozwoju oraz niektórych innych ustaw (druki nr 1807, 1917 i 1917-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 436,
+      "votingNumber": 107,
+      "yes": 234
+    },
+    {
+      "abstain": 16,
+      "date": "2025-11-21T11:02:58",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/108/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 232,
+      "no": 231,
+      "notParticipating": 27,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 26 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy - Karta Nauczyciela (druki nr 1945, 1977 i 1977-A)",
+      "topic": "poprawka 1",
+      "totalVoted": 433,
+      "votingNumber": 108,
+      "yes": 186
+    },
+    {
+      "abstain": 17,
+      "date": "2025-11-21T11:03:39",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/109/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 234,
+      "no": 233,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 26 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy - Karta Nauczyciela (druki nr 1945, 1977 i 1977-A)",
+      "topic": "poprawka 2",
+      "totalVoted": 437,
+      "votingNumber": 109,
+      "yes": 187
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-21T11:04:11",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/110/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 20,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 26 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy - Karta Nauczyciela (druki nr 1945, 1977 i 1977-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 440,
+      "votingNumber": 110,
+      "yes": 440
+    },
+    {
+      "abstain": 1,
+      "date": "2025-11-21T11:05:28",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/111/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 27,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 27 Sprawozdanie Komisji o rządowym projekcie ustawy o ratyfikacji Porozumienia wykonawczego między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki do Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki o wzmocnionej współpracy obronnej w sprawie zatrudniania lokalnych pracowników cywilnych, podpisanego w Warszawie dnia 20 lutego 2025 r. oraz w Stuttgarcie dnia 3 kwietnia 2025 r. (druki nr 1796 i 1841)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 433,
+      "votingNumber": 111,
+      "yes": 432
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-21T11:06:37",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/112/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 4,
+      "no": 3,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 28 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o podatku akcyzowym (druki nr 1930 i 1987)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 437,
+      "votingNumber": 112,
+      "yes": 434
+    },
+    {
+      "abstain": 2,
+      "date": "2025-11-21T11:07:33",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/113/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 233,
+      "no": 232,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 29 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (druki nr 1951 i 1989)",
+      "topic": "wniosek mniejszości 1",
+      "totalVoted": 436,
+      "votingNumber": 113,
+      "yes": 202
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-21T11:08:06",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/114/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 19,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 29 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (druki nr 1951 i 1989)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 441,
+      "votingNumber": 114,
+      "yes": 441
+    },
+    {
+      "abstain": 178,
+      "date": "2025-11-21T11:09:24",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/115/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 18,
+      "no": 17,
+      "notParticipating": 22,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 30 Sprawozdanie Komisji o pilnym rządowym projekcie ustawy o zmianie ustawy o środkach ochrony roślin (druki nr 1950 i 1986)",
+      "topic": "wniosek o przystąpienie do trzeciego czytania bez kierowania projektu do komisji",
+      "totalVoted": 438,
+      "votingNumber": 115,
+      "yes": 243
+    },
+    {
+      "abstain": 177,
+      "date": "2025-11-21T11:10:28",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/116/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 242,
+      "no": 241,
+      "notParticipating": 18,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 30 Sprawozdanie Komisji o pilnym rządowym projekcie ustawy o zmianie ustawy o środkach ochrony roślin (druki nr 1950 i 1986)",
+      "topic": "poprawka 1",
+      "totalVoted": 442,
+      "votingNumber": 116,
+      "yes": 24
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-21T11:11:00",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/117/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 235,
+      "no": 234,
+      "notParticipating": 27,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 30 Sprawozdanie Komisji o pilnym rządowym projekcie ustawy o zmianie ustawy o środkach ochrony roślin (druki nr 1950 i 1986)",
+      "topic": "poprawka 2",
+      "totalVoted": 433,
+      "votingNumber": 117,
+      "yes": 199
+    },
+    {
+      "abstain": 177,
+      "date": "2025-11-21T11:11:32",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/118/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 21,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 30 Sprawozdanie Komisji o pilnym rządowym projekcie ustawy o zmianie ustawy o środkach ochrony roślin (druki nr 1950 i 1986)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 439,
+      "votingNumber": 118,
+      "yes": 262
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-21T11:12:43",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/119/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 17,
+      "no": 16,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 31 Sprawozdanie Komisji o pilnym rządowym projekcie ustawy o zmianie ustawy o Funduszu Medycznym (druki nr 1995 i 1998)",
+      "topic": "wniosek o przystąpienie do trzeciego czytania bez kierowania projektu do komisji",
+      "totalVoted": 436,
+      "votingNumber": 119,
+      "yes": 420
+    },
+    {
+      "abstain": 12,
+      "date": "2025-11-21T11:13:56",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/120/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 241,
+      "no": 240,
+      "notParticipating": 20,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 31 Sprawozdanie Komisji o pilnym rządowym projekcie ustawy o zmianie ustawy o Funduszu Medycznym (druki nr 1995 i 1998)",
+      "topic": "wniosek mniejszości 1",
+      "totalVoted": 440,
+      "votingNumber": 120,
+      "yes": 188
+    },
+    {
+      "abstain": 17,
+      "date": "2025-11-21T11:14:27",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/121/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 2,
+      "no": 1,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 31 Sprawozdanie Komisji o pilnym rządowym projekcie ustawy o zmianie ustawy o Funduszu Medycznym (druki nr 1995 i 1998)",
+      "topic": "poprawka 1",
+      "totalVoted": 436,
+      "votingNumber": 121,
+      "yes": 418
+    },
+    {
+      "abstain": 17,
+      "date": "2025-11-21T11:15:07",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/122/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 234,
+      "no": 233,
+      "notParticipating": 19,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 31 Sprawozdanie Komisji o pilnym rządowym projekcie ustawy o zmianie ustawy o Funduszu Medycznym (druki nr 1995 i 1998)",
+      "topic": "wnioski mniejszości nr 2-3",
+      "totalVoted": 441,
+      "votingNumber": 122,
+      "yes": 191
+    },
+    {
+      "abstain": 15,
+      "date": "2025-11-21T11:15:44",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/123/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 31 Sprawozdanie Komisji o pilnym rządowym projekcie ustawy o zmianie ustawy o Funduszu Medycznym (druki nr 1995 i 1998)",
+      "topic": "poprawki nr 2-3",
+      "totalVoted": 437,
+      "votingNumber": 123,
+      "yes": 422
+    },
+    {
+      "abstain": 13,
+      "date": "2025-11-21T11:16:16",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/124/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 236,
+      "no": 235,
+      "notParticipating": 21,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 31 Sprawozdanie Komisji o pilnym rządowym projekcie ustawy o zmianie ustawy o Funduszu Medycznym (druki nr 1995 i 1998)",
+      "topic": "wniosek mniejszości 4",
+      "totalVoted": 439,
+      "votingNumber": 124,
+      "yes": 191
+    },
+    {
+      "abstain": 199,
+      "date": "2025-11-21T11:16:54",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/125/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 19,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 31 Sprawozdanie Komisji o pilnym rządowym projekcie ustawy o zmianie ustawy o Funduszu Medycznym (druki nr 1995 i 1998)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 441,
+      "votingNumber": 125,
+      "yes": 242
+    },
+    {
+      "abstain": 16,
+      "date": "2025-11-21T11:19:17",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/126/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 21,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 32 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin oraz ustawy o Krajowej Administracji Skarbowej oraz senackim projekcie ustawy o zmianie ustawy o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin (druki nr 1858, 232 i 1997)",
+      "topic": "wniosek o przystąpienie do trzeciego czytania bez kierowania projektu do komisji",
+      "totalVoted": 439,
+      "votingNumber": 126,
+      "yes": 423
+    },
+    {
+      "abstain": 5,
+      "date": "2025-11-21T11:20:52",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/127/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 233,
+      "no": 232,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 32 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin oraz ustawy o Krajowej Administracji Skarbowej oraz senackim projekcie ustawy o zmianie ustawy o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin (druki nr 1858, 232 i 1997)",
+      "topic": "wnioski mniejszości nr 1-7",
+      "totalVoted": 437,
+      "votingNumber": 127,
+      "yes": 200
+    },
+    {
+      "abstain": 179,
+      "date": "2025-11-21T11:21:25",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/128/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 235,
+      "no": 234,
+      "notParticipating": 25,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 32 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin oraz ustawy o Krajowej Administracji Skarbowej oraz senackim projekcie ustawy o zmianie ustawy o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin (druki nr 1858, 232 i 1997)",
+      "topic": "poprawka 1",
+      "totalVoted": 435,
+      "votingNumber": 128,
+      "yes": 22
+    },
+    {
+      "abstain": 1,
+      "date": "2025-11-21T11:21:59",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/129/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 20,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 32 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin oraz ustawy o Krajowej Administracji Skarbowej oraz senackim projekcie ustawy o zmianie ustawy o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin (druki nr 1858, 232 i 1997)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 440,
+      "votingNumber": 129,
+      "yes": 439
+    },
+    {
+      "abstain": 18,
+      "date": "2025-11-21T11:23:18",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/130/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 19,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 46 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw (druki nr 1985 i 1993)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 441,
+      "votingNumber": 130,
+      "yes": 423
+    },
+    {
+      "abstain": 18,
+      "date": "2025-11-21T11:24:29",
+      "description": "wniosek o odrzucenie projektu ustawy w pierwszym czytaniu",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/131/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 237,
+      "no": 236,
+      "notParticipating": 18,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 33 Pierwsze czytanie rządowego projektu ustawy o koordynacji działań antykorupcyjnych oraz o likwidacji Centralnego Biura Antykorupcyjnego (druk nr 1884)",
+      "topic": "wniosek o odrzucenie projektu w pierwszym czytaniu.",
+      "totalVoted": 442,
+      "votingNumber": 131,
+      "yes": 188
+    },
+    {
+      "abstain": 180,
+      "date": "2025-11-21T11:26:27",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/132/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 220,
+      "no": 255,
+      "notParticipating": 22,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 35 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy - Prawo o notariacie oraz ustawy o księgach wieczystych i hipotece (druki nr 1934 i 1946)",
+      "topic": "poprawka 1",
+      "totalVoted": 438,
+      "votingNumber": 132,
+      "yes": 3
+    },
+    {
+      "abstain": 32,
+      "date": "2025-11-21T11:28:11",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/133/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 219,
+      "no": 237,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 36 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o cudzoziemcach oraz niektórych innych ustaw (druki nr 1935 i 1949)",
+      "topic": "poprawki nr 1-8",
+      "totalVoted": 437,
+      "votingNumber": 133,
+      "yes": 168
+    },
+    {
+      "abstain": 197,
+      "date": "2025-11-21T11:29:41",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/134/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 218,
+      "no": 237,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 37 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zdrowiu zwierząt (druki nr 1936 i 2000)",
+      "topic": "poprawki nr 1, 3-8 i 10",
+      "totalVoted": 434,
+      "votingNumber": 134,
+      "yes": 0
+    },
+    {
+      "abstain": 201,
+      "date": "2025-11-21T11:30:41",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/135/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 221,
+      "no": 240,
+      "notParticipating": 19,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 37 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zdrowiu zwierząt (druki nr 1936 i 2000)",
+      "topic": "poprawka 2",
+      "totalVoted": 441,
+      "votingNumber": 135,
+      "yes": 0
+    },
+    {
+      "abstain": 180,
+      "date": "2025-11-21T11:31:25",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/136/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 220,
+      "no": 257,
+      "notParticipating": 22,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 37 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zdrowiu zwierząt (druki nr 1936 i 2000)",
+      "topic": "poprawka 9",
+      "totalVoted": 438,
+      "votingNumber": 136,
+      "yes": 1
+    },
+    {
+      "abstain": 198,
+      "date": "2025-11-21T11:32:07",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/137/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 219,
+      "no": 239,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 37 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zdrowiu zwierząt (druki nr 1936 i 2000)",
+      "topic": "poprawka 11",
+      "totalVoted": 437,
+      "votingNumber": 137,
+      "yes": 0
+    },
+    {
+      "abstain": 199,
+      "date": "2025-11-21T11:32:50",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/138/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 220,
+      "no": 239,
+      "notParticipating": 22,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 37 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zdrowiu zwierząt (druki nr 1936 i 2000)",
+      "topic": "poprawka 12",
+      "totalVoted": 438,
+      "votingNumber": 138,
+      "yes": 0
+    },
+    {
+      "abstain": 199,
+      "date": "2025-11-21T11:33:36",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/139/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 220,
+      "no": 240,
+      "notParticipating": 21,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 37 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zdrowiu zwierząt (druki nr 1936 i 2000)",
+      "topic": "poprawka 13",
+      "totalVoted": 439,
+      "votingNumber": 139,
+      "yes": 0
+    },
+    {
+      "abstain": 6,
+      "date": "2025-11-21T11:49:20",
+      "description": "wniosek o powołanie Karola Polejowskiego na Prezesa Instytutu Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/140/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 228,
+      "no": 227,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 38 Powołanie Prezesa Instytutu Pamięci Narodowej - Komisji Ścigania Zbrodni Przeciwko Narodowi Polskiemu (druki nr 1900 i 1976)",
+      "topic": "Głosowanie nad kandydaturą Pana Karola Polejowskiego",
+      "totalVoted": 434,
+      "votingNumber": 140,
+      "yes": 201
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-21T11:54:33",
+      "description": "wniosek Ministra Finansów i Gospodarki o powołanie Sławomira Dudka na Przewodniczącego Rady Fiskalnej",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/141/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 6,
+      "no": 5,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 39 Powołanie członków Rady Fiskalnej (druki nr 1784, 1785, 1786, 1787, 1788, 1789, 1790, 1978, 1979, 1980, 1981, 1982, 1983 i 1984)",
+      "topic": "Głosowanie nad kandydaturą Pana Sławomira Dudka",
+      "totalVoted": 426,
+      "votingNumber": 141,
+      "yes": 421
+    },
+    {
+      "abstain": 4,
+      "date": "2025-11-21T11:55:56",
+      "description": "wniosek Prezydenta Rzeczypospolitej Polskiej o powołanie Barbary Brodowskiej-Mączki  na członka Rady Fiskalnej",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/142/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 200,
+      "no": 199,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 39 Powołanie członków Rady Fiskalnej (druki nr 1784, 1785, 1786, 1787, 1788, 1789, 1790, 1978, 1979, 1980, 1981, 1982, 1983 i 1984)",
+      "topic": "Głosowanie nad kandydaturą Pani Barbary Brodowskiej - Mączki",
+      "totalVoted": 427,
+      "votingNumber": 142,
+      "yes": 224
+    },
+    {
+      "abstain": 1,
+      "date": "2025-11-21T11:56:58",
+      "description": "wniosek Prezesa Najwyższej Izby Kontroli o powołanie Krzysztofa Kluzy na członka Rady Fiskalnej",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/143/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 246,
+      "no": 245,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 39 Powołanie członków Rady Fiskalnej (druki nr 1784, 1785, 1786, 1787, 1788, 1789, 1790, 1978, 1979, 1980, 1981, 1982, 1983 i 1984)",
+      "topic": "Głosowanie nad kandydaturą Pana Krzysztofa Kluzy",
+      "totalVoted": 428,
+      "votingNumber": 143,
+      "yes": 182
+    },
+    {
+      "abstain": 3,
+      "date": "2025-11-21T11:58:05",
+      "description": "wniosek Prezesa Najwyższej Izby Kontroli o powołanie Augustyna Kubika na członka Rady Fiskalnej",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/144/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 411,
+      "no": 410,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 39 Powołanie członków Rady Fiskalnej (druki nr 1784, 1785, 1786, 1787, 1788, 1789, 1790, 1978, 1979, 1980, 1981, 1982, 1983 i 1984)",
+      "topic": "Głosowanie nad kandydaturą Pana Augustyna Kubika",
+      "totalVoted": 431,
+      "votingNumber": 144,
+      "yes": 18
+    },
+    {
+      "abstain": 1,
+      "date": "2025-11-21T11:58:53",
+      "description": "wniosek Prezesa Najwyższej Izby Kontroli o powołanie Wojciecha Niemyskiego na członka Rady Fiskalnej",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/145/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 191,
+      "no": 190,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 39 Powołanie członków Rady Fiskalnej (druki nr 1784, 1785, 1786, 1787, 1788, 1789, 1790, 1978, 1979, 1980, 1981, 1982, 1983 i 1984)",
+      "topic": "Głosowanie nad kandydaturą Pana Wojciecha Niemyskiego",
+      "totalVoted": 425,
+      "votingNumber": 145,
+      "yes": 234
+    },
+    {
+      "abstain": 1,
+      "date": "2025-11-21T11:59:43",
+      "description": "wniosek Konferencji Rektorów Akademickich Szkół Polskich o powołanie Beaty Guziejewskiej na członka Rady Fiskalnej",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/146/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 429,
+      "no": 428,
+      "notParticipating": 31,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 39 Powołanie członków Rady Fiskalnej (druki nr 1784, 1785, 1786, 1787, 1788, 1789, 1790, 1978, 1979, 1980, 1981, 1982, 1983 i 1984)",
+      "topic": "Głosowanie nad kandydaturą Pani Beaty Guziejewskiej",
+      "totalVoted": 429,
+      "votingNumber": 146,
+      "yes": 0
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-21T12:00:29",
+      "description": "wniosek Konferencji Rektorów Akademickich Szkół Polskich o powołanie Andrzeja Torója na członka Rady Fiskalnej",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/147/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 192,
+      "no": 191,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 39 Powołanie członków Rady Fiskalnej (druki nr 1784, 1785, 1786, 1787, 1788, 1789, 1790, 1978, 1979, 1980, 1981, 1982, 1983 i 1984)",
+      "topic": "Głosowanie nad kandydaturą Pana Andrzeja Torója",
+      "totalVoted": 426,
+      "votingNumber": 147,
+      "yes": 235
+    },
+    {
+      "abstain": 17,
+      "date": "2025-11-21T12:01:19",
+      "description": "wniosek strony pracowników Rady Dialogu Społecznego o powołanie Jakuba Sawulskiego na członka Rady Fiskalnej",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/148/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 403,
+      "no": 402,
+      "notParticipating": 36,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 39 Powołanie członków Rady Fiskalnej (druki nr 1784, 1785, 1786, 1787, 1788, 1789, 1790, 1978, 1979, 1980, 1981, 1982, 1983 i 1984)",
+      "topic": "Głosowanie nad kandydaturą Pana Jakuba Sawulskiego",
+      "totalVoted": 424,
+      "votingNumber": 148,
+      "yes": 5
+    },
+    {
+      "abstain": 0,
+      "date": "2025-11-21T12:02:08",
+      "description": "wniosek strony pracowników Rady Dialogu Społecznego o powołanie Marcina Wrońskiego na członka Rady Fiskalnej",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/149/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 180,
+      "no": 179,
+      "notParticipating": 39,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 39 Powołanie członków Rady Fiskalnej (druki nr 1784, 1785, 1786, 1787, 1788, 1789, 1790, 1978, 1979, 1980, 1981, 1982, 1983 i 1984)",
+      "topic": "Głosowanie nad kandydaturą Pana Marcina Wrońskiego",
+      "totalVoted": 421,
+      "votingNumber": 149,
+      "yes": 242
+    },
+    {
+      "abstain": 1,
+      "date": "2025-11-21T12:02:55",
+      "description": "wniosek strony pracodawców Rady Dialogu Społecznego o powołanie Marcina Mrowca na członka Rady Fiskalnej",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/150/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 400,
+      "no": 399,
+      "notParticipating": 44,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 39 Powołanie członków Rady Fiskalnej (druki nr 1784, 1785, 1786, 1787, 1788, 1789, 1790, 1978, 1979, 1980, 1981, 1982, 1983 i 1984)",
+      "topic": "Głosowanie nad kandydaturą Pana Marcina Mrowca",
+      "totalVoted": 416,
+      "votingNumber": 150,
+      "yes": 16
+    },
+    {
+      "abstain": 6,
+      "date": "2025-11-21T12:03:41",
+      "description": "wniosek strony pracodawców Rady Dialogu Społecznego o powołanie Jacka Tomkiewicza na członka Rady Fiskalnej",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/151/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 181,
+      "no": 180,
+      "notParticipating": 42,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 39 Powołanie członków Rady Fiskalnej (druki nr 1784, 1785, 1786, 1787, 1788, 1789, 1790, 1978, 1979, 1980, 1981, 1982, 1983 i 1984)",
+      "topic": "Głosowanie nad kandydaturą Pana Jacka Tomkiewicza",
+      "totalVoted": 418,
+      "votingNumber": 151,
+      "yes": 232
+    },
+    {
+      "abstain": 6,
+      "date": "2025-11-21T12:04:31",
+      "description": "wniosek strony samorządowej Komisji Wspólnej Rządu i Samorządu Terytorialnego o powołanie Kariny Bedrunki-Gudaniec na członka Rady Fiskalnej",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/152/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 409,
+      "no": 408,
+      "notParticipating": 45,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 39 Powołanie członków Rady Fiskalnej (druki nr 1784, 1785, 1786, 1787, 1788, 1789, 1790, 1978, 1979, 1980, 1981, 1982, 1983 i 1984)",
+      "topic": "Głosowanie nad kandydaturą Pani Kariny Bedrunki - Gudaniec",
+      "totalVoted": 415,
+      "votingNumber": 152,
+      "yes": 1
+    },
+    {
+      "abstain": 6,
+      "date": "2025-11-21T12:05:12",
+      "description": "wniosek strony samorządowej Komisji Wspólnej Rządu i Samorządu Terytorialnego o powołanie Michała Bitnera na członka Rady Fiskalnej",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/153/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 181,
+      "no": 180,
+      "notParticipating": 45,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 39 Powołanie członków Rady Fiskalnej (druki nr 1784, 1785, 1786, 1787, 1788, 1789, 1790, 1978, 1979, 1980, 1981, 1982, 1983 i 1984)",
+      "topic": "Głosowanie nad kandydaturą Pana Michała Bitnera",
+      "totalVoted": 415,
+      "votingNumber": 153,
+      "yes": 229
+    },
+    {
+      "abstain": 166,
+      "date": "2025-11-21T12:06:23",
+      "description": "wniosek z druku nr 1994",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/154/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 2,
+      "no": 1,
+      "notParticipating": 64,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 47 Zmiany w składzie sekretarzy Sejmu (druk nr 1994)",
+      "topic": "głosowanie nad przyjęciem wniosku w brzmieniu z druku nr 1994",
+      "totalVoted": 396,
+      "votingNumber": 154,
+      "yes": 229
+    },
+    {
+      "abstain": 3,
+      "date": "2025-11-21T12:07:26",
+      "description": "wniosek z druku nr 2001",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/155/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 3,
+      "no": 2,
+      "notParticipating": 83,
+      "present": 0,
+      "sitting": 45,
+      "sittingDay": 4,
+      "term": 10,
+      "title": "Pkt. 48 Zmiany w składach osobowych komisji sejmowych (druk nr 2001)",
+      "topic": "głosowanie nad przyjęciem wniosku z druku.",
+      "totalVoted": 377,
+      "votingNumber": 155,
+      "yes": 372
+    }
+  ],
+  "_pobrano": "2026-03-24T10:36:29Z"
+}

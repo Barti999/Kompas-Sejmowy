@@ -1,0 +1,1912 @@
+{
+  "posiedzenie": 29,
+  "data": "",
+  "tytul": "29. Posiedzenie Sejmu RP w dniach 20 i 21 lutego 2025 r.",
+  "glosowania": [
+    {
+      "abstain": 4,
+      "date": "2025-02-20T10:17:18",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/1/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 230,
+      "no": 229,
+      "notParticipating": 40,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "29. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 20 i 21 lutego 2025 r.",
+      "topic": "Wniosek o przerwę",
+      "totalVoted": 420,
+      "votingNumber": 1,
+      "yes": 187
+    },
+    {
+      "abstain": 6,
+      "date": "2025-02-20T10:21:53",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/2/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 240,
+      "no": 239,
+      "notParticipating": 39,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "29. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 20 i 21 lutego 2025 r.",
+      "topic": "wniosek o odroczenie posiedzenia",
+      "totalVoted": 421,
+      "votingNumber": 2,
+      "yes": 176
+    },
+    {
+      "abstain": 11,
+      "date": "2025-02-20T20:35:25",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/3/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 2,
+      "no": 1,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Głosowania proceduralne",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu, w sprawie sprawozdania z druku nr 1027",
+      "totalVoted": 426,
+      "votingNumber": 3,
+      "yes": 414
+    },
+    {
+      "abstain": 2,
+      "date": "2025-02-20T20:36:00",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/4/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 12,
+      "no": 11,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Głosowania proceduralne",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu, w sprawie sprawozdania z druku nr 1031",
+      "totalVoted": 427,
+      "votingNumber": 4,
+      "yes": 414
+    },
+    {
+      "abstain": 0,
+      "date": "2025-02-20T20:37:24",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/5/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 194,
+      "no": 193,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Głosowania proceduralne",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 54 ust. 5 regulaminu Sejmu, w sprawie sprawozdania z druku nr 1023",
+      "totalVoted": 430,
+      "votingNumber": 5,
+      "yes": 237
+    },
+    {
+      "abstain": 0,
+      "date": "2025-02-20T20:41:32",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/6/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 2,
+      "no": 1,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących oraz ustawy o wpłatach z zysku przez jednoosobowe spółki Skarbu Państwa (druki nr 955 i 968)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 431,
+      "votingNumber": 6,
+      "yes": 430
+    },
+    {
+      "abstain": 1,
+      "date": "2025-02-20T20:45:32",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/7/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 192,
+      "no": 191,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o podatku akcyzowym, ustawy o zdrowiu publicznym oraz niektórych innych ustaw (druki nr 981 i 1015)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 434,
+      "votingNumber": 7,
+      "yes": 242
+    },
+    {
+      "abstain": 9,
+      "date": "2025-02-20T20:47:35",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/8/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 182,
+      "no": 181,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 3 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Ordynacja podatkowa oraz niektórych innych ustaw (druki nr 964 i 1007)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 428,
+      "votingNumber": 8,
+      "yes": 238
+    },
+    {
+      "abstain": 0,
+      "date": "2025-02-20T20:48:42",
+      "description": "wniosek o wyrażenie wotum nieufności wobec Minister do spraw Równości Katarzyny Kotuli",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/9/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "STATUTORY_MAJORITY",
+      "majorityVotes": 231,
+      "no": 232,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 13 Wniosek o wyrażenie wotum nieufności wobec Minister do spraw Równości Katarzyny Kotuli (druki nr 990 i 1018)",
+      "topic": "głosowanie nad wnioskiem o wyrażenie wotum nieufności.",
+      "totalVoted": 428,
+      "votingNumber": 9,
+      "yes": 196
+    },
+    {
+      "abstain": 1,
+      "date": "2025-02-20T20:51:11",
+      "description": "wniosek o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła Pawła Kukiza",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/10/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_STATUTORY_MAJORITY",
+      "majorityVotes": 231,
+      "no": 429,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 7 Sprawozdanie Komisji w sprawie wniosku oskarżyciela prywatnego Pawła Bednarza reprezentowanego przez adwokata Michała Ubika z dnia 4 grudnia 2018 r. o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej posła Pawła Kukiza (druk nr 978)",
+      "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła Pawła Kukiza",
+      "totalVoted": 431,
+      "votingNumber": 10,
+      "yes": 1
+    },
+    {
+      "abstain": 2,
+      "date": "2025-02-20T20:52:45",
+      "description": "wniosek o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła Waldemara Jana Sługockiego",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/11/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_STATUTORY_MAJORITY",
+      "majorityVotes": 231,
+      "no": 256,
+      "notParticipating": 42,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 8 Sprawozdanie Komisji w sprawie wniosku oskarżyciela prywatnego Łukasza Konrada Piebiaka reprezentowanego przez adwokata Krzysztofa Wąsowskiego z dnia 24 kwietnia 2023 r. o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej posła Waldemara Jana Sługockiego (druk nr 1014)",
+      "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła Waldemara Jana Sługockiego",
+      "totalVoted": 418,
+      "votingNumber": 11,
+      "yes": 160
+    },
+    {
+      "abstain": 8,
+      "date": "2025-02-20T20:54:26",
+      "description": "wniosek o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej poseł Anity Kucharskiej-Dziedzic",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/12/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_STATUTORY_MAJORITY",
+      "majorityVotes": 231,
+      "no": 246,
+      "notParticipating": 36,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 9 Sprawozdanie Komisji w sprawie wniosku oskarżyciela prywatnego z dnia 22 kwietnia 2024 r., poprawionego w dniu 12 lipca 2024 r., o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej poseł Anity Kucharskiej-Dziedzic (druk nr 1024)",
+      "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej poseł Anity Kucharskiej-Dziedzic",
+      "totalVoted": 424,
+      "votingNumber": 12,
+      "yes": 170
+    },
+    {
+      "abstain": 0,
+      "date": "2025-02-20T20:56:26",
+      "description": "wniosek o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła Zbigniewa Ziobry",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/13/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_STATUTORY_MAJORITY",
+      "majorityVotes": 231,
+      "no": 199,
+      "notParticipating": 27,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 10 Sprawozdanie Komisji w sprawie wniosku oskarżyciela prywatnego Romana Giertycha reprezentowanego przez adwokata Krzysztofa Pawlaka z dnia 18 grudnia 2023 r., uzupełnionego w dniu 18 czerwca 2024 r., o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej posła Zbigniewa Ziobry (druk nr 1012)",
+      "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła Zbigniewa Ziobry",
+      "totalVoted": 433,
+      "votingNumber": 13,
+      "yes": 234
+    },
+    {
+      "abstain": 0,
+      "date": "2025-02-20T20:59:53",
+      "description": "wniosek Komisji Śledczej o wyrażenie zgody na aresztowanie w celu zapewnienia stawiennictwa na posiedzeniu Sejmowej Komisji Śledczej posła Zbigniewa Ziobry",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/14/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_STATUTORY_MAJORITY",
+      "majorityVotes": 231,
+      "no": 194,
+      "notParticipating": 27,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 11 Sprawozdanie Komisji w sprawie wniosku z dnia 3 lutego 2025 r. Komisji Śledczej do zbadania legalności, prawidłowości oraz celowości czynności operacyjno-rozpoznawczych podejmowanych m.in. z wykorzystaniem oprogramowania Pegasus przez członków Rady Ministrów, służby specjalne, Policję, organy kontroli skarbowej oraz celno-skarbowej, organy powołane do ścigania przestępstw i prokuraturę w okresie od dnia 16 listopada 2015 r. do dnia 20 listopada 2023 r. o wyrażenie przez Sejm zgody na aresztowanie w celu zapewnienia stawiennictwa na posiedzeniu Sejmowej Komisji Śledczej posła Zbigniewa Ziobry (druk nr 1025)",
+      "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na aresztowanie w celu zapewnienia stawiennictwa na posiedzeniu Sejmowej Komisji Śledczej posła Zbigniewa Ziobry",
+      "totalVoted": 433,
+      "votingNumber": 14,
+      "yes": 239
+    },
+    {
+      "abstain": 1,
+      "date": "2025-02-20T21:02:22",
+      "description": "wniosek o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła Marcina Romanowskiego - za czyn określony w punkcie pierwszym wniosku",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/15/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_STATUTORY_MAJORITY",
+      "majorityVotes": 231,
+      "no": 194,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 12 Sprawozdanie Komisji w sprawie wniosku Kierownika Zespołu Śledczego Nr 2 Prokuratury Krajowej z dnia 3 lutego 2025 r. o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej  oraz zatrzymanie i tymczasowe aresztowanie posła Marcina Romanowskiego (druk nr 1026)",
+      "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła Marcina Romanowskiego za czyn określony w punkcie pierwszym",
+      "totalVoted": 434,
+      "votingNumber": 15,
+      "yes": 239
+    },
+    {
+      "abstain": 1,
+      "date": "2025-02-20T21:03:09",
+      "description": "wniosek o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła Marcina Romanowskiego - za czyn określony w punkcie drugim wniosku",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/16/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_STATUTORY_MAJORITY",
+      "majorityVotes": 231,
+      "no": 194,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 12 Sprawozdanie Komisji w sprawie wniosku Kierownika Zespołu Śledczego Nr 2 Prokuratury Krajowej z dnia 3 lutego 2025 r. o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej  oraz zatrzymanie i tymczasowe aresztowanie posła Marcina Romanowskiego (druk nr 1026)",
+      "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła Marcina Romanowskiego za czyn określony w punkcie drugim",
+      "totalVoted": 434,
+      "votingNumber": 16,
+      "yes": 239
+    },
+    {
+      "abstain": 1,
+      "date": "2025-02-20T21:03:56",
+      "description": "wniosek o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła Marcina Romanowskiego - za czyn określony w punkcie trzecim wniosku",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/17/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_STATUTORY_MAJORITY",
+      "majorityVotes": 231,
+      "no": 193,
+      "notParticipating": 28,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 12 Sprawozdanie Komisji w sprawie wniosku Kierownika Zespołu Śledczego Nr 2 Prokuratury Krajowej z dnia 3 lutego 2025 r. o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej  oraz zatrzymanie i tymczasowe aresztowanie posła Marcina Romanowskiego (druk nr 1026)",
+      "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła Marcina Romanowskiego za czyn określony w punkcie trzecim",
+      "totalVoted": 432,
+      "votingNumber": 17,
+      "yes": 238
+    },
+    {
+      "abstain": 1,
+      "date": "2025-02-20T21:04:41",
+      "description": "wniosek o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła Marcina Romanowskiego - za czyn określony w punkcie czwartym wniosku",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/18/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_STATUTORY_MAJORITY",
+      "majorityVotes": 231,
+      "no": 193,
+      "notParticipating": 28,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 12 Sprawozdanie Komisji w sprawie wniosku Kierownika Zespołu Śledczego Nr 2 Prokuratury Krajowej z dnia 3 lutego 2025 r. o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej  oraz zatrzymanie i tymczasowe aresztowanie posła Marcina Romanowskiego (druk nr 1026)",
+      "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła Marcina Romanowskiego za czyn określony w punkcie czwartym",
+      "totalVoted": 432,
+      "votingNumber": 18,
+      "yes": 238
+    },
+    {
+      "abstain": 1,
+      "date": "2025-02-20T21:05:24",
+      "description": "wniosek o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła Marcina Romanowskiego - za czyn określony w punkcie piątym wniosku",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/19/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_STATUTORY_MAJORITY",
+      "majorityVotes": 231,
+      "no": 194,
+      "notParticipating": 27,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 12 Sprawozdanie Komisji w sprawie wniosku Kierownika Zespołu Śledczego Nr 2 Prokuratury Krajowej z dnia 3 lutego 2025 r. o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej  oraz zatrzymanie i tymczasowe aresztowanie posła Marcina Romanowskiego (druk nr 1026)",
+      "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła Marcina Romanowskiego za czyn określony w punkcie piątym",
+      "totalVoted": 433,
+      "votingNumber": 19,
+      "yes": 238
+    },
+    {
+      "abstain": 1,
+      "date": "2025-02-20T21:06:10",
+      "description": "wniosek o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła Marcina Romanowskiego - za czyn określony w punkcie szóstym wniosku",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/20/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_STATUTORY_MAJORITY",
+      "majorityVotes": 231,
+      "no": 193,
+      "notParticipating": 27,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 12 Sprawozdanie Komisji w sprawie wniosku Kierownika Zespołu Śledczego Nr 2 Prokuratury Krajowej z dnia 3 lutego 2025 r. o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej  oraz zatrzymanie i tymczasowe aresztowanie posła Marcina Romanowskiego (druk nr 1026)",
+      "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła Marcina Romanowskiego za czyn określony w punkcie szóstym",
+      "totalVoted": 433,
+      "votingNumber": 20,
+      "yes": 239
+    },
+    {
+      "abstain": 1,
+      "date": "2025-02-20T21:06:59",
+      "description": "wniosek o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła Marcina Romanowskiego - za czyn określony w punkcie siódmym wniosku",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/21/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_STATUTORY_MAJORITY",
+      "majorityVotes": 231,
+      "no": 194,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 12 Sprawozdanie Komisji w sprawie wniosku Kierownika Zespołu Śledczego Nr 2 Prokuratury Krajowej z dnia 3 lutego 2025 r. o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej  oraz zatrzymanie i tymczasowe aresztowanie posła Marcina Romanowskiego (druk nr 1026)",
+      "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła Marcina Romanowskiego za czyn określony w punkcie siódmym",
+      "totalVoted": 434,
+      "votingNumber": 21,
+      "yes": 239
+    },
+    {
+      "abstain": 1,
+      "date": "2025-02-20T21:07:51",
+      "description": "wniosek o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła Marcina Romanowskiego - za czyn określony w punkcie ósmym wniosku",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/22/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_STATUTORY_MAJORITY",
+      "majorityVotes": 231,
+      "no": 194,
+      "notParticipating": 27,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 12 Sprawozdanie Komisji w sprawie wniosku Kierownika Zespołu Śledczego Nr 2 Prokuratury Krajowej z dnia 3 lutego 2025 r. o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej  oraz zatrzymanie i tymczasowe aresztowanie posła Marcina Romanowskiego (druk nr 1026)",
+      "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła Marcina Romanowskiego za czyn określony w punkcie ósmym",
+      "totalVoted": 433,
+      "votingNumber": 22,
+      "yes": 238
+    },
+    {
+      "abstain": 0,
+      "date": "2025-02-20T21:08:38",
+      "description": "wniosek o wyrażenie zgody na zatrzymanie i tymczasowe aresztowanie posła Marcina Romanowskiego",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/23/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_STATUTORY_MAJORITY",
+      "majorityVotes": 231,
+      "no": 195,
+      "notParticipating": 27,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 12 Sprawozdanie Komisji w sprawie wniosku Kierownika Zespołu Śledczego Nr 2 Prokuratury Krajowej z dnia 3 lutego 2025 r. o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej  oraz zatrzymanie i tymczasowe aresztowanie posła Marcina Romanowskiego (druk nr 1026)",
+      "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na zatrzymanie i tymczasowe aresztowanie posła Marcina Romanowskiego",
+      "totalVoted": 433,
+      "votingNumber": 23,
+      "yes": 238
+    },
+    {
+      "abstain": 0,
+      "date": "2025-02-20T21:10:27",
+      "description": "wniosek o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła Jana Krzysztofa Ardanowskiego - za czyn określony w punkcie pierwszym wniosku",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/24/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_STATUTORY_MAJORITY",
+      "majorityVotes": 231,
+      "no": 197,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji w sprawie wniosku Zastępcy Prokuratora Regionalnego w Warszawie z dnia 19 grudnia 2024 r. o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej posła Jana Krzysztofa Ardanowskiego (druk nr 986) - głosowanie",
+      "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła Jana Krzysztofa Ardanowskiego za czyn określony w punkcie pierwszym",
+      "totalVoted": 434,
+      "votingNumber": 24,
+      "yes": 237
+    },
+    {
+      "abstain": 0,
+      "date": "2025-02-20T21:11:17",
+      "description": "wniosek o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła Jana Krzysztofa Ardanowskiego - za czyn określony w drugim wniosku",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/25/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_STATUTORY_MAJORITY",
+      "majorityVotes": 231,
+      "no": 197,
+      "notParticipating": 27,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji w sprawie wniosku Zastępcy Prokuratora Regionalnego w Warszawie z dnia 19 grudnia 2024 r. o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej posła Jana Krzysztofa Ardanowskiego (druk nr 986) - głosowanie",
+      "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła Jana Krzysztofa Ardanowskiego za czyn określony w punkcie drugim",
+      "totalVoted": 433,
+      "votingNumber": 25,
+      "yes": 236
+    },
+    {
+      "abstain": 2,
+      "date": "2025-02-21T18:15:55",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/26/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 238,
+      "no": 237,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "29. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 20 i 21 lutego 2025 r.",
+      "topic": "Wniosek o przerwę",
+      "totalVoted": 431,
+      "votingNumber": 26,
+      "yes": 192
+    },
+    {
+      "abstain": 0,
+      "date": "2025-02-21T18:22:37",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/27/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 230,
+      "no": 0,
+      "notParticipating": 33,
+      "present": 427,
+      "sitting": 29,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "29. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 20 i 21 lutego 2025 r.",
+      "topic": "Głosowanie kworum",
+      "totalVoted": 427,
+      "votingNumber": 27,
+      "yes": 0
+    },
+    {
+      "abstain": 1,
+      "date": "2025-02-21T18:25:26",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/28/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 16,
+      "no": 15,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 15 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych (druki nr 982 i 1029)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 428,
+      "votingNumber": 28,
+      "yes": 412
+    },
+    {
+      "abstain": 2,
+      "date": "2025-02-21T18:30:20",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/29/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 18,
+      "no": 17,
+      "notParticipating": 28,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o rynku mocy oraz niektórych innych ustaw (druki nr 1008 i 1031)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 432,
+      "votingNumber": 29,
+      "yes": 413
+    },
+    {
+      "abstain": 13,
+      "date": "2025-02-21T18:31:48",
+      "description": "wniosek o przystąpienie do drugiego czytania bez kierowania projektu do komisji",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/30/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 236,
+      "no": 235,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 26 Pierwsze czytanie poselskiego projektu ustawy o zmianie ustawy o Instytucie Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu oraz ustawy - Kodeks karny (druk nr 908) - kontynuacja",
+      "topic": "wniosek o przystąpienie do drugiego czytania  bez kierowania projektu do komisji",
+      "totalVoted": 431,
+      "votingNumber": 30,
+      "yes": 183
+    },
+    {
+      "abstain": 16,
+      "date": "2025-02-21T18:34:25",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/31/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 232,
+      "no": 231,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o funduszach promocji produktów rolno-spożywczych (druki nr 953, 987 i 987-A)",
+      "topic": "poprawki nr 1 i 5",
+      "totalVoted": 431,
+      "votingNumber": 31,
+      "yes": 184
+    },
+    {
+      "abstain": 17,
+      "date": "2025-02-21T18:35:00",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/32/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 3,
+      "no": 2,
+      "notParticipating": 31,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o funduszach promocji produktów rolno-spożywczych (druki nr 953, 987 i 987-A)",
+      "topic": "poprawki nr 2-4",
+      "totalVoted": 429,
+      "votingNumber": 32,
+      "yes": 410
+    },
+    {
+      "abstain": 15,
+      "date": "2025-02-21T18:35:29",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/33/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 232,
+      "no": 231,
+      "notParticipating": 28,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o funduszach promocji produktów rolno-spożywczych (druki nr 953, 987 i 987-A)",
+      "topic": "poprawka 6",
+      "totalVoted": 432,
+      "votingNumber": 33,
+      "yes": 186
+    },
+    {
+      "abstain": 9,
+      "date": "2025-02-21T18:35:59",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/34/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 6,
+      "no": 5,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o funduszach promocji produktów rolno-spożywczych (druki nr 953, 987 i 987-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 428,
+      "votingNumber": 34,
+      "yes": 414
+    },
+    {
+      "abstain": 15,
+      "date": "2025-02-21T18:37:22",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/35/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 31,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 5 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (druki nr 933, 957 i 957-A)",
+      "topic": "poprawki nr 1-2",
+      "totalVoted": 429,
+      "votingNumber": 35,
+      "yes": 414
+    },
+    {
+      "abstain": 16,
+      "date": "2025-02-21T18:37:50",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/36/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 5 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (druki nr 933, 957 i 957-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 431,
+      "votingNumber": 36,
+      "yes": 415
+    },
+    {
+      "abstain": 2,
+      "date": "2025-02-21T18:45:41",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/37/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 395,
+      "no": 394,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 6 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (druki nr 924, 1010 i 1010-A)",
+      "topic": "wniosek o odrzucenie w całości projektu.",
+      "totalVoted": 426,
+      "votingNumber": 37,
+      "yes": 30
+    },
+    {
+      "abstain": 0,
+      "date": "2025-02-21T18:46:29",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/38/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 395,
+      "no": 394,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 6 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (druki nr 924, 1010 i 1010-A)",
+      "topic": "poprawka 1",
+      "totalVoted": 426,
+      "votingNumber": 38,
+      "yes": 32
+    },
+    {
+      "abstain": 0,
+      "date": "2025-02-21T18:56:05",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/39/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 393,
+      "no": 392,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 6 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (druki nr 924, 1010 i 1010-A)",
+      "topic": "poprawka 2",
+      "totalVoted": 426,
+      "votingNumber": 39,
+      "yes": 34
+    },
+    {
+      "abstain": 150,
+      "date": "2025-02-21T19:00:29",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/40/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 46,
+      "no": 45,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 6 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (druki nr 924, 1010 i 1010-A)",
+      "topic": "poprawka 3",
+      "totalVoted": 425,
+      "votingNumber": 40,
+      "yes": 230
+    },
+    {
+      "abstain": 0,
+      "date": "2025-02-21T19:00:59",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/41/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 389,
+      "no": 388,
+      "notParticipating": 38,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 6 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (druki nr 924, 1010 i 1010-A)",
+      "topic": "poprawka 4",
+      "totalVoted": 422,
+      "votingNumber": 41,
+      "yes": 34
+    },
+    {
+      "abstain": 0,
+      "date": "2025-02-21T19:01:34",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/42/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 39,
+      "no": 38,
+      "notParticipating": 36,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 6 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (druki nr 924, 1010 i 1010-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 424,
+      "votingNumber": 42,
+      "yes": 386
+    },
+    {
+      "abstain": 1,
+      "date": "2025-02-21T19:04:05",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/43/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 232,
+      "no": 231,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 16 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023-2027 oraz niektórych innych ustaw (druki nr 1009, 1028 i 1028-A)",
+      "topic": "wniosek o odrzucenie w całości projektu.",
+      "totalVoted": 426,
+      "votingNumber": 43,
+      "yes": 194
+    },
+    {
+      "abstain": 0,
+      "date": "2025-02-21T19:10:48",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/44/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 196,
+      "no": 195,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 16 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023-2027 oraz niektórych innych ustaw (druki nr 1009, 1028 i 1028-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 425,
+      "votingNumber": 44,
+      "yes": 230
+    },
+    {
+      "abstain": 4,
+      "date": "2025-02-21T19:14:27",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/45/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 3,
+      "no": 2,
+      "notParticipating": 42,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 17 Sprawozdanie Komisji o rządowym projekcie ustawy o rynku pracy i służbach zatrudnienia (druki nr 948, 1021 i 1021-A)",
+      "topic": "poprawka 1",
+      "totalVoted": 418,
+      "votingNumber": 45,
+      "yes": 412
+    },
+    {
+      "abstain": 9,
+      "date": "2025-02-21T19:14:54",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/46/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 222,
+      "no": 221,
+      "notParticipating": 41,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 17 Sprawozdanie Komisji o rządowym projekcie ustawy o rynku pracy i służbach zatrudnienia (druki nr 948, 1021 i 1021-A)",
+      "topic": "wniosek mniejszości 1",
+      "totalVoted": 419,
+      "votingNumber": 46,
+      "yes": 189
+    },
+    {
+      "abstain": 21,
+      "date": "2025-02-21T19:15:24",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/47/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 208,
+      "no": 207,
+      "notParticipating": 39,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 17 Sprawozdanie Komisji o rządowym projekcie ustawy o rynku pracy i służbach zatrudnienia (druki nr 948, 1021 i 1021-A)",
+      "topic": "wniosek mniejszości 2",
+      "totalVoted": 421,
+      "votingNumber": 47,
+      "yes": 193
+    },
+    {
+      "abstain": 34,
+      "date": "2025-02-21T19:15:53",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/48/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 214,
+      "no": 213,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 17 Sprawozdanie Komisji o rządowym projekcie ustawy o rynku pracy i służbach zatrudnienia (druki nr 948, 1021 i 1021-A)",
+      "topic": "wniosek mniejszości 3",
+      "totalVoted": 426,
+      "votingNumber": 48,
+      "yes": 179
+    },
+    {
+      "abstain": 0,
+      "date": "2025-02-21T19:17:31",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/49/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 233,
+      "no": 232,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 17 Sprawozdanie Komisji o rządowym projekcie ustawy o rynku pracy i służbach zatrudnienia (druki nr 948, 1021 i 1021-A)",
+      "topic": "poprawka 2",
+      "totalVoted": 428,
+      "votingNumber": 49,
+      "yes": 196
+    },
+    {
+      "abstain": 2,
+      "date": "2025-02-21T19:18:01",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/50/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 19,
+      "no": 18,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 17 Sprawozdanie Komisji o rządowym projekcie ustawy o rynku pracy i służbach zatrudnienia (druki nr 948, 1021 i 1021-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 425,
+      "votingNumber": 50,
+      "yes": 405
+    },
+    {
+      "abstain": 0,
+      "date": "2025-02-21T19:20:13",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/51/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 233,
+      "no": 232,
+      "notParticipating": 36,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 18 Sprawozdanie Komisji o rządowym projekcie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 949, 1022 i 1022-A)",
+      "topic": "wniosek o odrzucenie w całości projektu.",
+      "totalVoted": 424,
+      "votingNumber": 51,
+      "yes": 192
+    },
+    {
+      "abstain": 5,
+      "date": "2025-02-21T19:20:41",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/52/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 223,
+      "no": 222,
+      "notParticipating": 42,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 18 Sprawozdanie Komisji o rządowym projekcie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 949, 1022 i 1022-A)",
+      "topic": "wniosek mniejszości 1",
+      "totalVoted": 418,
+      "votingNumber": 52,
+      "yes": 191
+    },
+    {
+      "abstain": 0,
+      "date": "2025-02-21T19:21:08",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/53/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 233,
+      "no": 232,
+      "notParticipating": 37,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 18 Sprawozdanie Komisji o rządowym projekcie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 949, 1022 i 1022-A)",
+      "topic": "poprawka 1",
+      "totalVoted": 423,
+      "votingNumber": 53,
+      "yes": 191
+    },
+    {
+      "abstain": 0,
+      "date": "2025-02-21T19:22:35",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/54/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 231,
+      "no": 230,
+      "notParticipating": 36,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 18 Sprawozdanie Komisji o rządowym projekcie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 949, 1022 i 1022-A)",
+      "topic": "poprawki nr 2 i 14",
+      "totalVoted": 424,
+      "votingNumber": 54,
+      "yes": 194
+    },
+    {
+      "abstain": 0,
+      "date": "2025-02-21T19:23:02",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/55/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 227,
+      "no": 226,
+      "notParticipating": 36,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 18 Sprawozdanie Komisji o rządowym projekcie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 949, 1022 i 1022-A)",
+      "topic": "wniosek mniejszości 2",
+      "totalVoted": 424,
+      "votingNumber": 55,
+      "yes": 198
+    },
+    {
+      "abstain": 0,
+      "date": "2025-02-21T19:23:30",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/56/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 394,
+      "no": 393,
+      "notParticipating": 37,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 18 Sprawozdanie Komisji o rządowym projekcie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 949, 1022 i 1022-A)",
+      "topic": "poprawka 3",
+      "totalVoted": 423,
+      "votingNumber": 56,
+      "yes": 30
+    },
+    {
+      "abstain": 0,
+      "date": "2025-02-21T19:25:53",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/57/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 233,
+      "no": 232,
+      "notParticipating": 31,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 18 Sprawozdanie Komisji o rządowym projekcie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 949, 1022 i 1022-A)",
+      "topic": "poprawki nr 4, 6-7 i 15",
+      "totalVoted": 429,
+      "votingNumber": 57,
+      "yes": 197
+    },
+    {
+      "abstain": 0,
+      "date": "2025-02-21T19:26:23",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/58/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 232,
+      "no": 231,
+      "notParticipating": 36,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 18 Sprawozdanie Komisji o rządowym projekcie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 949, 1022 i 1022-A)",
+      "topic": "poprawki nr 5 i 9",
+      "totalVoted": 424,
+      "votingNumber": 58,
+      "yes": 193
+    },
+    {
+      "abstain": 0,
+      "date": "2025-02-21T19:28:24",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/60/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 403,
+      "no": 402,
+      "notParticipating": 31,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 18 Sprawozdanie Komisji o rządowym projekcie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 949, 1022 i 1022-A)",
+      "topic": "poprawka 8",
+      "totalVoted": 429,
+      "votingNumber": 60,
+      "yes": 27
+    },
+    {
+      "abstain": 172,
+      "date": "2025-02-21T19:28:56",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/61/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 234,
+      "no": 233,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 18 Sprawozdanie Komisji o rządowym projekcie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 949, 1022 i 1022-A)",
+      "topic": "poprawka 10",
+      "totalVoted": 425,
+      "votingNumber": 61,
+      "yes": 20
+    },
+    {
+      "abstain": 0,
+      "date": "2025-02-21T19:29:25",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/62/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 249,
+      "no": 248,
+      "notParticipating": 37,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 18 Sprawozdanie Komisji o rządowym projekcie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 949, 1022 i 1022-A)",
+      "topic": "wniosek mniejszości 3",
+      "totalVoted": 423,
+      "votingNumber": 62,
+      "yes": 175
+    },
+    {
+      "abstain": 0,
+      "date": "2025-02-21T19:29:56",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/63/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 231,
+      "no": 230,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 18 Sprawozdanie Komisji o rządowym projekcie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 949, 1022 i 1022-A)",
+      "topic": "poprawka 11",
+      "totalVoted": 426,
+      "votingNumber": 63,
+      "yes": 196
+    },
+    {
+      "abstain": 173,
+      "date": "2025-02-21T19:30:26",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/64/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 233,
+      "no": 232,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 18 Sprawozdanie Komisji o rządowym projekcie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 949, 1022 i 1022-A)",
+      "topic": "poprawka 12",
+      "totalVoted": 425,
+      "votingNumber": 64,
+      "yes": 20
+    },
+    {
+      "abstain": 173,
+      "date": "2025-02-21T19:30:53",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/65/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 231,
+      "no": 230,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 18 Sprawozdanie Komisji o rządowym projekcie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 949, 1022 i 1022-A)",
+      "topic": "poprawka 13",
+      "totalVoted": 425,
+      "votingNumber": 65,
+      "yes": 22
+    },
+    {
+      "abstain": 1,
+      "date": "2025-02-21T19:31:20",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/66/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 250,
+      "no": 249,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 18 Sprawozdanie Komisji o rządowym projekcie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 949, 1022 i 1022-A)",
+      "topic": "wniosek mniejszości 4",
+      "totalVoted": 425,
+      "votingNumber": 66,
+      "yes": 175
+    },
+    {
+      "abstain": 18,
+      "date": "2025-02-21T19:31:47",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/67/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 233,
+      "no": 232,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 18 Sprawozdanie Komisji o rządowym projekcie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 949, 1022 i 1022-A)",
+      "topic": "wniosek mniejszości 5",
+      "totalVoted": 428,
+      "votingNumber": 67,
+      "yes": 178
+    },
+    {
+      "abstain": 174,
+      "date": "2025-02-21T19:32:20",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/68/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 231,
+      "no": 230,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 18 Sprawozdanie Komisji o rządowym projekcie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 949, 1022 i 1022-A)",
+      "topic": "poprawka 16",
+      "totalVoted": 425,
+      "votingNumber": 68,
+      "yes": 21
+    },
+    {
+      "abstain": 174,
+      "date": "2025-02-21T19:35:16",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/69/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 6,
+      "no": 5,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 18 Sprawozdanie Komisji o rządowym projekcie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 949, 1022 i 1022-A)",
+      "topic": "poprawka 17",
+      "totalVoted": 426,
+      "votingNumber": 69,
+      "yes": 247
+    },
+    {
+      "abstain": 3,
+      "date": "2025-02-21T19:35:56",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/70/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 395,
+      "no": 394,
+      "notParticipating": 37,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 18 Sprawozdanie Komisji o rządowym projekcie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 949, 1022 i 1022-A)",
+      "topic": "poprawka 18",
+      "totalVoted": 423,
+      "votingNumber": 70,
+      "yes": 26
+    },
+    {
+      "abstain": 0,
+      "date": "2025-02-21T19:38:29",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/71/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 197,
+      "no": 196,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 18 Sprawozdanie Komisji o rządowym projekcie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 949, 1022 i 1022-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 427,
+      "votingNumber": 71,
+      "yes": 231
+    },
+    {
+      "abstain": 11,
+      "date": "2025-02-21T19:42:44",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/72/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 216,
+      "no": 215,
+      "notParticipating": 36,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 19 Sprawozdanie Komisji o poselskim projekcie ustawy zmieniającej ustawę o zmianie ustawy o finansowym wsparciu tworzenia lokali socjalnych, mieszkań chronionych, noclegowni i domów dla bezdomnych, ustawy o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego oraz niektórych innych ustaw (druki nr 954 i 1027)",
+      "topic": "wnioski mniejszości nr 1-2",
+      "totalVoted": 424,
+      "votingNumber": 72,
+      "yes": 198
+    },
+    {
+      "abstain": 13,
+      "date": "2025-02-21T19:43:15",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/73/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 8,
+      "no": 7,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 19 Sprawozdanie Komisji o poselskim projekcie ustawy zmieniającej ustawę o zmianie ustawy o finansowym wsparciu tworzenia lokali socjalnych, mieszkań chronionych, noclegowni i domów dla bezdomnych, ustawy o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego oraz niektórych innych ustaw (druki nr 954 i 1027)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 425,
+      "votingNumber": 73,
+      "yes": 405
+    },
+    {
+      "abstain": 19,
+      "date": "2025-02-21T19:44:56",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/74/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 213,
+      "no": 229,
+      "notParticipating": 36,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 24 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o wykonywaniu mandatu posła i senatora (druki nr 1016 i 1023)",
+      "topic": "poprawki nr 1-2",
+      "totalVoted": 424,
+      "votingNumber": 74,
+      "yes": 176
+    },
+    {
+      "abstain": 16,
+      "date": "2025-02-21T19:46:55",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/75/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 212,
+      "no": 228,
+      "notParticipating": 38,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 25 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych innych ustaw (druki nr 1017 i 1033)",
+      "topic": "poprawki nr 1-2",
+      "totalVoted": 422,
+      "votingNumber": 75,
+      "yes": 178
+    },
+    {
+      "abstain": 16,
+      "date": "2025-02-21T19:47:28",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/76/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 210,
+      "no": 223,
+      "notParticipating": 42,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 25 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych innych ustaw (druki nr 1017 i 1033)",
+      "topic": "poprawka 3",
+      "totalVoted": 418,
+      "votingNumber": 76,
+      "yes": 179
+    },
+    {
+      "abstain": 18,
+      "date": "2025-02-21T19:48:07",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/77/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 211,
+      "no": 226,
+      "notParticipating": 40,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 25 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych innych ustaw (druki nr 1017 i 1033)",
+      "topic": "poprawka 4",
+      "totalVoted": 420,
+      "votingNumber": 77,
+      "yes": 176
+    },
+    {
+      "abstain": 13,
+      "date": "2025-02-21T20:06:56",
+      "description": "wniosek w sprawie wyboru Marka Asta na sędziego Trybunału Konstytucyjnego",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/78/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 206,
+      "no": 224,
+      "notParticipating": 50,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 23 Wybór sędziów Trybunału Konstytucyjnego (druki nr 898, 899, 1019 i 1020)",
+      "topic": "głosowanie nad kandydaturą Pana Marka Asta na stanowisko sędziego Trybunału Konstytucyjnego",
+      "totalVoted": 410,
+      "votingNumber": 78,
+      "yes": 173
+    },
+    {
+      "abstain": 15,
+      "date": "2025-02-21T20:07:36",
+      "description": "wniosek w sprawie wyboru Artura Kotowskiego na sędziego Trybunału Konstytucyjnego",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/79/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 206,
+      "no": 224,
+      "notParticipating": 49,
+      "present": 0,
+      "sitting": 29,
+      "sittingDay": 2,
+      "term": 10,
+      "title": "Pkt. 23 Wybór sędziów Trybunału Konstytucyjnego (druki nr 898, 899, 1019 i 1020)",
+      "topic": "głosowanie nad kandydaturą Pana Artura Kotowskiego na stanowisko sędziego Trybunału Konstytucyjnego",
+      "totalVoted": 411,
+      "votingNumber": 79,
+      "yes": 172
+    }
+  ],
+  "_pobrano": "2026-03-24T10:36:22Z"
+}

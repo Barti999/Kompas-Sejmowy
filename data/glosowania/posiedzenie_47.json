@@ -1,0 +1,2534 @@
+{
+  "posiedzenie": 47,
+  "data": "",
+  "tytul": "47. Posiedzenie Sejmu RP w dniu 5 grudnia 2025 r.",
+  "glosowania": [
+    {
+      "abstain": 0,
+      "date": "2025-12-05T15:18:07",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/1/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 231,
+      "no": 230,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "wniosek o odrzucenie w całości projektu.",
+      "totalVoted": 425,
+      "votingNumber": 1,
+      "yes": 195
+    },
+    {
+      "abstain": 1,
+      "date": "2025-12-05T15:19:14",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/2/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 415,
+      "no": 414,
+      "notParticipating": 36,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawki nr 1 i 5",
+      "totalVoted": 424,
+      "votingNumber": 2,
+      "yes": 9
+    },
+    {
+      "abstain": 0,
+      "date": "2025-12-05T15:20:01",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/3/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 254,
+      "no": 253,
+      "notParticipating": 27,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawki nr 2-3",
+      "totalVoted": 433,
+      "votingNumber": 3,
+      "yes": 180
+    },
+    {
+      "abstain": 1,
+      "date": "2025-12-05T15:21:07",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/4/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 243,
+      "no": 242,
+      "notParticipating": 45,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 4",
+      "totalVoted": 415,
+      "votingNumber": 4,
+      "yes": 172
+    },
+    {
+      "abstain": 0,
+      "date": "2025-12-05T15:21:41",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/5/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 255,
+      "no": 254,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 6",
+      "totalVoted": 434,
+      "votingNumber": 5,
+      "yes": 180
+    },
+    {
+      "abstain": 0,
+      "date": "2025-12-05T15:22:15",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/6/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 248,
+      "no": 247,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 7",
+      "totalVoted": 427,
+      "votingNumber": 6,
+      "yes": 180
+    },
+    {
+      "abstain": 2,
+      "date": "2025-12-05T15:22:47",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/7/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 253,
+      "no": 252,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 8",
+      "totalVoted": 434,
+      "votingNumber": 7,
+      "yes": 180
+    },
+    {
+      "abstain": 1,
+      "date": "2025-12-05T15:23:29",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/8/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 236,
+      "no": 235,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 9",
+      "totalVoted": 436,
+      "votingNumber": 8,
+      "yes": 200
+    },
+    {
+      "abstain": 4,
+      "date": "2025-12-05T15:24:00",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/9/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 237,
+      "no": 236,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 10",
+      "totalVoted": 434,
+      "votingNumber": 9,
+      "yes": 194
+    },
+    {
+      "abstain": 19,
+      "date": "2025-12-05T15:24:33",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/10/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 2,
+      "no": 1,
+      "notParticipating": 25,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 11",
+      "totalVoted": 435,
+      "votingNumber": 10,
+      "yes": 415
+    },
+    {
+      "abstain": 8,
+      "date": "2025-12-05T15:25:04",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/11/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 239,
+      "no": 238,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 12",
+      "totalVoted": 430,
+      "votingNumber": 11,
+      "yes": 184
+    },
+    {
+      "abstain": 5,
+      "date": "2025-12-05T15:25:35",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/12/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 18,
+      "no": 17,
+      "notParticipating": 25,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 13",
+      "totalVoted": 435,
+      "votingNumber": 12,
+      "yes": 413
+    },
+    {
+      "abstain": 23,
+      "date": "2025-12-05T15:26:05",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/13/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 2,
+      "no": 1,
+      "notParticipating": 25,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 14",
+      "totalVoted": 435,
+      "votingNumber": 13,
+      "yes": 411
+    },
+    {
+      "abstain": 5,
+      "date": "2025-12-05T15:26:38",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/14/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 251,
+      "no": 250,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 15",
+      "totalVoted": 434,
+      "votingNumber": 14,
+      "yes": 179
+    },
+    {
+      "abstain": 5,
+      "date": "2025-12-05T15:27:11",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/15/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 255,
+      "no": 254,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 16",
+      "totalVoted": 436,
+      "votingNumber": 15,
+      "yes": 177
+    },
+    {
+      "abstain": 5,
+      "date": "2025-12-05T15:27:42",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/16/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 250,
+      "no": 249,
+      "notParticipating": 28,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 17",
+      "totalVoted": 432,
+      "votingNumber": 16,
+      "yes": 178
+    },
+    {
+      "abstain": 5,
+      "date": "2025-12-05T15:28:13",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/17/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 251,
+      "no": 250,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 18",
+      "totalVoted": 434,
+      "votingNumber": 17,
+      "yes": 179
+    },
+    {
+      "abstain": 5,
+      "date": "2025-12-05T15:28:45",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/18/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 248,
+      "no": 247,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 19",
+      "totalVoted": 426,
+      "votingNumber": 18,
+      "yes": 174
+    },
+    {
+      "abstain": 5,
+      "date": "2025-12-05T15:29:15",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/19/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 253,
+      "no": 252,
+      "notParticipating": 28,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 20",
+      "totalVoted": 432,
+      "votingNumber": 19,
+      "yes": 175
+    },
+    {
+      "abstain": 6,
+      "date": "2025-12-05T15:29:47",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/20/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 253,
+      "no": 252,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 21",
+      "totalVoted": 436,
+      "votingNumber": 20,
+      "yes": 178
+    },
+    {
+      "abstain": 4,
+      "date": "2025-12-05T15:30:17",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/21/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 252,
+      "no": 251,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 22",
+      "totalVoted": 431,
+      "votingNumber": 21,
+      "yes": 176
+    },
+    {
+      "abstain": 5,
+      "date": "2025-12-05T15:30:47",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/22/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 251,
+      "no": 250,
+      "notParticipating": 27,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 23",
+      "totalVoted": 433,
+      "votingNumber": 22,
+      "yes": 178
+    },
+    {
+      "abstain": 5,
+      "date": "2025-12-05T15:31:17",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/23/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 252,
+      "no": 251,
+      "notParticipating": 27,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 24",
+      "totalVoted": 433,
+      "votingNumber": 23,
+      "yes": 177
+    },
+    {
+      "abstain": 5,
+      "date": "2025-12-05T15:31:46",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/24/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 244,
+      "no": 243,
+      "notParticipating": 31,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 25",
+      "totalVoted": 429,
+      "votingNumber": 24,
+      "yes": 181
+    },
+    {
+      "abstain": 5,
+      "date": "2025-12-05T15:32:16",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/25/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 249,
+      "no": 248,
+      "notParticipating": 25,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 26",
+      "totalVoted": 435,
+      "votingNumber": 25,
+      "yes": 182
+    },
+    {
+      "abstain": 5,
+      "date": "2025-12-05T15:32:45",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/26/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 249,
+      "no": 248,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 27",
+      "totalVoted": 434,
+      "votingNumber": 26,
+      "yes": 181
+    },
+    {
+      "abstain": 5,
+      "date": "2025-12-05T15:33:14",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/27/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 251,
+      "no": 250,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 28",
+      "totalVoted": 427,
+      "votingNumber": 27,
+      "yes": 172
+    },
+    {
+      "abstain": 5,
+      "date": "2025-12-05T15:33:42",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/28/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 254,
+      "no": 253,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 29",
+      "totalVoted": 430,
+      "votingNumber": 28,
+      "yes": 172
+    },
+    {
+      "abstain": 5,
+      "date": "2025-12-05T15:34:11",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/29/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 253,
+      "no": 252,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 30",
+      "totalVoted": 434,
+      "votingNumber": 29,
+      "yes": 177
+    },
+    {
+      "abstain": 5,
+      "date": "2025-12-05T15:34:41",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/30/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 255,
+      "no": 254,
+      "notParticipating": 25,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 31",
+      "totalVoted": 435,
+      "votingNumber": 30,
+      "yes": 176
+    },
+    {
+      "abstain": 5,
+      "date": "2025-12-05T15:35:12",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/31/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 249,
+      "no": 248,
+      "notParticipating": 31,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 32",
+      "totalVoted": 429,
+      "votingNumber": 31,
+      "yes": 176
+    },
+    {
+      "abstain": 0,
+      "date": "2025-12-05T15:35:41",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/32/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 250,
+      "no": 249,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 33",
+      "totalVoted": 426,
+      "votingNumber": 32,
+      "yes": 177
+    },
+    {
+      "abstain": 16,
+      "date": "2025-12-05T15:36:10",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/33/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 235,
+      "no": 234,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 34",
+      "totalVoted": 430,
+      "votingNumber": 33,
+      "yes": 180
+    },
+    {
+      "abstain": 2,
+      "date": "2025-12-05T15:36:38",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/34/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 228,
+      "no": 227,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 35",
+      "totalVoted": 430,
+      "votingNumber": 34,
+      "yes": 201
+    },
+    {
+      "abstain": 1,
+      "date": "2025-12-05T15:37:07",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/35/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 237,
+      "no": 236,
+      "notParticipating": 31,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 36",
+      "totalVoted": 429,
+      "votingNumber": 35,
+      "yes": 192
+    },
+    {
+      "abstain": 5,
+      "date": "2025-12-05T15:37:35",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/36/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 236,
+      "no": 235,
+      "notParticipating": 27,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 37",
+      "totalVoted": 433,
+      "votingNumber": 36,
+      "yes": 193
+    },
+    {
+      "abstain": 5,
+      "date": "2025-12-05T15:38:06",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/37/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 231,
+      "no": 230,
+      "notParticipating": 27,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 38",
+      "totalVoted": 433,
+      "votingNumber": 37,
+      "yes": 198
+    },
+    {
+      "abstain": 5,
+      "date": "2025-12-05T15:38:35",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/38/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 235,
+      "no": 234,
+      "notParticipating": 27,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 39",
+      "totalVoted": 433,
+      "votingNumber": 38,
+      "yes": 194
+    },
+    {
+      "abstain": 1,
+      "date": "2025-12-05T15:39:03",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/39/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 232,
+      "no": 231,
+      "notParticipating": 27,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 40",
+      "totalVoted": 433,
+      "votingNumber": 39,
+      "yes": 201
+    },
+    {
+      "abstain": 1,
+      "date": "2025-12-05T15:39:31",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/40/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 235,
+      "no": 234,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 41",
+      "totalVoted": 434,
+      "votingNumber": 40,
+      "yes": 199
+    },
+    {
+      "abstain": 6,
+      "date": "2025-12-05T15:39:59",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/41/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 228,
+      "no": 227,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 42",
+      "totalVoted": 426,
+      "votingNumber": 41,
+      "yes": 193
+    },
+    {
+      "abstain": 0,
+      "date": "2025-12-05T15:40:26",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/42/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 235,
+      "no": 234,
+      "notParticipating": 27,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 43",
+      "totalVoted": 433,
+      "votingNumber": 42,
+      "yes": 199
+    },
+    {
+      "abstain": 4,
+      "date": "2025-12-05T15:40:56",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/43/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 236,
+      "no": 235,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 44",
+      "totalVoted": 430,
+      "votingNumber": 43,
+      "yes": 191
+    },
+    {
+      "abstain": 5,
+      "date": "2025-12-05T15:41:23",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/44/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 236,
+      "no": 235,
+      "notParticipating": 27,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 45",
+      "totalVoted": 433,
+      "votingNumber": 44,
+      "yes": 193
+    },
+    {
+      "abstain": 4,
+      "date": "2025-12-05T15:41:51",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/45/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 236,
+      "no": 235,
+      "notParticipating": 27,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 46",
+      "totalVoted": 433,
+      "votingNumber": 45,
+      "yes": 194
+    },
+    {
+      "abstain": 22,
+      "date": "2025-12-05T15:42:18",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/46/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 236,
+      "no": 235,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 47",
+      "totalVoted": 431,
+      "votingNumber": 46,
+      "yes": 174
+    },
+    {
+      "abstain": 5,
+      "date": "2025-12-05T15:42:46",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/47/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 235,
+      "no": 234,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 48",
+      "totalVoted": 431,
+      "votingNumber": 47,
+      "yes": 192
+    },
+    {
+      "abstain": 5,
+      "date": "2025-12-05T15:43:15",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/48/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 235,
+      "no": 234,
+      "notParticipating": 28,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 49",
+      "totalVoted": 432,
+      "votingNumber": 48,
+      "yes": 193
+    },
+    {
+      "abstain": 6,
+      "date": "2025-12-05T15:43:41",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/49/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 233,
+      "no": 232,
+      "notParticipating": 28,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 50",
+      "totalVoted": 432,
+      "votingNumber": 49,
+      "yes": 194
+    },
+    {
+      "abstain": 5,
+      "date": "2025-12-05T15:44:09",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/50/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 234,
+      "no": 233,
+      "notParticipating": 27,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 51",
+      "totalVoted": 433,
+      "votingNumber": 50,
+      "yes": 195
+    },
+    {
+      "abstain": 5,
+      "date": "2025-12-05T15:44:36",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/51/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 235,
+      "no": 234,
+      "notParticipating": 28,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 52",
+      "totalVoted": 432,
+      "votingNumber": 51,
+      "yes": 193
+    },
+    {
+      "abstain": 5,
+      "date": "2025-12-05T15:45:03",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/52/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 235,
+      "no": 234,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 53",
+      "totalVoted": 434,
+      "votingNumber": 52,
+      "yes": 195
+    },
+    {
+      "abstain": 5,
+      "date": "2025-12-05T15:45:31",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/53/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 235,
+      "no": 234,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 54",
+      "totalVoted": 434,
+      "votingNumber": 53,
+      "yes": 195
+    },
+    {
+      "abstain": 5,
+      "date": "2025-12-05T15:45:59",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/54/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 237,
+      "no": 236,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 55",
+      "totalVoted": 431,
+      "votingNumber": 54,
+      "yes": 190
+    },
+    {
+      "abstain": 5,
+      "date": "2025-12-05T15:46:25",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/55/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 238,
+      "no": 237,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 56",
+      "totalVoted": 437,
+      "votingNumber": 55,
+      "yes": 195
+    },
+    {
+      "abstain": 5,
+      "date": "2025-12-05T15:46:51",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/56/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 234,
+      "no": 233,
+      "notParticipating": 31,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 57",
+      "totalVoted": 429,
+      "votingNumber": 56,
+      "yes": 191
+    },
+    {
+      "abstain": 5,
+      "date": "2025-12-05T15:47:18",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/57/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 235,
+      "no": 234,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 58",
+      "totalVoted": 431,
+      "votingNumber": 57,
+      "yes": 192
+    },
+    {
+      "abstain": 5,
+      "date": "2025-12-05T15:47:44",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/58/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 234,
+      "no": 233,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 59",
+      "totalVoted": 430,
+      "votingNumber": 58,
+      "yes": 192
+    },
+    {
+      "abstain": 5,
+      "date": "2025-12-05T15:48:10",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/59/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 236,
+      "no": 235,
+      "notParticipating": 27,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 60",
+      "totalVoted": 433,
+      "votingNumber": 59,
+      "yes": 193
+    },
+    {
+      "abstain": 0,
+      "date": "2025-12-05T15:48:37",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/60/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 234,
+      "no": 233,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 61",
+      "totalVoted": 428,
+      "votingNumber": 60,
+      "yes": 195
+    },
+    {
+      "abstain": 5,
+      "date": "2025-12-05T15:49:03",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/61/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 233,
+      "no": 232,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 62",
+      "totalVoted": 428,
+      "votingNumber": 61,
+      "yes": 191
+    },
+    {
+      "abstain": 5,
+      "date": "2025-12-05T15:49:29",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/62/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 235,
+      "no": 234,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 63",
+      "totalVoted": 431,
+      "votingNumber": 62,
+      "yes": 192
+    },
+    {
+      "abstain": 5,
+      "date": "2025-12-05T15:50:09",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/63/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 238,
+      "no": 237,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 64",
+      "totalVoted": 437,
+      "votingNumber": 63,
+      "yes": 195
+    },
+    {
+      "abstain": 5,
+      "date": "2025-12-05T15:50:37",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/64/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 235,
+      "no": 234,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 65",
+      "totalVoted": 436,
+      "votingNumber": 64,
+      "yes": 197
+    },
+    {
+      "abstain": 0,
+      "date": "2025-12-05T15:51:04",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/65/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 236,
+      "no": 235,
+      "notParticipating": 27,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 66",
+      "totalVoted": 433,
+      "votingNumber": 65,
+      "yes": 198
+    },
+    {
+      "abstain": 5,
+      "date": "2025-12-05T15:51:30",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/66/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 234,
+      "no": 233,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 67",
+      "totalVoted": 430,
+      "votingNumber": 66,
+      "yes": 192
+    },
+    {
+      "abstain": 5,
+      "date": "2025-12-05T15:51:58",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/67/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 237,
+      "no": 236,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 68",
+      "totalVoted": 436,
+      "votingNumber": 67,
+      "yes": 195
+    },
+    {
+      "abstain": 5,
+      "date": "2025-12-05T15:52:25",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/68/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 235,
+      "no": 234,
+      "notParticipating": 25,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 69",
+      "totalVoted": 435,
+      "votingNumber": 68,
+      "yes": 196
+    },
+    {
+      "abstain": 5,
+      "date": "2025-12-05T15:52:50",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/69/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 233,
+      "no": 232,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 70",
+      "totalVoted": 434,
+      "votingNumber": 69,
+      "yes": 197
+    },
+    {
+      "abstain": 5,
+      "date": "2025-12-05T15:53:15",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/70/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 234,
+      "no": 233,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 71",
+      "totalVoted": 431,
+      "votingNumber": 70,
+      "yes": 193
+    },
+    {
+      "abstain": 5,
+      "date": "2025-12-05T15:53:40",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/71/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 236,
+      "no": 235,
+      "notParticipating": 25,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 72",
+      "totalVoted": 435,
+      "votingNumber": 71,
+      "yes": 195
+    },
+    {
+      "abstain": 0,
+      "date": "2025-12-05T15:54:05",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/72/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 258,
+      "no": 257,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 73",
+      "totalVoted": 430,
+      "votingNumber": 72,
+      "yes": 173
+    },
+    {
+      "abstain": 5,
+      "date": "2025-12-05T15:54:32",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/73/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 235,
+      "no": 234,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 74",
+      "totalVoted": 425,
+      "votingNumber": 73,
+      "yes": 186
+    },
+    {
+      "abstain": 5,
+      "date": "2025-12-05T15:54:59",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/74/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 236,
+      "no": 235,
+      "notParticipating": 27,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 75",
+      "totalVoted": 433,
+      "votingNumber": 74,
+      "yes": 193
+    },
+    {
+      "abstain": 5,
+      "date": "2025-12-05T15:55:24",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/75/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 234,
+      "no": 233,
+      "notParticipating": 27,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 76",
+      "totalVoted": 433,
+      "votingNumber": 75,
+      "yes": 195
+    },
+    {
+      "abstain": 5,
+      "date": "2025-12-05T15:55:50",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/76/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 237,
+      "no": 236,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 77",
+      "totalVoted": 434,
+      "votingNumber": 76,
+      "yes": 193
+    },
+    {
+      "abstain": 3,
+      "date": "2025-12-05T15:56:17",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/77/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 235,
+      "no": 234,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 78",
+      "totalVoted": 428,
+      "votingNumber": 77,
+      "yes": 191
+    },
+    {
+      "abstain": 5,
+      "date": "2025-12-05T15:56:44",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/78/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 236,
+      "no": 235,
+      "notParticipating": 27,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 79",
+      "totalVoted": 433,
+      "votingNumber": 78,
+      "yes": 193
+    },
+    {
+      "abstain": 5,
+      "date": "2025-12-05T15:57:09",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/79/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 234,
+      "no": 233,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 80",
+      "totalVoted": 434,
+      "votingNumber": 79,
+      "yes": 196
+    },
+    {
+      "abstain": 5,
+      "date": "2025-12-05T15:57:34",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/80/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 233,
+      "no": 232,
+      "notParticipating": 36,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 81",
+      "totalVoted": 424,
+      "votingNumber": 80,
+      "yes": 187
+    },
+    {
+      "abstain": 5,
+      "date": "2025-12-05T15:58:00",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/81/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 233,
+      "no": 232,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 82",
+      "totalVoted": 431,
+      "votingNumber": 81,
+      "yes": 194
+    },
+    {
+      "abstain": 4,
+      "date": "2025-12-05T15:58:25",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/82/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 235,
+      "no": 234,
+      "notParticipating": 31,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 83",
+      "totalVoted": 429,
+      "votingNumber": 82,
+      "yes": 191
+    },
+    {
+      "abstain": 5,
+      "date": "2025-12-05T15:58:52",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/83/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 233,
+      "no": 232,
+      "notParticipating": 28,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 84",
+      "totalVoted": 432,
+      "votingNumber": 83,
+      "yes": 195
+    },
+    {
+      "abstain": 5,
+      "date": "2025-12-05T15:59:19",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/84/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 237,
+      "no": 236,
+      "notParticipating": 28,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 85",
+      "totalVoted": 432,
+      "votingNumber": 84,
+      "yes": 191
+    },
+    {
+      "abstain": 5,
+      "date": "2025-12-05T15:59:45",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/85/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 235,
+      "no": 234,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 86",
+      "totalVoted": 430,
+      "votingNumber": 85,
+      "yes": 191
+    },
+    {
+      "abstain": 15,
+      "date": "2025-12-05T16:00:09",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/86/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 236,
+      "no": 235,
+      "notParticipating": 31,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 87",
+      "totalVoted": 429,
+      "votingNumber": 86,
+      "yes": 179
+    },
+    {
+      "abstain": 11,
+      "date": "2025-12-05T16:00:35",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/87/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 236,
+      "no": 235,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 88",
+      "totalVoted": 437,
+      "votingNumber": 87,
+      "yes": 191
+    },
+    {
+      "abstain": 0,
+      "date": "2025-12-05T16:01:07",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/88/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 234,
+      "no": 233,
+      "notParticipating": 28,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 89",
+      "totalVoted": 432,
+      "votingNumber": 88,
+      "yes": 199
+    },
+    {
+      "abstain": 15,
+      "date": "2025-12-05T16:01:33",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/89/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 240,
+      "no": 239,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 90",
+      "totalVoted": 434,
+      "votingNumber": 89,
+      "yes": 180
+    },
+    {
+      "abstain": 1,
+      "date": "2025-12-05T16:01:58",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/90/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 233,
+      "no": 232,
+      "notParticipating": 29,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 91",
+      "totalVoted": 431,
+      "votingNumber": 90,
+      "yes": 198
+    },
+    {
+      "abstain": 16,
+      "date": "2025-12-05T16:02:33",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/91/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 3,
+      "no": 2,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 92",
+      "totalVoted": 437,
+      "votingNumber": 91,
+      "yes": 419
+    },
+    {
+      "abstain": 23,
+      "date": "2025-12-05T16:02:59",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/92/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 179,
+      "no": 178,
+      "notParticipating": 25,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 93",
+      "totalVoted": 435,
+      "votingNumber": 92,
+      "yes": 234
+    },
+    {
+      "abstain": 2,
+      "date": "2025-12-05T16:03:29",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/93/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 233,
+      "no": 232,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 94",
+      "totalVoted": 437,
+      "votingNumber": 93,
+      "yes": 203
+    },
+    {
+      "abstain": 0,
+      "date": "2025-12-05T16:03:54",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/94/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 232,
+      "no": 231,
+      "notParticipating": 31,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 95",
+      "totalVoted": 429,
+      "votingNumber": 94,
+      "yes": 198
+    },
+    {
+      "abstain": 19,
+      "date": "2025-12-05T16:04:20",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/95/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 229,
+      "no": 228,
+      "notParticipating": 28,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 96",
+      "totalVoted": 432,
+      "votingNumber": 95,
+      "yes": 185
+    },
+    {
+      "abstain": 5,
+      "date": "2025-12-05T16:04:47",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/96/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 195,
+      "no": 194,
+      "notParticipating": 23,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 97",
+      "totalVoted": 437,
+      "votingNumber": 96,
+      "yes": 238
+    },
+    {
+      "abstain": 0,
+      "date": "2025-12-05T16:05:21",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/97/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 2,
+      "no": 1,
+      "notParticipating": 25,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 98",
+      "totalVoted": 435,
+      "votingNumber": 97,
+      "yes": 434
+    },
+    {
+      "abstain": 0,
+      "date": "2025-12-05T16:05:56",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/98/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 256,
+      "no": 255,
+      "notParticipating": 25,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "poprawka 99",
+      "totalVoted": 435,
+      "votingNumber": 98,
+      "yes": 180
+    },
+    {
+      "abstain": 0,
+      "date": "2025-12-05T16:31:22",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/99/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 198,
+      "no": 197,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy budżetowej na rok 2026 (druki nr 1749, 1999 i 1999-A) - trzecie czytanie",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 430,
+      "votingNumber": 99,
+      "yes": 233
+    },
+    {
+      "abstain": 0,
+      "date": "2025-12-05T16:32:45",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/100/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 27,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy o ratyfikacji Umowy o ochronie inwestycji między Unią Europejską i jej państwami członkowskimi, z jednej strony, a Republiką Singapuru, z drugiej strony, sporządzonej w Brukseli dnia 19 października 2018 r. (druki nr 1887 i 1954) - trzecie czytanie",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 433,
+      "votingNumber": 100,
+      "yes": 433
+    },
+    {
+      "abstain": 170,
+      "date": "2025-12-05T16:34:46",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/101/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 244,
+      "no": 243,
+      "notParticipating": 26,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 3 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustaw w celu usprawnienia mechanizmów wsparcia odbiorców energii elektrycznej i ciepła (druki nr 2026, 2056 i 2056-A) - trzecie czytanie",
+      "topic": "poprawka 1",
+      "totalVoted": 434,
+      "votingNumber": 101,
+      "yes": 21
+    },
+    {
+      "abstain": 0,
+      "date": "2025-12-05T16:35:19",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/102/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 27,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 3 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustaw w celu usprawnienia mechanizmów wsparcia odbiorców energii elektrycznej i ciepła (druki nr 2026, 2056 i 2056-A) - trzecie czytanie",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 433,
+      "votingNumber": 102,
+      "yes": 433
+    },
+    {
+      "abstain": 0,
+      "date": "2025-12-05T16:36:20",
+      "description": "całość projektu uchwały",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/103/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 31,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o poselskim projekcie uchwały w sprawie upamiętnienia Marka Grechuty w 80. rocznicę urodzin (druki nr 1965 i 2041) - głosowanie",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 429,
+      "votingNumber": 103,
+      "yes": 429
+    },
+    {
+      "abstain": 1,
+      "date": "2025-12-05T16:37:20",
+      "description": "całość projektu uchwały",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/104/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 18,
+      "no": 17,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 5 Sprawozdanie Komisji o komisyjnym projekcie uchwały w sprawie ustanowienia Dnia Pamięci Prezydenta Gabriela Narutowicza (druki nr 2012 i 2042) - głosowanie",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 428,
+      "votingNumber": 104,
+      "yes": 410
+    },
+    {
+      "abstain": 5,
+      "date": "2025-12-05T16:38:52",
+      "description": "wniosek o wyłączne skierowanie projektu ustawy do Komisji Cyfryzacji, Innowacyjności i Nowoczesnych Technologii ",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/105/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 194,
+      "no": 193,
+      "notParticipating": 27,
+      "present": 0,
+      "sitting": 47,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 6 Pierwsze czytanie rządowego projektu ustawy o zmianie ustawy o krajowym systemie cyberbezpieczeństwa oraz niektórych innych ustaw (druk nr 1955) - kontynuacja",
+      "topic": "wniosek o skierowanie projektu ustawy wyłącznie do Komisji Cyfryzacji, Innowacyjności i Nowoczesnych Technologii",
+      "totalVoted": 433,
+      "votingNumber": 105,
+      "yes": 235
+    }
+  ],
+  "_pobrano": "2026-03-24T10:36:30Z"
+}

@@ -1,0 +1,4289 @@
+{
+  "posiedzenie": 22,
+  "data": "",
+  "tytul": "22. Posiedzenie Sejmu RP w dniach 19, 20, 21, 22 i 27 listopada 2024 r.",
+  "glosowania": [
+    {
+      "abstain": 11,
+      "date": "2024-11-19T10:23:40",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/1/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 391,
+      "no": 390,
+      "notParticipating": 44,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "22. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 19, 20, 21, 22 i 27 listopada 2024 r.",
+      "topic": "Wniosek o przerwę",
+      "totalVoted": 416,
+      "votingNumber": 1,
+      "yes": 15
+    },
+    {
+      "abstain": 15,
+      "date": "2024-11-19T16:36:55",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/2/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 174,
+      "no": 173,
+      "notParticipating": 43,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o likwidacji Fundacji Platforma Przemysłu Przyszłości (druki nr 763 i 795)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 417,
+      "votingNumber": 2,
+      "yes": 229
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-19T16:39:47",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/3/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 227,
+      "no": 226,
+      "notParticipating": 41,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 3 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o podatku rolnym, ustawy o podatkach i opłatach lokalnych oraz ustawy o opłacie skarbowej (druki nr 741, 788 i 788-A)",
+      "topic": "wnioski mniejszości nr 1 i 6",
+      "totalVoted": 419,
+      "votingNumber": 3,
+      "yes": 193
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-19T16:40:26",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/4/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 229,
+      "no": 228,
+      "notParticipating": 41,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 3 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o podatku rolnym, ustawy o podatkach i opłatach lokalnych oraz ustawy o opłacie skarbowej (druki nr 741, 788 i 788-A)",
+      "topic": "wniosek mniejszości 2",
+      "totalVoted": 419,
+      "votingNumber": 4,
+      "yes": 191
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-19T16:40:57",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/5/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 5,
+      "no": 4,
+      "notParticipating": 43,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 3 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o podatku rolnym, ustawy o podatkach i opłatach lokalnych oraz ustawy o opłacie skarbowej (druki nr 741, 788 i 788-A)",
+      "topic": "poprawka 1",
+      "totalVoted": 417,
+      "votingNumber": 5,
+      "yes": 413
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-19T16:41:28",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/6/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 230,
+      "no": 229,
+      "notParticipating": 40,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 3 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o podatku rolnym, ustawy o podatkach i opłatach lokalnych oraz ustawy o opłacie skarbowej (druki nr 741, 788 i 788-A)",
+      "topic": "wniosek mniejszości 3",
+      "totalVoted": 420,
+      "votingNumber": 6,
+      "yes": 191
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-19T16:41:58",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/7/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 232,
+      "no": 231,
+      "notParticipating": 39,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 3 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o podatku rolnym, ustawy o podatkach i opłatach lokalnych oraz ustawy o opłacie skarbowej (druki nr 741, 788 i 788-A)",
+      "topic": "wniosek mniejszości 4",
+      "totalVoted": 421,
+      "votingNumber": 7,
+      "yes": 190
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-19T16:42:25",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/8/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 232,
+      "no": 231,
+      "notParticipating": 40,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 3 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o podatku rolnym, ustawy o podatkach i opłatach lokalnych oraz ustawy o opłacie skarbowej (druki nr 741, 788 i 788-A)",
+      "topic": "wniosek mniejszości 5",
+      "totalVoted": 420,
+      "votingNumber": 8,
+      "yes": 189
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-19T16:42:57",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/9/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 230,
+      "no": 229,
+      "notParticipating": 41,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 3 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o podatku rolnym, ustawy o podatkach i opłatach lokalnych oraz ustawy o opłacie skarbowej (druki nr 741, 788 i 788-A)",
+      "topic": "wniosek mniejszości 7",
+      "totalVoted": 419,
+      "votingNumber": 9,
+      "yes": 190
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-19T16:43:25",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/10/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 230,
+      "no": 229,
+      "notParticipating": 41,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 3 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o podatku rolnym, ustawy o podatkach i opłatach lokalnych oraz ustawy o opłacie skarbowej (druki nr 741, 788 i 788-A)",
+      "topic": "wniosek mniejszości 8",
+      "totalVoted": 419,
+      "votingNumber": 10,
+      "yes": 190
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-19T16:43:54",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/11/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 231,
+      "no": 230,
+      "notParticipating": 42,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 3 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o podatku rolnym, ustawy o podatkach i opłatach lokalnych oraz ustawy o opłacie skarbowej (druki nr 741, 788 i 788-A)",
+      "topic": "wniosek mniejszości 9",
+      "totalVoted": 418,
+      "votingNumber": 11,
+      "yes": 188
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-19T16:44:25",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/12/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 230,
+      "no": 229,
+      "notParticipating": 41,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 3 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o podatku rolnym, ustawy o podatkach i opłatach lokalnych oraz ustawy o opłacie skarbowej (druki nr 741, 788 i 788-A)",
+      "topic": "wniosek mniejszości 10",
+      "totalVoted": 419,
+      "votingNumber": 12,
+      "yes": 190
+    },
+    {
+      "abstain": 147,
+      "date": "2024-11-19T16:44:57",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/13/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 44,
+      "no": 43,
+      "notParticipating": 39,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 1,
+      "term": 10,
+      "title": "Pkt. 3 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o podatku rolnym, ustawy o podatkach i opłatach lokalnych oraz ustawy o opłacie skarbowej (druki nr 741, 788 i 788-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 421,
+      "votingNumber": 13,
+      "yes": 231
+    },
+    {
+      "abstain": 2,
+      "date": "2024-11-21T09:10:39",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/14/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 230,
+      "no": 229,
+      "notParticipating": 56,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "22. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 19, 20, 21, 22 i 27 listopada 2024 r.",
+      "topic": "Wniosek o przerwę",
+      "totalVoted": 404,
+      "votingNumber": 14,
+      "yes": 173
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-21T09:15:22",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/15/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 230,
+      "no": 0,
+      "notParticipating": 56,
+      "present": 404,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "22. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 19, 20, 21, 22 i 27 listopada 2024 r.",
+      "topic": "Głosowanie kworum",
+      "totalVoted": 404,
+      "votingNumber": 15,
+      "yes": 0
+    },
+    {
+      "abstain": 11,
+      "date": "2024-11-21T09:22:35",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/16/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 52,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie sprawozdania z druku nr 816",
+      "topic": "głosowanie nad przyjęciem wniosku",
+      "totalVoted": 408,
+      "votingNumber": 16,
+      "yes": 397
+    },
+    {
+      "abstain": 144,
+      "date": "2024-11-21T09:23:58",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/18/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 5,
+      "no": 4,
+      "notParticipating": 50,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie sprawozdania z druku nr 833",
+      "topic": "głosowanie nad przyjęciem wniosku",
+      "totalVoted": 410,
+      "votingNumber": 18,
+      "yes": 262
+    },
+    {
+      "abstain": 172,
+      "date": "2024-11-21T09:24:38",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/19/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 10,
+      "no": 9,
+      "notParticipating": 50,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie sprawozdania z druku nr 815",
+      "topic": "głosowanie nad przyjęciem wniosku",
+      "totalVoted": 410,
+      "votingNumber": 19,
+      "yes": 229
+    },
+    {
+      "abstain": 3,
+      "date": "2024-11-21T09:25:12",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/20/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 12,
+      "no": 11,
+      "notParticipating": 51,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie sprawozdania z druku nr 820",
+      "topic": "głosowanie nad przyjęciem wniosku",
+      "totalVoted": 409,
+      "votingNumber": 20,
+      "yes": 395
+    },
+    {
+      "abstain": 112,
+      "date": "2024-11-21T09:26:23",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/21/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 55,
+      "no": 54,
+      "notParticipating": 61,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie sprawozdania z druku nr 819",
+      "topic": "głosowanie nad przyjęciem wniosku",
+      "totalVoted": 399,
+      "votingNumber": 21,
+      "yes": 233
+    },
+    {
+      "abstain": 138,
+      "date": "2024-11-21T09:28:28",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/22/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 8,
+      "no": 7,
+      "notParticipating": 50,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Wniosek o skrócenie terminu, o którym mowa w art. 37 ust. 4 regulaminu Sejmu w sprawie przedłożenia z druku nr 838",
+      "topic": "głosowanie nad przyjęciem wniosku",
+      "totalVoted": 410,
+      "votingNumber": 22,
+      "yes": 265
+    },
+    {
+      "abstain": 11,
+      "date": "2024-11-21T09:29:11",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/23/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 50,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Wniosek o skrócenie terminu, o którym mowa w art. 37 ust. 4 regulaminu Sejmu w sprawie przedłożenia z druku nr 841",
+      "topic": "głosowanie nad przyjęciem wniosku",
+      "totalVoted": 410,
+      "votingNumber": 23,
+      "yes": 399
+    },
+    {
+      "abstain": 19,
+      "date": "2024-11-21T18:46:50",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/24/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 3,
+      "no": 2,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 7 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o odpadach oraz ustawy o zmianie ustawy o odpadach oraz niektórych innych ustaw (druki nr 766 i 818)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 436,
+      "votingNumber": 24,
+      "yes": 415
+    },
+    {
+      "abstain": 2,
+      "date": "2024-11-21T18:47:42",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/25/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 14,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 8 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o transporcie drogowym (druki nr 752 i 798)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 446,
+      "votingNumber": 25,
+      "yes": 444
+    },
+    {
+      "abstain": 5,
+      "date": "2024-11-21T18:49:49",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/26/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 240,
+      "no": 239,
+      "notParticipating": 13,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2025 (druki nr 693, 769 i 769-A)",
+      "topic": "wniosek o odrzucenie w całości projektu.",
+      "totalVoted": 447,
+      "votingNumber": 26,
+      "yes": 203
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-21T18:50:22",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/27/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 205,
+      "no": 204,
+      "notParticipating": 14,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2025 (druki nr 693, 769 i 769-A)",
+      "topic": "poprawka 1",
+      "totalVoted": 446,
+      "votingNumber": 27,
+      "yes": 242
+    },
+    {
+      "abstain": 5,
+      "date": "2024-11-21T18:50:50",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/28/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 204,
+      "no": 203,
+      "notParticipating": 14,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2025 (druki nr 693, 769 i 769-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 446,
+      "votingNumber": 28,
+      "yes": 238
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-21T18:53:09",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/29/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 244,
+      "no": 243,
+      "notParticipating": 14,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 5 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o rachunkowości, ustawy o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym oraz niektórych innych ustaw (druki nr 726, 767 i 767-A)",
+      "topic": "wniosek o odrzucenie w całości projektu.",
+      "totalVoted": 446,
+      "votingNumber": 29,
+      "yes": 203
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-21T18:53:36",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/30/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 204,
+      "no": 203,
+      "notParticipating": 14,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 5 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o rachunkowości, ustawy o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym oraz niektórych innych ustaw (druki nr 726, 767 i 767-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 446,
+      "votingNumber": 30,
+      "yes": 243
+    },
+    {
+      "abstain": 18,
+      "date": "2024-11-21T18:55:38",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/31/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 12,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 6 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo energetyczne oraz niektórych innych ustaw (druki nr 743, 796 i 796-A)",
+      "topic": "poprawka 1",
+      "totalVoted": 448,
+      "votingNumber": 31,
+      "yes": 430
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-21T18:56:06",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/32/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 15,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 6 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo energetyczne oraz niektórych innych ustaw (druki nr 743, 796 i 796-A)",
+      "topic": "poprawka 2",
+      "totalVoted": 445,
+      "votingNumber": 32,
+      "yes": 445
+    },
+    {
+      "abstain": 17,
+      "date": "2024-11-21T18:56:33",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/33/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 2,
+      "no": 1,
+      "notParticipating": 13,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 6 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo energetyczne oraz niektórych innych ustaw (druki nr 743, 796 i 796-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 447,
+      "votingNumber": 33,
+      "yes": 429
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-21T18:57:27",
+      "description": "wniosek o wyrażenie wotum nieufności wobec Minister Zdrowia Izabeli Leszczyny",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/34/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "STATUTORY_MAJORITY",
+      "majorityVotes": 231,
+      "no": 238,
+      "notParticipating": 14,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 27 Wniosek o wyrażenie wotum nieufności wobec Minister Zdrowia Izabeli Leszczyny (druki nr 808 i 844)",
+      "topic": "głosowanie nad wnioskiem o wyrażenie wotum nieufności.",
+      "totalVoted": 446,
+      "votingNumber": 34,
+      "yes": 208
+    },
+    {
+      "abstain": 7,
+      "date": "2024-11-21T18:59:22",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/35/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 258,
+      "no": 257,
+      "notParticipating": 12,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 11 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw (druki nr 759, 807 i 807-A)",
+      "topic": "wniosek mniejszości 1",
+      "totalVoted": 448,
+      "votingNumber": 35,
+      "yes": 184
+    },
+    {
+      "abstain": 21,
+      "date": "2024-11-21T19:00:03",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/36/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 244,
+      "no": 243,
+      "notParticipating": 13,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 11 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw (druki nr 759, 807 i 807-A)",
+      "topic": "wniosek mniejszości 2",
+      "totalVoted": 447,
+      "votingNumber": 36,
+      "yes": 183
+    },
+    {
+      "abstain": 5,
+      "date": "2024-11-21T19:00:32",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/37/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 238,
+      "no": 237,
+      "notParticipating": 16,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 11 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw (druki nr 759, 807 i 807-A)",
+      "topic": "wniosek mniejszości 3",
+      "totalVoted": 444,
+      "votingNumber": 37,
+      "yes": 202
+    },
+    {
+      "abstain": 172,
+      "date": "2024-11-21T19:01:03",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/38/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 23,
+      "no": 22,
+      "notParticipating": 14,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 11 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw (druki nr 759, 807 i 807-A)",
+      "topic": "poprawka 1",
+      "totalVoted": 446,
+      "votingNumber": 38,
+      "yes": 252
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-21T19:03:38",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/39/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 203,
+      "no": 202,
+      "notParticipating": 16,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 11 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw (druki nr 759, 807 i 807-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 444,
+      "votingNumber": 39,
+      "yes": 242
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-21T19:06:57",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/40/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 233,
+      "no": 232,
+      "notParticipating": 17,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (druki nr 802, 816 i 816-A)",
+      "topic": "poprawka 1",
+      "totalVoted": 443,
+      "votingNumber": 40,
+      "yes": 211
+    },
+    {
+      "abstain": 1,
+      "date": "2024-11-21T19:11:19",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/41/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 240,
+      "no": 239,
+      "notParticipating": 14,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (druki nr 802, 816 i 816-A)",
+      "topic": "wnioski mniejszości nr 1 i 16",
+      "totalVoted": 446,
+      "votingNumber": 41,
+      "yes": 206
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-21T19:14:59",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/42/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 240,
+      "no": 239,
+      "notParticipating": 13,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (druki nr 802, 816 i 816-A)",
+      "topic": "wnioski mniejszości nr 2 i 20",
+      "totalVoted": 447,
+      "votingNumber": 42,
+      "yes": 208
+    },
+    {
+      "abstain": 1,
+      "date": "2024-11-21T19:16:08",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/43/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 239,
+      "no": 238,
+      "notParticipating": 13,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (druki nr 802, 816 i 816-A)",
+      "topic": "wniosek mniejszości 3",
+      "totalVoted": 447,
+      "votingNumber": 43,
+      "yes": 208
+    },
+    {
+      "abstain": 1,
+      "date": "2024-11-21T19:16:52",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/44/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 239,
+      "no": 238,
+      "notParticipating": 15,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (druki nr 802, 816 i 816-A)",
+      "topic": "wniosek mniejszości 4",
+      "totalVoted": 445,
+      "votingNumber": 44,
+      "yes": 206
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-21T19:18:26",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/45/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 241,
+      "no": 240,
+      "notParticipating": 13,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (druki nr 802, 816 i 816-A)",
+      "topic": "wniosek mniejszości 5",
+      "totalVoted": 447,
+      "votingNumber": 45,
+      "yes": 207
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-21T19:18:53",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/46/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 240,
+      "no": 239,
+      "notParticipating": 15,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (druki nr 802, 816 i 816-A)",
+      "topic": "wniosek mniejszości 6",
+      "totalVoted": 445,
+      "votingNumber": 46,
+      "yes": 206
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-21T19:19:27",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/47/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 240,
+      "no": 239,
+      "notParticipating": 12,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (druki nr 802, 816 i 816-A)",
+      "topic": "poprawka 2",
+      "totalVoted": 448,
+      "votingNumber": 47,
+      "yes": 209
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-21T19:19:55",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/48/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 238,
+      "no": 237,
+      "notParticipating": 17,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (druki nr 802, 816 i 816-A)",
+      "topic": "wniosek mniejszości 7",
+      "totalVoted": 443,
+      "votingNumber": 48,
+      "yes": 206
+    },
+    {
+      "abstain": 1,
+      "date": "2024-11-21T19:20:26",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/49/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 240,
+      "no": 239,
+      "notParticipating": 13,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (druki nr 802, 816 i 816-A)",
+      "topic": "wniosek mniejszości 8",
+      "totalVoted": 447,
+      "votingNumber": 49,
+      "yes": 207
+    },
+    {
+      "abstain": 1,
+      "date": "2024-11-21T19:21:01",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/50/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 186,
+      "no": 185,
+      "notParticipating": 13,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (druki nr 802, 816 i 816-A)",
+      "topic": "poprawka 3",
+      "totalVoted": 447,
+      "votingNumber": 50,
+      "yes": 261
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-21T19:21:29",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/51/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 13,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (druki nr 802, 816 i 816-A)",
+      "topic": "poprawka 4",
+      "totalVoted": 447,
+      "votingNumber": 51,
+      "yes": 447
+    },
+    {
+      "abstain": 2,
+      "date": "2024-11-21T19:21:57",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/52/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 13,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (druki nr 802, 816 i 816-A)",
+      "topic": "poprawka 5",
+      "totalVoted": 447,
+      "votingNumber": 52,
+      "yes": 445
+    },
+    {
+      "abstain": 1,
+      "date": "2024-11-21T19:22:26",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/53/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 239,
+      "no": 238,
+      "notParticipating": 13,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (druki nr 802, 816 i 816-A)",
+      "topic": "wniosek mniejszości 9",
+      "totalVoted": 447,
+      "votingNumber": 53,
+      "yes": 208
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-21T19:22:54",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/54/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 2,
+      "no": 1,
+      "notParticipating": 14,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (druki nr 802, 816 i 816-A)",
+      "topic": "poprawka 6",
+      "totalVoted": 446,
+      "votingNumber": 54,
+      "yes": 445
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-21T19:23:23",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/55/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 2,
+      "no": 1,
+      "notParticipating": 18,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (druki nr 802, 816 i 816-A)",
+      "topic": "poprawka 7",
+      "totalVoted": 442,
+      "votingNumber": 55,
+      "yes": 441
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-21T19:23:49",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/56/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 15,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (druki nr 802, 816 i 816-A)",
+      "topic": "poprawka 8",
+      "totalVoted": 445,
+      "votingNumber": 56,
+      "yes": 445
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-21T19:24:15",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/57/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 13,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (druki nr 802, 816 i 816-A)",
+      "topic": "poprawka 9",
+      "totalVoted": 447,
+      "votingNumber": 57,
+      "yes": 447
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-21T19:26:23",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/58/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 4,
+      "no": 3,
+      "notParticipating": 12,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (druki nr 802, 816 i 816-A)",
+      "topic": "poprawka 10",
+      "totalVoted": 448,
+      "votingNumber": 58,
+      "yes": 445
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-21T19:28:29",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/59/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 239,
+      "no": 238,
+      "notParticipating": 15,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (druki nr 802, 816 i 816-A)",
+      "topic": "wnioski mniejszości nr 10, 13 i 17",
+      "totalVoted": 445,
+      "votingNumber": 59,
+      "yes": 207
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-21T19:29:05",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/60/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 240,
+      "no": 239,
+      "notParticipating": 15,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (druki nr 802, 816 i 816-A)",
+      "topic": "wnioski mniejszości nr 11, 14, 18 i 23",
+      "totalVoted": 445,
+      "votingNumber": 60,
+      "yes": 206
+    },
+    {
+      "abstain": 1,
+      "date": "2024-11-21T19:29:41",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/61/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 238,
+      "no": 237,
+      "notParticipating": 14,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (druki nr 802, 816 i 816-A)",
+      "topic": "wnioski mniejszości nr 12, 15, 19 i 24",
+      "totalVoted": 446,
+      "votingNumber": 61,
+      "yes": 208
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-21T19:30:17",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/62/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 2,
+      "no": 1,
+      "notParticipating": 16,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (druki nr 802, 816 i 816-A)",
+      "topic": "poprawki nr 11 i 19",
+      "totalVoted": 444,
+      "votingNumber": 62,
+      "yes": 443
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-21T19:30:59",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/63/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 2,
+      "no": 1,
+      "notParticipating": 16,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (druki nr 802, 816 i 816-A)",
+      "topic": "poprawka 12",
+      "totalVoted": 444,
+      "votingNumber": 63,
+      "yes": 443
+    },
+    {
+      "abstain": 1,
+      "date": "2024-11-21T19:31:27",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/64/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 16,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (druki nr 802, 816 i 816-A)",
+      "topic": "poprawka 13",
+      "totalVoted": 444,
+      "votingNumber": 64,
+      "yes": 443
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-21T19:32:01",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/65/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 15,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (druki nr 802, 816 i 816-A)",
+      "topic": "poprawka 14",
+      "totalVoted": 445,
+      "votingNumber": 65,
+      "yes": 445
+    },
+    {
+      "abstain": 13,
+      "date": "2024-11-21T19:32:28",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/66/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 4,
+      "no": 3,
+      "notParticipating": 14,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (druki nr 802, 816 i 816-A)",
+      "topic": "poprawka 15",
+      "totalVoted": 446,
+      "votingNumber": 66,
+      "yes": 430
+    },
+    {
+      "abstain": 1,
+      "date": "2024-11-21T19:32:57",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/67/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 12,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (druki nr 802, 816 i 816-A)",
+      "topic": "poprawka 16",
+      "totalVoted": 448,
+      "votingNumber": 67,
+      "yes": 447
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-21T19:33:35",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/68/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 2,
+      "no": 1,
+      "notParticipating": 12,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (druki nr 802, 816 i 816-A)",
+      "topic": "poprawki nr 17 i 20",
+      "totalVoted": 448,
+      "votingNumber": 68,
+      "yes": 447
+    },
+    {
+      "abstain": 1,
+      "date": "2024-11-21T19:34:06",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/69/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 13,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (druki nr 802, 816 i 816-A)",
+      "topic": "poprawka 18",
+      "totalVoted": 447,
+      "votingNumber": 69,
+      "yes": 446
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-21T19:34:36",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/70/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 236,
+      "no": 235,
+      "notParticipating": 13,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (druki nr 802, 816 i 816-A)",
+      "topic": "wniosek mniejszości 21",
+      "totalVoted": 447,
+      "votingNumber": 70,
+      "yes": 212
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-21T19:35:07",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/71/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 239,
+      "no": 238,
+      "notParticipating": 13,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (druki nr 802, 816 i 816-A)",
+      "topic": "wniosek mniejszości 22",
+      "totalVoted": 447,
+      "votingNumber": 71,
+      "yes": 209
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-21T19:39:36",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/72/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 3,
+      "no": 2,
+      "notParticipating": 14,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 20 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (druki nr 802, 816 i 816-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 446,
+      "votingNumber": 72,
+      "yes": 444
+    },
+    {
+      "abstain": 1,
+      "date": "2024-11-21T19:43:25",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/73/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 184,
+      "no": 183,
+      "notParticipating": 15,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 12 Sprawozdanie Komisji o rządowym projekcie ustawy o Radzie Fiskalnej (druki nr 750, 821 i 821-A)",
+      "topic": "poprawka 1",
+      "totalVoted": 445,
+      "votingNumber": 73,
+      "yes": 261
+    },
+    {
+      "abstain": 5,
+      "date": "2024-11-21T19:43:54",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/74/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 187,
+      "no": 186,
+      "notParticipating": 16,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 12 Sprawozdanie Komisji o rządowym projekcie ustawy o Radzie Fiskalnej (druki nr 750, 821 i 821-A)",
+      "topic": "poprawka 2",
+      "totalVoted": 444,
+      "votingNumber": 74,
+      "yes": 253
+    },
+    {
+      "abstain": 12,
+      "date": "2024-11-21T19:45:16",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/75/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 239,
+      "no": 238,
+      "notParticipating": 15,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 12 Sprawozdanie Komisji o rządowym projekcie ustawy o Radzie Fiskalnej (druki nr 750, 821 i 821-A)",
+      "topic": "poprawki nr 3-4, 7 i 9",
+      "totalVoted": 445,
+      "votingNumber": 75,
+      "yes": 195
+    },
+    {
+      "abstain": 17,
+      "date": "2024-11-21T19:45:44",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/76/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 177,
+      "no": 176,
+      "notParticipating": 22,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 12 Sprawozdanie Komisji o rządowym projekcie ustawy o Radzie Fiskalnej (druki nr 750, 821 i 821-A)",
+      "topic": "poprawka 5",
+      "totalVoted": 438,
+      "votingNumber": 76,
+      "yes": 245
+    },
+    {
+      "abstain": 11,
+      "date": "2024-11-21T19:46:14",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/77/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 422,
+      "no": 421,
+      "notParticipating": 18,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 12 Sprawozdanie Komisji o rządowym projekcie ustawy o Radzie Fiskalnej (druki nr 750, 821 i 821-A)",
+      "topic": "poprawka 6",
+      "totalVoted": 442,
+      "votingNumber": 77,
+      "yes": 10
+    },
+    {
+      "abstain": 6,
+      "date": "2024-11-21T19:46:42",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/78/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 200,
+      "no": 199,
+      "notParticipating": 13,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 12 Sprawozdanie Komisji o rządowym projekcie ustawy o Radzie Fiskalnej (druki nr 750, 821 i 821-A)",
+      "topic": "poprawka 8",
+      "totalVoted": 447,
+      "votingNumber": 78,
+      "yes": 242
+    },
+    {
+      "abstain": 11,
+      "date": "2024-11-21T19:47:10",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/79/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 199,
+      "no": 198,
+      "notParticipating": 13,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 12 Sprawozdanie Komisji o rządowym projekcie ustawy o Radzie Fiskalnej (druki nr 750, 821 i 821-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 447,
+      "votingNumber": 79,
+      "yes": 238
+    },
+    {
+      "abstain": 174,
+      "date": "2024-11-21T19:51:07",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/80/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 252,
+      "no": 251,
+      "notParticipating": 14,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 13 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o sporcie oraz niektórych innych ustaw (druki nr 742, 794 i 794-A)",
+      "topic": "wniosek o odrzucenie w całości projektu.",
+      "totalVoted": 446,
+      "votingNumber": 80,
+      "yes": 21
+    },
+    {
+      "abstain": 15,
+      "date": "2024-11-21T19:51:39",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/81/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 3,
+      "no": 2,
+      "notParticipating": 18,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 13 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o sporcie oraz niektórych innych ustaw (druki nr 742, 794 i 794-A)",
+      "topic": "poprawki nr 1 i 14",
+      "totalVoted": 442,
+      "votingNumber": 81,
+      "yes": 425
+    },
+    {
+      "abstain": 1,
+      "date": "2024-11-21T19:52:07",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/82/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 205,
+      "no": 204,
+      "notParticipating": 12,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 13 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o sporcie oraz niektórych innych ustaw (druki nr 742, 794 i 794-A)",
+      "topic": "poprawka 2",
+      "totalVoted": 448,
+      "votingNumber": 82,
+      "yes": 243
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-21T19:52:35",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/83/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 244,
+      "no": 243,
+      "notParticipating": 14,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 13 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o sporcie oraz niektórych innych ustaw (druki nr 742, 794 i 794-A)",
+      "topic": "poprawka 3",
+      "totalVoted": 446,
+      "votingNumber": 83,
+      "yes": 203
+    },
+    {
+      "abstain": 15,
+      "date": "2024-11-21T19:53:08",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/84/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 4,
+      "no": 3,
+      "notParticipating": 12,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 13 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o sporcie oraz niektórych innych ustaw (druki nr 742, 794 i 794-A)",
+      "topic": "poprawka 4",
+      "totalVoted": 448,
+      "votingNumber": 84,
+      "yes": 430
+    },
+    {
+      "abstain": 16,
+      "date": "2024-11-21T19:53:33",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/85/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 3,
+      "no": 2,
+      "notParticipating": 17,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 13 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o sporcie oraz niektórych innych ustaw (druki nr 742, 794 i 794-A)",
+      "topic": "poprawka 5",
+      "totalVoted": 443,
+      "votingNumber": 85,
+      "yes": 425
+    },
+    {
+      "abstain": 7,
+      "date": "2024-11-21T19:53:59",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/86/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 11,
+      "no": 10,
+      "notParticipating": 15,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 13 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o sporcie oraz niektórych innych ustaw (druki nr 742, 794 i 794-A)",
+      "topic": "poprawka 6",
+      "totalVoted": 445,
+      "votingNumber": 86,
+      "yes": 428
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-21T19:54:42",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/87/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 17,
+      "no": 16,
+      "notParticipating": 14,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 13 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o sporcie oraz niektórych innych ustaw (druki nr 742, 794 i 794-A)",
+      "topic": "poprawki nr 7, 12 i 16",
+      "totalVoted": 446,
+      "votingNumber": 87,
+      "yes": 430
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-21T19:55:09",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/88/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 17,
+      "no": 16,
+      "notParticipating": 21,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 13 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o sporcie oraz niektórych innych ustaw (druki nr 742, 794 i 794-A)",
+      "topic": "poprawka 8",
+      "totalVoted": 439,
+      "votingNumber": 88,
+      "yes": 423
+    },
+    {
+      "abstain": 17,
+      "date": "2024-11-21T19:55:35",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/89/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 16,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 13 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o sporcie oraz niektórych innych ustaw (druki nr 742, 794 i 794-A)",
+      "topic": "poprawka 9",
+      "totalVoted": 444,
+      "votingNumber": 89,
+      "yes": 427
+    },
+    {
+      "abstain": 17,
+      "date": "2024-11-21T19:56:03",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/90/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 179,
+      "no": 178,
+      "notParticipating": 14,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 13 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o sporcie oraz niektórych innych ustaw (druki nr 742, 794 i 794-A)",
+      "topic": "poprawka 10",
+      "totalVoted": 446,
+      "votingNumber": 90,
+      "yes": 251
+    },
+    {
+      "abstain": 18,
+      "date": "2024-11-21T19:56:33",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/91/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 185,
+      "no": 184,
+      "notParticipating": 16,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 13 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o sporcie oraz niektórych innych ustaw (druki nr 742, 794 i 794-A)",
+      "topic": "poprawka 11",
+      "totalVoted": 444,
+      "votingNumber": 91,
+      "yes": 242
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-21T19:57:15",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/92/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 204,
+      "no": 203,
+      "notParticipating": 14,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 13 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o sporcie oraz niektórych innych ustaw (druki nr 742, 794 i 794-A)",
+      "topic": "poprawka 15",
+      "totalVoted": 446,
+      "votingNumber": 92,
+      "yes": 243
+    },
+    {
+      "abstain": 178,
+      "date": "2024-11-21T19:59:25",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/93/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 23,
+      "no": 22,
+      "notParticipating": 13,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 13 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o sporcie oraz niektórych innych ustaw (druki nr 742, 794 i 794-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 447,
+      "votingNumber": 93,
+      "yes": 247
+    },
+    {
+      "abstain": 175,
+      "date": "2024-11-21T20:05:08",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/94/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 240,
+      "no": 239,
+      "notParticipating": 22,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 15 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o elektromobilności i paliwach alternatywnych oraz niektórych innych ustaw (druki nr 751, 799 i 799-A)",
+      "topic": "wniosek o odrzucenie w całości projektu.",
+      "totalVoted": 438,
+      "votingNumber": 94,
+      "yes": 24
+    },
+    {
+      "abstain": 1,
+      "date": "2024-11-21T20:05:53",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/95/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 235,
+      "no": 234,
+      "notParticipating": 18,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 15 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o elektromobilności i paliwach alternatywnych oraz niektórych innych ustaw (druki nr 751, 799 i 799-A)",
+      "topic": "poprawki nr 1-2, 5-8 i 14",
+      "totalVoted": 442,
+      "votingNumber": 95,
+      "yes": 207
+    },
+    {
+      "abstain": 5,
+      "date": "2024-11-21T20:06:39",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/96/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 205,
+      "no": 204,
+      "notParticipating": 16,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 15 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o elektromobilności i paliwach alternatywnych oraz niektórych innych ustaw (druki nr 751, 799 i 799-A)",
+      "topic": "poprawki nr 3, 15 i 19",
+      "totalVoted": 444,
+      "votingNumber": 96,
+      "yes": 235
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-21T20:07:20",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/97/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 244,
+      "no": 243,
+      "notParticipating": 15,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 15 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o elektromobilności i paliwach alternatywnych oraz niektórych innych ustaw (druki nr 751, 799 i 799-A)",
+      "topic": "poprawki nr 4 i 17",
+      "totalVoted": 445,
+      "votingNumber": 97,
+      "yes": 202
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-21T20:07:56",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/98/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 242,
+      "no": 241,
+      "notParticipating": 19,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 15 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o elektromobilności i paliwach alternatywnych oraz niektórych innych ustaw (druki nr 751, 799 i 799-A)",
+      "topic": "poprawka 9",
+      "totalVoted": 441,
+      "votingNumber": 98,
+      "yes": 200
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-21T20:08:32",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/99/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 243,
+      "no": 242,
+      "notParticipating": 16,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 15 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o elektromobilności i paliwach alternatywnych oraz niektórych innych ustaw (druki nr 751, 799 i 799-A)",
+      "topic": "poprawki nr 10 i 13",
+      "totalVoted": 444,
+      "votingNumber": 99,
+      "yes": 202
+    },
+    {
+      "abstain": 176,
+      "date": "2024-11-21T20:09:02",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/100/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 30,
+      "no": 29,
+      "notParticipating": 15,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 15 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o elektromobilności i paliwach alternatywnych oraz niektórych innych ustaw (druki nr 751, 799 i 799-A)",
+      "topic": "poprawka 11",
+      "totalVoted": 445,
+      "votingNumber": 100,
+      "yes": 240
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-21T20:12:50",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/101/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 203,
+      "no": 202,
+      "notParticipating": 16,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 15 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o elektromobilności i paliwach alternatywnych oraz niektórych innych ustaw (druki nr 751, 799 i 799-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 444,
+      "votingNumber": 101,
+      "yes": 242
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-21T20:14:42",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/102/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 241,
+      "no": 240,
+      "notParticipating": 15,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o doręczeniach elektronicznych (druki nr 761, 809 i 809-A)",
+      "topic": "poprawka 1",
+      "totalVoted": 445,
+      "votingNumber": 102,
+      "yes": 205
+    },
+    {
+      "abstain": 23,
+      "date": "2024-11-21T20:15:20",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/103/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 233,
+      "no": 232,
+      "notParticipating": 18,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o doręczeniach elektronicznych (druki nr 761, 809 i 809-A)",
+      "topic": "wnioski mniejszości nr 1-3",
+      "totalVoted": 442,
+      "votingNumber": 103,
+      "yes": 187
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-21T20:15:49",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/104/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 245,
+      "no": 244,
+      "notParticipating": 18,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o doręczeniach elektronicznych (druki nr 761, 809 i 809-A)",
+      "topic": "poprawka 2",
+      "totalVoted": 442,
+      "votingNumber": 104,
+      "yes": 198
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-21T20:16:17",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/105/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 241,
+      "no": 240,
+      "notParticipating": 27,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o doręczeniach elektronicznych (druki nr 761, 809 i 809-A)",
+      "topic": "poprawka 3",
+      "totalVoted": 433,
+      "votingNumber": 105,
+      "yes": 193
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-21T20:16:46",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/106/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 239,
+      "no": 238,
+      "notParticipating": 16,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o doręczeniach elektronicznych (druki nr 761, 809 i 809-A)",
+      "topic": "poprawka 4",
+      "totalVoted": 444,
+      "votingNumber": 106,
+      "yes": 206
+    },
+    {
+      "abstain": 18,
+      "date": "2024-11-21T20:17:14",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/107/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 3,
+      "no": 2,
+      "notParticipating": 15,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o doręczeniach elektronicznych (druki nr 761, 809 i 809-A)",
+      "topic": "poprawka 5",
+      "totalVoted": 445,
+      "votingNumber": 107,
+      "yes": 425
+    },
+    {
+      "abstain": 16,
+      "date": "2024-11-21T20:17:44",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/108/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 188,
+      "no": 187,
+      "notParticipating": 15,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o doręczeniach elektronicznych (druki nr 761, 809 i 809-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 445,
+      "votingNumber": 108,
+      "yes": 242
+    },
+    {
+      "abstain": 185,
+      "date": "2024-11-21T20:20:57",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/109/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 240,
+      "no": 239,
+      "notParticipating": 19,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 16 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o gospodarce opakowaniami i odpadami opakowaniowymi oraz niektórych innych ustaw (druki nr 760, 834 i 834-A)",
+      "topic": "poprawka 1",
+      "totalVoted": 441,
+      "votingNumber": 109,
+      "yes": 17
+    },
+    {
+      "abstain": 183,
+      "date": "2024-11-21T20:21:35",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/110/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 243,
+      "no": 242,
+      "notParticipating": 16,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 16 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o gospodarce opakowaniami i odpadami opakowaniowymi oraz niektórych innych ustaw (druki nr 760, 834 i 834-A)",
+      "topic": "poprawki nr 2 i 4",
+      "totalVoted": 444,
+      "votingNumber": 110,
+      "yes": 19
+    },
+    {
+      "abstain": 16,
+      "date": "2024-11-21T20:22:12",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/111/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 243,
+      "no": 242,
+      "notParticipating": 17,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 16 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o gospodarce opakowaniami i odpadami opakowaniowymi oraz niektórych innych ustaw (druki nr 760, 834 i 834-A)",
+      "topic": "poprawka 3",
+      "totalVoted": 443,
+      "votingNumber": 111,
+      "yes": 185
+    },
+    {
+      "abstain": 179,
+      "date": "2024-11-21T20:22:42",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/112/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 246,
+      "no": 245,
+      "notParticipating": 20,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 16 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o gospodarce opakowaniami i odpadami opakowaniowymi oraz niektórych innych ustaw (druki nr 760, 834 i 834-A)",
+      "topic": "poprawka 5",
+      "totalVoted": 440,
+      "votingNumber": 112,
+      "yes": 16
+    },
+    {
+      "abstain": 184,
+      "date": "2024-11-21T20:23:21",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/113/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 20,
+      "no": 19,
+      "notParticipating": 17,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 16 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o gospodarce opakowaniami i odpadami opakowaniowymi oraz niektórych innych ustaw (druki nr 760, 834 i 834-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 443,
+      "votingNumber": 113,
+      "yes": 240
+    },
+    {
+      "abstain": 13,
+      "date": "2024-11-21T20:28:50",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/114/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 6,
+      "no": 5,
+      "notParticipating": 15,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 21 Sprawozdanie Komisji o rządowym oraz poselskim projektach ustaw o zmianie ustawy o pomocy osobom uprawnionym do alimentów (druki nr 800, 326 i 833)",
+      "topic": "wniosek o przystąpienie do trzeciego czytania bez kierowania projektu do komisji",
+      "totalVoted": 445,
+      "votingNumber": 114,
+      "yes": 427
+    },
+    {
+      "abstain": 18,
+      "date": "2024-11-21T20:29:37",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/115/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 230,
+      "no": 229,
+      "notParticipating": 19,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 21 Sprawozdanie Komisji o rządowym oraz poselskim projektach ustaw o zmianie ustawy o pomocy osobom uprawnionym do alimentów (druki nr 800, 326 i 833)",
+      "topic": "poprawka 1",
+      "totalVoted": 441,
+      "votingNumber": 115,
+      "yes": 194
+    },
+    {
+      "abstain": 2,
+      "date": "2024-11-21T20:30:05",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/116/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 6,
+      "no": 5,
+      "notParticipating": 20,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 21 Sprawozdanie Komisji o rządowym oraz poselskim projektach ustaw o zmianie ustawy o pomocy osobom uprawnionym do alimentów (druki nr 800, 326 i 833)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 440,
+      "votingNumber": 116,
+      "yes": 433
+    },
+    {
+      "abstain": 2,
+      "date": "2024-11-21T20:30:47",
+      "description": "całość projektu uchwały",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/117/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 19,
+      "no": 18,
+      "notParticipating": 17,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 17 Sprawozdanie Komisji o poselskim projekcie uchwały w sprawie 106. rocznicy powstania rządu Daszyńskiego (druki nr 775 i 797)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 443,
+      "votingNumber": 117,
+      "yes": 423
+    },
+    {
+      "abstain": 5,
+      "date": "2024-11-21T20:38:31",
+      "description": "wniosek o odrzucenie projektu ustawy w pierwszym czytaniu",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/118/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 433,
+      "no": 432,
+      "notParticipating": 18,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 22 Pierwsze czytanie rządowego projektu ustawy o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (druki nr 764 i 764-A)",
+      "topic": "wniosek o odrzucenie projektu w pierwszym czytaniu.",
+      "totalVoted": 442,
+      "votingNumber": 118,
+      "yes": 5
+    },
+    {
+      "abstain": 4,
+      "date": "2024-11-21T20:40:24",
+      "description": "wniosek o odrzucenie projektu ustawy w pierwszym czytaniu",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/119/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 196,
+      "no": 195,
+      "notParticipating": 18,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 23 Pierwsze czytanie poselskiego projektu ustawy o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz ustawy o podatku dochodowym od osób fizycznych (druk nr 324)",
+      "topic": "wniosek o odrzucenie projektu w pierwszym czytaniu.",
+      "totalVoted": 442,
+      "votingNumber": 119,
+      "yes": 243
+    },
+    {
+      "abstain": 9,
+      "date": "2024-11-21T20:41:24",
+      "description": "wniosek o odrzucenie projektu ustawy w pierwszym czytaniu",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/120/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 423,
+      "no": 422,
+      "notParticipating": 19,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 25 Pierwsze czytanie rządowego projektu ustawy o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw (druk nr 838)",
+      "topic": "wniosek o odrzucenie projektu w pierwszym czytaniu.",
+      "totalVoted": 441,
+      "votingNumber": 120,
+      "yes": 10
+    },
+    {
+      "abstain": 7,
+      "date": "2024-11-21T20:44:24",
+      "description": "wniosek o wyrażenie przez Sejm zgody na pociągnięcie do odpowiedzialności karnej posła Konrada Frysztaka",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/121/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_STATUTORY_MAJORITY",
+      "majorityVotes": 231,
+      "no": 249,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 18 Sprawozdanie Komisji w sprawie wniosku oskarżyciela prywatnego Roberta Bąkiewicza reprezentowanego przez adwokatów Adama Janusa oraz Tomasza Mielke z dnia 19 kwietnia 2024 r. o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła Konrada Frysztaka (druk nr 695)",
+      "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła Konrada Frysztaka",
+      "totalVoted": 436,
+      "votingNumber": 121,
+      "yes": 180
+    },
+    {
+      "abstain": 16,
+      "date": "2024-11-21T20:48:21",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/122/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 240,
+      "no": 239,
+      "notParticipating": 24,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Pkt. 29 Informacja Ministra Obrony Narodowej na temat raportu opublikowanego przez Zespół ds. oceny funkcjonowania \"Podkomisji Smoleńskiej\", w szczególności na temat wykazanych w nim nieprawidłowości w funkcjonowaniu Podkomisji oraz informacja Ministra Sprawiedliwości Prokuratora Generalnego na temat postępów w prowadzonych przez prokuraturę śledztwach dotyczących katastrofy smoleńskiej - głosowanie",
+      "topic": "głosowanie nad wnioskiem o odrzucenie informacji",
+      "totalVoted": 436,
+      "votingNumber": 122,
+      "yes": 181
+    },
+    {
+      "abstain": 5,
+      "date": "2024-11-21T20:52:15",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/123/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 237,
+      "no": 236,
+      "notParticipating": 22,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Rozstrzygnięcie przez Sejm wniosku o uzupełnienie porządku dziennego o punkt: Pierwsze czytanie poselskiego projektu ustawy o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw (druk nr 823)",
+      "topic": "wniosek o uzupełnienie porządku dziennego.",
+      "totalVoted": 438,
+      "votingNumber": 123,
+      "yes": 197
+    },
+    {
+      "abstain": 3,
+      "date": "2024-11-21T20:52:48",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/124/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 230,
+      "no": 229,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 3,
+      "term": 10,
+      "title": "Rozstrzygnięcie przez Sejm wniosku o uzupełnienie porządku dziennego o punkt: Informacja Ministra Rolnictwa i Rozwoju Wsi w sprawie rozprzestrzeniania się wirusa ASF, likwidacji chowu trzody chlewnej w Polsce oraz planowanych działań rządu i resortu rolnictwa w związku z bardzo trudną sytuacją gospodarstw rolnych dotkniętych skutkami afrykańskiego pomoru świń",
+      "topic": "wniosek o uzupełnienie porządku dziennego.",
+      "totalVoted": 428,
+      "votingNumber": 124,
+      "yes": 196
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-27T09:10:21",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/125/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 14,
+      "no": 13,
+      "notParticipating": 58,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 5,
+      "term": 10,
+      "title": "Wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie sprawozdania z druku nr 850",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie sprawozdania z druku nr 850",
+      "totalVoted": 402,
+      "votingNumber": 125,
+      "yes": 389
+    },
+    {
+      "abstain": 12,
+      "date": "2024-11-27T09:11:02",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/126/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 8,
+      "no": 7,
+      "notParticipating": 55,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 5,
+      "term": 10,
+      "title": "Wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie sprawozdania z druku nr 851",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie sprawozdania z druku nr 851",
+      "totalVoted": 405,
+      "votingNumber": 126,
+      "yes": 386
+    },
+    {
+      "abstain": 12,
+      "date": "2024-11-27T09:11:40",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/127/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 57,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 5,
+      "term": 10,
+      "title": "Wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie sprawozdania z druku nr 858",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie sprawozdania z druku nr 858",
+      "totalVoted": 403,
+      "votingNumber": 127,
+      "yes": 391
+    },
+    {
+      "abstain": 3,
+      "date": "2024-11-27T09:12:17",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/128/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 16,
+      "no": 15,
+      "notParticipating": 55,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 5,
+      "term": 10,
+      "title": "Wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie sprawozdania z druku nr 855",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie sprawozdania z druku nr 855",
+      "totalVoted": 405,
+      "votingNumber": 128,
+      "yes": 387
+    },
+    {
+      "abstain": 1,
+      "date": "2024-11-27T09:15:56",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/129/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 227,
+      "no": 226,
+      "notParticipating": 53,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 5,
+      "term": 10,
+      "title": "22. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 19, 20, 21, 22 i 27 listopada 2024 r.",
+      "topic": "Wniosek o przerwę",
+      "totalVoted": 407,
+      "votingNumber": 129,
+      "yes": 180
+    },
+    {
+      "abstain": 1,
+      "date": "2024-11-27T09:17:54",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/130/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 227,
+      "no": 226,
+      "notParticipating": 51,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 5,
+      "term": 10,
+      "title": "22. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 19, 20, 21, 22 i 27 listopada 2024 r.",
+      "topic": "wniosek o odroczenie posiedzenia",
+      "totalVoted": 409,
+      "votingNumber": 130,
+      "yes": 182
+    },
+    {
+      "abstain": 155,
+      "date": "2024-11-27T09:26:20",
+      "description": "wniosek o nieodsyłanie projektu ustawy do Komisji",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/131/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 52,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 5,
+      "term": 10,
+      "title": "Pkt. 30 Pierwsze czytanie rządowego projektu ustawy o zmianie ustawy - Kodeks pracy oraz niektórych innych ustaw (druk nr 762)",
+      "topic": "wniosek o przystąpienie do drugiego czytania  bez kierowania projektu do komisji",
+      "totalVoted": 408,
+      "votingNumber": 131,
+      "yes": 253
+    },
+    {
+      "abstain": 168,
+      "date": "2024-11-27T09:46:48",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/132/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 2,
+      "no": 1,
+      "notParticipating": 51,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 5,
+      "term": 10,
+      "title": "22. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 19, 20, 21, 22 i 27 listopada 2024 r.",
+      "topic": "wniosek o przystąpienie do trzeciego czytania bez kierowania projektu do komisji",
+      "totalVoted": 409,
+      "votingNumber": 132,
+      "yes": 240
+    },
+    {
+      "abstain": 13,
+      "date": "2024-11-27T14:34:50",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/133/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 2,
+      "no": 1,
+      "notParticipating": 65,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 5,
+      "term": 10,
+      "title": "Wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie sprawozdania z druku nr 861",
+      "topic": "wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie sprawozdania z druku nr 861",
+      "totalVoted": 395,
+      "votingNumber": 133,
+      "yes": 381
+    },
+    {
+      "abstain": 1,
+      "date": "2024-11-27T21:04:49",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/134/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 17,
+      "no": 16,
+      "notParticipating": 42,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 5,
+      "term": 10,
+      "title": "Pkt. 41 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o odpadach oraz niektórych innych ustaw (druki nr 812 i 819)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 418,
+      "votingNumber": 134,
+      "yes": 401
+    },
+    {
+      "abstain": 171,
+      "date": "2024-11-27T21:06:34",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/135/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 244,
+      "no": 243,
+      "notParticipating": 41,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 5,
+      "term": 10,
+      "title": "Pkt. 39 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (druki nr 764, 764-A, 851 i 851-A)",
+      "topic": "wniosek o odrzucenie w całości projektu.",
+      "totalVoted": 419,
+      "votingNumber": 135,
+      "yes": 5
+    },
+    {
+      "abstain": 1,
+      "date": "2024-11-27T21:07:05",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/136/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 232,
+      "no": 231,
+      "notParticipating": 40,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 5,
+      "term": 10,
+      "title": "Pkt. 39 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (druki nr 764, 764-A, 851 i 851-A)",
+      "topic": "wniosek mniejszości 1",
+      "totalVoted": 420,
+      "votingNumber": 136,
+      "yes": 188
+    },
+    {
+      "abstain": 1,
+      "date": "2024-11-27T21:07:38",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/137/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 228,
+      "no": 227,
+      "notParticipating": 38,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 5,
+      "term": 10,
+      "title": "Pkt. 39 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (druki nr 764, 764-A, 851 i 851-A)",
+      "topic": "wniosek mniejszości 2",
+      "totalVoted": 422,
+      "votingNumber": 137,
+      "yes": 194
+    },
+    {
+      "abstain": 171,
+      "date": "2024-11-27T21:08:11",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/138/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 7,
+      "no": 6,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 5,
+      "term": 10,
+      "title": "Pkt. 39 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (druki nr 764, 764-A, 851 i 851-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 425,
+      "votingNumber": 138,
+      "yes": 248
+    },
+    {
+      "abstain": 16,
+      "date": "2024-11-27T21:09:45",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/139/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 231,
+      "no": 230,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 5,
+      "term": 10,
+      "title": "Pkt. 38 Sprawozdanie Komisji o rządowym projekcie ustawy o zapewnieniu finansowania działań zmierzających do zwiększenia zdolności produkcji amunicji (druki nr 839, 858 i 858-A)",
+      "topic": "poprawka 1",
+      "totalVoted": 425,
+      "votingNumber": 139,
+      "yes": 179
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-27T21:10:15",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/140/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 36,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 5,
+      "term": 10,
+      "title": "Pkt. 38 Sprawozdanie Komisji o rządowym projekcie ustawy o zapewnieniu finansowania działań zmierzających do zwiększenia zdolności produkcji amunicji (druki nr 839, 858 i 858-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 424,
+      "votingNumber": 140,
+      "yes": 424
+    },
+    {
+      "abstain": 16,
+      "date": "2024-11-27T21:12:24",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/141/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 5,
+      "term": 10,
+      "title": "Pkt. 36 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo ochrony środowiska oraz niektórych innych ustaw (druki nr 813, 863 i 863-A)",
+      "topic": "poprawka 1",
+      "totalVoted": 427,
+      "votingNumber": 141,
+      "yes": 411
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-27T21:12:54",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/142/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 235,
+      "no": 234,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 5,
+      "term": 10,
+      "title": "Pkt. 36 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo ochrony środowiska oraz niektórych innych ustaw (druki nr 813, 863 i 863-A)",
+      "topic": "wniosek mniejszości 1",
+      "totalVoted": 426,
+      "votingNumber": 142,
+      "yes": 192
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-27T21:13:25",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/143/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 19,
+      "no": 18,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 5,
+      "term": 10,
+      "title": "Pkt. 36 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo ochrony środowiska oraz niektórych innych ustaw (druki nr 813, 863 i 863-A)",
+      "topic": "poprawka 2",
+      "totalVoted": 426,
+      "votingNumber": 143,
+      "yes": 408
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-27T21:14:02",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/144/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 398,
+      "no": 397,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 5,
+      "term": 10,
+      "title": "Pkt. 36 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo ochrony środowiska oraz niektórych innych ustaw (druki nr 813, 863 i 863-A)",
+      "topic": "poprawki nr 3 i 7",
+      "totalVoted": 426,
+      "votingNumber": 144,
+      "yes": 29
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-27T21:14:45",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/145/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 239,
+      "no": 238,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 5,
+      "term": 10,
+      "title": "Pkt. 36 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo ochrony środowiska oraz niektórych innych ustaw (druki nr 813, 863 i 863-A)",
+      "topic": "wniosek mniejszości 2",
+      "totalVoted": 428,
+      "votingNumber": 145,
+      "yes": 190
+    },
+    {
+      "abstain": 5,
+      "date": "2024-11-27T21:15:17",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/146/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 5,
+      "term": 10,
+      "title": "Pkt. 36 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo ochrony środowiska oraz niektórych innych ustaw (druki nr 813, 863 i 863-A)",
+      "topic": "poprawka 4",
+      "totalVoted": 425,
+      "votingNumber": 146,
+      "yes": 420
+    },
+    {
+      "abstain": 10,
+      "date": "2024-11-27T21:15:45",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/147/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 183,
+      "no": 182,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 5,
+      "term": 10,
+      "title": "Pkt. 36 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo ochrony środowiska oraz niektórych innych ustaw (druki nr 813, 863 i 863-A)",
+      "topic": "poprawka 5",
+      "totalVoted": 425,
+      "votingNumber": 147,
+      "yes": 233
+    },
+    {
+      "abstain": 14,
+      "date": "2024-11-27T21:16:20",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/148/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 239,
+      "no": 238,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 5,
+      "term": 10,
+      "title": "Pkt. 36 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo ochrony środowiska oraz niektórych innych ustaw (druki nr 813, 863 i 863-A)",
+      "topic": "poprawki nr 6 i 8",
+      "totalVoted": 428,
+      "votingNumber": 148,
+      "yes": 176
+    },
+    {
+      "abstain": 168,
+      "date": "2024-11-27T21:16:52",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/149/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 25,
+      "no": 24,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 5,
+      "term": 10,
+      "title": "Pkt. 36 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo ochrony środowiska oraz niektórych innych ustaw (druki nr 813, 863 i 863-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 426,
+      "votingNumber": 149,
+      "yes": 234
+    },
+    {
+      "abstain": 111,
+      "date": "2024-11-27T21:19:24",
+      "description": "wniosek o odrzucenie projektu ustawy w pierwszym czytaniu",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/150/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 214,
+      "no": 213,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 5,
+      "term": 10,
+      "title": "Pkt. 32 Pierwsze czytanie obywatelskiego projektu ustawy o zmianie ustawy o ochronie zwierząt oraz zmianie niektórych innych ustaw (druk nr 700)",
+      "topic": "wniosek o odrzucenie projektu w pierwszym czytaniu.",
+      "totalVoted": 427,
+      "votingNumber": 150,
+      "yes": 103
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-27T21:20:57",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/151/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 31,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 5,
+      "term": 10,
+      "title": "Pkt. 30 Pierwsze czytanie rządowego projektu ustawy o zmianie ustawy - Kodeks pracy oraz niektórych innych ustaw (druk nr 762)",
+      "topic": "poprawki nr 1-2, 4-5, 7-11 oraz 13-20",
+      "totalVoted": 429,
+      "votingNumber": 151,
+      "yes": 429
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-27T21:21:32",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/152/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 192,
+      "no": 191,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 5,
+      "term": 10,
+      "title": "Pkt. 30 Pierwsze czytanie rządowego projektu ustawy o zmianie ustawy - Kodeks pracy oraz niektórych innych ustaw (druk nr 762)",
+      "topic": "poprawki nr 3, 6 i 12",
+      "totalVoted": 426,
+      "votingNumber": 152,
+      "yes": 235
+    },
+    {
+      "abstain": 0,
+      "date": "2024-11-27T21:22:04",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/153/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 5,
+      "term": 10,
+      "title": "Pkt. 30 Pierwsze czytanie rządowego projektu ustawy o zmianie ustawy - Kodeks pracy oraz niektórych innych ustaw (druk nr 762)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 428,
+      "votingNumber": 153,
+      "yes": 428
+    },
+    {
+      "abstain": 14,
+      "date": "2024-11-27T21:24:37",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/154/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 238,
+      "no": 237,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 5,
+      "term": 10,
+      "title": "Pkt. 34 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo geodezyjne i kartograficzne oraz ustawy o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw (druki nr 801, 815 i 815-A)",
+      "topic": "poprawka 1",
+      "totalVoted": 428,
+      "votingNumber": 154,
+      "yes": 177
+    },
+    {
+      "abstain": 12,
+      "date": "2024-11-27T21:25:07",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/155/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 5,
+      "term": 10,
+      "title": "Pkt. 34 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo geodezyjne i kartograficzne oraz ustawy o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw (druki nr 801, 815 i 815-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 427,
+      "votingNumber": 155,
+      "yes": 415
+    },
+    {
+      "abstain": 16,
+      "date": "2024-11-27T21:27:30",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/156/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 213,
+      "no": 212,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 5,
+      "term": 10,
+      "title": "Pkt. 35 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o ubezpieczeniach upraw rolnych i zwierząt gospodarskich (druki nr 804, 820 i 820-A)",
+      "topic": "poprawka 1",
+      "totalVoted": 425,
+      "votingNumber": 156,
+      "yes": 197
+    },
+    {
+      "abstain": 16,
+      "date": "2024-11-27T21:28:00",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/157/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 1,
+      "no": 0,
+      "notParticipating": 34,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 5,
+      "term": 10,
+      "title": "Pkt. 35 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o ubezpieczeniach upraw rolnych i zwierząt gospodarskich (druki nr 804, 820 i 820-A)",
+      "topic": "poprawka 2",
+      "totalVoted": 426,
+      "votingNumber": 157,
+      "yes": 410
+    },
+    {
+      "abstain": 16,
+      "date": "2024-11-27T21:28:34",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/158/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 212,
+      "no": 211,
+      "notParticipating": 31,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 5,
+      "term": 10,
+      "title": "Pkt. 35 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o ubezpieczeniach upraw rolnych i zwierząt gospodarskich (druki nr 804, 820 i 820-A)",
+      "topic": "poprawka 3",
+      "totalVoted": 429,
+      "votingNumber": 158,
+      "yes": 202
+    },
+    {
+      "abstain": 11,
+      "date": "2024-11-27T21:29:09",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/159/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 6,
+      "no": 5,
+      "notParticipating": 31,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 5,
+      "term": 10,
+      "title": "Pkt. 35 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o ubezpieczeniach upraw rolnych i zwierząt gospodarskich (druki nr 804, 820 i 820-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 429,
+      "votingNumber": 159,
+      "yes": 413
+    },
+    {
+      "abstain": 1,
+      "date": "2024-11-27T21:30:25",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/160/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 10,
+      "no": 9,
+      "notParticipating": 31,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 5,
+      "term": 10,
+      "title": "Pkt. 45 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy o dniach wolnych od pracy oraz niektórych innych ustaw (druki nr 777 i 855)",
+      "topic": "wniosek o przystąpienie do trzeciego czytania bez kierowania projektu do komisji",
+      "totalVoted": 429,
+      "votingNumber": 160,
+      "yes": 419
+    },
+    {
+      "abstain": 1,
+      "date": "2024-11-27T21:31:54",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/161/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 8,
+      "no": 7,
+      "notParticipating": 31,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 5,
+      "term": 10,
+      "title": "Pkt. 45 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy o dniach wolnych od pracy oraz niektórych innych ustaw (druki nr 777 i 855)",
+      "topic": "poprawka 1",
+      "totalVoted": 429,
+      "votingNumber": 161,
+      "yes": 421
+    },
+    {
+      "abstain": 3,
+      "date": "2024-11-27T21:37:11",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/162/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 216,
+      "no": 215,
+      "notParticipating": 31,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 5,
+      "term": 10,
+      "title": "Pkt. 45 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy o dniach wolnych od pracy oraz niektórych innych ustaw (druki nr 777 i 855)",
+      "topic": "poprawka 2",
+      "totalVoted": 429,
+      "votingNumber": 162,
+      "yes": 211
+    },
+    {
+      "abstain": 1,
+      "date": "2024-11-27T21:37:49",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/163/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 216,
+      "no": 215,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 5,
+      "term": 10,
+      "title": "Pkt. 45 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy o dniach wolnych od pracy oraz niektórych innych ustaw (druki nr 777 i 855)",
+      "topic": "poprawka 3",
+      "totalVoted": 427,
+      "votingNumber": 163,
+      "yes": 211
+    },
+    {
+      "abstain": 1,
+      "date": "2024-11-27T21:38:27",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/164/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 216,
+      "no": 215,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 5,
+      "term": 10,
+      "title": "Pkt. 45 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy o dniach wolnych od pracy oraz niektórych innych ustaw (druki nr 777 i 855)",
+      "topic": "poprawka 4",
+      "totalVoted": 430,
+      "votingNumber": 164,
+      "yes": 214
+    },
+    {
+      "abstain": 1,
+      "date": "2024-11-27T21:39:33",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/165/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 4,
+      "no": 3,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 5,
+      "term": 10,
+      "title": "Pkt. 45 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy o dniach wolnych od pracy oraz niektórych innych ustaw (druki nr 777 i 855)",
+      "topic": "poprawka 5",
+      "totalVoted": 427,
+      "votingNumber": 165,
+      "yes": 423
+    },
+    {
+      "abstain": 1,
+      "date": "2024-11-27T21:40:22",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/166/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 220,
+      "no": 219,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 5,
+      "term": 10,
+      "title": "Pkt. 45 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy o dniach wolnych od pracy oraz niektórych innych ustaw (druki nr 777 i 855)",
+      "topic": "poprawka 7",
+      "totalVoted": 430,
+      "votingNumber": 166,
+      "yes": 210
+    },
+    {
+      "abstain": 12,
+      "date": "2024-11-27T21:45:22",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/167/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 11,
+      "no": 10,
+      "notParticipating": 35,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 5,
+      "term": 10,
+      "title": "Pkt. 45 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy o dniach wolnych od pracy oraz niektórych innych ustaw (druki nr 777 i 855)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 425,
+      "votingNumber": 167,
+      "yes": 403
+    },
+    {
+      "abstain": 5,
+      "date": "2024-11-27T21:46:18",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/168/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 14,
+      "no": 13,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 5,
+      "term": 10,
+      "title": "Pkt. 46 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych (druki nr 811 i 850)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 427,
+      "votingNumber": 168,
+      "yes": 409
+    },
+    {
+      "abstain": 16,
+      "date": "2024-11-27T21:48:56",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/169/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 232,
+      "no": 231,
+      "notParticipating": 31,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 5,
+      "term": 10,
+      "title": "Pkt. 37 Sprawozdanie Komisji o:- rządowym projekcie ustawy o zmianie ustawy o środkach nadzwyczajnych mających na celu ograniczenie wysokości cen energii elektrycznej oraz wsparciu niektórych odbiorców w 2023 roku oraz w 2024 roku oraz niektórych innych ustaw,- obywatelskim projekcie ustawy o zmianie ustaw w celu wsparcia odbiorców energii elektrycznej, paliw gazowych i ciepła oraz niektórych innych ustaw (druki nr 841, 494, 861 i 861-A)",
+      "topic": "wnioski mniejszości nr 1-3, 6, 8-9 oraz 12-13",
+      "totalVoted": 429,
+      "votingNumber": 169,
+      "yes": 182
+    },
+    {
+      "abstain": 16,
+      "date": "2024-11-27T21:49:41",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/170/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 2,
+      "no": 1,
+      "notParticipating": 30,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 5,
+      "term": 10,
+      "title": "Pkt. 37 Sprawozdanie Komisji o:- rządowym projekcie ustawy o zmianie ustawy o środkach nadzwyczajnych mających na celu ograniczenie wysokości cen energii elektrycznej oraz wsparciu niektórych odbiorców w 2023 roku oraz w 2024 roku oraz niektórych innych ustaw,- obywatelskim projekcie ustawy o zmianie ustaw w celu wsparcia odbiorców energii elektrycznej, paliw gazowych i ciepła oraz niektórych innych ustaw (druki nr 841, 494, 861 i 861-A)",
+      "topic": "poprawki nr 1-6",
+      "totalVoted": 430,
+      "votingNumber": 170,
+      "yes": 413
+    },
+    {
+      "abstain": 16,
+      "date": "2024-11-27T21:50:10",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/171/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 233,
+      "no": 232,
+      "notParticipating": 31,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 5,
+      "term": 10,
+      "title": "Pkt. 37 Sprawozdanie Komisji o:- rządowym projekcie ustawy o zmianie ustawy o środkach nadzwyczajnych mających na celu ograniczenie wysokości cen energii elektrycznej oraz wsparciu niektórych odbiorców w 2023 roku oraz w 2024 roku oraz niektórych innych ustaw,- obywatelskim projekcie ustawy o zmianie ustaw w celu wsparcia odbiorców energii elektrycznej, paliw gazowych i ciepła oraz niektórych innych ustaw (druki nr 841, 494, 861 i 861-A)",
+      "topic": "wniosek mniejszości 4",
+      "totalVoted": 429,
+      "votingNumber": 171,
+      "yes": 181
+    },
+    {
+      "abstain": 16,
+      "date": "2024-11-27T21:50:41",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/172/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 233,
+      "no": 232,
+      "notParticipating": 31,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 5,
+      "term": 10,
+      "title": "Pkt. 37 Sprawozdanie Komisji o:- rządowym projekcie ustawy o zmianie ustawy o środkach nadzwyczajnych mających na celu ograniczenie wysokości cen energii elektrycznej oraz wsparciu niektórych odbiorców w 2023 roku oraz w 2024 roku oraz niektórych innych ustaw,- obywatelskim projekcie ustawy o zmianie ustaw w celu wsparcia odbiorców energii elektrycznej, paliw gazowych i ciepła oraz niektórych innych ustaw (druki nr 841, 494, 861 i 861-A)",
+      "topic": "wniosek mniejszości 5",
+      "totalVoted": 429,
+      "votingNumber": 172,
+      "yes": 181
+    },
+    {
+      "abstain": 15,
+      "date": "2024-11-27T21:51:24",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/173/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 233,
+      "no": 232,
+      "notParticipating": 32,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 5,
+      "term": 10,
+      "title": "Pkt. 37 Sprawozdanie Komisji o:- rządowym projekcie ustawy o zmianie ustawy o środkach nadzwyczajnych mających na celu ograniczenie wysokości cen energii elektrycznej oraz wsparciu niektórych odbiorców w 2023 roku oraz w 2024 roku oraz niektórych innych ustaw,- obywatelskim projekcie ustawy o zmianie ustaw w celu wsparcia odbiorców energii elektrycznej, paliw gazowych i ciepła oraz niektórych innych ustaw (druki nr 841, 494, 861 i 861-A)",
+      "topic": "wniosek mniejszości 10",
+      "totalVoted": 428,
+      "votingNumber": 173,
+      "yes": 181
+    },
+    {
+      "abstain": 3,
+      "date": "2024-11-27T21:51:59",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/174/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 228,
+      "no": 227,
+      "notParticipating": 33,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 5,
+      "term": 10,
+      "title": "Pkt. 37 Sprawozdanie Komisji o:- rządowym projekcie ustawy o zmianie ustawy o środkach nadzwyczajnych mających na celu ograniczenie wysokości cen energii elektrycznej oraz wsparciu niektórych odbiorców w 2023 roku oraz w 2024 roku oraz niektórych innych ustaw,- obywatelskim projekcie ustawy o zmianie ustaw w celu wsparcia odbiorców energii elektrycznej, paliw gazowych i ciepła oraz niektórych innych ustaw (druki nr 841, 494, 861 i 861-A)",
+      "topic": "wniosek mniejszości 11",
+      "totalVoted": 427,
+      "votingNumber": 174,
+      "yes": 197
+    },
+    {
+      "abstain": 14,
+      "date": "2024-11-27T21:56:28",
+      "description": "całość projektu ustawy",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/175/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "SIMPLE_MAJORITY",
+      "majorityVotes": 4,
+      "no": 3,
+      "notParticipating": 31,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 5,
+      "term": 10,
+      "title": "Pkt. 37 Sprawozdanie Komisji o:- rządowym projekcie ustawy o zmianie ustawy o środkach nadzwyczajnych mających na celu ograniczenie wysokości cen energii elektrycznej oraz wsparciu niektórych odbiorców w 2023 roku oraz w 2024 roku oraz niektórych innych ustaw,- obywatelskim projekcie ustawy o zmianie ustaw w celu wsparcia odbiorców energii elektrycznej, paliw gazowych i ciepła oraz niektórych innych ustaw (druki nr 841, 494, 861 i 861-A)",
+      "topic": "głosowanie nad całością projektu.",
+      "totalVoted": 429,
+      "votingNumber": 175,
+      "yes": 412
+    },
+    {
+      "abstain": 14,
+      "date": "2024-11-27T21:59:51",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/176/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 211,
+      "no": 406,
+      "notParticipating": 40,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 5,
+      "term": 10,
+      "title": "Pkt. 47 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o odnawialnych źródłach energii oraz niektórych innych ustaw (druki nr 847 i 849)",
+      "topic": "poprawki nr 1-3 oraz 5-7",
+      "totalVoted": 420,
+      "votingNumber": 176,
+      "yes": 0
+    },
+    {
+      "abstain": 16,
+      "date": "2024-11-27T22:00:38",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/177/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 213,
+      "no": 0,
+      "notParticipating": 36,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 5,
+      "term": 10,
+      "title": "Pkt. 47 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o odnawialnych źródłach energii oraz niektórych innych ustaw (druki nr 847 i 849)",
+      "topic": "poprawka 4",
+      "totalVoted": 424,
+      "votingNumber": 177,
+      "yes": 408
+    },
+    {
+      "abstain": 185,
+      "date": "2024-11-27T22:02:15",
+      "kind": "ELECTRONIC",
+      "links": [
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/178/pdf",
+          "rel": "pdf"
+        }
+      ],
+      "majorityType": "ABSOLUTE_MAJORITY",
+      "majorityVotes": 211,
+      "no": 235,
+      "notParticipating": 39,
+      "present": 0,
+      "sitting": 22,
+      "sittingDay": 5,
+      "term": 10,
+      "title": "Pkt. 48 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o Centrum Medycznym Kształcenia Podyplomowego oraz niektórych innych ustaw (druki nr 846 i 848)",
+      "topic": "poprawki nr 1-42",
+      "totalVoted": 421,
+      "votingNumber": 178,
+      "yes": 1
+    }
+  ],
+  "_pobrano": "2026-03-24T10:36:19Z"
+}
