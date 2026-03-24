@@ -4,60 +4,233 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kompas Sejmowy</title>
+    <script src="https://cdn.tailwindcss.com"></script>
     <style>
-        body { font-family: Arial, sans-serif; margin: 40px; background: #f8f9fa; }
-        h1 { color: #2c3e50; }
-        table { border-collapse: collapse; width: 100%; margin-top: 20px; }
-        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
-        th { background-color: #3498db; color: white; }
-        tr:nth-child(even) { background-color: #f2f2f2; }
+        .tab-active { border-bottom: 4px solid #3b82f6; font-weight: 600; color: #1e40af; }
+        .card { transition: all 0.2s; }
+        .card:hover { transform: translateY(-4px); box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1); }
     </style>
 </head>
-<body>
-    <h1>Kompas Sejmowy – Kadencja X</h1>
-    <p><strong>Liczba posłów:</strong> <span id="liczba-poslow">Ładowanie...</span></p>
-    <p><strong>Ostatnie posiedzenie:</strong> <span id="ostatnie-posiedzenie">Ładowanie...</span></p>
+<body class="bg-gray-50">
 
-    <h2>Lista posłów (pierwsze 20)</h2>
-    <table id="tabela-poslow">
-        <thead>
-            <tr>
-                <th>Nr</th>
-                <th>Imię i nazwisko</th>
-                <th>Klub</th>
-                <th>Aktywny</th>
-            </tr>
-        </thead>
-        <tbody></tbody>
-    </table>
+<div class="max-w-7xl mx-auto p-6">
 
-    <script>
-        // Wczytaj posłów
-        fetch('data/poslowie.json')
-            .then(r => r.json())
-            .then(poslowie => {
-                document.getElementById('liczba-poslow').textContent = poslowie.length;
+    <h1 class="text-4xl font-bold text-gray-900 mb-8">Kompas Sejmowy <span class="text-blue-600">Kadencja X</span></h1>
 
-                const tbody = document.querySelector('#tabela-poslow tbody');
-                poslowie.slice(0, 20).forEach((p, i) => {
-                    const tr = document.createElement('tr');
-                    tr.innerHTML = `
-                        <td>${i+1}</td>
-                        <td>${p.lastFirstName || p.firstName + ' ' + p.lastName}</td>
-                        <td>${p.club || '—'}</td>
-                        <td>${p.active ? '✅' : '❌'}</td>
-                    `;
-                    tbody.appendChild(tr);
+    <!-- Zakładki -->
+    <div class="flex border-b mb-8 bg-white rounded-t-3xl">
+        <button onclick="switchTab(0)" id="tab-0" class="tab-active px-10 py-5 text-xl flex-1">📋 Lista posłów</button>
+        <button onclick="switchTab(1)" id="tab-1" class="px-10 py-5 text-xl flex-1">📊 Analiza zgodności</button>
+    </div>
+
+    <!-- Zakładka 1: Lista posłów -->
+    <div id="panel-0">
+        <div class="flex gap-4 mb-6">
+            <input id="search" type="text" placeholder="Szukaj posła..." 
+                   class="flex-1 px-6 py-4 border border-gray-300 rounded-2xl focus:outline-none focus:border-blue-500 text-lg"
+                   onkeyup="filterPoslowie()">
+            <select id="club-filter" onchange="filterPoslowie()" 
+                    class="px-6 py-4 border border-gray-300 rounded-2xl text-lg">
+                <option value="">Wszystkie kluby</option>
+            </select>
+        </div>
+        <div id="lista-poslow" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6"></div>
+    </div>
+
+    <!-- Zakładka 2: Analiza zgodności -->
+    <div id="panel-1" class="hidden">
+        <div class="max-w-2xl mx-auto bg-white rounded-3xl shadow-xl p-10">
+            <h2 class="text-3xl font-semibold mb-10 text-center">Porównaj zgodność głosowań</h2>
+
+            <div class="space-y-8">
+                <div>
+                    <label class="block text-sm font-medium mb-2">Poseł A</label>
+                    <select id="poseł-a" class="w-full px-6 py-4 border border-gray-300 rounded-2xl text-lg"></select>
+                </div>
+
+                <div class="text-center text-4xl text-gray-300">vs</div>
+
+                <div>
+                    <label class="block text-sm font-medium mb-2">Poseł B lub Klub</label>
+                    <select id="poseł-b" class="w-full px-6 py-4 border border-gray-300 rounded-2xl text-lg"></select>
+                </div>
+
+                <button onclick="porownajZgodnosc()" 
+                        class="w-full bg-blue-600 hover:bg-blue-700 text-white py-5 rounded-3xl text-xl font-semibold">
+                    Oblicz zgodność głosowań
+                </button>
+            </div>
+
+            <div id="wynik-porownania" class="mt-12 hidden text-center"></div>
+        </div>
+    </div>
+</div>
+
+<script>
+// ====================== DANE ======================
+let poslowie = [];
+let kluby = [];
+let wszystkieGlosowania = [];
+
+// ====================== ŁADOWANIE DANYCH ======================
+async function loadData() {
+    // Wczytaj posłów i kluby
+    poslowie = await fetch('data/poslowie.json').then(r => r.json());
+    kluby = await fetch('data/kluby.json').then(r => r.json());
+
+    // Wczytaj wszystkie głosowania z podfolderów
+    console.log("Ładuję indywidualne głosy posłów...");
+    for (let i = 1; i <= 60; i++) {   // zwiększ jeśli masz więcej posiedzeń
+        try {
+            const dirUrl = `data/glosowania/posiedzenie_${i}/`;
+            // Próba wczytania plików glosowanie_1.json, glosowanie_2.json itd.
+            for (let j = 1; j <= 300; j++) {   // bezpieczny limit
+                try {
+                    const res = await fetch(`${dirUrl}glosowanie_${j}.json`);
+                    if (res.ok) {
+                        const glos = await res.json();
+                        wszystkieGlosowania.push(glos);
+                    } else {
+                        break; // nie ma więcej głosowań w tym posiedzeniu
+                    }
+                } catch(e) { break; }
+            }
+        } catch(e) {}
+    }
+
+    console.log(`Załadowano ${wszystkieGlosowania.length} głosowań z indywidualnymi głosami`);
+
+    renderListaPoslow();
+    populateSelectors();
+}
+
+// ====================== LISTA POSŁÓW ======================
+function renderListaPoslow(filtered = poslowie) {
+    const container = document.getElementById('lista-poslow');
+    container.innerHTML = '';
+
+    filtered.forEach(p => {
+        const card = document.createElement('div');
+        card.className = "bg-white rounded-3xl shadow card-hover p-6 cursor-pointer";
+        card.innerHTML = `
+            <img src="https://api.sejm.gov.pl/sejm/term10/MP/${p.id}/photo" 
+                 onerror="this.src='https://via.placeholder.com/300x300/3b82f6/ffffff?text=${p.lastFirstName}'" 
+                 class="w-28 h-28 mx-auto rounded-2xl object-cover">
+            <h3 class="text-center mt-5 font-semibold text-xl">${p.lastFirstName}</h3>
+            <p class="text-center text-blue-600">${p.club || 'Niezrzeszony'}</p>
+        `;
+        card.onclick = () => alert(`Poseł: ${p.lastFirstName}\nKlub: ${p.club || '—'}`);
+        container.appendChild(card);
+    });
+}
+
+function filterPoslowie() {
+    const search = document.getElementById('search').value.toLowerCase().trim();
+    const club = document.getElementById('club-filter').value;
+
+    let filtered = poslowie.filter(p => 
+        (!search || p.lastFirstName.toLowerCase().includes(search)) &&
+        (!club || p.club === club)
+    );
+
+    renderListaPoslow(filtered);
+}
+
+// ====================== ANALIZA ZGODNOŚCI ======================
+function populateSelectors() {
+    const selA = document.getElementById('poseł-a');
+    const selB = document.getElementById('poseł-b');
+
+    poslowie.forEach(p => {
+        const opt = new Option(p.lastFirstName, p.id);
+        selA.appendChild(opt.cloneNode(true));
+        selB.appendChild(opt);
+    });
+
+    kluby.forEach(k => {
+        selB.appendChild(new Option(`Klub: ${k.name}`, `k_${k.id}`));
+    });
+}
+
+function porownajZgodnosc() {
+    const idA = document.getElementById('poseł-a').value;
+    const idB = document.getElementById('poseł-b').value;
+
+    if (!idA || !idB) {
+        alert("Wybierz obu porównywanych");
+        return;
+    }
+
+    const wynikDiv = document.getElementById('wynik-porownania');
+    wynikDiv.classList.remove('hidden');
+    wynikDiv.innerHTML = `<p class="text-gray-500 py-8">Obliczanie zgodności...</p>`;
+
+    setTimeout(() => {
+        const procent = obliczZgodnosc(idA, idB);
+        pokazWynik(procent);
+    }, 50);
+}
+
+function obliczZgodnosc(idA, idB) {
+    let liczone = 0;
+    let zgodne = 0;
+
+    wszystkieGlosowania.forEach(gl => {
+        if (!gl.votes || !Array.isArray(gl.votes)) return;
+
+        const glosA = gl.votes.find(v => String(v.MP) === String(idA));
+        let glosB = null;
+
+        if (idB.startsWith('k_')) {
+            const klubId = idB.substring(2);
+            const glosyKlubu = gl.votes.filter(v => {
+                const poseł = poslowie.find(p => String(p.id) === String(v.MP));
+                return poseł && poseł.club === klubId;
+            });
+
+            if (glosyKlubu.length > 0) {
+                const counts = {};
+                glosyKlubu.forEach(v => {
+                    counts[v.vote] = (counts[v.vote] || 0) + 1;
                 });
-            });
+                glosB = Object.keys(counts).reduce((a,b) => counts[a] > counts[b] ? a : b);
+            }
+        } else {
+            glosB = gl.votes.find(v => String(v.MP) === String(idB));
+        }
 
-        // Wczytaj meta
-        fetch('data/meta.json')
-            .then(r => r.json())
-            .then(meta => {
-                const gl = meta.glosowania || {};
-                document.getElementById('ostatnie-posiedzenie').textContent = gl.ostatnie_posiedzenie || '—';
-            });
-    </script>
+        if (glosA && glosB && glosA.vote && glosB.vote) {
+            liczone++;
+            if (glosA.vote === glosB.vote) zgodne++;
+        }
+    });
+
+    return liczone > 0 ? zgodne / liczone : 0;
+}
+
+function pokazWynik(procent) {
+    const wynikDiv = document.getElementById('wynik-porownania');
+    const rounded = Math.round(procent * 100);
+    const color = rounded > 75 ? 'text-green-600' : rounded > 55 ? 'text-yellow-600' : 'text-red-600';
+
+    wynikDiv.innerHTML = `
+        <div class="text-center py-12">
+            <div class="text-8xl font-light ${color}">${rounded}%</div>
+            <p class="text-2xl mt-4">zgodności głosowań</p>
+            <p class="text-sm text-gray-500 mt-6">Na podstawie indywidualnych głosów posłów</p>
+        </div>
+    `;
+}
+
+// ====================== POMOCNICZE ======================
+function switchTab(n) {
+    document.getElementById('panel-0').classList.toggle('hidden', n !== 0);
+    document.getElementById('panel-1').classList.toggle('hidden', n !== 1);
+    document.getElementById('tab-0').classList.toggle('tab-active', n === 0);
+    document.getElementById('tab-1').classList.toggle('tab-active', n === 1);
+}
+
+loadData();
+</script>
 </body>
 </html>
